@@ -1,0 +1,2778 @@
+Managing Director
+
+Sachin Tikekar
+
+Whole-time Director
+
+Anant Talaulicar
+
+Independent Director
+
+B V R Subbu
+
+Independent Director
+
+Prof. Alberto Sangiovanni Vincentelli
+
+Independent Director
+
+Nickhil Jakatdar
+
+Independent Director
+
+Shubhalakshmi Panse
+
+Independent Director
+
+Rohit Saboo
+
+Nominee Director (upto February 1, 2020)
+
+Rafi Maor
+
+Independent Director (upto June 9, 2020)
+
+Vinit Teredesai
+
+Chief Financial Officer (upto June 12, 2020)
+
+Priyamvada Hardikar
+
+Chief Financial Officer (w.e.f. June 12, 2020)
+
+Nida Deshpande
+
+Company Secretary
+
+Auditors
+
+B S R & Co. LLP
+
+Chartered Accountants
+
+8th Floor, Business Plaza,
+
+Westin Hotel Campus,
+
+36/3-B, Koregaon Park Annex,
+
+Mundhwa Road, Pune - 411001
+
+Legal Advisors
+
+Shardul Amarchand Mangaldas & Co
+
+Advocates & Solicitors
+
+Express Towers, 23rd Floor,
+
+Nariman Point,
+
+Mumbai – 400021, India.
+
+Financial Institutions
+
+- HDFC Bank Limited
+
+- The Hongkong & Shanghai Banking Corporation Limited
+
+- Citibank N.A.
+
+- Axis Bank Limited
+
+- Kotak Mahindra Bank Limited
+
+- State Bank of India
+
+- ICICI Bank Limited
+
+- The IDBI Bank Limited
+
+- DBS Bank Limited
+
+- HSBC Bank (Mauritius) Limited
+
+Contents: Letter from the
+
+Letter from the Chairman and Group CEO
+
+Dear Fellow KPITians,
+
+FY2020 was the first complete year of KPIT post the
+
+restructuring leading to an independent technology
+
+company, focused only on the mobility sector.
+
+I am personally very happy with the way we have
+
+shaped up over the year in terms of our strategy,
+
+focus, technology orientation, alignment with customer
+
+requirements and nurturing of talent.
+
+The year that went by:
+
+We started the year with the following primary focus
+
+areas:
+
+1.
+
+Customers
+
+2.
+
+People
+
+3.
+
+Delivery Excellence
+
+4.
+
+Profitable Growth
+
+Our strategy of focus on select strategic customers
+
+yielded good results with majority of the growth
+
+contributed by these customers. Our strategic customers
+
+contributed more than 80% of the total revenues.
+
+Autonomous driving and electric powertrain were the
+
+fastest growing practices for us during the year.
+
+We want to be a net talent creator and envision KPIT to
+
+be a ‘Great Place to Grow’ for all our employees. During
+
+the year we focussed on multi-level interactions with
+
+our employees to ensure our Vision and Strategy is
+
+understood by one and all and every employee believes
+
+to be a vital link in the organization. Leadership and
+
+technical training across the board helped upskill the
+
+employees. Last but not the least, we ensured our
+
+people, especially technical roles are compensated
+
+commensurate with the best in the industry and the
+
+increments were accordingly higher. All these factors
+
+helped us in reducing attrition to a great extent and the
+
+year saw one of the lowest attrition levels in our history.
+
+Zero Defect delivery is one of our prime goals. It is more
+
+of a culture than an arithmetic number. Defect free
+
+software delivery and ongoing productivity improvement
+
+are the two main areas under delivery excellence.
+
+Enhanced customer and team communication, ongoing
+
+quality control and reporting, weekly rigor in tracking
+
+of projects, individual level, project level and program
+
+level productivity tools deployment and tracking and
+
+succession planning are some of the areas we worked
+
+upon and improved during the year. We will continue to
+
+pursue delivery excellence as one of our foremost focus
+
+areas.
+
+FY2020 was a good year for KPIT with annual revenues
+
+of USD 303.81 Million, registering an industry leading
+
+organic growth of 14%+ on a constant currency
+
+comparable basis. The operating margin (EBITDA) stood
+
+at around 13.7% for the year, a healthy growth in margins
+
+as compared to last year. The Net Profit (PAT) for the
+
+year was ₹ 1,466 Million.
+
+One of the key operational areas for us was increase in
+
+cash conversion and we ensured we progress on the
+
+same every quarter. The Net cash position at the end of
+
+the year was ₹ 3,278 Million as compared to ₹ 900 Million
+
+as at the end of last year. Our days of sales outstanding
+
+(DSO) came down from 87 days as at the end of last
+
+year to 66 days as at the end of the current year. We will
+
+continue to focus on the same going forward.
+
+Thus, FY20 was a great start to the ‘New’ KPIT and we
+
+were looking forward to a similar or better year going
+
+forward.
+
+The year ahead:
+
+As the year was progressing well, the world witnessed
+
+a never seen before phenomenon – the Covid-19
+
+pandemic. The whole world is putting up a united fight
+
+against the virus and these are extraordinary times
+
+experienced by one and all.
+
+As the pandemic started spreading its wings by the mid
+
+of the last quarter, we acted very swiftly and worked on
+
+enabling Work From Home (WFH) for all our employees
+
+across the globe after due approvals from customers
+
+and regulatory authorities, wherever required. Employee
+
+safety and Customer Deliverables were the two primary
+
+things that we focused on and within a period of
+
+around 3 weeks we enabled more than 95% of WFH
+
+for our employees. The industry that we focus on viz.
+
+Mobility also faced initial problems due to the pandemic
+
+and strict lockdowns across countries, globally. The
+
+automotive industry is slowly gaining lost ground and it
+
+is a matter of time before the industry gets back fully in
+
+action to address the growing demands of its customers.
+
+In view of the current pandemic and the resultant
+
+economic situation, we have reoriented ourselves and
+
+reset our goals for the coming year and the Top 4 goals
+
+are as follows:
+
+1.
+
+People: The well-being of our people is of
+
+paramount importance to us and for the first half
+
+of the year we have chosen continuity of jobs over
+
+continuity of remunerations. All our employees have
+
+a variable component in their salary and everyone
+
+will most likely end up forgoing a part of this:
+
+Letter from the CEO &: Managing
+
+Managing Director
+
+Sachin Tikekar
+
+Whole-time Director:
+
+Letter.
+
+INTERNAL CONTROL SYSTEMS AND THEIR
+
+ADEQUACY
+
+The CEO & CFO certification provided elsewhere in this
+
+Annual Report discusses the adequacy of internal control
+
+systems and procedures in place.
+
+RISKS AND CONCERNS
+
+A separate report on Enterprise Risk Management is
+
+provided elsewhere in this Annual Report.
+
+COVID-19 PANDEMIC NOTE
+
+The rapid outbreak of the coronavirus (COVID – 19)
+
+presents an alarming health crisis that the world is
+
+grappling with. The impacts of COVID-19 pandemic
+
+are unfolding in real time. The COVID-19 outbreak is
+
+expected to have an impact on the economies of the
+
+affected countries and the international markets.
+
+Countries across the globe resorted to lockdowns,
+
+resulting in shutting down the manufacturing & services
+
+activities and bringing the global supply-chain to a
+
+grinding halt. Globally across all industries, companies
+
+are working hard to recoup revenue losses, manage
+
+costs, keep employees safe and at the same time ensure
+
+uninterrupted service to the clients. KPIT has received
+
+many testimonials from its existing clients for its
+
+seamless remote delivery model & managing this crisis
+
+effectively.
+
+KPIT is working on bringing in appropriate changes
+
+in the business model to tackle the possible future
+
+uncertainties in economic conditions due to the global
+
+pandemic and taking appropriate measures to control
+
+its cost structure. We will continue to build on the work
+
+we have done over the past years to drive efficiency
+
+in operations and strengthen the foundations of the
+
+business.
+
+Since beginning of March, KPIT started working on
+
+business continuity enabling its employees work
+
+remotely to ensure both employee safety and service
+
+to customers with due necessary approvals from the
+
+customers as well as regulatory authorities in various
+
+countries. We are glad to inform that by end of March
+
+31, 2020, KPIT had over 95% of its global staff working
+
+from remote locations. While direct vehicle sales and
+
+manufacturing plants of our customers were directly
+
+impacted, KPIT revenue model did not have direct impact
+
+since its revenue model is not linked to direct vehicles
+
+sold during the year.
+
+In view of pandemic relating to COVID-19, KPIT has
+
+considered internal and external information and
+
+has performed sensitivity analysis based on current:
+
+Managing Director;
+
+2.
+
+Mr. Vinit Teredesai- Chief Financial Officer (CFO)
+
+upto June 12, 2020;
+
+3.
+
+Ms. Nida Deshpande – Company Secretary.
+
+4.
+
+Ms. Priyamvada Hardikar has been appointed as the
+
+Chief Financial Officer of the Company with effect
+
+from June 12, 2020.
+
+Board Meetings
+
+Six meetings of the Board of Directors were held during
+
+the year. More details about the meetings are available in
+
+the Report on Corporate Governance, which forms a part
+
+of this Annual Report.
+
+Committees of Board
+
+The details regarding the Committees of the Board of
+
+Directors of the Company are given in the report on
+
+Corporate Governance, which forms a part of this Annual
+
+Report.
+
+Company’s Policy on Directors’ appointment
+
+and remuneration
+
+The Nomination and Remuneration Policy of the
+
+Company provides roles and responsibilities of the
+
+Nomination and Remuneration (HR) Committee and the
+
+criteria for evaluation of the Board and compensation of
+
+the Directors and senior management. Further, as per
+
+the policy, the said Committee shall identify potential
+
+candidates for becoming members of the Board and
+
+determining the composition of the Board based on the
+
+need and requirements of the Company from time to
+
+time to bring out diversity in the Board and also identify
+
+persons to be recruited in the senior management of
+
+the Company and ensure the Companies compensation
+
+packages and other human resource practices are
+
+effective in maintaining a competent workforce and
+
+make recommendations relating thereto. Pursuant to the
+
+provisions of Section 134(3)(e) of the Act, the said policy
+
+of the Company on the appointment and remuneration
+
+of Directors including criteria for determining
+
+qualifications, positive attributes, independence of a
+
+director and other matters provided under Section 178(3)
+
+of the Act is available on Company’s website at the link:
+
+https://www.kpit.com/investors/#policies-reports-filings.
+
+Audit Committee Recommendations
+
+During the year, all the recommendations of the Audit
+
+Committee were accepted by the Board. The composition
+
+of the Audit Committee is as mentioned in the Report on
+
+Corporate Governance, which forms a part of this Annual
+
+Report.
+
+Corporate Social Responsibility (CSR)
+
+The Company has set up a Corporate Social
+
+Responsibility (CSR) Committee and has framed the
+
+Policy on Corporate Social Responsibility as per the
+
+provisions of section 135 of the Companies Act, 2013 and
+
+Companies (Corporate Social Responsibility Policy) Rules,
+
+2014. The details of CSR Policy and initiatives taken by
+
+the Company on CSR during the year as per the said
+
+rules has been annexed to this Report as “Annexure 5”.
+
+Vigil mechanism
+
+The Company has established a vigil mechanism as
+
+per Regulation 22 of the SEBI (LODR) Regulations, 2015
+
+for Directors and employees to report their genuine
+
+concerns. The details of the same are explained in the
+
+Report on Corporate Governance. The Policy on Vigil
+
+Mechanism may be accessed on the Company’s website
+
+at the link: https://www.kpit.com/investors/#policies-
+
+reports-filings.
+
+Auditors
+
+Pursuant to the provisions of Section 139(1) of the Act,
+
+read with the Companies (Audit and Auditors) Rules,
+
+2014, M/s. B S R & Co. LLP, Chartered Accountants, were
+
+appointed as the Statutory Auditors of the Company in
+
+the Annual General Meeting held on August 29, 2018 for a
+
+period of five years.
+
+The Notes on financial statements referred to in the
+
+Auditors’ Report are self-explanatory and do not call for
+
+any further comments. The report does not contain any
+
+qualification, reservation or adverse remark.
+
+The Board of Directors of the Company appointed Dr.
+
+K. R. Chandratre, Practicing Company Secretary, as the
+
+Secretarial Auditor to conduct audit for the year under
+
+review. The Secretarial Auditor’s report for the year under
+
+review is annexed to this Report as “Annexure 7”. The
+
+report does not contain any qualification, reservation or
+
+adverse remark.:
+
+Managing Director
+
+and Mr. Vinit Teredesai, Chief Financial Officer, pursuant
+
+to the provisions of Regulation 17(8) of the SEBI (LODR)
+
+Regulations, 2015, for the year under review was placed
+
+before the Board of Directors of the Company at its
+
+meeting held on May 27, 2020.
+
+A copy of such certificate forms a part of the Report on
+
+Corporate Governance.
+
+Cost Records
+
+The Company is not required to maintain cost records
+
+under the provisions of Section 148(1) of the Companies
+
+Act, 2013.
+
+Directors & Officers Insurance Policy
+
+The Company has in place an insurance policy for its
+
+Directors & Officers with a quantum and coverage as
+
+approved by the Board.
+
+Acknowledgments
+
+We take this opportunity to thank all the shareholders of
+
+the Company for their continued support throughout the
+
+merger and demerger process.
+
+We thank our customers, vendors, investors and bankers
+
+for their continued support during the year. We place on
+
+record our appreciation of the contribution made by our
+
+employees at all levels. Our consistent growth was made
+
+possible by their hard work, solidarity, co-operation and
+
+support.
+
+We further thank the governments of various countries
+
+where we have our operations. We also thank the
+
+Government of India, particularly the Ministry of
+
+Communication and Information Technology, the Ministry
+
+of Commerce, the Ministry of Finance, the Ministry of
+
+Corporate Affairs, the Customs and Excise Departments,
+
+the Income Tax Department, the Reserve Bank of India,
+
+the State Governments, the Software Development
+
+Centers (SDCs)/Special Economic Zones (SEZs) –
+
+Bengaluru, Pune and all other government agencies
+
+for their support and look forward for their continued
+
+support in future.
+
+For and on behalf of the Board of Directors
+
+Pune
+
+S. B. (Ravi) Pandit
+
+May 27, 2020
+
+Chairman:
+
+letter of
+
+Grant at the time of Grant.
+
+Exercise price will be
+
+the Market Price of the
+
+Company, subject to
+
+the condition that the
+
+Exercise Price will not be
+
+less than the face value of
+
+the share (Rs. 10/-) under
+
+any circumstances.
+
+The Offer Price per Share
+
+shall be such price being
+
+not less than the face
+
+value of a Share of the
+
+Company at the time of
+
+the Offer.
+
+5
+
+Maximum term
+
+of Options
+
+granted (years)
+
+Pursuant to the Scheme
+
+of Arrangement and the
+
+Applicable Law, Company
+
+has taken into account the
+
+Vesting Period completed
+
+under the KPIT ESOPs prior
+
+to the Grant of Options to
+
+the Employee under the
+
+ESOP 2019.
+
+The Exercise Period in
+
+respect of an Option shall
+
+be subject to a maximum
+
+period of 5 (Five) years
+
+from the date of Vesting
+
+of such Option.
+
+Not applicable to the
+
+Scheme.
+
+6
+
+Method of
+
+Settlement
+
+Settlement by issue of Equity shares
+
+Not applicable to the
+
+Scheme.:
+
+Managing Director
+
+Pune
+
+May 27, 2020:
+
+Managing Director, Whole-time Directors and/or Manager:
+
+(Amount in ₹ million)
+
+Sr.
+
+No.
+
+Particulars of Remuneration*
+
+Name of MD / WTD / Manager
+
+Total
+
+Mr. S. B.
+
+(Ravi)
+
+Pandit#
+
+Mr. Kishor
+
+Patil
+
+Mr. Sachin
+
+Tikekar
+
+1.
+
+Gross Salary
+
+(a)
+
+Salary as per provisions contained in Section
+
+17(1) of the Income Tax Act, 1961
+
+41.89
+
+36.73
+
+32.72
+
+111.34
+
+(b)
+
+Value of perquisites under Section 17(2) of the
+
+Income Tax Act, 1961
+
+-
+
+0.28
+
+-
+
+0.28
+
+(c)
+
+Profits in lieu of salary under Section 17(3) of the
+
+Income Tax Act, 1961
+
+-
+
+-
+
+-
+
+-
+
+2.
+
+Stock Option
+
+-
+
+-
+
+-
+
+-
+
+3.
+
+Sweat Equity
+
+-
+
+-
+
+-
+
+-
+
+4.
+
+Commission
+
+- as % of profit
+
+-
+
+-
+
+-
+
+-
+
+- others
+
+-
+
+-
+
+-
+
+-
+
+5.
+
+Others
+
+-
+
+-
+
+-
+
+-
+
+Total (A)
+
+41.89
+
+37.01
+
+32.72
+
+111.62
+
+Ceiling as per the Act
+
+242.18 (being 10% of net profit of the Company
+
+calculated as per Section 198 of the Companies Act,
+
+2013).
+
+* Remuneration figures reported are as per the provisions of the Income Tax Act, 1961, as required by the prescribed
+
+format and therefore, may differ from the remuneration figures reported under the provisions of the Companies Act,
+
+2013, elsewhere in this Annual Report.
+
+# Paid upto March 28, 2020 since he was appointed as a Chairman and Executive Director till March 28, 2020 and
+
+thereafter as a Chairman and Non-executive Director of the Company w.e.f. March 29, 2020.:
+
+letter and spirit in the preparation of
+
+financial statements taking into account the interest
+
+of the stakeholders and the annual audit is conducted
+
+by an independent and qualified auditor. Investor
+
+updates and earnings call transcript are uploaded on the
+
+Company’s website on quarterly basis. Further, additional
+
+updates are provided to the stakeholders on any matter
+
+that concerns them, as and when the circumstances
+
+arise.
+
+Report on Corporate Governance:
+
+letter of appointment to Independent
+
+Directors
+
+The Company has issued formal appointment
+
+letters to the Independent Directors and brief
+
+terms & conditions of which have been placed on
+
+the Company’s website.
+
+5.
+
+Performance evaluation of Independent Directors
+
+The Nomination and Remuneration (HR) Committee
+
+has laid down criteria for performance evaluation of
+
+Independent Directors, in its policy which are given
+
+below:
+
+a)
+
+Attendance at Board meetings and Board
+
+Committee meetings;
+
+b)
+
+Chairmanship of the Board and Board
+
+Committees;
+
+c)
+
+Contribution and deployment of knowledge
+
+and expertise at the Board and Committee
+
+meetings;
+
+d)
+
+Guidance and support provided to senior
+
+management of the Company outside the
+
+Board meetings;
+
+e)
+
+Independence of behavior and judgment; and
+
+f)
+
+Impact and influence.
+
+6.
+
+Separate meeting of the Independent Directors
+
+During FY 2019-20, a separate meeting of the
+
+Independent Directors of the Company was held on
+
+February 28, 2020.
+
+7.
+
+Familiarization Programme for Independent
+
+Directors
+
+Our Directors, at the time of their appointment, are
+
+provided with information about the Company and
+
+its organization structure, business model, vision
+
+and values, latest published results and internal
+
+policies to enable them to familiarize themselves
+
+with the Company’s procedures and practices.
+
+The new Directors are also invited for meetings
+
+of Board of Directors and Board Committees held
+
+before their appointment which helps them to
+
+familiarize themselves with the Company and its
+
+Board process. A familiarization programme was
+
+also conducted in the month of February, 2020.
+
+The details of such familiarization programs are
+
+uploaded on the website of the Company (https://
+
+www.kpit.com/investors/#policies-reports-filings).
+
+Further, at every Board meeting, there are detailed
+
+business presentations made which are useful to
+
+the Directors in understanding the business. The
+
+presentations are made by the business leaders
+
+so that the Directors are able to connect with the
+
+leaders and ask them related questions.
+
+D.
+
+Responsibilities of the Chairman and other
+
+Executive Directors
+
+Mr. S. B. (Ravi) Pandit is the Chairman of the Board
+
+of Directors, Mr. Kishor Patil is the Chief Executive
+
+Officer (CEO) &: Managing Director and Mr. Sachin
+
+Tikekar is a Whole-time Director of the Company.
+
+The authorities and responsibilities of each of the
+
+above Directors are clearly demarcated as under:
+
+The
+
+Managing Director
+
+6
+
+6
+
+Yes
+
+3
+
+Mr. Sachin Tikekar, Whole-time Director
+
+6
+
+5
+
+No
+
+4
+
+Mr. Anant Talaulicar
+
+6
+
+6
+
+No
+
+5
+
+Mr. B V R Subbu
+
+6
+
+6
+
+No
+
+6
+
+Ms. Shubhalakshmi Panse
+
+6
+
+5
+
+Yes
+
+7
+
+Mr. Rohit Saboo#
+
+5
+
+0
+
+No
+
+8
+
+Prof. Alberto Sangiovanni Vincentelli
+
+6
+
+5
+
+No
+
+9
+
+Dr. Klaus Blickle$
+
+1
+
+0
+
+NA
+
+10
+
+Mr. Nickhil Jakatdar
+
+6
+
+5
+
+No
+
+11
+
+Mr. Rafi Maor@
+
+3
+
+3
+
+NA
+
+*Including attendance by videoconference or teleconference.
+
+# Resigned with effect from February 1, 2020.
+
+$ Resigned with effect from May 15, 2019.
+
+@ Appointed with effect from October 23, 2019 and resigned with effect from June 9, 2020.:
+
+Managing Director to this effect is
+
+provided in this Report.
+
+J.
+
+Vigil Mechanism and Whistle Blower Policy
+
+In an effort to demonstrate the highest standards
+
+of transparency, the Company has adopted the ‘Vigil
+
+Mechanism’ and ‘Whistle Blower Policy’, which has
+
+established a mechanism for employees to express
+
+and report their concerns to the management in a
+
+fearless manner about unethical behavior, fraud,
+
+violation of the code of conduct or ethics. This
+
+mechanism also provides for adequate safeguards
+
+against victimization of employees who avail this
+
+mechanism and also provide direct access to the
+
+Chairman and members of the Audit Committee in
+
+exceptional cases. This policy has been uploaded
+
+on the website of the Company for effective
+
+circulation and implementation. The purpose of this
+
+policy is to establish procedures for the:
+
+1.
+
+receipt, retention and treatment of complaints
+
+received by the Company regarding improper
+
+activities, financial or otherwise, in the
+
+Company and
+
+2.
+
+submission by Whistle Blower on a
+
+confidential and / or anonymous basis, of
+
+concerns regarding improper activities.
+
+The purpose of this policy is also to state clearly
+
+and unequivocally that the Company prohibits
+
+discrimination, harassment and / or retaliation
+
+against any Whistle Blower who:
+
+1.
+
+raises concerns against improper activities or
+
+2.
+
+provides information or otherwise assists
+
+in an investigation or proceeding regarding
+
+improper activities.
+
+The Policy also aims to protect any Whistle Blower
+
+who legitimately and in good faith raises concerns
+
+or provides information against improper activities.
+
+Everyone in the Company is responsible for
+
+ensuring that the workplace is free from all forms
+
+of discrimination, harassment and retaliation
+
+prohibited by this policy. No employee or Director
+
+of the Company has the authority to engage in any
+
+conduct prohibited by this Policy.
+
+II.
+
+COMMITTEES OF THE BOARD
+
+During the year, Board of the Company had four
+
+Committees viz - Audit Committee, Nomination
+
+and Remuneration (HR) Committee, Stakeholders
+
+Relationship Committee, Corporate Social
+
+Responsibility Committee and has constituted
+
+Enterprise Risk Management Committee for
+
+forecasting, evaluating and eliminating business
+
+risks. All of these Committees are chaired by
+
+Independent Directors. The Board is responsible
+
+for constituting, co-opting and fixing the terms of
+
+reference for the committees. Normally, the Audit
+
+Committee and Nomination and Remuneration
+
+(HR) Committee meets at least four times a
+
+year. Stakeholders Relationship Committee, CSR
+
+Committee and Enterprise Risk Management
+
+Committee meets at least twice a year. Except
+
+where a statutory quorum has been prescribed,
+
+the quorum for committee meetings is either two
+
+members or one-third of the total strength of the:
+
+Managing Director
+
+Whole-time Director
+
+Salary
+
+10.90
+
+10.88
+
+11.64
+
+PF
+
+1.36
+
+1.36
+
+0.44
+
+Leave Encashment
+
+0.31
+
+0.30
+
+0.10
+
+Variable Performance Incentive
+
+29.26
+
+24.19
+
+20.54
+
+Perquisites
+
+-
+
+0.28
+
+-
+
+Bonus
+
+0.06
+
+-
+
+-
+
+Notice Period
+
+6 Months
+
+6 Months
+
+6 Months
+
+Severance fees
+
+Notice pay
+
+Notice pay
+
+Notice pay
+
+Total
+
+41.89
+
+37.01
+
+32.72
+
+*During the year under review, the shareholders have approved appointment of Mr. S. B. (Ravi) Pandit as a Chairman
+
+and Executive Director of the Company with effect from January 16, 2019, for a period ending March 28, 2020 and
+
+thereafter as a Chairman and Non-Executive Director of the Company with effect from March 29, 2020.
+
+#Does not include USD 4,800 paid to Mr. Sachin Tikekar by KPIT Technologies Inc., USA, during FY 2019-20.
+
+Note:
+
+1.
+
+Managerial remuneration excludes provision for gratuity, as separate actuarial valuation for the directors is not
+
+available.
+
+2.
+
+Part of Variable Performance Incentive (“VPI”) mentioned above belongs to FY 2018-19 which was paid in
+
+FY 2019-20. However, VPI for FY 2019-20 is as under:
+
+(Amount in ₹ million)
+
+Name of Director /Remuneration
+
+Details
+
+Mr. S. B. (Ravi) Pandit
+
+Mr. Kishor Patil
+
+Mr. Sachin Tikekar
+
+Chairman
+
+CEO & Managing
+
+Director
+
+Whole-time Director
+
+Variable Performance Incentive
+
+24.98
+
+22.77
+
+20.60:
+
+Managing Director (‘Non-Executive Directors’), may be paid remuneration by way of commission
+
+if the members of the Company, authorize such payment. However, the remuneration paid to all such Non-
+
+executive Directors taken together should be up to 1% of the net profit of the Company in any relevant
+
+financial year, if the Company has a Managing or a Whole-time Director or Manager. The Board of Directors of
+
+the Company has approved a commission of ₹ 13.10 million (previous year ₹ 5.6 million) to the Non-executive
+
+Directors of the Company for the financial year 2019-20. There is no other remuneration to the Non-executive
+
+Independent Directors, except Commission. The details of remuneration to the Non-executive Independent
+
+Directors for the financial year 2019-20 are given in Table 9.
+
+Table 9: Remuneration to Non-Executive Independent Directors
+
+(Amount in ₹ million)
+
+Name of Director
+
+Commission
+
+Sitting fees
+
+Ms. Anant Talaulicar
+
+2.95
+
+0.30
+
+Mr. B V R Subbu
+
+2.60
+
+0.24
+
+Ms. Shubhalakshmi Panse
+
+2.05
+
+0.21
+
+Prof. Alberto Sangiovanni Vincentelli
+
+2.37
+
+0.07
+
+Mr. Nickhil Jakatdar
+
+1.53
+
+0.08
+
+Mr. Rafi Maor
+
+1.60
+
+0.05
+
+TOTAL
+
+13.10
+
+0.95
+
+Basis for remuneration paid to Non-Executive Directors
+
+Remuneration
+
+Board member
+
+Committee Chairman
+
+Committee member
+
+Sitting Fees
+
+₹ 15,000/- per meeting
+
+₹ 20,000/- per meeting
+
+₹ 12,500/- per meeting
+
+Commission
+
+The total amount of commission paid to the Non-executive Directors for FY 2019-20 is ₹
+
+13.10 million. This is distributed among the Non-executive Directors on the basis of their
+
+chairmanship / membership of Board committees, duration of their directorship during
+
+the year and their general contribution to the Company outside board / committee
+
+meetings.
+
+E.
+
+Management Discussion & Analysis
+
+A detailed Management Discussion and Analysis is
+
+given as a separate section in this Annual Report.
+
+During the year, there have been no material
+
+financial and commercial transactions made by
+
+the management, where they had personal interest
+
+conflicting with the interest of the Company at
+
+large.
+
+F.
+
+Legal Compliance Reporting
+
+The consolidated report on compliance with
+
+applicable laws is presented to the Board. The
+
+Company is constantly striving to strengthen the
+
+reporting system to take care of the continuously
+
+evolving compliance scenario. The Company has in
+
+place a compliance tool which provides automated
+
+Statutory Compliance Report from various
+
+functions on PAN India basis for compliance with
+
+laws applicable to the respective function.
+
+G.
+
+Reconciliation of Share Capital
+
+As stipulated by the Securities and Exchange Board
+
+of India (SEBI), a Practicing Company Secretary
+
+carries out the audit of Reconciliation of Share
+
+Capital and provides a report to reconcile the
+
+total admitted capital with the National Securities
+
+Depository Limited (NSDL) and Central Depository:
+
+Managing Director:
+
+letter dated 13 September
+
+2019 and addendum to the engagement: letter dated
+
+18 May 2020.
+
+2.
+
+This report contains details of compliance of
+
+conditions of Corporate Governance by KPIT
+
+Technologies Limited (‘the Company’), for the
+
+year ended 31 March 2020, as stipulated in
+
+regulations 17 to 27, clauses (b) to (i) of regulation
+
+46(2) and paragraphs C, D and E of Schedule V
+
+of the Securities and Exchange Board of India
+
+(Listing Obligations and Disclosure Requirements)
+
+Regulations, 2015 (‘Listing Regulations’) pursuant to
+
+the Listing Agreement of the Company with Stock
+
+exchanges.
+
+Management’s responsibility
+
+3.
+
+The compliance with the terms and conditions
+
+contained in the Corporate Governance is the
+
+responsibility of the management of the Company
+
+including the preparation and maintenance of all
+
+relevant supporting records and documents.
+
+4.
+
+This responsibility includes the design,
+
+implementation and maintenance of internal
+
+control and procedures to ensure the compliance
+
+with the conditions of the Corporate Governance
+
+stipulated in the Listing Regulations.
+
+Auditor’s responsibility
+
+5.
+
+Our examination was limited to procedures and
+
+implementation thereof adopted by the Company
+
+for ensuring the compliance of the conditions of
+
+Corporate Governance. It is neither an audit nor an
+
+expression of opinion on the financial statements
+
+of the Company.
+
+6.
+
+Pursuant to the requirements of the Listing
+
+Regulations, it is our responsibility to provide
+
+a reasonable assurance whether the Company
+
+has complied with the conditions of Corporate
+
+Governance as stipulated in Listing Regulations for
+
+the year ended 31 March 2020.
+
+7.
+
+We conducted our examination in accordance with
+
+the ‘Guidance Note on Reports or Certificates for
+
+Special Purposes’ (Revised 2016), ‘Guidance Note
+
+on Certification of Corporate Governance’, both
+
+issued by the Institute of Chartered Accountants
+
+of India (‘ICAI’) and the Standards on Auditing
+
+specified under Section 143(10) of the Companies
+
+Act, 2013, in so far as applicable for the purpose of
+
+this certificate. The Guidance Note on Reports or
+
+Certificates for Special Purposes requires that we
+
+comply with the ethical requirements of the Code
+
+of Ethics issued by the ICAI.
+
+8.
+
+We have complied with the relevant applicable
+
+requirements of the Standard on Quality Control
+
+(SQC) 1, Quality Control for Firms that perform
+
+Audits and Reviews of Historical Financial
+
+Information, and Other Assurance and Related
+
+Service Engagements.
+
+Opinion
+
+9.
+
+In our opinion and to the best of our information
+
+and according to the explanations given to us, we
+
+certify that the Company has complied with the
+
+conditions of Corporate Governance as per the
+
+Regulations 17 to 27, clause (b) to (i) of Regulation
+
+46 (2) and paragraphs C, D and E of Schedule V of
+
+the Listing Regulations, as applicable.
+
+10.
+
+We state that such compliance is neither an
+
+assurance as to the future viability of the Company
+
+nor the efficiency or effectiveness with which the
+
+management has conducted the affairs of the
+
+Company.
+
+Restrictions on Use
+
+11.
+
+The certificate is addressed and provided to
+
+the Members of the Company solely for the
+
+purpose to enable the Company to comply with
+
+the requirement of the Listing Regulations, and
+
+it should not be used by any other person or for
+
+any other purpose. Accordingly, we do not accept
+
+or assume any liability or any duty of care for any
+
+other purpose or to any other person to whom this
+
+certificate is shown or into whose hands it may
+
+come without our prior consent in writing.
+
+For B S R & Co. LLP
+
+Chartered Accountants
+
+Firm Registration No: 101248W/W-100022
+
+Swapnil Dakshindas
+
+Partner
+
+Date: 27 May 2020
+
+Membership number: 113896
+
+Place: Pune
+
+ICAI UDIN: 20113896AAAABN6317
+
+Managing Director and Vinit Teredesai, Chief Financial Officer of KPIT Technologies Limited,
+
+(Formerly KPIT Engineering Limited) (“the Company”) to the best of our knowledge and belief, certify that:-
+
+A.
+
+We have reviewed financial statements (consolidated and standalone) for the year April 1, 2019 to March 31,
+
+2020 and to the best of our knowledge and belief:
+
+(1)
+
+these statements do not contain any materially untrue statement or omit any material fact or contain
+
+statements that might be misleading;
+
+(2)
+
+these statements together present a true and fair view of the Company’s affairs and are in compliance
+
+with existing accounting standards, applicable laws and regulations.
+
+B.
+
+There are, to the best of our knowledge and belief, no transactions entered into by the Company during the year
+
+i.e. April 1, 2019 to March 31, 2020 which are fraudulent, illegal or violative of the Company’s code of conduct.
+
+C.
+
+We accept responsibility for establishing and maintaining internal controls for financial reporting and that we
+
+have evaluated the effectiveness of internal control systems of the Company pertaining to financial reporting
+
+and we have disclosed to the auditors , deficiencies in the design or operation of such internal controls, if any,
+
+of which we are aware and the steps we have taken or propose to take to rectify these deficiencies.
+
+D.
+
+We have indicated to the auditors
+
+(1)
+
+significant changes in internal control over financial reporting during the year i.e. April 1, 2019 to March 31,
+
+2020.
+
+(2)
+
+significant changes in accounting policies during the year and that the same have been disclosed in the
+
+notes to the financial statements.
+
+(3)
+
+instances of significant fraud of which we have become aware and the involvement therein, if any, of
+
+the management or an employee having a significant role in the Company’s internal control system over
+
+financial reporting.
+
+Pune
+
+Kishor Patil
+
+Vinit Teredesai
+
+May 27, 2020
+
+CEO &: Managing
+
+letter has been attached to this report requesting all the shareholders who’s email addresses are
+
+not registered with their depository participants or our Registrar and Share Transfer Agent, KFin Technologies
+
+Private Limited or with the Company to update their email addresses.
+
+25.
+
+Board members’ profiles:
+
+The Board of Directors of the Company consists of executive and non-executive members. The present Board
+
+consists of following members:
+
+Co-Founder & Chairman
+
+Mr. S. B. (Ravi) Pandit is a co-founder, Chairman and Group CEO of KPIT Technologies Limited. His vision as
+
+the founder of KPIT has steered the Company toward achieving leadership position as product engineering
+
+and IT consulting solutions and services provider, to three industries namely automotive & transportation,
+
+manufacturing and energy & utilities. He has been instrumental in shaping KPIT’s vertical focus strategy and
+
+building a unique partnership model based on the tenets of innovation and sustainable development. Mr. Pandit:
+
+Managing Director
+
+Mr. Kishor Patil is a Co-founder, CEO &: Managing
+
+Managing Director of the Cummins Group in India from March 2004 through October 2017, was
+
+a member of the Cummins Inc. global leadership team from August 2009 till October 2017 and the President
+
+of the Cummins Inc. Components Group from 2010 through 2014. He has also served as the: Managing Director
+
+of Tata Cummins Private Limited, a 50:50 joint venture between Cummins Inc. and Tata Motors Limited. He
+
+has chaired the boards of four other Cummins legal entities in India as well. He worked as a financial analyst,
+
+manufacturing engineer, project manager, product manager, strategy manager before taking various general
+
+management positions. Since 2004, he has also led the Cummins India Foundation which has implemented
+
+sustainable community initiatives such as model villages and higher education. He has served as a member
+
+of the Confederation of Indian Industries, Society of Indian Automobile Manufacturers and Automobile
+
+Components Manufacturers Association in the past.
+
+Mr. B V R Subbu is an automotive industry expert and a thought leader. He holds a post graduate degree in
+
+Economics from Jawaharlal Nehru University and a post graduate diploma from the Indian Institute of Foreign
+
+Trade. He was the President of Hyundai India. He was also extensively involved with the Tata Group holding
+
+various responsibilities, including responsibilities in Tata Motors’ Light Commercial Vehicles and Multi Utility
+
+Vehicles business.
+
+Mr. Nickhil Jakatdar is currently the CEO and Co-founder of Vuclip, a global leader in the Video-on-Demand
+
+space. Previously, he founded and ran various startups, such as Timbre Technologies (acquired by Tokyo
+
+Electron), Command CAD (acquired by Cadence Design Systems) and Praesagus (acquired by Cadence Design
+
+Systems). He is also the founding member of the Bhau Institute of Innovation, Entrepreneurship and Leadership
+
+in Pune and is an investor and advisor to Campfire Labs (acquired by Groupon), flutter.io (acquired by Google),
+
+Bash Gaming (acquired by GSN), Shoptimize, PayActiv, Viewics (acquired by Roche), Jombay, Mezi (acquired
+
+by American Express) and Blend, among others. He has been the recipient of many awards from various
+
+organizations, including the Lifetime Achievement Award from College of Engineering, Pune, the Institute of
+
+Electrical and Electronics Engineers (IEEE) Best Paper Award in Transactions on Semiconductor Manufacturing
+
+and the Berkeley Distinguished Pioneer Award. He has to his credit more than 20 conference papers and more
+
+than 60 issued patents. He holds a bachelor’s degree in Electrical Engineering from the College of Engineering,
+
+Pune and a master’s degree of Ph.D. in Electrical Engineering and Computer Science from the University of
+
+California, Berkeley in 2000.
+
+Ms. Shubhalakshmi Panse holds a M.Sc. degree from Pune University, D.B.M.(Diploma in Business Management),
+
+M.M.S (Master’s in Management Sciences with specialization in Financial Management), Pune University and
+
+M.B.A. (Master’s in Business Administration with specialization in Bank Management) Drexel University, USA and
+
+C.A.I.I.B (Certified Associate of Indian Institute of Bankers). She was appointed as
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020:
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020
+
+(Amount in ₹ million):
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020:
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020
+
+(Amount in ₹ million)
+
+For the year
+
+ended
+
+31 March 2020
+
+For the year
+
+ended
+
+31 March 2019
+
+Note 1 :
+
+Cash and cash equivalents include:
+
+Cash on hand
+
+0.04
+
+0.02
+
+Balance with banks
+
+- In current accounts
+
+285.01
+
+389.91
+
+- In deposit accounts (with original maturity of 3 months or less)
+
+170.00
+
+-
+
+Total Cash and cash equivalents
+
+455.05
+
+389.93
+
+Note 2:
+
+Figures in brackets represent outflows of cash and cash equivalents.
+
+Note 3:
+
+The above statement of cash flows has been prepared under the indirect method as set out in the Indian
+
+Accounting Standard (Ind-AS) 7 on statement of cash flows.
+
+Statement of Cash Flows:
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020
+
+7
+
+The Company has established a system of maintenance of information and documents as required by
+
+the transfer pricing legislation under Section 92-92F of the Income Tax Act 1961. The Company is in the
+
+process of updating the documentation for the Financial Year 2019-2020.
+
+The management is of the opinion that international transactions are at arm’s length and accordingly the
+
+aforesaid legislation will not have any impact on the financial statements, particularly on the amount of
+
+tax expenses and that of provision for taxation.
+
+8
+
+Previous period’s figures have been regrouped / reclassified wherever necessary to conform with the
+
+current year’s classification / disclosure. Further, consequent to the Composite Scheme as mentioned
+
+under note 42(1), the figures for the year ended 31 March 2020 are not comparable with figures for the
+
+year ended 31 March 2019.:
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020:
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020
+
+(Amount in ₹ million):
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020
+
+B
+
+Other equity
+
+Reserves & surplus
+
+Items of other
+
+comprehensive income
+
+Equity
+
+attributable
+
+to owners
+
+of the
+
+Company
+
+Non-
+
+controlling
+
+interest
+
+(Refer note
+
+45(1))
+
+Total
+
+Capital
+
+reserve
+
+(Refer
+
+note 34)
+
+General
+
+reserve
+
+(Refer
+
+note 34)
+
+Retained
+
+earnings
+
+Share
+
+based
+
+payment
+
+reserve
+
+(Refer note
+
+36)
+
+Remeasurement
+
+of the net
+
+defined benefit
+
+Plans (Refer note
+
+35(2))
+
+Foreign
+
+currency
+
+translation
+
+reserve
+
+(Refer note
+
+34)
+
+Effective
+
+portion of
+
+cash flow
+
+hedges
+
+(Refer note
+
+31)
+
+Others
+
+Dividends
+
+-
+
+-
+
+(470.24)
+
+-
+
+-
+
+-
+
+-
+
+(470.24)
+
+-
+
+(470.24)
+
+Dividend distribution tax
+
+-
+
+-
+
+(98.61)
+
+-
+
+-
+
+-
+
+-
+
+(98.61)
+
+-
+
+(98.61)
+
+Accumulated surplus/
+
+(deficit) of employee welfare
+
+trust
+
+-
+
+-
+
+10.70
+
+-
+
+-
+
+-
+
+-
+
+10.70
+
+-
+
+10.70
+
+Effect on account of
+
+purchase of stake in minority
+
+shareholder
+
+(48.82)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(48.82)
+
+(7.88)
+
+(56.70)
+
+Effect on account of
+
+acquisition of subsidiary
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0.93
+
+0.93
+
+Share based payment to
+
+employees (net)
+
+-
+
+-
+
+-
+
+48.70
+
+-
+
+-
+
+-
+
+48.70
+
+-
+
+48.70
+
+Balance as on 31 March 2020
+
+1,870.47
+
+(113.92)
+
+5,867.51
+
+48.70
+
+(104.25)
+
+268.72
+
+(56.46)
+
+7,780.77
+
+35.71
+
+7,816.48
+
+Significant accounting policies
+
+1
+
+Notes referred to above form an integral part of the
+
+consolidated financial statements
+
+2-45
+
+Consolidated Statement of Changes in Equity:
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020
+
+Consolidated Statement of Cash Flows
+
+(Amount in ₹ million)
+
+For the year
+
+ended
+
+31 March 2020
+
+For the year
+
+ended
+
+31 March 2019
+
+Cash and cash equivalents at close of the year (Refer note 1 below)
+
+2,758.85
+
+2,008.72
+
+Cash and cash equivalents at beginning of the year (Refer note 1 below)
+
+2,008.72
+
+0.95
+
+Cash and cash equivalents transferred pursuant to the scheme of
+
+demerger
+
+-
+
+1,023.66
+
+Cash surplus for the year
+
+750.13
+
+984.11
+
+Note 1 :
+
+Cash and cash equivalents include:
+
+Cash on hand
+
+0.29
+
+0.02
+
+Balance with banks
+
+- In current accounts
+
+2,382.31
+
+2,008.70
+
+- In deposit accounts (with original maturity of 3 months or less)
+
+376.25
+
+-
+
+Total cash and cash equivalents
+
+2,758.85
+
+2,008.72
+
+Note 2:
+
+Figures in brackets represent outflows of cash and cash equivalents.
+
+Note 3:
+
+The above statement of cash flows has been prepared under the indirect method as set out in the Indian
+
+Accounting Standard (Ind-AS) 7 on statement of cash flows.:
+
+Managing Director
+
+DIN : 00076190
+
+Place: Pune
+
+Place: Pune
+
+Date: 27 May 2020
+
+Date: 27 May 2020:
+
+Managing Director Ms. Priyamvada Hardikar,
+
+Chief Financial Officer, and Ms. Nida Deshpande,
+
+Company Secretary of the Company, be and are
+
+hereby jointly and/ or severally authorized to
+
+submit the applications for reclassification to
+
+BSE Limited and National Stock Exchange of India
+
+Limited wherein securities of the Company are
+
+listed, or any other regulatory body as may be
+
+required and to take steps necessary or desirable
+
+to give effect to this resolution.
+
+RESOLVED FURTHER THAT upon receipt of approval
+
+from BSE Limited and National Stock Exchange
+
+of India Limited for applications made by the
+
+Company for the reclassification of NEIL and CIIL,
+
+the Company shall effect such reclassification
+
+in the shareholding pattern from the immediate
+
+succeeding quarter under Regulation 31 of the
+
+Listing Regulations and in compliance with the
+
+Securities and Exchange Board of India (Substantial
+
+Acquisition of Shares and Takeovers) Regulations,
+
+2011, Securities and Exchange Board of India
+
+(Prohibition of Insider Trading) Regulations,
+
+2015, and other applicable provisions and in all
+
+other records of the Company and make such
+
+applications, intimations, disclosures and/or filings
+
+as may relevant or necessary from such date, as
+
+may be appropriate.
+
+RESOLVED FURTHER THAT Mr. Kishor Patil, CEO
+
+and: Managing
+
+Managing Director
+
+of KPIT. He drives the overall strategy & operations of
+
+the Company, His vision is integral in maintaining KPIT’s
+
+leadership in its key focus areas and in making KPIT
+
+one of the technology leaders, globally. He has set a
+
+high standard of excellence in the areas of running high
+
+growth international operations, effecting successful
+
+mergers & acquisitions and executing profitable
+
+operations. His exceptional people skills and sincerity
+
+have been instrumental in building an innovative
+
+enterprise that KPIT is today. Under his leadership, KPIT
+
+has grown multifold over the years, more recently at a
+
+CAGR of 23% in the last 3 years.
+
+In 2014, Mr. Patil was honored with the CA Business
+
+Leader Award - Corporate award, by the Institute of
+
+Chartered Accountants of India. For his excellence in
+
+entrepreneurship, he was honored with the Maharashtra
+
+Corporate Excellence (MAXELL) Awards 2014. In 2013, Mr.
+
+Patil was named among the top 16 entrepreneurs in India
+
+by Ernst and Young in its Entrepreneur of the Year award
+
+program, recognized among the Top 50 CEOs of 2013
+
+by The Entrepreneur Magazine, and awarded the 2013
+
+Rotary Excellence Award. He is a prolific speaker and has
+
+presented at various national and international forums
+
+including the World Economic Forum (WEF), on topics
+
+such as entrepreneurship, innovation, building high
+
+performance organizations and business transformation.
+
+Mr. Patil possesses 36 years of experience.
+
+Mr. Patil has been a Director on our Board since
+
+incorporation and appointed as CEO &: Managing
+
+Letter etc.,
+
+together with attested specimen signature(s)
+
+of the duly authorized representative(s), to
+
+the Scrutinizer at e-mail id: jbbhave@gmail.
+
+com. They may also upload the same in the
+
+e-voting module in their login.
+
+Instructions for Shareholders for e-Voting during
+
+the Meeting session:
+
+1.
+
+The e-Voting “Thumb sign” on the left hand
+
+corner of the video screen shall be activated
+
+upon instructions of the chairman during the
+
+e-AGM proceedings. Shareholders shall click
+
+on the same to take them to the “instapoll”
+
+page.
+
+2.
+
+Members to click on the “Instapoll” icon to
+
+reach the resolution page and follow the
+
+instructions to vote on the resolutions.
+
+3.
+
+Only those shareholders, who are present in
+
+the Meeting and have not cast their vote on
+
+the Resolutions through remote e-Voting and
+
+are otherwise not barred from doing so, shall
+
+be eligible to vote through e-Voting system
+
+available during the Meeting.
+
+Instructions to Shareholders for remote E-voting & voting during the meeting session.:
+
+Managing Director
+
+Sachin Tikekar
+
+- President & Whole-time Director
+
+Anup Sable
+
+- Chief Technology Officer
+
+Vinit Teredesai
+
+- Chief Financial Officer (upto June 12, 2020)
+
+Priyamvada Hardikar
+
+-
+
+Sr. Vice President and Head Finance (w.e.f. June 12, 2020)
+
+Pankaj Sathe
+
+- President – Europe
+
+Rajesh Janwadkar
+
+-
+
+Executive Vice President, Passenger Cars and Global Practices
+
+Rajeeb Nath
+
+- Executive Vice President, US
+
+Chinmay Pandit
+
+- Executive Vice President, Commercial Vehicles
+
+Pushpahas Joshi
+
+- Executive Vice President, New Mobility
+
+Members are requested to follow the
+
+instructions provided in the Notice of
+
+3rd Annual General Meeting in
+
+order to attend the AGM via video
+
+conferencing and to e-vote.
+
+Cut-off date: Wednesday, August 26, 2020
+
+Remote e-Voting Period:
+
+1.
+
+Friday, August 28, 2020 at 9.00 a.m. to
+
+Tuesday, September 1, 2020 at 5.00 p.m.
+
+2.
+
+During the AGM
+
+Read this Annual Report online:
+
+www.kpit.com
+
+3rd Annual
+
+General Meeting
+
+Wednesday, September 2, 2020
+
+10.30 AM IST
+
+Video Conferencing and e-Voting
+
+https://emeetings.kfintech.com:
+

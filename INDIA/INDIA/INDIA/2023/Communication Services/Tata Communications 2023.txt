@@ -1,0 +1,9582 @@
+Dear Shareholders,
+
+Tata Communications
+
+Limited is committed to
+
+achieving double-digit
+
+revenue growth year
+
+after year. Towards this
+
+journey, our performance
+
+during the year reflects our
+
+commitment to delivering
+
+strong results. This
+
+accomplishment is a result
+
+of our product shift and
+
+superior customer focus.
+
+These strategic measures
+
+have allowed us to
+
+successfully shift towards
+
+digital platforms and
+
+solutions, bolstering our
+
+portfolio and enhancing
+
+our relevance within
+
+the evolving customer
+
+ecosystem, both in India
+
+and international markets.
+
+Our solution portfolio,
+
+underpinned by our global
+
+network backbone, is a
+
+digital fabric which is
+
+becoming instrumental in
+
+enabling our customers
+
+transformation journeys
+
+and putting us on a firm
+
+path of establishing Tata
+
+Communications as a
+
+leading global CommTech
+
+player.
+
+SCALING UP
+
+Our revenues from the Core
+
+Connectivity business for
+
+FY 2022-23 grew by 5.7%. We
+
+continue to invest in the core
+
+capabilities, thus transforming our
+
+networks to be intelligent and are
+
+working on their programmability
+
+to cater to the new market needs
+
+particularly to that of on-demand
+
+needs.
+
+a new world of end-to-end video
+
+production and transmission of
+
+high-quality, high-speed, and more
+
+immersive live video experiences for
+
+viewers and fans from event venues
+
+and racetracks to screens across
+
+devices.
+
+STRENGTHENING OUR
+
+PORTFOLIO
+
+SUPERIOR CUSTOMER
+
+INTERACTIONS
+
+During the year we launched
+
+Tata Communications DIGO, our
+
+customer interaction platform.
+
+This platform provides enterprises
+
+with a unified view of all their
+
+customers’ conversations and
+
+interactions across various channels.
+
+Additionally, we offer an extensive
+
+library of applications that serve
+
+as connectors, augmenting the
+
+capabilities of enterprises’ existing
+
+applications.
+
+SIMPLIFYING COLLABORATION
+
+FOR A CONNECTED WORKFORCE
+
+Hybrid working has become the
+
+new norm, and it is evident that
+
+distributed workforces are here
+
+to stay. To facilitate exceptional
+
+employee experiences, efficiently
+
+transitioning to the cloud is
+
+crucial for enterprises. At Tata
+
+Communications, we understand
+
+this need and have taken steps to
+
+enhance our Unified Collaboration
+
+Platform, GlobalRapide, with the
+
+introduction of JAMVEE a voice
+
+calling application on the cloud,
+
+with calling, messaging and PBX
+
+functionality, which can run on
+
+browser, mobile and desktop.
+
+This recent addition aims to simplify
+
+collaboration for enterprises,
+
+ensuring seamless and efficient
+
+communication. JAMVEE offers
+
+quick and seamless integration
+
+with an enterprise’s communication
+
+applications, enabling faster
+
+onboarding and smoother user
+
+experiences. JAMVEE is designed
+
+to be regulatory compliant,
+
+incorporating fraud prevention APIs,
+
+detection mechanisms, and alerting
+
+features. This ensures that sensitive
+
+information remains protected
+
+and confidential throughout all
+
+interactions.
+
+CONNECTED SOLUTIONS FOR A
+
+HYPERCONNECTED FUTURE
+
+We are dedicated to assisting
+
+our customers in implementing
+
+connected solutions for their
+
+businesses, providing them with the
+
+necessary platform, connectivity,
+
+and expertise to unite people,
+
+machines, and materials. As part
+
+of our commitment to meeting
+
+their evolving needs, we have
+
+expanded our Tata Communications
+
+MOVETM platform by introducing
+
+CloudSIM™. This innovative cloud-
+
+based embedded subscriber identity
+
+module (eSIM) enhances security,
+
+simplicity, and scalability for our
+
+customers in the manufacturing,
+
+supply chain, and automotive
+
+sectors. The lack of adequate end-
+
+point security is a key challenge
+
+for the wider proliferation of IoT
+
+enabled solutions. Our recently
+
+launched solution – Ijura, a network
+
+edge-based solution to identify
+
+vulnerabilities through deep
+
+packet inspection, integrated
+
+with our zero-trust networking
+
+solution NetFoundryTM, delivers
+
+an advanced and comprehensive
+
+threat protection for connected
+
+and distributed IoT assets and
+
+ecosystems.
+
+Recognising the immense potential
+
+of 5G, we have made strategic
+
+investments in this area and recently
+
+launched our Private 5G Global
+
+Centre of Excellence in Pune, India.
+
+This centre serves as a hub for
+
+developing and testing various
+
+use cases to accelerate the digital
+
+transformation of enterprises.
+
+CONNECTED SECURITY
+
+A robust cybersecurity strategy
+
+is essential in establishing cyber
+
+resiliency and fostering digital
+
+trust. We are focused on assisting
+
+enterprises in monitoring their
+
+entire digital estate by enhancing
+
+the agility of our already successful
+
+Cloud Cyber Security Operations
+
+Centre (‘Cloud SOC’). We are proud
+
+to deliver these services in an
+
+accelerated timeframe, often within
+
+a matter of weeks. This has been
+
+well received by our customers
+
+and we are seeing increase in the
+
+market engagement. Furthermore,
+
+we have extended this capability
+
+to the Middle East region with the
+
+establishment of a dedicated Cloud
+
+SOC in the UAE. Our managed
+
+security services, combined with
+
+comprehensive cyber-threat
+
+intelligence, provide enterprises with
+
+the assurance that their mission-
+
+critical information is secure.
+
+Tata Communications IZO™
+
+SD-WAN is a managed service that
+
+helps enterprises transform their
+
+network and security architecture
+
+to make it more agile, secure
+
+and optimised. This is an end-
+
+to-end solution that includes
+
+comprehensive network and
+
+application assessment, migration
+
+and management. Our assessment
+
+approach helps us build the right
+
+solution, our automation driven
+
+migration approach reduces risk
+
+during migration and our AI assisted
+
+assurance approach helps ensure
+
+better uptime. Our customers have
+
+seen upto 25% reduction in Total
+
+Cost of Ownership (‘TCO’) and upto
+
+60% improvement in application
+
+performance.
+
+We also introduced SD-WAN as
+
+a service (‘SD-WANaaS’) which
+
+offers a cloud-like consumption
+
+model (pay as you go) with flexible
+
+contract periods. It enables a
+
+simple buying experience and
+
+faster migration to SD-WAN for
+
+customers who need more agility
+
+and scalability.
+
+Another product we launched this
+
+year is SPAED which is a simple
+
+plug-n-play, as-a-service solution,
+
+which enables enterprises to
+
+securely connect smaller branches
+
+or WFH users. SPAED provides
+
+features such as intelligent routing,
+
+security, zero trust connectivity to
+
+multiple clouds, network failover,
+
+etc. We have seen good traction in
+
+use cases such as small retail stores,
+
+temporary sites and WFH power
+
+users.
+
+Our Digital portfolio grew at 21.3% in
+
+FY 2022-23. Our multitude of
+
+offerings in the Digital portfolio are
+
+intended to consistently deliver
+
+more holistic solutions, stitching
+
+multiple products together for our
+
+customers’ ecosystems. Our Digital
+
+portfolio possesses the strength
+
+to help the enterprises to power
+
+their hyperconnected ecosystem.
+
+We have a good pipeline in our
+
+sales funnel and pipeline of product
+
+feature releases and new products
+
+in coming months.
+
+In FY 2022-23, our commitment to
+
+delivering growth has been at the
+
+forefront of our operations. As a
+
+result, we have not only solidified
+
+our market leadership position in
+
+India in data services but have also
+
+made remarkable strides towards
+
+becoming a more meaningful
+
+player in international markets. Our
+
+focus on bolstering our managed
+
+network services has been a key
+
+driver of this success, exemplified
+
+by the introduction of our new IZO™
+
+Internet WAN variants designed
+
+specifically for global enterprises.
+
+These enhancements have allowed
+
+us to offer predictable and reliable
+
+network services, extending our
+
+reach to over 150 geographies
+
+worldwide.
+
+During the year we expanded
+
+our customer base in the Media
+
+and Entertainment Services
+
+business through a multi-year
+
+collaboration to become the Official
+
+Broadcast Distribution Provider
+
+for the ABB FIA Formula E World
+
+Championship and supporting the
+
+sport’s sustainability initiative by
+
+delivering a cloud-based remote
+
+broadcast production. Through
+
+enabling remote production, we
+
+helped Formula E reduce their
+
+costs by 40% to 50% and also
+
+reduce emissions. Additionally, we
+
+extended our strategic collaboration
+
+with MotoGP, securing exclusive
+
+multi-year collaboration to bring the
+
+thrilling race action to nearly half a
+
+billion households globally.
+
+We also acquired 100% stake
+
+in ‘The Switch Enterprises,’
+
+a US-based company. The combined
+
+strength of Tata Communications
+
+and The Switch is set to usher in
+
+06
+
+07
+
+Statutory Reports
+
+Standalone Financial Statements
+
+Consolidated Financial Statements
+
+Integrated Report:
+
+Managing Director & CEO
+
+Analyst Recognitions and Awards
+
+Leader in ISG 2022 Managed
+
+(SD)WAN Services | 2nd time
+
+Leader in Secure Access
+
+Service Edge I 1st time
+
+Leader in SDN Transformation
+
+Services Provider Lens study-
+
+UK | 2nd time
+
+Leader in NelsonHall Cyber
+
+Resiliency Services NEAT
+
+Leader in Retail Roaming:
+
+Competitor Leaderboard
+
+2023-2027
+
+Very Strong in
+
+GlobalData Global IP
+
+Exchange Services:
+
+Competitive Landscape
+
+Assessment
+
+Product Challenger in ISG
+
+Provider Lens™ study on
+
+Contact Center as a Service -
+
+CX 2022, Global & Europe
+
+Strong in GlobalData Global
+
+Industrial IoT Services:
+
+Competitive Landscape
+
+Assessment
+
+Leader in ISG Managed (SD)
+
+WAN Services |2nd time,
+
+Leader in Secure Access
+
+Service Edge Provider Lens
+
+study- Australia I |1st time
+
+Leader in GlobalData
+
+Wholesale Antifraud:
+
+Competitive Landscape
+
+Assessment
+
+Leader in eSIM: Kaleido
+
+Intelligence Connectivity
+
+Vendor Hub report |1st time
+
+Leading Challenger
+
+in Juniper Research
+
+Competitor Leaderboard:
+
+eSIM Management Platform
+
+Providers
+
+Product Challenger in ISG
+
+Provider Lens™ Network:
+
+Software Defined Solutions
+
+and Services and Edge
+
+Technologies and Services,
+
+France 2022
+
+Aspirant in Everest Managed
+
+Detection and Response
+
+(MDR) Services PEAK Matrix®
+
+Assessment 2022
+
+Leader in Avasant’s SD-
+
+WAN Managed Services
+
+2022-2023 RadarView
+
+I 2nd time
+
+Leader in GlobalData
+
+Wholesale IoT: Competitive
+
+Landscape Assessment
+
+Major Player in IDC 2022
+
+APAC Managed Security
+
+& Professional Services
+
+MarketScape
+
+Leading Challenger in
+
+Juniper Research Competitor
+
+Leaderboard: OTT Messaging
+
+Product Challenger in ISG
+
+Provider Lens for Managed
+
+(SD) WAN Services, Secure
+
+Access Service Edge (SASE)
+
+in Nordics, Germany & US,
+
+SDN Transformation Services
+
+(Consulting and Implementation)
+
+Nordics
+
+Contender in ISG Provider
+
+Lens study “Cybersecurity -
+
+Solutions and Services 2022
+
+Leader in Magic Quadrant for
+
+Network Services,
+
+Global | 10th time
+
+Leader in ISG Managed (SD)
+
+WAN Services Provider Lens
+
+study- Singapore / Malaysia
+
+| 1st time
+
+Leader in Juniper Research
+
+Competitor Leaderboard: IoT
+
+Roaming Strategies 2022
+
+Everest group IT
+
+Security Services PEAK
+
+Matrix® Assessment
+
+2022|2nd time
+
+Major Contender in Everest
+
+Workplace Communication
+
+and Collaboration (WCC)
+
+Services PEAK Matrix®
+
+Assessment 2022
+
+Leading Challenger in
+
+Juniper Research Competitor
+
+Leaderboard: Conversational
+
+Commerce
+
+Major Contender in Vertical
+
+System Global Carrier
+
+Ethernet Leaderboard
+
+Leader in Everest
+
+Network Transformation
+
+Services PEAK Matrix®
+
+Communication Service
+
+Providers (‘CSP’) 2022
+
+08
+
+09
+
+Statutory Reports
+
+Standalone Financial Statements
+
+Consolidated Financial Statements
+
+Integrated Report:
+
+Managing Director
+
+(Investment Banking Division) in
+
+Bank of America Merrill Lynch, and
+
+also Group Manager & Head, Business
+
+Planning in Infosys Technologies
+
+Limited – Corporate Planning Group.
+
+He currently serves on the boards of
+
+several Tata group companies.
+
+A leading authority in the global IT
+
+sector, Mr. Krishnakumar Natarajan
+
+co-founded Mindtree in 1999 and
+
+has played key roles in building the
+
+company’s innovative approach to
+
+delivering IT services and solutions to
+
+global 2000 enterprises.
+
+Mr. Krishnakumar’s efforts as a
+
+business leader have been recognised
+
+worldwide, winning him several laurels.
+
+Businessworld and Forbes ranked
+
+him amongst the most valuable CEOs
+
+in India in 2016. He won Bloomberg
+
+UTV’s award as the CEO of the Year in
+
+2010, Business Today CEO of the Year
+
+award in 2014 and was recognised by
+
+Chief Executive Magazine’s as one of
+
+the twelve global leaders of tomorrow.
+
+EY honoured him with Entrepreneur
+
+of the year 2015 in Services. His efforts
+
+resulted in Mindtree winning the “Most
+
+Promising Company of the Year” in
+
+2013 by CNBC TV18. A 40-year IT
+
+industry veteran, Mr. Krishnakumar
+
+served as Chairman of the National
+
+Association of Software and Services
+
+Companies (‘NASSCOM’) in 2013 and
+
+till recently was Chairman of Nasscom
+
+Foundation. He has a bachelor’s
+
+degree in mechanical engineering
+
+from the College of Engineering,
+
+Chennai, and a master’s degree in
+
+Business Administration from the
+
+Xavier Institute, Jamshedpur. Social
+
+enterprises and Philanthropy are some
+
+of his other key interests. Along with
+
+his wife Akila he runs their Personal
+
+foundation “Mela” which is focused
+
+on helping high potential rural girls to
+
+attain professional qualifications and
+
+helping Senior Citizens age gracefully.
+
+Mr. Krishnakumar Natarajan
+
+Independent Director
+
+Mr. Ashok Sinha
+
+Independent Director
+
+Mr. N. Ganapathy Subramaniam
+
+Non-Executive Director
+
+Mr. Ankur Verma
+
+Non-Executive Director
+
+Our Board of Directors
+
+Left to right
+
+Corporation Ltd. (‘BPCL’). He spent
+
+33 years in BPCL, where he served on
+
+the Board of BPCL for 15 years – first
+
+as Director (Finance) for 10 years and
+
+then as its Chairman and Managing
+
+Director for 5 years. Currently, he
+
+serves as an Independent Director
+
+on the Boards of Cipla Ltd., Tata
+
+Power Co Ltd, JK Cement Ltd, Navin
+
+Fluorine International Ltd, Tata Power
+
+Delhi Distribution Ltd and Cipla (EU),
+
+UK. He has been conferred with the
+
+India Chief Financial Officer Award
+
+2001 for Information and Knowledge
+
+Management by the Economic
+
+Intelligence Unit (‘EIU’) India and
+
+American Express. He received an
+
+award from TMG (Technology Media
+
+Group) for Customer Management.
+
+He is also the recipient of the CIO-100
+
+Award (USA)- 1999 for the top 100
+
+firms worldwide for their innovative
+
+practices that leverage people
+
+and technology. He has attended
+
+Management Programs at Harvard
+
+Institute of International Development,
+
+Boston and at the University of
+
+Leeds, UK. He has a B.Tech. degree in
+
+Electrical Engineering from the Indian
+
+Institute of Technology (IIT), Kanpur
+
+and PGDBM from the Indian Institute
+
+of Management (IIM), Bangalore, with
+
+specialisation in Finance . He has been
+
+conferred the Distinguished Alumnus
+
+Award from both IIT, Kanpur and IIM,
+
+Bangalore.
+
+of technology and operations,
+
+across large corporations in both
+
+established and new growth
+
+markets. He has been part of the
+
+evolution of Indian IT industry, and
+
+the value creation process with a
+
+globally distributed talent. He has
+
+steered several programs which are
+
+considered ‘Important for the nation’
+
+in many countries including India and
+
+successfully managed large client
+
+relationships across businesses. He
+
+joined TCS in 1982 after completing
+
+his master’s in mathematics from
+
+the University of Madras. He has
+
+had the benefit of attending various
+
+continuous Education programs
+
+including Prof. Philip Kotler’s
+
+Services Marketing, Prof. Michael
+
+Porter’s Marketing Strategies for
+
+the 21st Century, Business Process
+
+Re-engineering, Risk and Change
+
+Management by National University of
+
+Singapore, Tata Strategic Leadership
+
+Program and Stanford University’s
+
+Executive Program for Growing
+
+Companies.
+
+Audit Committee
+
+Nomination and Remuneration Committee
+
+CSR, Safety and Sustainability Committee
+
+Stakeholders Relationship Committee
+
+Risk Management Committee
+
+Committee
+
+Chairperson
+
+Member
+
+Ms. Renuka Ramnath
+
+Chairperson and Independent
+
+Director
+
+Ms. Renuka Ramnath is the Founder,: Managing
+
+Managing Director & CEO
+
+Mr. Krishnakumar Natarajan
+
+Independent Director
+
+Mr. Ashok Sinha
+
+Independent Director
+
+Mr. N. Ganapathy Subramaniam
+
+Non-Executive Director
+
+Mr. Ankur Verma
+
+Non-Executive Director
+
+REGISTERED OFFICE
+
+VSB, Mahatma Gandhi Road,
+
+Fort, Mumbai – 400 001
+
+CORPORATE OFFICE
+
+Plot No. C21 & C36, ‘G’ Block, Bandra
+
+Kurla Complex, Mumbai – 400 098
+
+Contact us:
+
+REGISTRAR AND SHARE
+
+TRANSFER AGENTS
+
+TSR Consultants Private Limited
+
+C-101, 1st Floor, 247 Park, LBS Marg,
+
+Vikhroli (West), Mumbai – 400 083
+
+Tel: 8108 11 84 84,
+
+Fax: +91 22 6656 8494
+
+E-mail: csg-unit@tcpl.co.in
+
+Website: www.tcplindia.co.in
+
+KEY MANAGERIAL PERSONNEL
+
+Mr. Kabir Ahmed Shakir
+
+Chief Financial Officer
+
+Mr. Zubin Adil Patel
+
+Company Secretary and Head Compliance
+
+AUDITORS
+
+Statutory Auditor
+
+S.R. Batliboi & Associates LLP,
+
+Chartered Accountants
+
+Cost Auditor
+
+Ms. Ketki D. Visariya,
+
+Cost Accountant
+
+Secretarial Auditor
+
+Mr. U. C. Shukla,
+
+Company Secretary
+
+Tel: +91 22 6659 1968
+
+Email: investor.relations@tatacommunications.com
+
+Website: www.tatacommunications.com.
+
+68
+
+69
+
+Statutory Reports
+
+Standalone Financial Statements
+
+Consolidated Financial Statements
+
+Integrated Report:
+
+Letter of Confirmation’ in lieu of physical securities
+
+certificate(s), to the securitiesholder / claimant within
+
+30 days of receipt of such request after removing
+
+objections, if any. The ‘: Letter of Confirmation’ shall
+
+be valid for a period of 120 days from the date of its
+
+issuance, within which the securitiesholder / claimant
+
+shall make a request to the DP for dematerialising the
+
+said securities.
+
+16. In case of joint holders, the Member whose name
+
+appears as the first holder in the order of names as
+
+per the Register of Members of the Company will be
+
+entitled to vote during the AGM.
+
+17. During the AGM, Members may access the electronic
+
+copy of Register of
+
+Managing Director (Investment
+
+Banking Division) in Bank of America Merrill Lynch and
+
+prior to that he was also Group Manager & Head, Business
+
+Planning in Infosys Technologies Limited - Corporate
+
+Planning Group. He also serves on the boards of several
+
+Tata group companies.
+
+Explanatory Statement
+
+Pursuant to Section 102(1) of the Companies Act, 2013 (‘Act’), the following Explanatory Statement sets out material
+
+facts relating to business mentioned under Item Nos. 5 to 8 of the accompanying Notice.
+
+General Guidelines for shareholders
+
+1.
+
+Institutional shareholders (i.e., other than individuals, HUF, NRI etc.) are required to send scanned copy
+
+(PDF / JPG format) of the relevant Board Resolution / Authority: Letter etc., with attested specimen
+
+signature of the duly authorised signatory(ies) who are authorised to vote, to the Scrutinizer by e-mail to
+
+cs@parikhassociates.com with a copy marked to evoting@nsdl.co.in. Institutional shareholders can also
+
+upload their Board Resolution / Power of Attorney / Authority Letter etc., by clicking on “Upload Board
+
+Resolution / Authority Letter” displayed under “e-Voting” tab in their login.
+
+2.
+
+It is strongly recommended not to share your password with any other person and take utmost care to keep
+
+your password confidential. Login to the e-voting website will be disabled upon five unsuccessful attempts to
+
+key in the correct password. In such an event, you will need to go through the “Forgot User Details / Password?”
+
+or “Physical User Reset Password?” option available on www.evoting.nsdl.com to reset the password.
+
+3.
+
+In case of any queries, you may refer the Frequently Asked Questions (‘FAQs’) for shareholders and
+
+e-Voting user manual for shareholders available at the download section of www.evoting.nsdl.com or call on:
+
++91 22 4886 7000 or +91 22 2499 7000 or send a request to Ms. Sarita Mote or Mr. Sagar Gudhate at
+
+evoting@nsdl.co.in.
+
+By Order of the Board of
+
+Managing Director & CEO shall be
+
+eligible to participate in the Plan and shall be entitled
+
+to receive incentive remuneration by way of stock
+
+options under the Plan, as may be considered by the
+
+NRC and / or the Board which shall vest based on the
+
+performance parameters.
+
+Further, such incentive remuneration payable to
+
+the: Managing
+
+letter of
+
+Grant issued to the RSU Grantee at the time of grant.
+
+The vesting dates in respect of the RSUs granted
+
+under the Plan shall be determined by the Committee
+
+and may vary from an Employee to Employee or any
+
+class thereof and / or in respect of the number or
+
+percentage of RSUs granted to an Employee.
+
+In the event of death or permanent incapacity of an
+
+Employee, the minimum vesting period shall not be
+
+applicable and in such instances, all the unvested
+
+RSUs shall vest immediately with effect from date of
+
+the death or permanent incapacity.
+
+In the event that an eligible Employee who has been
+
+granted benefits under the Plan is transferred or
+
+deputed or resigns to join a subsidiary company prior
+
+to vesting or exercise, the vesting and exercise as per
+
+the terms of grant: letter shall continue in case of
+
+such transferred or deputed or resigned Employee(s)
+
+even after the transfer or deputation or resignation.
+
+e) Maximum period within which the RSUs shall be
+
+vested:
+
+All the RSUs granted on any date shall vest not later
+
+than the maximum period of 4 (Four) years from
+
+the Grant Date.
+
+f)
+
+Exercise price or pricing formula:
+
+The Exercise Price per RSU shall be the face value of
+
+equity shares of the Company as on Grant Date.
+
+g) Exercise period and the process of exercise:
+
+The Exercise Period in respect of the Vested RSUs
+
+shall be subject to a maximum period of 1 (One) year
+
+from the date of Vesting of RSUs.
+
+The Vested RSU shall be exercisable by the RSU
+
+grantees by a written application to the Company
+
+expressing such grantee’s desire to exercise such RSUs
+
+in such manner and in such format as may be prescribed
+
+by the Committee from time to time. Exercise of RSUs
+
+shall be entertained only after payment of requisite
+
+exercise price and satisfaction of applicable taxes by
+
+the RSU grantee. The RSUs shall lapse if not exercised
+
+within the specified exercise period.
+
+Exercise in case of separation from employment:
+
+Sr.
+
+No.
+
+Events of separation
+
+Vested RSUs
+
+Unvested RSUs
+
+1
+
+Resignation /
+
+Termination
+
+(other than due to
+
+Misconduct)
+
+All the Vested RSUs as on the date of
+
+submission of resignation / date of
+
+termination shall be exercisable by the
+
+Grantee within one month from the last
+
+working day of Grantee.
+
+All the Unvested RSUs as on date of submission
+
+of resignation / date of termination shall
+
+stand cancelled / lapsed / expired with effect
+
+from date of such resignation / termination.
+
+2
+
+Termination due to
+
+Misconduct
+
+All the Vested RSUs at the time of
+
+such termination shall stand cancelled
+
+/ lapsed / expired with effect from the
+
+date of such termination.
+
+All the Unvested RSUs at the time of such
+
+termination shall stand cancelled / lapsed
+
+/ expired with effect from the date of such
+
+termination.
+
+3
+
+Retirement
+
+All the Vested RSUs as on the date of
+
+Retirement can be exercisable by the
+
+Grantee within 6 (six) months from the
+
+date of Retirement.
+
+All Unvested RSUs shall continue to vest
+
+based on the vesting schedule and conditions
+
+as mentioned in the letter of Grant and
+
+the Grantee can exercise the vested RSUs
+
+within 6 (six) months from the date of such
+
+vesting, unless otherwise determined by the
+
+Committee in accordance with the Company’s
+
+Policies and provisions of the then prevailing
+
+Applicable Law.
+
+Managing Director & Chief
+
+Executive Officer;
+
+Mr. Kabir Ahmed Shakir – Chief Financial Officer;
+
+Mr. Zubin Adil Patel – Company Secretary and Head
+
+Compliance.
+
+Number of Meetings of the Board
+
+Seven Board meetings were held during FY 2022-23.
+
+For details of meetings of the Board, please refer to the
+
+Corporate Governance Report, which is a part of this
+
+Report.
+
+FY 2021-22. The growth in the consolidated PAT is on
+
+account of higher revenues and international subsidiaries
+
+becoming profitable helping us realise net operating
+
+losses during FY 2022-23.
+
+Dividend
+
+The Board recommends a dividend of H21.00 per fully paid
+
+Equity Share on 285,000,000 Equity Shares of face value
+
+H10/- each, for the financial year ended March 31, 2023.
+
+The Board has recommended dividend based on the
+
+parameters laid down in the Dividend Distribution Policy
+
+which can be accessed on www.tatacommunications.
+
+com/resource/corporate-resources/policies/tcl-
+
+dividend-distribution-policy/.
+
+The dividend on Equity Shares is subject to the approval
+
+of the Members at the Annual General Meeting (‘AGM’)
+
+scheduled to be held on Tuesday, July 18, 2023.
+
+The dividend, once approved by the Members, will be
+
+paid, subject to deduction of tax at source, on or before
+
+Tuesday, July 25, 2023. If approved, the dividend will
+
+result in a cash outflow of H598.50 crores. The dividend
+
+on Equity Shares is 210% of the paid-up value of each
+
+share. The total dividend pay-out works out to 33.23% of
+
+the profit after tax for the consolidated financial results.
+
+The Company has fixed Monday, June 26, 2023 as the
+
+‘Record Date’ and will close the Register of Members and
+
+Transfer Books from Tuesday, June 27, 2023 till Thursday,
+
+June 29, 2023 (both days inclusive) for determining
+
+entitlement of Members to final dividend for the financial
+
+year ended March 31, 2023, if approved at the AGM.
+
+Transfer to Reserves
+
+The Board of Directors has decided to retain the entire
+
+amount of profit for Financial Year 2022-23 in the
+
+statement of profit and loss.
+
+Subsidiary companies
+
+As on March 31, 2023, the Company had 55 subsidiaries
+
+and 3 associates. There has been no material change in
+
+the nature of business of the subsidiaries.
+
+A report on the financial position of each of the
+
+subsidiaries and associates as per the Companies Act,
+
+2013 (‘Act’) as provided in Form AOC-1 is attached to the
+
+financial statements of the Company.
+
+Further, pursuant to the provisions of Section 136 of the
+
+Act, the standalone and consolidated financial statements
+
+of the Company along with relevant documents and
+
+separate audited financial statements in respect of
+
+subsidiaries, are available on the website of the Company
+
+at www.tatacommunications.com/investors/results.
+
+Restructuring and Acquisitions
+
+Vide a business transfer agreement dated December
+
+14, 2022, the Company transferred its non-network
+
+Internet of Things (‘IoT’) business comprising of Device,
+
+Application, Platform and Managed Services components
+
+to its wholly-owned subsidiary, Tata Communications
+
+Collaboration Services Private Limited, as a going
+
+concern on ‘slump sale’ basis. The transfer came into
+
+effect on January 1, 2023.
+
+On
+
+December
+
+22,
+
+2022,
+
+Tata
+
+Communications
+
+(Netherlands) B.V., a wholly-owned indirect subsidiary
+
+of the Company, entered into a Membership Investment
+
+Purchase Agreement to acquire 100% equity stake in The
+
+Switch Enterprises LLC (a target company in the United
+
+States of America) and as part of the transaction, through
+
+its wholly-owned subsidiaries, to acquire assets of the
+
+subsidiaries of The Switch Enterprises LLC based out
+
+of Canada, the United States of America and the United
+
+Kingdom. The acquisition was completed on May 1, 2023.
+
+As a result, The Switch Enterprises LLC has become a
+
+wholly-owned indirect subsidiary of the Company.
+
+The Switch Enterprises LLC is one of the leading
+
+managed services providers for live production and video
+
+transmission. The Switch Enterprises LLC is a leading
+
+global end-to-end live video production and transmission
+
+services provider with reach to top tier sporting venues
+
+in North America.
+
+Directors’ Responsibility Statement
+
+Based on the framework of internal financial controls and
+
+compliance systems established and maintained by the
+
+Company, the work performed by the internal, statutory,
+
+cost and secretarial auditors and external consultants,
+
+including the audit of internal financial controls over
+
+financial reporting by the statutory auditors and the
+
+reviews performed by the Management and the relevant
+
+Board committees, including the Audit Committee, the
+
+Board is of the opinion that the Company’s internal
+
+financial controls were adequate and effective during
+
+Financial Year 2022-23.
+
+Pursuant to Section 134(5) of the Act, the Board of
+
+Directors, to the best of its knowledge and ability, confirm
+
+that for the year ended March 31, 2023:
+
+i.
+
+In the preparation of the annual accounts, the
+
+applicable accounting standards have been followed
+
+and there are no material departures;
+
+ii.
+
+They have selected such accounting policies and
+
+applied them consistently and made judgments and
+
+estimates that are reasonable and prudent so as to:
+
+Managing Director &
+
+CEO
+
+2
+
+2
+
+3.
+
+Mr. Krishnakumar Natarajan
+
+Member - Independent Director
+
+2
+
+2
+
+*Mr. Srinath Narasimhan ceased to be a member of the CSRSSC on April 19, 2023 and Mr. Ashok Sinha, Independent Director was appointed
+
+as a member of the CSRSSC on April 19, 2023.
+
+3. Web-link where composition of CSR committee, CSR Policy and CSR projects approved by the
+
+Board are disclosed on the website of the Company
+
+•
+
+Composition of the CSRSSC is available on the link given below:
+
+https://www.tatacommunications.com/resource/corporate-resources/policies/composition-of-statutory-
+
+committees/
+
+•
+
+Details of the CSR policy are available on the link given below:
+
+https://www.tatacommunications.com/resource/corporate-resources/sustainability/corporate-social-
+
+responsibility-policy/
+
+•
+
+Details of CSR projects are available on the link given below:
+
+https://www.tatacommunications.com/resource/corporate-resources/sustainability/list-of-csr-projects/
+
+4. Executive summary along with web-link(s) of Impact Assessment of CSR Projects carried out
+
+in pursuance of sub-rule (3) of rule 8, if applicable
+
+No impact assessments were conducted in FY 2022-23 since the requirement was not applicable to any of the projects.
+
+5. a) Average net profit of the Company as per section 135(5)
+
+(H in crores)
+
+Financial Year
+
+2019-20
+
+2020-21
+
+2021-22
+
+Net profit for the year (as per Section 198)
+
+321.88
+
+1,071.96
+
+1,410.30
+
+The average net profit for the last three financial years is H934.71 crores.
+
+b) Two percent of average net profit of the company as per section 135(5): H18,69,43,855
+
+c) Surplus arising out of the CSR projects or programmes or activities of the previous financial years: Nil
+
+d) Amount required to be set off for the financial year, if any: Nil
+
+e) Total CSR obligation for the financial year (b+c-d): H18,69,43,855
+
+6. a) Amount spent on CSR Projects (both Ongoing Project and other than Ongoing Project): H18,42,41,379
+
+b) Amount spent in Administrative Overheads: H31,33,676
+
+c) Amount spent on Impact Assessment, if applicable: 0
+
+d) Total amount spent for the Financial Year (a+b+c): J18,73,75,055
+
+Project Name and Description
+
+Progress
+
+Sanjeevani
+
+The project aims at providing most immediate,
+
+mid-term and long-term need-based tangible
+
+benefits to tribal, rural and peri-urban
+
+communities worst affected by Covid-19
+
+across various geographies in India using the
+
+existing network of Tata Communications’
+
+CSR project partners.
+
+The project created behaviour change communication modules
+
+for all Tata Communications project beneficiaries for dissemination
+
+to a wider audience.
+
+VCanAssist
+
+The project supports cancer patients from
+
+marginalised areas for free virtual expert
+
+treatment plan through Tata Memorial Centre’s
+
+Online Expert Opinion Service, ‘TMC Navya’.
+
+Through the project, about 1,440 patients from marginalised areas
+
+were supported in getting free consultations and treatment plans
+
+with Tata Memorial Centre.
+
+4. Environment (Lives touched: 73,424):
+
+Project Name and Description
+
+Progress
+
+Climate Resilient Villages Program
+
+The project aims at improving the community’s
+
+access to clean energy and health in the
+
+Garo Hills region of Meghalaya through solar
+
+electrification households, upgradation of health
+
+centers & solar electrification, and distribution of
+
+clean cookstoves.
+
+Improving access to clean energy by:
+
+•
+
+Solar electrification of 210 households in the remote villages of
+
+Meghalaya with no electricity, catering to 1,200+ beneficiaries.
+
+•
+
+Solar electrification of 5 primary healthcare centers, which
+
+caters to 4,500+ beneficiaries. Providing critical equipment
+
+leading to better last-mile treatment for maternal and childcare
+
+emergency treatments in remote locations.
+
+•
+
+Distribution of clean cookstoves to 6,050 households catering
+
+to 30,000+ beneficiaries, leading to more efficient usage of
+
+firewood and reduction of carbon emissions.
+
+Nanneer
+
+The project focuses on rejuvenation and
+
+restoration of Nagan Thangal Lake for effective
+
+ground water recharge in Upparapalayam,
+
+Pothur village, Villivakkam block, Thiruvallur
+
+district of Tamil Nadu.
+
+•
+
+The desilting of the lake is completed.
+
+•
+
+3,000 trees planted.
+
+•
+
+Constructed blue-green centre as an establishment for
+
+students to learn about biodiversity, indigenous plant
+
+species, and flora and fauna.
+
+•
+
+2,000 shrubs planted where the number of visitors has
+
+been 4,500.
+
+Climate Sustainability through Horticulture
+
+The project aims to develop a horticulture
+
+orchard based on Kesar and Rajapuri mango
+
+varieties on 500 acres of land with 500 tribal
+
+families of Dhadgaon and Akkalkuwa block of
+
+Nandurbar, which is an aspirational district as
+
+per the Government of India’s list.
+
+•
+
+The team planted 50 forestry plants in 61 villages along with
+
+tree guards. 3,050 forestry plants planted in community lands.
+
+•
+
+To increase the income of the farmers, the number of wadis has
+
+been increased to 214. Additionally, completed the community
+
+and border plantation (fencing).
+
+•
+
+106 training sessions organised for wadi beneficiaries and
+
+completed community exposure for social forestry plantation.
+
+•
+
+The expected increase in income for beneficiaries of this
+
+project is between H20,000 – H25,000 per acre.:
+
+Managing Director & CEO
+
+Chairperson - CSRSSC:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility of the management of the Company. My responsibility is to
+
+express an opinion on these secretarial records based on my audit.
+
+2.
+
+I have followed the audit practices and processes as were appropriate to obtain reasonable assurance about
+
+the correctness of the contents of the secretarial records. The verification was done on the test basis to ensure
+
+that correct facts are reflected in secretarial records. I believe that the process and practices, I followed, provide
+
+reasonable basis for my opinion.
+
+3.
+
+I have not verified the correctness and appropriateness of financial records and books of accounts of the Company.
+
+4. Wherever required, I have obtained the management representation about the compliance of the laws, rules and
+
+regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of corporate and other applicable laws, rules, regulations and standards is the
+
+responsibility of the management. My examination was limited to the verification of procedure on test basis.
+
+6.
+
+The secretarial audit report is neither an assurance as to future viability of the Company nor of the efficacy or
+
+effectiveness with which the management has conducted the affairs of the Company.
+
+(U.C. SHUKLA)
+
+Place: Mumbai
+
+COMPANY SECRETARY
+
+Date: 19th April, 2023
+
+FCS: 2727/CP: 1654
+
+I have also examined compliance with the applicable
+
+clauses of the following:
+
+(i) Secretarial
+
+Standards
+
+with
+
+regard
+
+to
+
+the
+
+Meetings of the Board of Directors (SS-1) and
+
+General Meetings (SS-2) issued by ‘The Institute
+
+of Company Secretaries of India’.
+
+During the year under review, the Company has complied
+
+with the provisions of the Act, Rules, Regulations,
+
+Guidelines, Standards, etc. mentioned above.
+
+I further report that the compliance by the Company of
+
+applicable financial laws like direct and indirect tax laws
+
+has not been reviewed in this audit since the same has
+
+been subject to review by statutory financial audit and
+
+other designated professionals.
+
+I further report that –
+
+•
+
+The Board of Directors of the Company is constituted
+
+with proper balance of Executive Directors, Non-
+
+Executive Directors and Independent Directors.
+
+•
+
+The changes in the composition of the Board of
+
+Directors that took place during the year under
+
+review were carried out in compliance with the
+
+provisions of the Act.
+
+•
+
+Adequate notice is given to all directors to schedule
+
+most of the Board Meetings, agenda and detailed
+
+notes on agenda were sent at least seven days in
+
+advance and a system exist for seeking and obtaining
+
+further information and clarifications on the agenda
+
+items before the meeting and for meaningful
+
+participation at the meeting.
+
+•
+
+As per the minutes of the meeting duly recorded
+
+and signed by the chairman, decisions of the Board
+
+were unanimous and no dissenting views have been
+
+recorded.
+
+I further report that there are adequate systems and
+
+processes in the Company commensurate with the size
+
+and operation of the Company to monitor and ensure
+
+compliance with applicable laws, rules, regulations and
+
+guidelines.
+
+I further report that during the audit period, there was
+
+no specific event / action having a major bearing on
+
+the Company’s affairs in pursuance to the laws, rules,
+
+regulations, guidelines, standards, etc. referred to above.
+
+(U.C. SHUKLA)
+
+COMPANY SECRETARY
+
+FCS: 2727/CP: 1654
+
+UDIN: F002727E000146750
+
+Peer Review Certificate No. 1882/2022
+
+Date: 19/04/2023
+
+Place: Mumbai:
+
+Managing Director and CEO
+
+26/11/2019
+
+3)
+
+Mr. Srinath Narasimhan
+
+(DIN: 00058133)
+
+Non-Executive Director
+
+13/02/2002
+
+4)
+
+Mr. Krishnakumar Natarajan
+
+(DIN: 00147772)
+
+Independent Director
+
+15/07/2021
+
+5)
+
+Mr. Ashok Sinha
+
+(DIN: 00070477)
+
+Independent Director
+
+08/10/2021
+
+6)
+
+Mr. Ganapathy Subramaniam Natarajan
+
+(DIN: 07006215)
+
+Non-Executive Director
+
+02/12/2021
+
+Note: Ensuring the eligibility for appointment/continuing as Director on the Board is the responsibility of the
+
+Management of the Company. My responsibility is to express an opinion based on verification of documents/
+
+information available to me. This certificate is neither an assurance as to the future viability of the Company nor of the
+
+efficiency or effectiveness with which the Management has conducted the affairs of the Company.
+
+UDIN: F002727E000146805
+
+Peer Review Certificate No. 1882/2022
+
+(UPENDRA C. SHUKLA)
+
+Place: Mumbai
+
+COMPANY SECRETARY
+
+Date: 19/04/2023
+
+FCS: 2727/CP No: 1654
+
+Management Discussion and Analysis (‘MDA’)
+
+ECONOMIC OVERVIEW
+
+The year 2022 marked significant progress in the global
+
+economic recovery from the Covid-19 pandemic. While the
+
+world witnessed considerable growth and stabilisation, it
+
+was also challenged by ongoing risks from the pandemic
+
+and geopolitical developments.
+
+Global GDP growth in 2022 was estimated to be at 3.4%1.
+
+This growth was supported by a combination of monetary
+
+and fiscal policies, increasing vaccination rates, and the
+
+easing of restrictions that allowed for the resumption of
+
+economic activities.
+
+However, the global growth is estimated to fall to 2.9%
+
+in 20231, as the rise in central bank rates to fight inflation
+
+and geopolitical issues continue to weigh on economic
+
+activity. Although, the global economy continues
+
+to display resilience and modest improvement, the
+
+estimates are well below the long term global growth
+
+average of 3.1%1. The recent banking sector turmoil in the
+
+United States and Europe has illustrated fragilities in the
+
+financial system, complicating the trade-off for central
+
+banks between fighting inflation and preserving financial
+
+stability. Debt levels remain high, limiting the ability of
+
+fiscal policymakers to respond to new challenges.
+
+Risks to current economic scenario:
+
+•
+
+Covid-19 Related Risks: Despite significant progress
+
+in vaccination campaigns and the lifting of restrictions,
+
+Covid-19 remained a key risk factor in 2022. The
+
+emergence of new variants and unequal vaccine
+
+distribution threatened to disrupt the recovery
+
+process. Governments and health organisations
+
+continued to closely monitor the situation and
+
+adapt strategies accordingly. While direct impact of
+
+covid is huge, it has also caused significant impact
+
+indirectly by the stress induced in medical & pharma
+
+supply chain including access to medicines for non-
+
+communicable diseases2.
+
+•
+
+Russia-Ukraine War: The ongoing conflict between
+
+Russia and Ukraine had significant implications for the
+
+global economy. Disruptions to energy supplies, trade
+
+routes, and financial markets increased uncertainty
+
+and weighed on global economic prospects. The
+
+conflict also strained relations between Russia and
+
+the West, leading to the imposition of economic
+
+sanctions and further disruptions. While the day-
+
+to-day situation continues to evolve, it has been
+
+predicted that this conflict has caused regional
+
+output to contract by 0.2%3.
+
+•
+
+China-Taiwan Conflict: Tensions between China and
+
+Taiwan also escalated in 2022, posing a risk to regional
+
+stability and global supply chains. The situation
+
+demanded increased diplomatic efforts to avoid a
+
+full-scale conflict and to mitigate potential negative
+
+impacts on the global economy. If this conflict worsens,
+
+it is expected to cost above USD 2 Trillion annually in
+
+economic impact even in the best-case scenarios4.
+
+In the current complex situation of geopolitical
+
+and
+
+monetary
+
+pressures,
+
+the
+
+overall
+
+global
+
+outlook is still optimistic especially powered by
+
+strong developments in emerging and developing
+
+economies. Growth in emerging and developing Asia
+
+is expected to rise in 2023 and 2024 to 5.3% and
+
+5.2% respectively5. While inflation and supply chain
+
+challenges will continue to affect many countries
+
+in the short term, underlying trends are expected
+
+to improve. Technological advancements will deliver
+
+major economic production and make consumption
+
+structures more sustainable. Institutions will need to
+
+prepare for their digital future and not remain just
+
+passive observers to the ongoing digital revolution.
+
+They should prepare for the ongoing changes with a
+
+strategic end-to-end digital transformation.
+
+INDUSTRY OVERVIEW
+
+The imperative for digitalisation across all sectors has
+
+pushed the Information & Communications Technology
+
+(‘ICT’) industry to develop new technologies, products,
+
+and services at an unprecedented pace while attracting
+
+new investment, talent, and players to the market.
+
+Demand for flexibility, affordability, and accessibility of
+
+ICT continues to rise while there is a persistent need for
+
+greater computing power and cybersecurity. These forces
+
+drive innovation and new approaches to value chains and
+
+business models in the industry. Today, every business,
+
+from financial services and healthcare to education
+
+1 www.imf.org/en/Publications/WEO/Issues/2023/01/31/world-economic-outlook-update-january-2023
+
+2 www.who.int/news/item/22-03-2023-covid-19-pandemic-significantly-impacted-access-to-medicines-for-noncommunicable-diseases
+
+3 www.worldbank.org/en/news/press-release/2022/10/04/russian-invasion-of-ukraine-impedes-post-pandemic-economic-recovery-in-
+
+emerging-europe-and-central-asia
+
+4 rhg.com/research/taiwan-economic-disruptions/
+
+5 www.imf.org/en/Publications/WEO/Issues/2023/01/31/world-economic-outlook-update-january-2023
+
+115
+
+Standalone Financial Statements
+
+Consolidated Financial Statements
+
+Integrated Report
+
+Statutory Reports:
+
+letter
+
+dated September 7, 2000. The GoI also gave the
+
+Company an assurance that it would consider
+
+additional
+
+compensation,
+
+if
+
+found
+
+necessary,
+
+following a detailed review of its decision to open up
+
+the ILD market.
+
+Contrary to its assurances, on January 18, 2002, the
+
+GoI issued a further: letter to the Company, unilaterally
+
+declaring that the compensation package provided
+
+in its original letter was to be treated as full and final
+
+settlement of every sort of claim against the early
+
+termination of the Company’s exclusivity rights in the
+
+ILD business. The Company filed a suit in the Bombay
+
+High Court in 2005. On July 7, 2010, the Bombay High
+
+Court ruled that it did not have the jurisdiction to
+
+hear this suit, in view of the provisions of the Telecom
+
+Regulatory Authority of India Act, 1997. Aggrieved by
+
+this Order, the Company instituted an appeal before a
+
+division bench of the Bombay High Court on various
+
+grounds. This appeal is yet to come up for a hearing.
+
+CAUTIONARY STATEMENT
+
+Certain statements in the Integrated Annual Report,
+
+Board’s Report and MDA describing Tata Communications’
+
+objectives, projections, estimates and expectations may
+
+be ‘forward-looking statements’ within the meaning
+
+of applicable securities laws and regulations. Actual
+
+results could differ substantially or materially from those
+
+expressed or implied. Important factors that could make a
+
+difference to our operations include economic conditions
+
+affecting demand / supply and price conditions in the
+
+domestic and overseas markets in which we operate,
+
+changes in government regulations, policies, tax laws and
+
+other incidental factors. Further, Tata Communications
+
+retains the flexibility to respond to fast-changing market
+
+conditions and business imperatives. Therefore, Tata
+
+Communications may need to change any of the plans
+
+and projections that may have been outlined in this
+
+report, depending on market conditions.
+
+126
+
+127
+
+Standalone Financial Statements
+
+Consolidated Financial Statements
+
+Integrated Report
+
+Statutory Reports
+
+Corporate Governance Report
+
+I. Company’s
+
+Philosophy
+
+on
+
+Corporate
+
+Governance
+
+Tata Communications Limited (‘the Company’) has
+
+a well-defined Corporate Governance framework
+
+founded upon a rich legacy of fair, ethical and
+
+transparent governance. The Board of
+
+Managing Director
+
+& CEO
+
+DIN: 08616830
+
+7
+
+Yes
+
+3
+
+2
+
+-
+
+2
+
+Tejas
+
+Networks
+
+Limited
+
+NE
+
+Nelco Limited
+
+NE:
+
+Managing Director & CEO, following the salary
+
+scale approved by shareholders of the Company.
+
+Increments become effective from April 1 every year.
+
+The NRC also decides on the commission payable
+
+to the: Managing
+
+Managing Director & CEO.
+
+The Chairperson is an Independent Director and is not
+
+related to the: Managing
+
+letter along with the requisite documents to TCPL and thereafter filing an online application
+
+in the prescribed e–Form IEPF–5 upon receiving the entitlement: letter from the Company. The e–Form IEPF–5 is
+
+available on the website of the IEPF Authority www.iepf.gov.in. No claims shall lie against the Company in respect
+
+of the dividend / shares so transferred. Members / claimants can file only one consolidated claim in a financial year
+
+as per the IEPF Rules.
+
+The following table gives information relating to various outstanding dividends and the dates by which they can
+
+be claimed by the shareholders from the Company’s RTA:
+
+Dividend for the year
+
+Date of AGM
+
+Date of Transfer to Investor
+
+Education & Protection Fund
+
+Balance as on
+
+March 31, 2023 (J)
+
+2015-16
+
+August 1, 2016
+
+September 2, 2023
+
+10,90,312.30
+
+2016-17
+
+June 27, 2017
+
+July 28, 2024
+
+15,15,180.00
+
+2017-18
+
+August 9, 2018
+
+September 10,2025
+
+9,51,106.50
+
+2018-19
+
+August 2, 2019
+
+September 3, 2026
+
+8,24,499.00
+
+2019-20
+
+August 28, 2020
+
+September 29, 2027
+
+6,91,439.00
+
+2020-21
+
+June 30, 2021
+
+July 31, 2028
+
+26,95,271.00
+
+2021-22
+
+June 29, 2022
+
+July 30, 2029
+
+23,30,222.70
+
+Total
+
+1,00,98,030.50
+
+Sr.
+
+No.
+
+NCD Series / ISIN
+
+Principal Amount outstanding
+
+as at March 31, 2023 (J)
+
+1.
+
+7.48% Rated, Secured, Listed, Redeemable, Non-Convertible
+
+Debentures
+
+ISIN: INE151A07051
+
+5,25,00,00,000
+
+xix. Details of Non-Convertible Debentures issued and outstanding as at March 31, 2023:
+
+On April 20, 2020, the Company, by way of
+
+private placement, issued and allotted 5,250 (Five
+
+Thousand Two Hundred and Fifty) Rated, Secured,
+
+Listed, Redeemable, Non-Convertible Debentures
+
+('NCDs’) at a nominal value of H10,00,000 (Indian
+
+Rupees Ten Lakhs only) each, aggregating upto
+
+H5,25,00,00,000 (Indian Rupees Five Hundred and
+
+Twenty Five Crores only).
+
+The NCDs were rated AA+ by CARE Ratings Limited
+
+and were listed on the Wholesale Debt Segment of
+
+the NSE.
+
+These NCDs were redeemed on their maturity date
+
+i.e., April 19, 2023.
+
+xx. Credit Ratings
+
+During the financial year 2022-23, the Company has
+
+obtained ratings from CARE Ratings Limited. The
+
+outlook for credit ratings assigned to the Company’s
+
+NCDs, Long-term bank facilities and Issuer rating
+
+was revised from “Stable” to “Positive” during the
+
+financial year. There has been no change in credit
+
+rating of Short-Term bank facilities of the Company.
+
+Rating Agency
+
+Credit Rating
+
+CARE Ratings
+
+Limited
+
+AA+ Outlook Positive (Issuer
+
+rating, NCD and Long-term bank
+
+facilities) and A1+ (Short-Term
+
+bank facilities)
+
+Sr.
+
+No.
+
+Name of the shareholder
+
+Number of equity
+
+shares held
+
+Percentage of
+
+holding
+
+1.
+
+East Bridge Capital Master Fund I Ltd
+
+1,27,63,749
+
+4.48
+
+2.
+
+HDFC Trustee Company Ltd - A/C HDFC Mid Cap
+
+Opportunities Fund
+
+1,21,96,028
+
+4.28
+
+3.
+
+Life Insurance Corporation of India
+
+95,76,452
+
+3.36
+
+4.
+
+First Sentier Investors ICVC - Stewart Investors Asia Pacific
+
+Leaders Sustainability Fund
+
+71,45,441
+
+2.51
+
+5.
+
+Government Pension Fund Global
+
+55,18,668
+
+1.94
+
+6.
+
+Rekha Jhunjhunwala
+
+51,00,687
+
+1.79
+
+7.
+
+Mirae Asset Emerging Bluechip Fund
+
+41,03,793
+
+1.44
+
+8.
+
+Baron Emerging Markets Fund
+
+38,09,752
+
+1.34
+
+9.
+
+ICICI Prudential India Opportunities Fund
+
+23,18,459
+
+0.81
+
+10.
+
+Quant Mutual Fund - Quant Active Fund
+
+22,36,348
+
+0.78
+
+c.
+
+Top ten equity shareholders of the Company as on March 31, 2023:
+
+xiv. Dematerialisation of Shares and Liquidity:
+
+The Company’s shares are compulsorily traded in
+
+dematerialised form on NSE and BSE. 99.97% of
+
+the Company’s equity share capital (28,49,25,580
+
+shares) are dematerialised as on March 31, 2023.
+
+Under the Depository System, the International
+
+Securities Identification Number (‘ISIN’) allotted to
+
+the Company’s shares is INE151A01013.
+
+xv. Outstanding GDRs / ADRs / Warrants or any
+
+Convertible Instruments, conversion date and likely
+
+impact on Equity:
+
+The Company has not issued any GDRs / ADRs /
+
+Warrants or any convertible instruments in the past
+
+year and hence, as on March 31, 2023, the Company
+
+does not have any outstanding GDRs / ADRs /
+
+Warrants or any convertible instruments.
+
+xvi. Commodity Price Risk or Foreign Exchange Risk
+
+and Hedging Activities:
+
+The Company does not deal in commodities and
+
+hence the disclosure pursuant to SEBI Circular dated
+
+November 15, 2018 is not required to be given. For
+
+more information on foreign exchange risk and
+
+hedging activities, please refer the Risk Management
+
+section of the Integrated Annual Report.
+
+xvii. Equity Shares in the Suspense Account:
+
+The Company does not have any Equity Shares in
+
+suspense account.
+
+xviii. Transfer of Unclaimed / Unpaid Amounts to the
+
+Investor Education and Protection Fund:
+
+Pursuant to Sections 124 and 125 of the Act read
+
+with the Investor Education and Protection Fund
+
+Authority (Accounting, Audit, Transfer and Refund)
+
+Rules, 2016 (‘IEPF Rules’), dividend, if not claimed
+
+for a consecutive period of seven (7) years from the
+
+date of transfer to Unpaid Dividend Account of the
+
+Company, is liable to be transferred to the Investor
+
+Education and Protection Fund (‘IEPF’).
+
+Further, all the shares in respect of which dividend
+
+has remained unclaimed for seven (7) consecutive
+
+years or more from the date of transfer to unpaid
+
+dividend account, shall also be transferred to IEPF
+
+Authority. The said requirement does not apply to
+
+shares in respect of which there is a specific order
+
+of Court, Tribunal or Statutory Authority, restraining
+
+any transfer of shares.
+
+In the interest of the shareholders, the Company
+
+sends periodical reminders to the shareholders
+
+to claim their dividends in order to avoid transfer
+
+of dividends / shares to IEPF Authority. Notices in
+
+this regard are also published in newspapers and
+
+details of unclaimed dividends and shareholders
+
+whose shares are liable to be transferred to the IEPF
+
+Authority, are uploaded on the Company’s website
+
+at www.tatacommunications.com/investors/shares.
+
+In light of the aforesaid provisions, the Company has
+
+during the year under review, transferred to IEPF
+
+the unclaimed dividends, outstanding for seven (7)
+
+Managing Director & CEO of Tata Communications Limited (‘the Company’) hereby
+
+declare that all the members of Board of Directors and Senior Management Personnel of the Company have affirmed
+
+compliance with the Code of Conduct, as applicable to them, in respect of the financial year 2022-23.
+
+For Tata Communications Limited
+
+A. S. Lakshminarayanan
+
+Place: Mumbai: Managing
+
+Managing Director & CEO’ which forms part of this Integrated Annual
+
+Report.
+
+8.
+
+Details of the highest authority
+
+responsible for implementation
+
+and oversight of the Business
+
+Responsibility policy(ies).
+
+Mr. Aadesh Goyal
+
+Chief Human Resource Officer
+
+Tata Communications Limited
+
+Email: EOHS@tatacommunications.com
+
+9.
+
+Does the entity have a specified
+
+Committee of the Board / Director
+
+responsible for decision making on
+
+sustainability related issues? (Yes /
+
+No). If yes, provide details.
+
+Yes
+
+The Corporate Social Responsibility, Safety and Sustainability Committee
+
+(‘CSRSSC’) of the Board of Directors is responsible for decision making
+
+on sustainability related issues.
+
+For more details on the CSRSSC, kindly refer to the Corporate
+
+Governance Report which forms part of this Integrated Annual Report.
+
+S.
+
+No.
+
+Material issue
+
+identified
+
+Indicate
+
+whether
+
+risk or
+
+opportunity
+
+(R / O)
+
+Rationale for identifying the risk /
+
+opportunity
+
+In case of risk,
+
+approach to adapt
+
+or mitigate
+
+Financial
+
+implications
+
+of the risk or
+
+opportunity
+
+(Indicate
+
+positive or
+
+negative
+
+implications)
+
+7
+
+Resource
+
+Management
+
+and
+
+Environmental
+
+Conservation
+
+Risk and
+
+Opportunity
+
+Sustainable management of
+
+resources is vital for continuing
+
+smooth operations at Tata
+
+Communications and to add
+
+value to our stakeholders and
+
+communities. We are working
+
+towards minimising the use of
+
+energy and other resources, and
+
+practising recycling and reuse of
+
+resources. Further, we also strive
+
+to enhance our ESG performance
+
+as per the expectations of our
+
+investors and stakeholders.
+
+Kindly refer to the
+
+Risk Management
+
+section and Natural
+
+Capital section
+
+of this Integrated
+
+Annual Report;
+
+the Sustainability
+
+Development Report
+
+and the Carbon
+
+Disclosure Project
+
+Report separately
+
+published by Tata
+
+Communications.
+
+Positive and
+
+Negative
+
+8
+
+Health, Safety,
+
+and Well-being
+
+Risk
+
+Employees are of prime importance
+
+at Tata Communications. The
+
+well-being of employees and
+
+good working conditions plays an
+
+integral role in our value creation
+
+process as any kind of health and
+
+safety issue can cause harm to
+
+the employees. We aim to foster a
+
+safety culture and ensure safe and
+
+secure working conditions for all.
+
+Kindly refer to the
+
+Risk Management
+
+section and Human
+
+Capital section
+
+of this Integrated
+
+Annual Report.
+
+Negative
+
+9
+
+Community
+
+Development
+
+Opportunity Tata Communications believes
+
+in bringing a positive change in
+
+the society and communities, in
+
+which it operates. Community
+
+development presents an
+
+opportunity to build stronger
+
+relationships to foster equitable
+
+growth and sustainable
+
+development.
+
+-
+
+Positive
+
+10
+
+Human Rights
+
+and Labour
+
+Compliance
+
+Risk
+
+With the increasing thrust on
+
+stakeholder capitalism, stakeholders
+
+are concerned about how Tata
+
+Communications is integrating
+
+the ethos of human rights into
+
+its operations. As a responsible
+
+corporate, it is vital to respect
+
+the rights of all stakeholders and
+
+ensure that there are no instances
+
+of human rights violations, in any
+
+form. Through its operations
+
+and value chain partners, Tata
+
+Communications ensures that no
+
+instances of misconduct occur at
+
+workplaces and that human rights
+
+principles are held intact.
+
+Kindly refer to the
+
+Risk Management
+
+section and
+
+Governance section
+
+of this Integrated
+
+Annual Report.
+
+Positive:
+
+Managing Director & CEO to the Board of Directors.
+
+11.
+
+Has the entity carried out
+
+independent assessment /
+
+evaluation of the working of its
+
+policies by an external agency?
+
+(Yes / No). If yes, provide the name
+
+of the agency.
+
+P 1
+
+P 2
+
+P 3
+
+P 4
+
+P 5
+
+P 6
+
+P 7
+
+P 8
+
+P 9
+
+Yes, Tata Communications implements these principles as part of its
+
+Sustainable Development Report assurance which is conducted on annual
+
+basis by an external agency. For FY 2022-23, independent assurance is
+
+conducted externally by DNV Business Assurance India Private Limited
+
+(‘DNV’).
+
+12. If answer to question (1) above is ‘No’ i.e., not all Principles are covered by a Policy, reasons to be stated::
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN : 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+Statement of Profit and Loss
+
+for the year ended 31 March 2023
+
+Balance Sheet
+
+as at 31 March 2023
+
+(H in crores)
+
+Particulars
+
+Note
+
+As at
+
+31 March 2023
+
+As at
+
+31 March 2022
+
+A
+
+ASSETS
+
+(1)
+
+Non-current assets
+
+(a)
+
+Property, plant and equipment
+
+4
+
+3,609.59
+
+3,697.98
+
+(b)
+
+Capital work-in-progress
+
+5
+
+608.88
+
+416.59
+
+(c)
+
+Right of Use asset
+
+6
+
+465.09
+
+457.18
+
+(d)
+
+Investment property
+
+7
+
+406.10
+
+386.18
+
+(e)
+
+Other intangible assets
+
+9
+
+523.96
+
+499.26
+
+(f)
+
+Intangible assets under development
+
+10
+
+92.39
+
+31.11
+
+(g)
+
+Investment property under development
+
+8
+
+-
+
+19.85
+
+(h)
+
+Financial assets
+
+(i) Investments
+
+11A
+
+3,725.06
+
+3,856.88
+
+(ii) Loans
+
+12A
+
+1,206.63
+
+79.46
+
+(iii) Other financial assets
+
+13A
+
+134.42
+
+137.30
+
+(i)
+
+Deferred tax assets (net)
+
+14
+
+328.96
+
+318.98
+
+(j)
+
+Non-current tax assets
+
+1,187.33
+
+1,266.35
+
+(k)
+
+Other Non-current assets
+
+15A
+
+105.80
+
+128.34
+
+Total Non-current assets
+
+12,394.21
+
+11,295.46
+
+(2)
+
+Current assets
+
+(a)
+
+Inventories
+
+28 (ii)
+
+115.34
+
+17.77
+
+(b)
+
+Financial assets
+
+(i) Other investments
+
+11B
+
+691.84
+
+419.76
+
+(ii) Trade receivables
+
+16
+
+1,162.27
+
+1,103.51
+
+(iii) Cash and cash equivalents
+
+17
+
+252.11
+
+98.78
+
+(iv) Bank balance other than (iii) above
+
+18
+
+52.83
+
+1.96
+
+(v) Loans
+
+12B
+
+-
+
+1,114.15
+
+(vi) Other financial assets
+
+13B
+
+115.22
+
+150.26
+
+(c)
+
+Other Current assets
+
+15B
+
+326.52
+
+366.51
+
+2,716.13
+
+3,272.70
+
+Assets classified as held for sale
+
+19
+
+154.94
+
+152.28
+
+Total current assets
+
+2,871.07
+
+3,424.98
+
+Total assets
+
+15,265.28
+
+14,720.44
+
+B
+
+EQUITY AND LIABILITIES
+
+(1)
+
+Equity
+
+(a)
+
+Equity share capital
+
+20
+
+285.00
+
+285.00
+
+(b)
+
+Other equity
+
+21
+
+9,576.33
+
+9,517.63
+
+Total equity
+
+9,861.33
+
+9,802.63
+
+(2)
+
+Non-current liabilities
+
+(a)
+
+Financial liabilities
+
+(i) Borrowings
+
+22A
+
+6.22
+
+533.87
+
+(ia) Lease liabilities
+
+48
+
+373.87
+
+363.04
+
+(ii) Other financial liabilities
+
+23A
+
+23.55
+
+47.47
+
+(b)
+
+Provisions
+
+24A
+
+268.32
+
+273.96
+
+(c)
+
+Other Non-current liabilities
+
+25A
+
+464.42
+
+385.14
+
+Total Non-current liabilities
+
+1,136.38
+
+1,603.48
+
+(3)
+
+Current liabilities
+
+(a)
+
+Financial liabilities
+
+(i) Borrowings
+
+22B
+
+530.62
+
+4.33
+
+(ia) Lease liabilities
+
+48
+
+50.93
+
+46.64
+
+(ii) Trade payables
+
+26
+
+(A) Total outstanding dues of micro enterprises and small enterprises
+
+11.57
+
+3.06
+
+(B) Total outstanding dues of creditors other than micro enterprises and
+
+small enterprises
+
+1,387.30
+
+1,312.22
+
+(iii) Other financial liabilities
+
+23B
+
+695.20
+
+522.58
+
+(b)
+
+Provisions
+
+24B
+
+104.19
+
+71.42
+
+(c)
+
+Current tax liability (net)
+
+542.61
+
+424.00
+
+(d)
+
+Other current liabilities
+
+25B
+
+945.12
+
+925.56
+
+4,267.54
+
+3,309.81
+
+(e)
+
+Liabilities for assets classified as held for sale
+
+0.03
+
+4.52
+
+Total Current liabilities
+
+4,267.57
+
+3,314.33
+
+Total equity and liabilities
+
+15,265.28
+
+14,720.44
+
+See accompanying notes forming part of the financial statements
+
+In terms of our report attached
+
+For S.R. Batliboi & Associates LLP
+
+For and on behalf of the Board of Directors
+
+Chartered Accountants
+
+ICAI Firm Registration No. 101049W/ E300004
+
+HORMUZ ERUCH MASTER
+
+RENUKA RAMNATH
+
+A. S. LAKSHMINARAYANAN
+
+Partner
+
+Chairperson: Managing
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN : 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+Cash Flow Statement
+
+for the year ended 31 March 2023
+
+(H in crores)
+
+Particulars
+
+For the year ended
+
+31 March 2023
+
+For the year ended
+
+31 March 2022
+
+3
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+
+Proceeds from short-term borrowings
+
+-
+
+2.66
+
+Repayment of short-term borrowings
+
+-
+
+(49.33)
+
+Proceeds from long-term borrowings
+
+3.57
+
+7.52
+
+Repayment of long-term borrowings
+
+(5.85)
+
+(5.25)
+
+Proceeds from sublease
+
+5.45
+
+5.21
+
+Repayment of lease liabilities
+
+(83.32)
+
+(84.74)
+
+Dividend paid
+
+(589.95)
+
+(399.00)
+
+Interest paid
+
+(39.60)
+
+(40.48)
+
+NET CASH (USED IN) FINANCING ACTIVITIES
+
+(709.70)
+
+(563.41)
+
+NET INCREASE/ (DECREASE) IN CASH AND CASH EQUIVALENTS
+
+153.33
+
+(98.72)
+
+CASH AND CASH EQUIVALENTS AS AT THE BEGINNING OF THE YEAR
+
+98.78
+
+197.50
+
+CASH AND CASH EQUIVALENTS AS AT THE END OF THE YEAR
+
+(refer note 17)
+
+252.11
+
+98.78
+
+I.
+
+Figures in brackets represent outflows.
+
+(H in crores)
+
+Particulars
+
+For the year ended
+
+31 March 2023
+
+For the year ended
+
+31 March 2022
+
+1
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+PROFIT BEFORE TAX
+
+981.03
+
+1,520.32
+
+Adjustments for non cash items:
+
+Depreciation and amortisation
+
+996.03
+
+916.14
+
+Interest income
+
+(73.45)
+
+(28.47)
+
+Finance cost
+
+90.04
+
+88.59
+
+Provision for diminution in fair value of investment (exceptional item, refer
+
+note 11(A)(II))
+
+322.76
+
+-
+
+Gain on disposal of assets held for sale (exceptional item, advance
+
+received in previous period)
+
+(46.74)
+
+-
+
+Gain on investments at fair value through profit and loss (net)
+
+(26.58)
+
+(27.59)
+
+Dividend income
+
+(26.44)
+
+(130.45)
+
+Unrealised foreign exchange gain/ (loss) (net)
+
+(9.50)
+
+(7.54)
+
+Allowance for doubtful trade receivables
+
+(14.75)
+
+(21.18)
+
+Gain on modification/ termination of lease
+
+-
+
+(3.28)
+
+Provision for inventories and capital work-in-progress
+
+3.97
+
+2.71
+
+Allowance for doubtful advances
+
+(0.09)
+
+1.10
+
+Bad debts written off
+
+21.65
+
+4.67
+
+(Gain)/ loss on disposal of property, plant and equipment (net)
+
+(5.67)
+
+(5.13)
+
+OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES
+
+2,212.26
+
+2,309.89
+
+Changes in working capital
+
+Adjustments for (increase) / decrease in operating assets:
+
+Inventories
+
+(101.09)
+
+(2.29)
+
+Trade receivables
+
+(83.70)
+
+2.84
+
+Other assets
+
+80.67
+
+(73.79)
+
+Trade payables
+
+88.92
+
+(216.71)
+
+Other liabilities
+
+22.73
+
+120.82
+
+Provisions
+
+(10.07)
+
+(39.24)
+
+Cash generated from operations before tax
+
+2,209.72
+
+2,101.52
+
+Income tax paid (net of refund)
+
+(122.52)
+
+71.51
+
+NET CASH FROM OPERATING ACTIVITIES
+
+2,087.20
+
+2,173.03
+
+2
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+
+Purchase of property, plant and equipment and intangible assets
+
+(1,019.39)
+
+(1,223.79)
+
+Proceeds from disposal of property, plant and equipment and intangible
+
+assets
+
+6.25
+
+5.33
+
+Proceeds from disposal of assets held for sale
+
+41.67
+
+-
+
+Purchase of non-current investments
+
+(190.94)
+
+(279.60)
+
+Purchase of current investments
+
+(7,228.30)
+
+(5,945.75)
+
+Proceeds from sale of current investments
+
+6,993.86
+
+6,712.36
+
+Loan given to subsidiaries
+
+-
+
+(1,230.95)
+
+Loan repaid by subsidiaries
+
+90.22
+
+45.54
+
+Advance received towards assets held for sale
+
+10.00
+
+3.67
+
+Dividend income from subsidiaries
+
+26.44
+
+130.45
+
+Fixed deposits
+
+-
+
+50.00
+
+Proceeds from transfer of business to subsidiary (refer note 3)
+
+50.82
+
+-
+
+Interest received
+
+46.00
+
+24.62
+
+Earmarked funds
+
+(50.80)
+
+(0.22)
+
+NET CASH (USED IN) INVESTING ACTIVITIES
+
+(1,224.17)
+
+(1,708.34)
+
+Cash Flow Statement
+
+for the year ended 31 March 2023:
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN : 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+(H in crores)
+
+Particulars
+
+Reserves and surplus
+
+Items of other
+
+comprehensive income
+
+Total
+
+other
+
+equity
+
+Capital
+
+reserve
+
+Securities
+
+premium
+
+General
+
+reserve
+
+Retained
+
+earnings
+
+Remeasurement
+
+of the defined
+
+benefit plans
+
+Equity instruments
+
+through other
+
+comprehensive
+
+income
+
+Balance as at 1 April 2022
+
+206.06
+
+725.01 5,380.75 4,247.33
+
+(107.75)
+
+(933.77)
+
+9,517.63
+
+Profit for the year
+
+-
+
+-
+
+-
+
+666.15
+
+-
+
+-
+
+666.15
+
+Other comprehensive
+
+income/(loss)
+
+-
+
+-
+
+-
+
+-
+
+(23.39)
+
+-
+
+(23.39)
+
+Dividend paid
+
+-
+
+-
+
+- (589.95)
+
+-
+
+- (589.95)
+
+Tax impact on other
+
+comprehensive income/(loss)
+
+-
+
+-
+
+-
+
+-
+
+5.89
+
+-
+
+5.89
+
+Total comprehensive
+
+income/(loss)
+
+-
+
+-
+
+-
+
+76.20
+
+(17.50)
+
+-
+
+58.70
+
+Balance as at 31 March 2023
+
+206.06
+
+725.01 5,380.75 4,323.53
+
+(125.25)
+
+(933.77)
+
+9,576.33
+
+Other equity
+
+Statement of Changes in Equity
+
+for the year ended 31 March 2023
+
+Equity share capital
+
+(H in crores)
+
+Particulars
+
+Reserves and surplus
+
+Items of other
+
+comprehensive income
+
+Total
+
+other
+
+equity
+
+Capital
+
+reserve
+
+Securities
+
+premium
+
+General
+
+reserve
+
+Retained
+
+earnings
+
+Remeasurement
+
+of the defined
+
+benefit plans
+
+Equity instruments
+
+through other
+
+comprehensive
+
+income
+
+Balance as at 1 April 2021
+
+206.06
+
+725.01 5,380.75 3,479.01
+
+(75.53)
+
+(933.77)
+
+8,781.53
+
+Profit for the year
+
+-
+
+-
+
+-
+
+1,167.32
+
+-
+
+-
+
+1,167.32
+
+Other comprehensive
+
+income/(loss)
+
+-
+
+-
+
+-
+
+-
+
+(43.06)
+
+-
+
+(43.06)
+
+Dividend paid
+
+-
+
+-
+
+- (399.00)
+
+-
+
+- (399.00)
+
+Tax impact on other
+
+comprehensive income/(loss)
+
+-
+
+-
+
+-
+
+-
+
+10.84
+
+-
+
+10.84
+
+Total comprehensive
+
+income/(loss)
+
+-
+
+-
+
+-
+
+768.32
+
+(32.22)
+
+-
+
+736.10
+
+Balance as at 31 March 2022
+
+206.06
+
+725.01 5,380.75 4,247.33
+
+(107.75)
+
+(933.77)
+
+9,517.63
+
+(H in crores)
+
+Particulars
+
+No. of shares
+
+Amount
+
+Balance as at 01 April 2021
+
+28,50,00,000
+
+285.00
+
+Changes in equity share capital during the year
+
+-
+
+-
+
+Balance as at 31 March 2022
+
+28,50,00,000
+
+285.00
+
+(H in crores)
+
+Particulars
+
+No. of shares
+
+Amount
+
+Balance as at 01 April 2022
+
+28,50,00,000
+
+285.00
+
+Changes in equity share capital during the year
+
+-
+
+-
+
+Balance as at 31 March 2023
+
+28,50,00,000
+
+285.00
+
+Other equity:
+
+letter No. G-25015/6/86OC dated 27
+
+March 1986, transferred all assets and liabilities of the
+
+Overseas Communications Service (“OCS”) (part of
+
+the Department of Telecommunications, Ministry of
+
+Communications) as appearing in the Balance sheet as
+
+at 31 March 1986 to the Company with effect from 1 April
+
+1986. During the financial year 2007-08, the Company
+
+changed its name from Videsh Sanchar Nigam Limited
+
+to Tata Communications Limited and the fresh certificate
+
+of incorporation consequent upon the change of name
+
+was issued by the Registrar of Companies, Mumbai,
+
+Maharashtra on 28 January 2008.
+
+The Company is domiciled in India and its registered
+
+office is at VSB, Mahatma Gandhi Road, Fort, Mumbai –
+
+400 001. The Company’s equity and debt are listed on
+
+recognised stock exchanges in India.
+
+The Company offers international and national voice
+
+and data transmission services, selling and leasing
+
+of bandwidth on undersea cable systems, internet
+
+connectivity services and other value-added services
+
+comprising telepresence, managed hosting, mobile
+
+global roaming and signalling services, transponder
+
+lease, television uplinking and other related services. The
+
+Company also undertakes leasing, letting out, licensing
+
+or developing immovable properties to earn income
+
+of any nature including inter-alia rental, lease, license
+
+income, etc from immovable properties of the Company
+
+including land and buildings.
+
+2. Significant accounting policies
+
+a.
+
+Statement of compliance
+
+These financial statements have been prepared in
+
+accordance with Indian Accounting Standards (‘Ind
+
+AS’) notified under the Companies (Indian Accounting
+
+Standards) Rules, 2015 (as amended from time to time).
+
+b.
+
+Basis of preparation of financial statements
+
+The financial statements have been prepared on a
+
+historical cost basis, except for the following assets and
+
+liabilities which have been measured at fair value:
+
+•
+
+Derivative financial instruments,
+
+•
+
+Certain financial assets and liabilities measured at
+
+fair value (refer note 2 (o)).
+
+The accounting policies adopted for preparation
+
+and presentation of financial statements have been
+
+consistently applied. All assets and liabilities have
+
+been classified as current and non-current as per the
+
+Company’s normal operating cycle.
+
+The financial statements are presented in Indian Rupees
+
+(“INR”) and all values are rounded to the nearest crores
+
+(INR 00,00,000), except when otherwise indicated.
+
+c.
+
+Significant accounting judgements, estimates and
+
+assumptions
+
+The preparation of these financial statements in
+
+conformity with recognition and measurement principles
+
+of Ind AS requires the management of the Company
+
+to make judgements, estimates and assumptions that
+
+affect the reported balances of assets and liabilities,
+
+disclosures relating to contingent liability as at the date
+
+of the financial statements and the reported amounts of
+
+income and expenses for the periods presented.
+
+Estimates and underlying assumptions are reviewed
+
+on an ongoing basis. Revision to accounting estimates
+
+are recognised in the period in which the estimates are
+
+revised and future periods are affected.
+
+i.
+
+Judgements
+
+In the process of applying the Company’s accounting
+
+policies, the management has made the following
+
+judgements, which have the most significant
+
+effect on the amounts recognised in the financial
+
+statements:
+
+a) Revenue from contracts with customers:
+
+As per Company’s assessment, it is generally
+
+the principal in its revenue arrangements, as it
+
+typically controls the goods or services before
+
+transferring them to the customer.
+
+b) Operating lease commitments – Company as
+
+lessor:
+
+The Company has entered into property
+
+leases (‘the leases’) on its investment property
+
+portfolio. The Company has determined the
+
+accounting of the leases as operating lease
+
+on its Investment property portfolio, based
+
+on an evaluation of the terms and conditions
+
+of the arrangements, such as the lease term
+
+not constituting a major part of the economic
+
+life of the commercial property, the fair value
+
+of the asset and the fact that it retains all the
+
+significant risks and rewards of ownership of
+
+these properties.
+
+ii.
+
+Estimates and assumptions
+
+The key assumptions concerning the future and
+
+other key sources of estimation uncertainty at the
+
+reporting date, that have a significant risk of causing
+
+a material adjustment to the carrying amounts
+
+of assets and liabilities within the next financial
+
+year, are described below. The Company based its:
+
+letter of comfort
+
+fees receivable from subsidiaries -
+
+Unsecured, considered good (refer
+
+i below)
+
+24.19
+
+65.37
+
+c. Other advances/ receivables
+
+Unsecured, considered good
+
+1.81
+
+2.80
+
+Unsecured, considered doubtful
+
+1.94
+
+1.97
+
+Less: allowance for doubtful
+
+advances/ receivables
+
+(1.94)
+
+(1.97)
+
+1.81
+
+2.80
+
+d. Amount due from related parties -
+
+Unsecured, considered good
+
+48.21
+
+48.91
+
+e. Interest receivable - Unsecured,
+
+considered good
+
+18.21
+
+0.54
+
+f.
+
+Fair value of foreign exchange
+
+forward / option contracts
+
+0.22
+
+10.35
+
+Sub-total (B)
+
+115.22
+
+150.26
+
+Total (A) + (B)
+
+249.64
+
+287.56
+
+i.
+
+The Company has issued corporate guarantees for the
+
+loans and credit facility arrangements in respect of
+
+various subsidiaries.
+
+ii.
+
+As at 31 March 2023, the proportionate share of pension
+
+obligations and payments of H 61.15 crores (31 March
+
+2022: H 61.15 crores) to the erstwhile OCS employees
+
+was recoverable from the Government of India (the
+
+“Government”).
+
+Pursuant
+
+to
+
+discussion
+
+with
+
+the
+
+Government in prior years, the Company had made a
+
+provision of H 53.71 crores (31 March 2022: H 53.71 crores)
+
+resulting in a net amount due from the Government
+
+towards its share of pension obligations of H 7.44 crores
+
+(31 March 2022: H 7.44 crores).:
+
+letter of
+
+comfort income from
+
+subsidiaries
+
+(refer ii below)
+
+32.39
+
+68.68
+
+i. Shared service fees from
+
+subsidiaries/ associates
+
+77.69
+
+60.12
+
+j. Others
+
+26.21
+
+22.90
+
+497.02
+
+558.49
+
+27. Other income
+
+i.
+
+Interest on others includes H 58.44 crores (2021 – 2022:
+
+H 24.01 crores) from subsidiaries.
+
+26. Trade payables (Contd..)
+
+27. Other income (Contd..)
+
+ii.
+
+During the previous year, pursuant to the conclusion of
+
+agreement between the Company and Central Board
+
+of Direct Taxes, the Company charged incremental
+
+guarantee fees and: letter of comfort fees to its
+
+subsidiaries. Accordingly, other income and tax expense
+
+(including interest) for the year ended 31 March 2022,
+
+includes an amount of H 31.86 crores and H 23.95 crores
+
+respectively, for the earlier years.
+
+28. Network and transmission
+
+(H in crores)
+
+Particulars
+
+For the year
+
+ended
+
+31 March 2023
+
+For the year
+
+ended
+
+31 March 2022
+
+a.
+
+Charges for use of
+
+transmission facilities
+
+(refer note i)
+
+2,040.28
+
+1,802.65
+
+b.
+
+Royalty and licence
+
+fee to Department of
+
+Telecommunications
+
+385.02
+
+363.83
+
+c.
+
+Rent of landlines and
+
+satellite channels
+
+86.23
+
+72.13
+
+2,511.53
+
+2,238.61
+
+i.
+
+Charges for use of transmission facilities include cost
+
+of certain equipment ancillary to Data and Managed
+
+Services (‘DMS’) of H 183.06 crores (2021 – 2022: H 139.09
+
+crores) which is as per contracts with customers.
+
+ii.
+
+Inventory comprises of certain equipment, software, etc
+
+which are ancillary to DMS.
+
+25. Other liabilities (Contd..)
+
+25. Other liabilities
+
+(H in crores)
+
+Particulars
+
+As at
+
+31 March
+
+2023
+
+As at
+
+31 March
+
+2022
+
+A. Non-current
+
+a.
+
+Deferred revenue (refer i below)
+
+-
+
+Related parties
+
+26.29
+
+28.14
+
+-
+
+Others
+
+400.07
+
+334.01
+
+b.
+
+Accrued employee cost
+
+-
+
+Related parties
+
+4.74
+
+5.17
+
+-
+
+Others
+
+33.32
+
+17.82
+
+Sub-total (A)
+
+464.42
+
+385.14
+
+B. Current
+
+a.
+
+Deferred revenues and advances
+
+received from customers
+
+(refer i below)
+
+-
+
+Related parties
+
+30.93
+
+35.78
+
+-
+
+Others
+
+420.12
+
+444.00
+
+i.
+
+Deferred revenue represents contract liabilities.
+
+26. Trade payables
+
+(H in crores)
+
+Particulars
+
+As at
+
+31 March 2023
+
+As at
+
+31 March 2022
+
+A.
+
+Total outstanding dues of micro enterprises and small enterprises (refer note 52)
+
+11.57
+
+3.06
+
+Sub-total (A)
+
+11.57
+
+3.06
+
+B. Total outstanding dues of creditors other than micro enterprises and small
+
+enterprises
+
+-
+
+Payable to related parties
+
+398.73
+
+417.88
+
+-
+
+Other creditors
+
+988.57
+
+894.34
+
+Sub-total (B)
+
+1,387.30
+
+1,312.22
+
+Total (A + B)
+
+1,398.87
+
+1,315.28
+
+(H in crores)
+
+Particulars
+
+As at
+
+31 March
+
+2023
+
+As at
+
+31 March
+
+2022
+
+b.
+
+Accrued employee cost
+
+-
+
+Related parties
+
+23.80
+
+16.76
+
+-
+
+Others
+
+221.29
+
+187.23
+
+c.
+
+Statutory liabilities
+
+TDS payable
+
+74.18
+
+72.05
+
+d.
+
+Other liabilities
+
+-
+
+Related parties
+
+164.87
+
+164.61
+
+-
+
+Others
+
+9.93
+
+5.13
+
+Sub-total (B)
+
+945.12
+
+925.56
+
+Total (A) + (B)
+
+1,409.54
+
+1,310.70
+
+Trade payable ageing schedule :
+
+As at 31 March 2023
+
+(H in crores)
+
+Particulars
+
+Unbilled
+
+Not due
+
+Outstanding for following periods
+
+from due date of payment
+
+Total
+
+Less than 1
+
+year
+
+1-2
+
+years
+
+2-3
+
+years
+
+More than
+
+3 years
+
+(i)
+
+Total outstanding dues of micro enterprises and
+
+small enterprises
+
+-
+
+11.57
+
+-
+
+-
+
+-
+
+-
+
+11.57
+
+(ii) Total outstanding dues of creditors other than
+
+micro enterprises and small enterprises
+
+862.90
+
+308.32
+
+122.29
+
+13.23
+
+3.21
+
+57.60
+
+1,367.55
+
+(iii) Disputed dues of micro enterprises and small
+
+enterprises
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(iv) Disputed dues of creditors other than micro
+
+enterprises and small enterprises
+
+12.27
+
+7.14
+
+-
+
+0.02
+
+-
+
+0.32
+
+19.75
+
+Total
+
+875.17
+
+327.03
+
+122.29
+
+13.25
+
+3.21
+
+57.92
+
+1,398.87
+
+Managing Director of the Company together constitute the Chief Operating Decision Makers
+
+(“CODM”) which allocate resources to and assess the performance of the segments of the Company. The Company’s reportable
+
+segments are Voice Solutions (“VS”), Data and Managed Services (“DMS”) and Real Estate (“RE”). The composition of the
+
+reportable segments is as follows:
+
+Voice Solutions (VS)
+
+VS includes international and national long distance voice services.
+
+Data and Managed Services (DMS)
+
+DMS includes corporate data transmission services, virtual private network signalling and roaming services, television and
+
+other network and managed services.
+
+Real Estate (RE)
+
+Real Estate includes lease rentals for premises given on lease and does not include premises held for capital appreciation.
+
+(H in crores)
+
+Particulars
+
+For the year ended 31 March 2023
+
+For the year ended 31 March 2022
+
+VS
+
+DMS
+
+RE
+
+Total
+
+VS
+
+DMS
+
+RE
+
+Total
+
+a.
+
+Segment revenues and results
+
+Revenue from operations
+
+72.07
+
+6,966.90
+
+197.31
+
+7,236.28
+
+90.12
+
+6,309.83
+
+187.40
+
+6,587.35
+
+Segment results
+
+(217.92)
+
+957.55
+
+110.44
+
+850.07
+
+(190.02)
+
+1,106.74
+
+122.92
+
+1,039.64
+
+Finance cost
+
+90.04
+
+88.59
+
+Unallocable expense/ (income)
+
+(net)
+
+(221.00)
+
+(569.27)
+
+Profit before tax
+
+981.03
+
+1,520.32
+
+Tax expense (net)
+
+314.88
+
+353.00
+
+Profit for the year
+
+666.15
+
+1,167.32
+
+(H in crores)
+
+Particulars
+
+As at 31 March 2023
+
+As at 31 March 2022
+
+VS
+
+DMS
+
+RE
+
+Total
+
+VS
+
+DMS
+
+RE
+
+Total
+
+b.
+
+Segment assets and liabilities
+
+Segment assets
+
+72.46
+
+6,749.03
+
+452.19
+
+7,273.68
+
+71.11
+
+6,390.27
+
+433.91
+
+6,895.29
+
+Unallocable assets
+
+7,991.60
+
+7,825.15
+
+Total assets
+
+15,265.28
+
+14,720.44
+
+Segment liabilities
+
+147.39
+
+3,565.62
+
+105.90
+
+3,818.91
+
+124.51
+
+3,270.61
+
+95.17
+
+3,490.29
+
+Unallocated liabilities
+
+1,585.04
+
+1,427.52
+
+Total liabilities
+
+5,403.95
+
+4,917.81
+
+39. Employee benefits (Defined benefit plan) (Contd..)
+
+Furthermore, in presenting the above sensitivity analysis, the present value of the defined benefit obligation has been
+
+calculated using the projected unit credit method at the end of the reporting period, which is the same as that applied in
+
+calculating the defined benefit obligation liability recognized in the balance sheet.
+
+There was no change in the methods and assumptions used in preparing the sensitivity analysis from prior years.
+
+(H in crores)
+
+IX
+
+Maturity profile of defined benefit plan
+
+Gratuity (funded)
+
+Medical benefits
+
+(unfunded)
+
+Pension (unfunded)
+
+As at
+
+31 March 2023
+
+As at
+
+31 March 2023
+
+As at
+
+31 March 2023
+
+31 March 2024
+
+19.05
+
+11.17
+
+2.78
+
+31 March 2025
+
+19.39
+
+11.41
+
+2.92
+
+31 March 2026
+
+20.02
+
+11.66
+
+3.07
+
+31 March 2027
+
+22.10
+
+11.87
+
+3.22
+
+31 March 2028
+
+23.43
+
+12.06
+
+3.38
+
+31 March 2029 to 31 March 2033
+
+128.55
+
+61.99
+
+19.63
+
+Total expected payments
+
+232.54
+
+120.16
+
+35.00
+
+iii. Leave plan and compensated absences
+
+For executives
+
+Leaves unavailed by eligible employees may be carried forward upto 60 days and for employees who have joined post
+
+1 January 2020 carry forward shall be restricted to 45 days. Encashment will be maximum of 30 days by them / their
+
+nominees in the event of death or permanent disablement or resignation.
+
+For non executives
+
+Leave unavailed of by eligible employees may be carried forward / encashed by them / their nominees in the event of
+
+death or permanent disablement or resignation, subject to a maximum leave of 300 days.
+
+The liability for compensated absences as at the year end is H 56.17 crores (31 March 2022: H 50.61 crores) as shown under
+
+non-current provisions H 37.26 crores (31 March 2022: H 43.37 crores) and current provisions H 18.91 crores (31 March
+
+2022: H 7.14 crores). The amount charged to the Statement of Profit and Loss under Salaries and related costs in note 29
+
+“Employee benefits” is H 12.47 crores (2021 - 2022: H 14.58 crores).
+
+(H in crores)
+
+Particulars
+
+For the year ended
+
+31 March 2023
+
+For the year ended
+
+31 March 2022
+
+a.
+
+Payment to statutory auditor
+
+i.
+
+For audit fees
+
+5.03
+
+4.66
+
+ii. For taxation matters
+
+0.11
+
+0.08
+
+iii. For other services
+
+0.51
+
+0.79
+
+iv. For reimbursement of expenses
+
+0.39
+
+0.34
+
+b.
+
+Payment to cost auditor
+
+i.
+
+For cost audit services
+
+0.09
+
+0.09
+
+40. Auditors’ remuneration:
+
+(Included in other expenses under operating and other expenses – Refer note 30)
+
+Above amount excludes goods and service tax.:
+
+letter of comfort fees
+
+-
+
+-
+
+32.39
+
+-
+
+-
+
+-
+
+32.39
+
+-
+
+-
+
+68.68
+
+-
+
+-
+
+-
+
+68.68
+
+Managerial remuneration
+
+-
+
+-
+
+-
+
+15.40
+
+-
+
+-
+
+15.40
+
+-
+
+-
+
+-
+
+16.05
+
+-
+
+-
+
+16.05
+
+Sr.
+
+No
+
+Category of
+
+related parties
+
+Names
+
+Tata Communications (Taiwan)
+
+Limited
+
+Tata Communications (Italy) S.r.l
+
+Tata Communications (Japan) KK
+
+Tata Communications (Poland) Sp.
+
+Zoo
+
+Tata Communications (Russia) LLC
+
+Tata Communications (Portugal)
+
+Instalacao E Manutencao De Redes
+
+LDA
+
+Tata Communications (Spain) S.L
+
+Tata Communications (Switzerland)
+
+GmbH
+
+Tata Communications (Netherlands)
+
+B.V.
+
+SEPCO Communications Pty Ltd.
+
+Tata Communications Transformation
+
+Services Pte Limited
+
+Tata Communications Transformation
+
+Services (Hungary) Kft.
+
+Tata Communications Transformation
+
+Services (US) Inc
+
+Tata Communications Transformation
+
+Services South Africa (Pty) Limited
+
+VSNL SNOSPV Pte Ltd
+
+Tata Communications Move
+
+Nederland B.V
+
+ITXC IP Holdings S.a r.l
+
+Tata Communications (Nordic) AS
+
+Tata Communications (Portugal)
+
+Unipessoal LDA
+
+Tata Communications (Sweden) AB
+
+TCPoP Communication GmbH
+
+Tata Communications (South Korea)
+
+Limited
+
+Tata Communications (Beijing)
+
+Technology Limited
+
+MuCoso B.V.
+
+Tata Communications Move B.V
+
+(formerly Telena Holdings B.V.)
+
+Nexus Connexion (SA) Pty Limited
+
+Tata Communications (Belgium) SRL
+
+Tata Communications Services
+
+(International) Pte. Ltd.
+
+Tata Communications (Thailand)
+
+Limited
+
+Sr.
+
+No
+
+Category of
+
+related parties
+
+Names
+
+Tata Communications (Brazil)
+
+Participacoes Limitada
+
+Tata Communications Comunicações
+
+E Multimídia (Brazil) Limitada
+
+TCTS Senegal Limited
+
+NetFoundry Inc
+
+Oasis Smart SIM Europe SAS
+
+Oasis Smart E-Sim Pte Ltd
+
+e.
+
+Associates
+
+United Telecom Limited
+
+STT Global Data Centres India Private
+
+Limited
+
+Smart ICT Services Private Limited
+
+f.
+
+Key managerial
+
+personnel
+
+Mr. A. S. Lakshminarayanan: Managing
+
+letter to its subsidiaries stating its intent to support them as and when required over the next
+
+12 to 24 months for preparing their financials on a going concern basis.
+
+Terms and conditions of transactions with related parties
+
+The sales to and purchases from related parties are made on terms equivalent to those that prevail in arm’s length
+
+transactions. For the year ended 31 March 2023, the Company has not recorded any impairment of receivables relating to
+
+amounts owed by related parties (31 March 2022: H Nil).
+
+(H in crores)
+
+Particulars
+
+Ultimate Holding
+
+Company and
+
+Controlling
+
+Entity
+
+Affiliates
+
+Subsidiaries
+
+(Direct and
+
+Indirect)
+
+Key
+
+management
+
+personnel
+
+Associates
+
+Others
+
+Total
+
+Trade payables (including capital creditors)
+
+18.03
+
+101.87
+
+267.97
+
+-
+
+17.83
+
+0.46
+
+406.16
+
+14.71
+
+140.98
+
+264.34
+
+-
+
+13.13
+
+0.34
+
+433.50
+
+Other financial liabilities – non current
+
+-
+
+-
+
+1.15
+
+-
+
+-
+
+-
+
+1.15
+
+-
+
+-
+
+1.15
+
+-
+
+-
+
+-
+
+1.15
+
+Other financial liabilities – current
+
+@
+
+5.31
+
+4.81
+
+-
+
+43.80
+
+@
+
+53.92
+
+@
+
+5.31
+
+-
+
+-
+
+27.89
+
+-
+
+33.20
+
+Other liabilities – non-current
+
+0.02
+
+25.59
+
+-
+
+4.74
+
+0.62
+
+0.06
+
+31.03
+
+0.03
+
+26.51
+
+0.24
+
+5.17
+
+1.36
+
+@
+
+33.31
+
+Other liabilities – current
+
+0.24
+
+23.73
+
+4.42
+
+10.70
+
+166.52
+
+13.99
+
+219.60
+
+0.74
+
+21.06
+
+3.95
+
+9.59
+
+176.27
+
+6.18
+
+217.15
+
+Guarantees on behalf of subsidiaries
+
+-
+
+-
+
+300.32
+
+-
+
+-
+
+-
+
+300.32
+
+-
+
+-
+
+300.32
+
+-
+
+-
+
+-
+
+300.32
+
+Lease liabilities – current
+
+-
+
+0.66
+
+-
+
+-
+
+-
+
+-
+
+0.66
+
+-
+
+1.14
+
+-
+
+-
+
+-
+
+-
+
+1.14
+
+Lease liabilities – non-current
+
+-
+
+9.04
+
+-
+
+-
+
+-
+
+-
+
+9.04
+
+-
+
+4.21
+
+-
+
+-
+
+-
+
+-
+
+4.21
+
+Provisions
+
+-
+
+-
+
+-
+
+0.43
+
+-
+
+-
+
+0.43
+
+-
+
+-
+
+-
+
+0.41
+
+-
+
+-
+
+0.41
+
+Loans – non-current
+
+-
+
+-
+
+1,206.63
+
+-
+
+-
+
+-
+
+1,206.63
+
+-
+
+-
+
+79.46
+
+-
+
+-
+
+-
+
+79.46
+
+Loans – current
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,114.15
+
+-
+
+-
+
+-
+
+1,114.15
+
+(H in crores)
+
+Particulars
+
+Ultimate Holding
+
+Company and
+
+Controlling
+
+Entity
+
+Affiliates
+
+Subsidiaries
+
+(Direct and
+
+Indirect)
+
+Key
+
+management
+
+personnel
+
+Associates
+
+Others
+
+Total
+
+Purchase of current investments
+
+-
+
+337.23
+
+-
+
+-
+
+-
+
+-
+
+337.23
+
+-
+
+460.13
+
+-
+
+-
+
+-
+
+-
+
+460.13
+
+Redemption of current investments
+
+-
+
+459.45
+
+-
+
+-
+
+-
+
+-
+
+459.45
+
+-
+
+437.35
+
+-
+
+-
+
+-
+
+-
+
+437.35
+
+Contribution to gratuity trust
+
+-
+
+-
+
+-
+
+-
+
+-
+
+15.00
+
+15.00
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Contribution to provident fund trust
+
+-
+
+-
+
+-
+
+-
+
+-
+
+143.93
+
+143.93
+
+-
+
+-
+
+-
+
+-
+
+-
+
+128.49
+
+128.49
+
+Interest on lease liabilities (forms part of lease payouts of J 1.57 crores (2021-22: J 1.10 crores)
+
+-
+
+0.39
+
+-
+
+-
+
+-
+
+-
+
+0.39
+
+-
+
+0.18
+
+-
+
+-
+
+-
+
+-
+
+0.18
+
+Loan given
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,230.95
+
+-
+
+-
+
+-
+
+1,230.95
+
+Loan repaid
+
+-
+
+-
+
+80.72
+
+-
+
+-
+
+-
+
+80.72
+
+-
+
+-
+
+45.54
+
+-
+
+-
+
+-
+
+45.54
+
+Proceeds from transfer of business to subsidiary
+
+-
+
+-
+
+50.82
+
+-
+
+-
+
+-
+
+50.82
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Provision for diminution in fair value of investment in subsidiary
+
+-
+
+-
+
+322.76
+
+-
+
+-
+
+-
+
+322.76
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Balances with related parties
+
+Receivables
+
+0.23
+
+192.70
+
+68.39
+
+-
+
+41.94
+
+0.07
+
+303.33
+
+0.29
+
+184.61
+
+89.48
+
+-
+
+31.54
+
+0.01
+
+305.93
+
+Other financial assets – non-current
+
+-
+
+-
+
+22.40
+
+-
+
+-
+
+-
+
+22.40
+
+-
+
+1.60
+
+46.32
+
+-
+
+-
+
+-
+
+47.92
+
+Other investments – current
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+120.71
+
+-
+
+-
+
+-
+
+-
+
+120.71
+
+Other financial assets – current
+
+-
+
+3.30
+
+47.23
+
+-
+
+25.17
+
+-
+
+75.70
+
+-
+
+0.30
+
+79.73
+
+-
+
+34.55
+
+-
+
+114.58
+
+Other assets – non-current
+
+-
+
+-
+
+23.68
+
+-
+
+@
+
+-
+
+23.68
+
+-
+
+-
+
+27.25
+
+-
+
+0.02
+
+-
+
+27.27
+
+Other assets – current
+
+-
+
+13.17
+
+3.84
+
+-
+
+2.99
+
+-
+
+20.00
+
+-
+
+10.50
+
+3.24
+
+-
+
+2.90
+
+-
+
+16.64
+
+47. Related party transactions (Contd..):
+
+letter dated 20 February 2014 extended
+
+the validity of the said license for 3 months with
+
+condition that entire ISP revenue will be subject
+
+to license fees. This conditional extension by DoT,
+
+was challenged by the Company in TDSAT and
+
+on 18 October 2019 the Company’s petition has
+
+been allowed by TDSAT. DoT has filed an appeal
+
+in Hon’ble Supreme Court, against the said order,
+
+but no stay has been granted by the Hon’ble
+
+Supreme Court and appeal is yet to be heard. The
+
+Company has continued to disclose an amount of
+
+H 1,479.35 crores (31 March 2022: H 1,287.15 crores)
+
+including interest under contingent liabilities. In
+
+the previous year, the Company has signed UL-
+
+ISP License on 6 August 2021 and is duly paying
+
+the license fees thereunder.
+
+iv.
+
+Other claims of H 329.97 crores (31 March 2022:
+
+H 290.41 crores) mainly pertain to routine suits
+
+for collection, commercial disputes, claims from
+
+customers and/or suppliers, BSNL port charges
+
+and claim from Employee State Insurance
+
+Corporation.
+
+3.
+
+During the earlier years, the Company and its
+
+two directors and an ex-employee had received
+
+show cause notices (SCNs) from Directorate of
+
+Enforcement, Ministry of Finance on alleged violation
+
+of the rules and regulations under the Foreign
+
+Exchange Management Act, 1999. The contravention
+
+amount involved in all these notices is H 593 crores.
+
+The liability could extend up to three times the
+
+amount quantified as contravention. The Company
+
+had provided H 4.50 crores as compounding penalty,
+
+based on a legal opinion. During the previous year,
+
+Ministry of Information and Broadcasting approval
+
+was received and based on the same the Company
+
+had filed its application with RBI for compounding
+
+of charges. The Company and the named individuals
+
+in the SCNs filed their replies to the SCNs refuting
+
+the allegations made therein and without prejudice
+
+to their contentions and claims filed compounding
+
+applications with the RBI. RBI vide its separate
+
+orders dated 18 October 2019, had disposed off the
+
+compounding applications and had compounded
+
+the contravention subject of payment of H 1.48
+
+crores by the Company and H 0.14 crores each
+
+by the individuals. The Company had made the
+
+payment on its behalf and also on behalf of the
+
+individuals. Thereafter, the Company and named
+
+individuals have also filed their representation with
+
+ED requesting for the closure of the proceedings.
+
+Based on the management assessment and legal advice
+
+(wherever taken), the Company believes that the above:
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN : 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+Consolidated:
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN : 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+(H in crores)
+
+Particulars
+
+Note
+
+For the year ended
+
+31 March 2023
+
+For the year ended
+
+31 March 2022
+
+I
+
+Revenue from operations
+
+37
+
+17,838.26
+
+16,724.73
+
+II
+
+Other income
+
+26
+
+363.15
+
+332.09
+
+III
+
+Total income (I + II)
+
+18,201.41
+
+17,056.82
+
+IV
+
+Expenses:
+
+Network and transmission expense
+
+27
+
+6,375.49
+
+6,199.49
+
+Employee benefits expense
+
+28
+
+3,597.46
+
+3,040.34
+
+Finance costs
+
+30
+
+432.46
+
+360.25
+
+Depreciation and amortisation expense
+
+31
+
+2,261.81
+
+2,204.54
+
+Operating and other expenses
+
+29
+
+3,547.08
+
+3,258.18
+
+Total expenses (IV)
+
+16,214.30
+
+15,062.80
+
+V
+
+Profit before exceptional items and tax (III-IV)
+
+1,987.11
+
+1,994.02
+
+VI
+
+Exceptional items
+
+32
+
+76.35
+
+5.96
+
+VII
+
+Profit before tax and share of profit of associates (V+VI)
+
+2,063.46
+
+1,999.98
+
+VIII Tax expense/(benefit)
+
+34
+
+a.
+
+Current tax
+
+432.77
+
+431.31
+
+b.
+
+Deferred tax
+
+(136.15)
+
+90.82
+
+296.62
+
+522.13
+
+IX
+
+Profit before share in profit of associates (VII-VIII)
+
+1,766.84
+
+1,477.85
+
+X
+
+Share in profit of associates
+
+10
+
+34.03
+
+6.82
+
+XI
+
+Profit for the year (IX+X)
+
+1,800.87
+
+1,484.67
+
+XII
+
+Other comprehensive income/(loss)
+
+A(i) Items that will not be reclassified to profit or loss
+
+a.
+
+Remeasurements of the defined benefit plans
+
+(26.72)
+
+(51.48)
+
+b.
+
+Tax impact on defined benefit plans
+
+5.89
+
+9.43
+
+c.
+
+Equity instruments through other comprehensive income
+
+11,40
+
+(85.36)
+
+(32.22)
+
+d.
+
+Share of remeasurements of the defined benefit plans in associates
+
+(net of tax)
+
+0.06
+
+-
+
+(106.13)
+
+(74.27)
+
+A(ii) Items that will be reclassified to profit or loss
+
+a.
+
+Exchange differences in translating the financial statements of foreign
+
+operations, net
+
+(522.87)
+
+(219.56)
+
+b.
+
+Effective portion of gains and loss on designated portion of hedging
+
+instruments in a cash flow hedge
+
+18.78
+
+30.93
+
+c.
+
+Tax impact of cash flow hedge
+
+(5.12)
+
+(7.73)
+
+(509.21)
+
+(196.36)
+
+XIII Other comprehensive income/(loss) for the year, net of tax
+
+(615.34)
+
+(270.63)
+
+XIV Total comprehensive income/(loss) for the year, net of tax (XII+XIII)
+
+1,185.53
+
+1,214.04
+
+Profit for the year attributable to:
+
+Owners of the Company
+
+1,795.96
+
+1,481.76
+
+Non-controlling interests
+
+4.91
+
+2.91
+
+Other comprehensive income/(loss) for the year attributable to:
+
+Owners of the Company
+
+(615.34)
+
+(270.63)
+
+Non-controlling interests
+
+-
+
+-
+
+Total comprehensive income/(loss) for the year attributable to:
+
+Owners of the Company
+
+1,180.62
+
+1,211.13
+
+Non-controlling interests
+
+4.91
+
+2.91
+
+Earnings per share
+
+36
+
+(Face value of equity share of H 10 each)
+
+Basic and diluted (H)
+
+63.02
+
+51.99
+
+See accompanying notes forming part of the consolidated financial statements
+
+In terms of our report attached
+
+For S.R. Batliboi & Associates LLP
+
+For and on behalf of the Board of Directors
+
+Chartered Accountants
+
+ICAI Firm Registration No. 101049W/ E300004
+
+HORMUZ ERUCH MASTER
+
+RENUKA RAMNATH
+
+A. S. LAKSHMINARAYANAN
+
+Partner
+
+Chairperson: Managing
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN: 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+i.
+
+Figures in brackets represent outflows:
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN : 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+*Pertains to non controlling shareholders in OASIS Smart SIM Europe SAS, SEPCO Communications (Pty) Limited and Tata Communications Lanka Limited:
+
+letter No. G-25015/6/86OC dated 27
+
+March 1986, transferred all assets and liabilities of the
+
+Overseas Communications Service (“OCS”) (part of
+
+the Department of Telecommunications, Ministry of
+
+Communications) as appearing in the Balance sheet as
+
+at 31 March 1986 to the Company with effect from 1 April
+
+1986. During the financial year 2007-08, the Company
+
+changed its name from Videsh Sanchar Nigam Limited
+
+to Tata Communications Limited and the fresh certificate
+
+of incorporation consequent upon the change of name
+
+was issued by the Registrar of Companies, Mumbai
+
+Maharashtra on 28 January 2008.
+
+The Company is domiciled in India and its registered
+
+office is at VSB, Mahatma Gandhi Road, Fort, Mumbai –
+
+400 001. The Company’s equity and debt are listed on
+
+recognised stock exchanges in India.
+
+Tata Communications Limited and its subsidiaries
+
+(collectively “the Group”) offers international and
+
+national voice and data transmission services, selling
+
+and leasing of bandwidth on undersea cable systems,
+
+internet
+
+connectivity
+
+services
+
+and
+
+other
+
+value-
+
+added services comprising unified conferencing and
+
+collaboration services, managed hosting, mobile global
+
+roaming and signalling services, transponder lease,
+
+television uplinking and other managed services, set up,
+
+own and operate white label Automated Teller Machines
+
+(“ATMs”), data center colocation services, network
+
+management and support and other related services.
+
+The Group also undertakes leasing, letting out, licensing
+
+or developing immovable properties to earn income
+
+of any nature including inter-alia rental, lease, license
+
+income, etc from immovable properties of the Group
+
+including land and buildings.
+
+2. Significant accounting policies
+
+a.
+
+Statement of compliance
+
+The consolidated financial statements of the Group have
+
+been prepared in accordance with Indian Accounting
+
+Standards (Ind AS) notified under the Companies
+
+(Indian Accounting Standards) Rules, 2015 (as amended
+
+from time to time).
+
+b.
+
+Basis
+
+of
+
+preparation
+
+of
+
+consolidated
+
+financial
+
+statements
+
+The consolidated financial statements have been
+
+prepared on a historical cost basis, except for the
+
+following assets and liabilities which have been measured
+
+at fair value:
+
+i.
+
+Derivative financial instruments,
+
+ii.
+
+Certain financial assets and liabilities measured
+
+at fair value (Refer accounting policy regarding
+
+financial instruments).
+
+The accounting policies adopted for preparation
+
+and presentation of financial statements have been
+
+consistently applied. All assets and liabilities have been
+
+classified as current and non-current as per the Group’s
+
+normal operating cycle.
+
+The consolidated financial statements are presented in
+
+Indian Rupees (INR) and all values are rounded to the
+
+nearest crores (INR 00,00,000), except when otherwise
+
+indicated.
+
+c.
+
+Going concern
+
+The financial statements of the Group have been
+
+prepared on a going concern basis. The consolidated
+
+financial statements have been prepared as a going
+
+concern basis including considering continuing financial
+
+support to the Group’s subsidaries with continuing losses
+
+on an accrual basis under the historical cost convention.
+
+d.
+
+Basis of consolidation
+
+The consolidated financial statements comprise the
+
+financial statements of the Company and the entities
+
+controlled by the Company and its associates. Control is
+
+achieved when the Company:
+
+i.
+
+has power over the investee (i.e. existing rights
+
+that give it the current ability to direct the relevant
+
+activities of the investee);
+
+ii.
+
+is exposed or has rights, to variable returns from its
+
+involvement with the investee and has the ability to
+
+use its power over the investee to affect its returns.
+
+The Company reassesses whether or not it controls an
+
+investee if facts and circumstances indicate that there
+
+are changes to one or more of the two elements of
+
+control listed above.
+
+Income and expenses of a subsidiary acquired or disposed
+
+off during the year are included in the consolidated financial
+
+statements from the date the Group obtains control until
+
+the date the Group ceases to control the subsidiary.
+
+Profit
+
+or
+
+loss
+
+and
+
+each
+
+component
+
+of
+
+other
+
+comprehensive income (“OCI”) are attributed to the
+
+owners of the Company and to the non-controlling
+
+interests, even if this results in the non-controlling
+
+interests having a deficit balance.
+
+When necessary, adjustments are made to the financial
+
+statements of subsidiaries to bring their accounting
+
+policies in line with the Group’s accounting policies. The
+
+financial statements of all entities used for the purpose
+
+of consolidation are drawn up to same reporting date as
+
+that of the parent company.
+
+All intragroup assets and liabilities, equity, income,
+
+expenses and cash flows relating to transactions
+
+between members of the Group are eliminated in full on
+
+consolidation.
+
+A change in the ownership interest of a subsidiary, without
+
+a loss of control, is accounted for as an equity transaction.
+
+If the Group losses control over a subsidiary, it:
+
+i.
+
+Derecognises the assets (including goodwill) and
+
+liabilities of the subsidiary
+
+ii.
+
+Derecognises the carrying amount of any non-
+
+controlling interests
+
+iii. Derecognises the cumulative translation differences
+
+recorded in equity
+
+iv.
+
+Recognises the fair value of the consideration
+
+received
+
+v.
+
+Recognises any surplus or deficit in profit or loss
+
+vi. Reclassifies the parent’s share of components previously
+
+recognised in OCI to profit or loss or retained earnings,
+
+as appropriate, as would be required if the Group had
+
+directly disposed off the related assets or liabilities.
+
+e.
+
+Business Combination
+
+Acquisitions of business are accounted for using the
+
+acquisition method. The consideration transferred in a
+
+business combination is measured at fair value, which is
+
+calculated as the sum of the acquisition date fair values
+
+of the assets transferred by the Group, liabilities incurred
+
+by the Group to the former owners of the acquiree and
+
+the equity interests issued by the Group in exchange
+
+of control of the acquiree. Acquisition related costs are
+
+generally recognized in profit or loss as incurred.
+
+At the acquisition date, the identifiable assets acquired,
+
+and the liabilities assumed are recognized at their fair
+
+value, except that:
+
+i.
+
+Deferred tax assets or liabilities and assets or
+
+liabilities related to employee benefit arrangements
+
+are recognized and measured in accordance with
+
+Ind AS 12 Income Taxes and Ind AS 19 – Employee
+
+Benefits respectively.
+
+ii.
+
+Assets (or disposal groups) that are classified as held
+
+for sale in accordance with Ind AS 105 Non Current
+
+Assets Held for Sale and Discontinued Operations
+
+are measured in accordance with that Standard.
+
+Goodwill is measured as the excess of the sum of the
+
+consideration transferred, the amount of any non-
+
+controlling interests in the acquiree, and the fair value
+
+of the acquirer’s previously held equity interest in the
+
+acquiree (if any) over the net of the acquisition-date
+
+amounts of the identifiable assets acquired and the
+
+liabilities assumed.
+
+Non-Controlling interests that are present ownership
+
+interests and entitle their holders to a proportionate
+
+share of the entity’s net assets in the event of liquidation
+
+may be initially measured either at fair value or at the
+
+non-controlling interests’ proportionate share of the
+
+recognized amounts of the acquiree’s identifiable net
+
+assets. The choice of basis of measurement basis is
+
+made on transaction-by-transaction basis.
+
+When the consideration transferred by the Group in a
+
+business combination includes assets or liabilities resulting
+
+from a contingent consideration, they are measured at
+
+its acquisition-date fair value and included as part of
+
+the consideration transferred in a business combination.
+
+Changes in the fair value of the contingent consideration
+
+that qualify as measurement period adjustments are
+
+adjusted retrospectively, with corresponding adjustments
+
+against goodwill or capital reserve, as the case may be.
+
+Measurement period adjustments are adjustments that
+
+arise from additional information obtained during the
+
+‘measurement period’ (which cannot exceed one year
+
+from the acquisition date) about facts and circumstances
+
+that existed at the acquisition date.
+
+The subsequent accounting for changes in the fair value
+
+of the contingent consideration that do not qualify as
+
+measurement period adjustments depends on how
+
+the contingent consideration is classified. Contingent
+
+consideration that is classified as equity is not remeasured
+
+at subsequent settlement dates and is accounted for
+
+within equity. Contingent consideration that is classified
+
+as an asset or a liability is remeasured at fair value at
+
+subsequent reporting dates with the corresponding gain
+
+or loss being recognized in profit or loss.
+
+When a business combination is achieved in stages, the
+
+Group’s previously held equity interest in the acquiree
+
+is remeasured to its acquisition-date fair value and the
+
+resulting gain or loss, if any, is recognized in profit or
+
+loss statement. Amounts arising from interests in the
+
+acquiree prior to the acquisition date that have previously
+
+been recognised in other comprehensive income are
+
+reclassified to profit or loss where such treatment would
+
+be appropriate if that interest were disposed off.
+
+If the initial accounting for a business combination is
+
+incomplete by the end of the reporting period in which
+
+the combination occurs, the Group reports provisional
+
+amounts for the items for which the accounting is:
+
+letter of comfort
+
+fees to its subsidiaries. Accordingly, tax expense
+
+for the previous year includes an amount of H 23.95
+
+crores (including interest) for the earlier years.
+
+b.
+
+During the previous year, based on management
+
+assessment of future taxable profits of few of its
+
+subsidiaries, the Group reversed the deferred tax
+
+assets of H 74.46 crore.
+
+c.
+
+At each reporting date, Management assesses
+
+positive or negative evidence that could impact their
+
+perspective on the future realization of deferred
+
+tax assets. As of 31 March 2023, Management has:
+
+Managing Director
+
+of the Company together as a Group constitute the
+
+“Chief
+
+Operating
+
+Decision
+
+Makers”
+
+(CODM)
+
+and
+
+allocate resources to and assess the performance of the
+
+segments of the Group.
+
+The Group (the Company and its subsidiaries together
+
+referred to as “the Group”) has identified the following
+
+operating segments based on the organizational
+
+structure and for which discrete financial information
+
+including segment results is available:
+
+a.
+
+Voice Solutions (VS) includes International and
+
+National Long-Distance Voice services.
+
+b.
+
+Data and Managed Services (DMS) include Core and
+
+Nextgen Connectivity services, Digital platforms
+
+and connected services.
+
+c.
+
+Payment Solutions (PS) includes end-to-end ATM
+
+deployment end-to-end POS enablement hosted
+
+core banking end to end financial inclusion and
+
+card issuance and related managed services and
+
+switching services to banking sector carried out
+
+by Company’s wholly owned subsidiary Tata
+
+Communications Payment Solutions Limited.
+
+d.
+
+Transformation
+
+Services
+
+(TS)
+
+includes
+
+the
+
+business of providing telecommunication network
+
+management and support services. These services
+
+are carried out by the Company’s wholly owned
+
+subsidiary Tata Communications Transformation
+
+Services Limited and its subsidiaries.:
+
+Managing Director and CEO
+
+f.
+
+Others
+
+Peoplestrong Technologies Private Limited
+
+Go Digit General Insurance Limited (upto 31 March 2023)
+
+Tata Communications Transformation Services Limited
+
+Employees Gratuity Trust
+
+Alamelu Charitable Foundation
+
+Go Digit Infoworks Services Private Limited
+
+Multiples Alternate Asset Management Private Limited
+
+Sentiss Pharma Private Limited
+
+Infogain India Private Limited
+
+Globalgyan Academy Of Management Education Pvt. Ltd
+
+Tata Communications Employee's Provident Fund Trust
+
+Tata Communications Employee's’ Gratuity Fund Trust
+
+Spire Technologies & Solutions Pvt. Ltd.
+
+Zenex Animal Health India Private Limited (Formerly Known
+
+As Nutrizvit Animal Health India Private Limited)
+
+43. Related party transactions (Contd..)
+
+* Where transactions have taken place
+
+43. Related party transactions (Contd..)
+
+Reimbursement made of expenses incurred by related party for business purpose of the Group, or reimbursement received for
+
+expenses incurred by the Group on behalf of a related party shall not be deemed related party transactions.
+
+ii.
+
+Summary of transactions with related parties
+
+(H in crores)
+
+Particulars
+
+Ultimate Holding
+
+Company and
+
+Controlling Entity
+
+Affiliates
+
+Key
+
+Management
+
+Personnel
+
+Associates
+
+Others
+
+Total
+
+Transactions with related parties
+
+Dividend paid
+
+347.26
+
+-
+
+-
+
+-
+
+-
+
+347.26
+
+234.86
+
+-
+
+-
+
+-
+
+-
+
+234.86
+
+Brand equity expenses
+
+36.58
+
+-
+
+-
+
+-
+
+- 36.58
+
+36.52
+
+-
+
+-
+
+-
+
+-
+
+36.52
+
+Revenue from telecommunication services
+
+2.15
+
+1,528.81
+
+-
+
+198.41
+
+3.25
+
+1,732.62
+
+2.14
+
+1,316.04
+
+-
+
+192.39
+
+0.47
+
+1,511.04
+
+Network and transmission
+
+-
+
+203.57
+
+-
+
+87.19
+
+-
+
+290.76
+
+-
+
+228.39
+
+-
+
+78.13
+
+-
+
+306.52
+
+Purchase of property plant and equipment and other intangible assets
+
+-
+
+113.53
+
+-
+
+2.66
+
+-
+
+116.19
+
+-
+
+41.32
+
+-
+
+0.96
+
+-
+
+42.28
+
+Additions to Right of Use assets
+
+-
+
+5.74
+
+-
+
+-
+
+-
+
+5.74
+
+-
+
+5.16
+
+-
+
+-
+
+-
+
+5.16
+
+Services rendered
+
+-
+
+3.18
+
+-
+
+8.64
+
+-
+
+11.82
+
+-
+
+12.71
+
+-
+
+8.37
+
+-
+
+21.08
+
+Services received
+
+0.11
+
+178.58
+
+-
+
+8.31
+
+11.84
+
+198.84
+
+0.32
+
+169.84
+
+-
+
+8.96
+
+0.93
+
+180.05
+
+Equity capital contribution
+
+-
+
+1.84
+
+-
+
+90.51
+
+-
+
+92.35
+
+-
+
+-
+
+-
+
+169.59
+
+-
+
+169.59
+
+Managerial remuneration
+
+-
+
+-
+
+15.40
+
+-
+
+-
+
+15.40
+
+-
+
+-
+
+16.05
+
+-
+
+-
+
+16.05
+
+Purchase of current investments
+
+-
+
+337.23
+
+-
+
+-
+
+-
+
+337.23
+
+-
+
+463.78
+
+-
+
+-
+
+-
+
+463.78
+
+Redemptions of current investments
+
+-
+
+466.15
+
+-
+
+-
+
+-
+
+466.15
+
+-
+
+439.48
+
+-
+
+-
+
+-
+
+439.48
+
+Contribution to gratuity trust
+
+-
+
+-
+
+-
+
+-
+
+23.00
+
+23.00
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Contribution to PF trust
+
+-
+
+-
+
+-
+
+-
+
+143.93
+
+143.93
+
+-
+
+-
+
+-
+
+-
+
+128.49
+
+128.49
+
+Interest on lease liabilities (forms part of lease payouts of J 1.57 crores (2021-22) J 1.10 crores)
+
+-
+
+0.39
+
+-
+
+-
+
+-
+
+0.39
+
+-
+
+0.18
+
+-
+
+-
+
+0.18:
+
+letter dated 20 February 2014 extended the validity
+
+of the said license for 3 months with condition that
+
+entire ISP revenue will be subject to license fees.
+
+This conditional extension by DoT, was challenged
+
+by the Company in TDSAT and on 18 October 2019
+
+the Company’s petition has been allowed by TDSAT.
+
+DoT has filed an appeal in Hon’ble Supreme Court,
+
+against the said order, but no stay has been granted
+
+by the Hon’ble Supreme Court and appeal is yet to
+
+be heard. The Company has continued to disclose
+
+an amount of H 1,479.35 crores (31 March 2022: H
+
+1,287.15 crores) including interest under contingent
+
+liabilities. In the previous year, the Company had
+
+signed UL-ISP License on 6 August 2021 and is duly
+
+paying the license fees thereunder.
+
+iv.
+
+Other claims of H 337.85 crores (31 March 2022:
+
+H 290.41 crores) mainly pertain to routine suits
+
+for collection, commercial disputes, claims from
+
+customers and/or suppliers, BSNL port charges and
+
+claim from Employee State Insurance Corporation.
+
+v.
+
+During the earlier years, the Company and its
+
+two directors and an ex-employee had received
+
+show cause notices (SCNs) from Directorate of
+
+Enforcement, Ministry of Finance on alleged violation
+
+of the rules and regulations under the Foreign
+
+Exchange Management Act, 1999. The contravention
+
+amount involved in all these notices is H 593 crores.
+
+The liability could extend up to three times the
+
+amount quantified as contravention. The Company
+
+had provided H 4.50 crores as compounding penalty,
+
+based on a legal opinion. During the previous year,
+
+Ministry of Information and Broadcasting approval
+
+was received and based on the same the Company
+
+had filed its application with RBI for compounding
+
+of charges. The Company and the named individuals
+
+in the SCNs filed their replies to the SCNs refuting
+
+the allegations made therein and without prejudice
+
+to their contentions and claims filed compounding
+
+applications with the RBI. RBI vide its separate
+
+orders dated 18 October 2019, had disposed off the
+
+compounding applications and had compounded
+
+the contravention subject of payment of H 1.48
+
+crores by the Company and H 0.14 crores each
+
+by the individuals. The Company had made the
+
+payment on its behalf and also on behalf of the
+
+individuals. Thereafter, the Company and named
+
+individuals have also filed their representation with
+
+ED requesting for the closure of the proceedings.
+
+vi. Based on the management assessment and legal
+
+advice, wherever taken, the Group believes that the
+
+above claims are not probable and would not result in
+
+outflow of resources embodying economic benefits.
+
+b.
+
+Capital commitments:
+
+Estimated amount of contracts remaining to be executed
+
+on capital account, not provided for amount to H 1,470.46
+
+crores (31 March 2022: H 1,360.77 crores) (net of capital
+
+advances). Further Group’s share in associate’s capital
+
+commitment is H 342.77 crores (31 March 2022: H 114.68
+
+crores) (net of capital advances).
+
+As at 31 March 2023, the Group has remaining
+
+commitment of H 37.80 crores (equivalent of USD 4.60
+
+million) (31 March 2022: H 34.86 crores (equivalent of
+
+USD 4.60 million)) towards investments in Northgate
+
+Telecom Innovations Partners, L.P., one of the investee.
+
+46. The DOT has amended the definition of Gross Revenue
+
+(GR) /AGR in the Unified License and including licenses
+
+held by the Company. The new definition allows
+
+for deduction of revenue from activities other than
+
+telecom activities / operations which is less than 20%
+
+of the total revenue from operations. The association
+
+of Internet Service providers has written to the DOT,
+
+seeking clarification on certain non-licensed services
+
+that it provides and in the interim, the Company has
+
+considered the revenue from such services under the
+
+deduction provided by the new definition. The Company
+
+also obtained independent legal view in this regard.
+
+47. Dividend
+
+remitted
+
+to
+
+non-resident
+
+shareholders
+
+The Company has not remitted any amount in foreign
+
+currencies on account of dividend during the year.
+
+The particulars of final dividend paid to non – resident
+
+shareholders are as under:
+
+Particulars
+
+For the year
+
+ended 31
+
+March 2023
+
+For the year
+
+ended 31
+
+March 2022
+
+Number of non – resident
+
+shareholders
+
+4,150
+
+2,257
+
+Number of shares held by them
+
+53,629,828
+
+69,378,890
+
+Year to which the dividend
+
+relates
+
+2021-2022
+
+2020-2021
+
+Amount remitted (net of tax)(
+
+H in crores)
+
+89.49
+
+77.26
+
+45. Contingent
+
+liabilities
+
+and
+
+Commitments:
+
+(Contd..)
+
+45. Contingent
+
+liabilities
+
+and
+
+Commitments:
+
+(Contd..):
+
+Managing Director & CEO
+
+Membership No. 110797
+
+DIN : 00147182
+
+DIN : 08616830
+
+Mumbai
+
+Mumbai
+
+KABIR AHMED SHAKIR
+
+ZUBIN ADIL PATEL
+
+Chief Financial Officer
+
+Company Secretary
+
+Mumbai
+
+Mumbai
+
+Mumbai
+
+Date: 19 April 2023
+
+Date: 19 April 2023
+
+Statement pursuant to Section 129 (3) of the Companies Act, 2013
+
+H in crores
+
+Sl.
+
+No.
+
+Name of the subsidiary company
+
+Percentage
+
+Holding
+
+Reporting
+
+currency
+
+Exchange
+
+rate
+
+Share
+
+Capital
+
+Reserves
+
+Total
+
+Assets
+
+Total
+
+Liabilities
+
+Investment
+
+Details (except
+
+in case of
+
+investment in
+
+the subsidiaries)
+
+Total
+
+Turnover
+
+Profit/
+
+(Loss)
+
+before
+
+Taxation
+
+Provision
+
+for
+
+Taxation
+
+Profit/
+
+(Loss)
+
+after
+
+Taxation
+
+Proposed
+
+Dividend
+
+1
+
+Tata Communications Payment
+
+Solutions Limited
+
+100%
+
+INR
+
+NA
+
+1,217.09
+
+(1,113.01)
+
+520.21
+
+416.12
+
+-
+
+185.36
+
+(64.04)
+
+-
+
+(64.04)
+
+-
+
+2
+
+Tata Communications Transformation
+
+Services Limited
+
+100%
+
+INR
+
+NA
+
+0.50
+
+269.89
+
+705.34
+
+434.95
+
+-
+
+1,338.06
+
+(1.87)
+
+0.44
+
+(2.31)
+
+-
+
+3
+
+Tata Communications Collaboration
+
+Services Private Limited
+
+100%
+
+INR
+
+NA
+
+0.04
+
+109.54
+
+151.47
+
+41.89
+
+-
+
+91.86
+
+14.59
+
+2.29
+
+12.30
+
+-
+
+4
+
+Tata Communications Lanka Limited
+
+90.00%
+
+USD
+
+82.17
+
+9.84
+
+37.85
+
+62.93
+
+15.24
+
+-
+
+78.01
+
+13.79
+
+(1.84)
+
+15.63
+
+2.51
+
+5
+
+Tata Communications (UK) Limited
+
+100%
+
+USD
+
+82.17
+
+111.28
+
+(438.64)
+
+857.04
+
+1,184.40
+
+-
+
+1,934.38
+
+100.74
+
+(32.22)
+
+132.96
+
+-
+
+6
+
+Tata Communications (Canada) Ltd.
+
+100%
+
+USD
+
+82.17
+
+604.11
+
+(2,489.40)
+
+527.19
+
+2,412.48
+
+0.01
+
+1,224.04
+
+0.02
+
+0.53
+
+(0.51)
+
+-
+
+7
+
+Tata Communications (France) SAS
+
+100%
+
+USD
+
+82.17
+
+167.56
+
+0.55
+
+532.60
+
+364.49
+
+-
+
+375.37
+
+79.50
+
+12.18
+
+67.32
+
+-
+
+8
+
+Tata Communications (Brazil)
+
+Participacoes Limitada
+
+100%
+
+USD
+
+82.17
+
+11.91
+
+(2.25)
+
+9.71
+
+0.05
+
+-
+
+-
+
+(0.25)
+
+-
+
+(0.25)
+
+-
+
+9
+
+Tata Communications Comunicações
+
+E Multimídia (Brazil) Limitada
+
+100%
+
+USD
+
+82.17
+
+10.30
+
+(2.36)
+
+18.13
+
+10.19
+
+-
+
+27.26
+
+3.32
+
+4.98
+
+(1.65)
+
+-
+
+10
+
+Tata Communications (America) Inc.
+
+100%
+
+USD
+
+82.17
+
+1,862.01
+
+(142.17)
+
+2,766.05
+
+1,046.21
+
+288.52
+
+2,148.34
+
+206.58
+
+(87.19)
+
+293.76
+
+-
+
+11
+
+Tata Communications Deutschland
+
+Gmbh
+
+100%
+
+USD
+
+82.17
+
+0.28
+
+(358.75)
+
+159.13
+
+517.60
+
+-
+
+516.68
+
+7.58
+
+3.32
+
+4.26
+
+-
+
+12
+
+Tata Communications (Italy) S.R.L
+
+100%
+
+USD
+
+82.17
+
+58.75
+
+(57.51)
+
+50.72
+
+49.48
+
+-
+
+62.78
+
+(1.09)
+
+-
+
+(1.09)
+
+-
+
+13
+
+Tata Communications (Spain), S.L.
+
+100%
+
+USD
+
+82.17
+
+4.42
+
+170.37
+
+216.00
+
+41.21
+
+-
+
+111.64
+
+7.38
+
+1.02
+
+6.37
+
+-
+
+14
+
+Tata Communications (Nordic) AS
+
+100%
+
+USD
+
+82.17
+
+0.14
+
+5.09
+
+60.94
+
+55.71
+
+-
+
+44.85
+
+1.03
+
+0.32
+
+0.71
+
+-
+
+15
+
+Tata Communications (Australia) Pty
+
+Limited
+
+100%
+
+USD
+
+82.17
+
+2.93
+
+23.57
+
+88.51
+
+62.01
+
+-
+
+162.81
+
+(4.05)
+
+(1.97)
+
+(2.08)
+
+-
+
+16
+
+Tata Communications (Bermuda)
+
+Limited
+
+100%
+
+USD
+
+82.17
+
+0.11
+
+(3,280.89)
+
+3,355.44
+
+6,636.22
+
+-
+
+1,098.27
+
+155.72
+
+-
+
+155.72
+
+-
+
+17
+
+Tata Communications (Hong Kong)
+
+Limited
+
+100%
+
+USD
+
+82.17
+
+65.92
+
+(318.87)
+
+178.58
+
+431.53
+
+0.54
+
+512.50
+
+14.83
+
+0.00
+
+14.83
+
+-
+
+18
+
+Tata Communications (Poland) SP.
+
+Z O. O.
+
+100%
+
+USD
+
+82.17
+
+5.99
+
+(4.47)
+
+9.92
+
+8.41
+
+-
+
+15.89
+
+0.05
+
+0.40
+
+(0.35)
+
+-
+
+19
+
+Tata Communications Services
+
+(International) Pte. Ltd.
+
+100%
+
+USD
+
+82.17
+
+2.83
+
+41.25
+
+47.39
+
+3.31
+
+-
+
+19.52
+
+5.77
+
+2.45
+
+3.32
+
+-
+
+20
+
+ITXC IP Holdings S.A.R.L.
+
+100%
+
+USD
+
+82.17
+
+0.13
+
+5.54
+
+14.76
+
+9.09
+
+-
+
+8.26
+
+4.95
+
+0.55
+
+4.40
+
+-
+
+21
+
+Tata Communications (Netherlands)
+
+B.V.
+
+100%
+
+USD
+
+82.17
+
+1,477.42
+
+(508.03)
+
+6,466.72
+
+5,497.33
+
+-
+
+1,874.43
+
+28.37
+
+7.35
+
+21.03
+
+-
+
+22
+
+Tata Communications (Sweden) AB
+
+100%
+
+USD
+
+82.17
+
+3.00
+
+(2.13)
+
+33.10
+
+32.23
+
+-
+
+39.83
+
+(0.66)
+
+0.12
+
+(0.78)
+
+-
+
+23
+
+Tata Communications (Portugal)
+
+Instalação E Manutenção De Redes,
+
+Lda
+
+100%
+
+USD
+
+82.17
+
+498.89
+
+(488.53)
+
+59.26
+
+48.90
+
+-
+
+33.29
+
+3.19
+
+1.24
+
+1.95
+
+-
+
+24
+
+Tata Communications (Portugal),
+
+Unipessoal Lda
+
+100%
+
+USD
+
+82.17
+
+11.45
+
+0.58
+
+12.31
+
+0.28
+
+-
+
+-
+
+0.10
+
+0.04
+
+0.06
+
+-
+
+25
+
+Tata Communications (Russia) LLC.
+
+99.90%
+
+USD
+
+82.17
+
+0.72
+
+19.05
+
+28.33
+
+8.56
+
+-
+
+12.12
+
+0.41
+
+3.87
+
+(3.46)
+
+-
+
+26
+
+Tata Communications (Switzerland)
+
+GmbH
+
+100%
+
+USD
+
+82.17
+
+3.90
+
+2.76
+
+35.25
+
+28.58
+
+-
+
+48.45
+
+1.07
+
+0.05
+
+1.01
+
+-
+
+27
+
+Tata Communications (Belgium) SRL
+
+100%
+
+USD
+
+82.17
+
+27.42
+
+(26.47)
+
+6.59
+
+5.64
+
+-
+
+9.72
+
+(0.02)
+
+-
+
+(0.02)
+
+-
+
+PART “A” - SUBSIDIARIES:
+

@@ -1,0 +1,1100 @@
+Letter: Presentation of pro forma financial
+
+information dated 4 March 2010 and in accordance with
+
+paragraphs 8.15 to 8.33 in the JSE Listings Requirements,
+
+the Revised SAICA Guide on Pro forma Financial
+
+Information (issued September 2014) and International
+
+Standard on Assurance Engagement (“ISAE”) 3420 –
+
+Assurance Engagements to Report on the Compilation of
+
+Pro forma Financial Information included in a Prospectus,
+
+to the extent applicable given the Non-IFRS Financial
+
+Information’s nature. This pro forma financial information
+
+has been reported on by KPMG Inc in terms of ISAE 3420
+
+and their unmodified report is available for inspection on
+
+the Ninety One website (www.ninetyone.com).
+
+These non-IFRS measures, including reconciliations to their
+
+nearest consolidated financial statements equivalents, are
+
+as follows:
+
+£ million
+
+Full year
+
+2022
+
+Full year
+
+2021
+
+Net revenue
+
+663.9
+
+625.1
+
+Adjusted for:
+
+Silica third-party revenue
+
+—
+
+(18.9)
+
+Foreign exchange gain/(loss)
+
+1.2
+
+(6.3)
+
+Net gain on investments
+
+1.2
+
+15.6
+
+Deferred employee benefit
+
+scheme gain
+
+(3.4)
+
+(14.2)
+
+Subletting income
+
+(1.3)
+
+—
+
+Share of profit from associates
+
+0.4
+
+0.6
+
+Other income
+
+1.9
+
+1.6
+
+Adjusted operating revenue
+
+663.9
+
+603.5
+
+Of which management fees
+
+632.8
+
+561.0
+
+Of which performance fees
+
+31.1
+
+45.4
+
+Of which foreign exchange
+
+gain/(loss)
+
+1.2
+
+(6.3)
+
+Of which other (loss)/income
+
+(1.2)
+
+3.4
+
+£ million
+
+Full year
+
+2022
+
+Full year
+
+2021
+
+Operating expenses
+
+416.3
+
+425.0
+
+Adjusted for:
+
+Silica net expenses
+
+—
+
+(17.2)
+
+Share scheme net credit
+
+18.1
+
+—
+
+Deferred employee benefit
+
+scheme gain
+
+(3.4)
+
+(14.2)
+
+Subletting income
+
+(1.3)
+
+—
+
+Interest expense on lease liabilities
+
+3.8
+
+3.7
+
+Adjusted operating expenses
+
+433.5
+
+397.3
+
+£ million
+
+Full year
+
+2022
+
+Full year
+
+2021
+
+Staff expenses
+
+276.4
+
+284.4
+
+Adjusted for:
+
+Silica staff expenses
+
+—
+
+(14.1)
+
+Share scheme net credit
+
+18.1
+
+—
+
+Other items
+
+(0.1)
+
+1.0
+
+Employee remuneration
+
+294.4
+
+271.3
+
+£ million
+
+Full year
+
+2022
+
+Full year
+
+2021
+
+Adjusted operating revenue
+
+663.9
+
+603.5
+
+Adjusted operating expenses
+
+(433.5)
+
+(397.3)
+
+Adjusted operating profit
+
+230.4
+
+206.2
+
+Adjusted operating profit margin
+
+34.7%
+
+34.2%
+
+£ million
+
+Full year
+
+2022
+
+Full year
+
+2021
+
+Net interest expense
+
+(0.1)
+
+(1.5)
+
+Adjusted for:
+
+Interest expense on lease liabilities
+
+3.8
+
+3.7
+
+Adjusted net interest income
+
+3.7
+
+2.2
+
+Foreign currency
+
+The financial information is prepared in British pound
+
+sterling. The results of operations and the financial
+
+condition of individual companies are reported in the local
+
+currencies of the countries in which they are domiciled,
+
+including South African rand and US dollar. These results
+
+are then translated into pounds sterling at the applicable
+
+foreign currency exchange rates for inclusion in the
+
+consolidated financial statements. The following table sets
+
+out the movement in the relevant exchange rates against
+
+pounds sterling for the twelve months ended 31 March
+
+2021 and 2022.
+
+31 March 2022
+
+31 March 2021
+
+Year end
+
+Average
+
+Year end
+
+Average
+
+SA rand
+
+19.03
+
+20.29
+
+20.39
+
+21.35
+
+US dollar
+
+1.31
+
+1.37
+
+1.38
+
+1.31
+
+47
+
+Strategic Report
+
+Governance
+
+Financial Statements
+
+Additional Information:
+
+Dear shareholders
+
+I am pleased to introduce our Governance Report for the
+
+financial year 2022. Effective corporate governance is
+
+an integral part of our efforts to build a better firm and
+
+contribute to a better world, in line with our corporate
+
+purpose. This report sets out how the boards of Ninety One
+
+plc and Ninety One Limited (together the “Board”) and our
+
+committees operated and discharged their duties during
+
+the year. It also details the governance framework for
+
+Ninety One plc and its subsidiaries and Ninety One Limited
+
+and its subsidiaries (together “Ninety One” or the “Group”),
+
+and how we have applied the provisions of the UK
+
+Corporate Governance Code (the “UK Code”) and the
+
+South African King IV Code on Corporate Governance
+
+(“King IV”).
+
+Governance structure
+
+Ninety One operates as a dual-listed company (“DLC”)
+
+under a DLC structure with a governance framework
+
+derived from and aligned to the requirements of the UK
+
+Code and King IV. The DLC structure comprises Ninety One
+
+plc and Ninety One Limited. Ninety One plc is a public
+
+company incorporated in the UK, with a primary listing on
+
+the LSE and a secondary listing on the JSE. Ninety One
+
+Limited is a public company incorporated in South Africa
+
+and listed on the JSE. The Board of Directors of Ninety One
+
+plc and Ninety One Limited are identical in terms of their
+
+composition and Board meetings are held jointly. The Board
+
+is responsible for the management, direction and
+
+performance of the Group.
+
+The Board has established five common committees under
+
+the DLC structure: DLC Audit and Risk Committee, DLC
+
+Human Capital and Remuneration Committee, DLC
+
+Nominations and Directors’ Affairs Committee, DLC
+
+Sustainability, Social and Ethics Committee and a DLC
+
+Disclosure Committee. Where the Board delegates
+
+specific powers for some matters to committees, the
+
+outputs from each committee meeting are reported to the
+
+Board, ensuring the necessary oversight. The Board and all
+
+committees have access to independent expert advice
+
+and the services of the company secretaries of Ninety One
+
+plc and Ninety One Limited (together the “Company
+
+Secretary”). You can find the current terms of reference,
+
+which are reviewed annually, on Ninety One’s website at
+
+www.ninetyone.com.
+
+The Board delegates daily management responsibility
+
+for Ninety One to the Chief Executive Officer. My role as
+
+Chairman and the role of the Chief Executive Officer are
+
+separate, clearly defined in writing and have been agreed
+
+by the Board. The Chief Executive Officer is supported by
+
+executive management in managing and developing the
+
+business and delivering on the Board’s approved strategy.
+
+The Chief Executive Officer has also established a number
+
+of management committees to assist with managing the
+
+Group’s business. Further details are set out in the Strategic
+
+Report on page 49.
+
+The nature of the DLC structure, the identical composition
+
+of the boards and the single committee structure enables
+
+the effective management of the dual-listed companies
+
+as a single unified economic enterprise with due
+
+consideration being given to the interests of the
+
+ordinary shareholders of both Ninety One plc and
+
+Ninety One Limited.
+
+Corporate Governance Report
+
+Chairman’s Introduction
+
+Effective corporate governance
+
+is an integral part of our efforts to
+
+build a better firm and contribute
+
+to a better world, in line with our
+
+corporate purpose.
+
+Ninety One Integrated Annual Report 2022
+
+58:
+
+Dear shareholders
+
+I am pleased to present the DLC Nominations and
+
+Directors’ Affairs Committee report for the financial
+
+year 2022.
+
+The role of the committee is to ensure that Ninety One
+
+continues to have an inclusive and high-performing
+
+leadership, supported by a workforce that has the freedom
+
+to build a successful, long-term and intergenerational
+
+business for all our stakeholders.
+
+In the interests of demonstrating independence and to
+
+ensure compliance with the UK Code and King IV, the
+
+membership of the committee was updated this year.
+
+Hendrik du Toit stepped down as a member on 18 May 2021
+
+and we welcomed Busisiwe Mabuza, who now sits
+
+alongside Idoya Basterrechea Aranda as members
+
+of the committee with me as the Chair.
+
+The key activities undertaken by the committee during
+
+the year are described on page 68. The committee has
+
+continued to support the workings of the Board and its
+
+interactions with the Executives. The committee reviewed
+
+succession plans and oversaw the Board’s first externally
+
+facilitated evaluation. Board development has also been
+
+a focus area, particularly in relation to a more in depth
+
+understanding of Ninety One’s sustainability strategy. The
+
+committee is happy to report that despite the challenges
+
+of the COVID-19 pandemic, members of this relatively new
+
+Board have coalesced to provide leadership, guidance and
+
+challenge to management, and remained effective.
+
+Governance
+
+Financial Statements
+
+Additional Information
+
+67
+
+Strategic Report:
+
+Dear shareholders
+
+I am pleased to present the DLC Audit and Risk Committee
+
+report for the financial year 2022.
+
+Reporting to the Board, the committee is responsible
+
+for overseeing the integrity of Ninety One’s financial
+
+statements and the adequacy and effectiveness of its
+
+systems of internal control and risk management. This
+
+includes oversight of the viability statement process and
+
+ensuring that the Integrated Annual Report meets the
+
+criteria for being fair, balanced and understandable.
+
+The committee oversees the monitoring of Ninety One’s
+
+principal risks, Risk Appetite Policy and capital adequacy
+
+process, as well as reviewing its global IT strategy. In
+
+addition, the committee continued to keep under review
+
+Ninety One’s control environment as well as the impact
+
+of the ongoing challenges of the COVID-19 pandemic.
+
+Throughout the year, the committee received updates
+
+and briefings from the external auditor and management
+
+on regulatory changes and key developments. The
+
+committee also kept a watching brief on emerging risks,
+
+such as those that may be associated with climate change.
+
+The committee is constituted as a statutory committee
+
+as required by the South African Companies Act 2008 and
+
+its membership remains unchanged. All members are
+
+independent Non-Executive Directors and satisfy the
+
+relevant requirements of the UK Code and King IV. The
+
+Board has confirmed that the members of the committee
+
+have the necessary expertise required to provide effective
+
+challenge to management and are considered to have
+
+appropriate, recent and relevant experience to effectively
+
+discharge their duties under the committee’s terms of
+
+reference. Biographical details and experience of the
+
+members can be found on pages 60 to 61 and details
+
+of meeting attendance on page 63.
+
+Ninety One Integrated Annual Report 2022
+
+70:
+
+letter included a schedule of minor improvements for
+
+consideration in the preparation of the 31 March 2022
+
+Integrated Annual Report which the FRC believed users
+
+of the accounts could benefit from increased disclosure.
+
+No response to the: letter was required from Ninety One,
+
+other than acknowledgment of receipt of the letter.
+
+The FRC’s review provides no assurance that the
+
+Integrated Annual Report is correct in all material aspects.
+
+The FRC’s role is not to verify the information provided, but
+
+to consider compliance with reporting requirements. The
+
+committee welcomes the comments from the FRC and
+
+these have been incorporated by management where
+
+appropriate to ensure increased transparency in Ninety
+
+One’s corporate reporting. The committee also received
+
+the outcome of the FRC’s Audit Quality Review of KPMG’s
+
+audit of Ninety One’s 2021 financial statements, undertaken
+
+as part of the FRC’s annual inspection of audit firms, in
+
+which no areas of concern were identified.
+
+Jatin Patel is the lead partner for the UK and Gawie Kolbé is
+
+the lead partner for South Africa and the committee meets
+
+with both partners in private throughout the course of
+
+the year. On the basis of the information provided and
+
+challenge by the committee, both have demonstrated
+
+that they have the appropriate qualifications and expertise
+
+and have remained independent of the Group.
+
+The committee can report that it is satisfied that the external
+
+audit and the external audit process were effective.
+
+As reported last year, the committee completed a tender
+
+process for the appointment of a new auditor, as required
+
+by audit rotation legislation in the UK and South Africa.
+
+Following the Board’s approval of the appointment,
+
+resolutions to appoint PwC as Ninety One’s new external
+
+auditor for the financial year 2023 will be proposed at the
+
+forthcoming AGM.
+
+Non-audit fees
+
+Ninety One’s policy is to engage other firms for non-audit
+
+services other than in exceptional circumstances. Such a
+
+decision requires the approval of the committee Chair
+
+and Finance
+
+Dear shareholders
+
+I am pleased to present the DLC Sustainability, Social and
+
+Ethics Committee report for the financial year 2022.
+
+The Board has delegated to the committee responsibility
+
+for oversight of sustainability, social and ethical matters
+
+relating to the Group. This includes providing guidance
+
+to management in relation to Ninety One’s sustainability
+
+framework and ensuring alignment of a firm-wide approach
+
+to the execution of Ninety One’s sustainability strategy
+
+across the three core components of the framework:
+
+Invest, Advocate and Inhabit. The committee is also
+
+responsible for monitoring the TCFD framework and
+
+reports to the Board on Ninety One’s strategy, commitments,
+
+targets, and performance related to safety, the environment
+
+and other sustainability matters, including climate change.
+
+This year, the committee oversaw the transition from
+
+Sustainability 2.0 – the articulation of the Ninety One
+
+approach to sustainability – to Sustainability 3.0, focused
+
+on real-world impact and deploying more capital behind
+
+our sustainability priorities. The committee recognises and
+
+congratulates management on its efforts at COP26 in
+
+Glasgow, seeking global support for a fair and inclusive
+
+transition towards a more sustainable future. The TCFD and
+
+Sustainability and Stewardship reports are available on the
+
+Ninety One website and set out the Ninety One strategy
+
+and disclosures in detail. The committee also noted the
+
+strategies put in place to assist our people in tracking and
+
+reducing their own carbon footprint through the online
+
+platform Giki Zero.
+
+The committee reviewed the Broad-Based Black Economic
+
+Empowerment (“B-BBEE”) targets and strategy and
+
+is pleased to report that for the financial year 2022,
+
+Ninety One is rated a Level 1 Contributor under the B-BBEE
+
+scorecard. This is a testament to Ninety One’s commitment
+
+supporting economic transformation in South Africa. The
+
+committee considered the work of the Employment Equity
+
+Forum and the range of corporate social investment (“CSI”)
+
+initiatives supported by Ninety One and directed at
+
+conservation, education, and community development.
+
+DLC Sustainability, Social
+
+and Ethics Committee Report
+
+Governance
+
+Financial Statements
+
+Additional Information
+
+75
+
+Strategic Report:
+
+Dear shareholders
+
+I am pleased to present our Directors’ Remuneration
+
+Report for the financial year 2022, being Ninety One’s
+
+second full year as an independent listed business. In
+
+financial year 2022, the business demonstrated its ability
+
+to execute on its strategy and deliver results in an
+
+otherwise volatile environment. This was supported by
+
+intense client engagements and a focus on in-person
+
+employee re-engagement across our geographies after
+
+various and prolonged periods of remote working.
+
+Together, this culminated in excellent outcomes for all
+
+our stakeholders this year – including shareholders,
+
+clients, employees and our communities.
+
+Overview of executive remuneration for the
+
+financial year 2022
+
+Financial and non-financial results were very strong across
+
+all key performance metrics. Notable performance
+
+highlights include:
+
+ɽ
+
+strong financial performance in the context of the
+
+economic environment, including adjusted EPS of
+
+19.2p up 13% for the financial year (2021: 17.0p);
+
+ɽ
+
+net inflows of £5.0 billion (2021: net outflows of
+
+£0.2 billion);
+
+ɽ
+
+weighted investment outperformance of 68.3% over
+
+the three financial years 2020-2022;
+
+ɽ
+
+good shareholder returns in the form of share price
+
+performance and dividends declared;
+
+ɽ
+
+significant progress toward long-term strategic
+
+priorities, particularly in ensuring that sustainability is
+
+at the core of our business and capturing the growth
+
+inherent in our current investment capability set
+
+(see pages 12 to 13 for further details); and
+
+ɽ
+
+intense employee re-engagement after various
+
+and prolonged periods of remote working.
+
+Against the backdrop of this very strong overall
+
+performance, the committee determined that the formulaic
+
+outcome under the Executive Incentive Plan (“EIP”)
+
+scorecard was 92.5% of the maximum award opportunity
+
+for each of the Executive Directors.
+
+The committee gave careful consideration to the formulaic
+
+outcome, alongside the performance achieved, the relative
+
+performance of Ninety One’s peers, and the shareholder,
+
+client and wider workforce experience over the period. The
+
+committee acknowledged that even though the long-term
+
+performance targets for the real annual growth in adjusted
+
+EPS had been set during a period of significant market
+
+volatility during the COVID-19 pandemic, these targets
+
+remained challenging on a long-term basis. Notwithstanding
+
+this, the committee noted that recent market conditions
+
+have been more supportive than initially anticipated.
+
+The committee also recognised that while the short-term
+
+achievements against our sustainability objectives have
+
+been strong, the magnitude of the long-term challenge
+
+to transition to net zero means that these achievements
+
+should be viewed in this light. They represent the foundation
+
+for what the committee hopes will be Ninety One playing a
+
+major role in supporting this transition going forward.
+
+For these reasons, the committee decided to exercise its
+
+discretion and to reduce the overall formulaic outcome
+
+under the EIP scorecard by 3.5% of the maximum award
+
+opportunity, amounting to a combined total reduction
+
+of £339,000.
+
+As a result, the awards to the Executive Directors represent
+
+89% of the maximum award opportunity, recognising an
+
+exceptional level of achievement. The Executive Directors
+
+acknowledged the context and reasons for these
+
+reductions, and fully supported them.
+
+Half of these awards were deferred into shares in Ninety
+
+One plc, further increasing the shareholder alignment
+
+that already exists by virtue of the Executive Directors’
+
+participations in the Marathon Trust. The remainder of the
+
+awards was paid in cash. The deferred elements of the EIP
+
+awards were granted after the 2022 financial results had
+
+been announced and will be subject to vesting and
+
+mandatory retention periods as prescribed under the
+
+Directors’ Remuneration Policy (the “Policy”).
+
+A full disclosure of the financial and non-financial
+
+outcomes relative to targets and metrics is provided
+
+on pages 88 to 90.
+
+The Directors’ Remuneration Report sets
+
+out our approach to remuneration for
+
+Ninety One’s people and Directors
+
+for the financial year 2022.
+
+DLC Human Capital and Remuneration
+
+Committee Report
+
+78
+
+Ninety One Integrated Annual Report 2022:
+
+letter of
+
+appointment under which their appointment can be terminated by either party on three months’ written notice,
+
+except where the Director is not reappointed by shareholders, in which case termination is with immediate effect.
+
+The Human Capital and Remuneration Committee
+
+The committee’s role
+
+The committee’s terms of reference were reviewed and approved on 1 February 2022 and can be viewed on our website at
+
+www.ninetyone.com.
+
+The committee is responsible for determining and developing the Group’s policies for remuneration of the Chairman of the
+
+board, the Executive Directors and senior executives. In determining such policies, the committee will have regard to the
+
+need to attract, retain and motivate directors and senior executives of the quality required to run Ninety One successfully,
+
+in a way that promotes our strategy and long-term success. It will also consider all factors including relevant legal and
+
+regulatory requirements that it deems necessary. This includes the FCA Listing Rules, the UK Corporate Governance Code,
+
+the King IV Report on Corporate Governance for South Africa (2016) the Listings Requirements issued by the JSE Limited
+
+and where relevant, FCA Remuneration Codes covering MIFIDPRU, AIFMD, UCITS, CRD III and MiFID II, as well as all
+
+associated guidance.
+
+The committee is also responsible for reviewing all employee remuneration arrangements, to ensure that they are aligned
+
+with the strategy, culture and values of Ninety One and the health and wellbeing of all employees. It also monitors and
+
+reviews Ninety One’s compliance with good corporate governance in respect of human capital matters, including the
+
+application of the King IV Code and the Companies Act requirements in South Africa. Lastly, the committee reviews the
+
+engagement levels of all employees and ensures that management takes appropriate action to ensure the highest possible
+
+levels of engagement. In fulfilling its responsibilities, the committee will work with other Board committees as appropriate.
+
+Committee advisors
+
+Deloitte LLP were appointed advisor to the committee for the financial year 2022, having been formally appointed during
+
+the year. Deloitte is a founding member of and signatory to the Code of Conduct of the Remuneration Consultants Group.
+
+Deloitte attend the committee meetings as appropriate, and provide advice on executive remuneration, best practice and
+
+market updates.
+
+The committee has formally reviewed the work undertaken by Deloitte and is satisfied that the advice it has received has
+
+been objective and independent.
+
+Fees paid to Deloitte for executive remuneration consulting during the financial year 2022 were £17,400. Deloitte did not
+
+provide any other services to Ninety One during the financial year 2022.
+
+Voting at the 2021 AGM
+
+The following table sets out the outcomes in respect of the most recent AGM votes on the Annual Report on Remuneration
+
+and the Directors’ Remuneration Policy, held on 4 August 2021.
+
+Resolution
+
+% Votes for
+
+% Votes
+
+against
+
+% Votes
+
+withheld
+
+To approve the directors’ remuneration report, for the year ended 31 March 2021
+
+98.33
+
+1.67
+
+0.1
+
+To approve the directors' remuneration policy
+
+96.14
+
+3.86
+
+0.1
+
+Colin Keogh
+
+Chair of the DLC Human Capital and Remuneration Committee
+
+For and on behalf of the Board
+
+Strategic Report
+
+Governance
+
+Financial Statements
+
+Additional Information
+
+99:
+

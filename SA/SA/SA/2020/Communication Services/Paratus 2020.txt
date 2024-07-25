@@ -1,0 +1,1142 @@
+Managing Director’s Report
+
+Chief Financial Officer’s Report
+
+Directors’ Responsibility
+
+Independent Auditor’s Report
+
+Directors’ Report
+
+Statements of Financial Position
+
+Statements of profit or loss and other comprehensive income
+
+Statements of Changes in Equity
+
+Statements of Cash Flows
+
+Accounting Policies
+
+Notes to Financial Statements
+
+Corporate Governance
+
+Investment Committee
+
+Audit, Risk and Compliance Committee
+
+Remuneration and Nomination Committee
+
+Shareholders’ Information
+
+Notice of the Annual Genereral Meeting
+
+Proxy Form
+
+Notes
+
+Corporate information
+
+14
+
+32
+
+36
+
+42
+
+44
+
+46
+
+70
+
+71
+
+76
+
+82
+
+83
+
+84
+
+85
+
+86
+
+93
+
+52
+
+58
+
+60
+
+64
+
+134
+
+138
+
+141
+
+142
+
+144
+
+14
+
+06
+
+10
+
+70
+
+52
+
+134
+
+TABLE OF
+
+CONTENTS:
+
+Managing Director of IJG Securities. Romé has a passion for financial
+
+markets and is extremely well regarded in this space. He developed both of
+
+Namibia’s official bond and equity indices, to which billions of Namibia Dollars
+
+of invested funds are benchmarked by the country and region’s asset managers.
+
+He has managed assets for various companies and individuals, focusing on
+
+customised segregated portfolios for specialised purposes. Romé served as a
+
+director of the NSX from July 2015 to April 2018 and has been involved in a
+
+number of debt and equity listings. He is a local valuation expert, having valued
+
+various companies from start-ups to large mining entities.
+
+STUART HILTON BIRCH (50)
+
+STUART HILTON BIRCH (51)
+
+Appointed: 8 August 2017
+
+Qualifications: B. Comm (Computer Science), MBA
+
+Nationality: South African
+
+Function and Committees: Investment Committee
+
+Background: Stuart has been in the ICT Industry for over 20
+
+years and is currently a co-founder of IRIS Network Systems, a
+
+company that focuses on providing telecommunications and
+
+Internet Service Provider (“ISP”) companies with comprehensive
+
+Network Management Solutions. Stuart is currently the Managing
+
+Director of IRIS Network Systems who delivers and manages
+
+their software and hardware on 178 servers spread over four
+
+continents and in 10 countries. His clients include: - Undersea
+
+cable companies - Pan-African ISPs - Regional ISPs - Data
+
+and VOIP providers – North American regional Carrier Service
+
+Providers. Before IRIS Network Systems, Stuart gained extensive
+
+experience in the ICT Industry working at Dimension Data, of
+
+which Internet Solutions is a subsidiary, where he served clients
+
+in retail, financial services, telecommunications and healthcare.
+
+At Dimension Data, Stuart held positions in Account Management
+
+and Business Development. He was also the Regional Executive
+
+for the Western Cape Region for Internet Solutions where his
+
+JOSEPHINE NAANGO NDAKULILWA SHIKONGO (35)
+
+Appointed: 8 August 2017
+
+Qualifications: Associate Chartered Management Accountant (ACMA),
+
+Chartered Global Management Accountant (CGMA), MPA: Strategic
+
+Public Management & Leadership, CIMA Advanced Diploma in
+
+Management Accounting, CIMA Diploma in Management Accounting,
+
+CIMA Certificate in Business Accounting, National Diploma: Accounting
+
+& Finance
+
+Nationality: Namibian
+
+Function and Committees: Remuneration and Nomination Committee (Chairperson),
+
+Audit, Risk and Compliance Committee
+
+Background: Josephine has over 10 years’ experience in the accounting and finance
+
+field. She has worked in various sectors, including media, telecommunications
+
+and mainly the financial sector. She has served in a managerial capacity at the
+
+Motor Vehicle Accident Fund of Namibia, Agricultural Bank of Namibia and
+
+is currently the Head of Finance and Administration for BFS Nampro Fund
+
+Manager. Her experience includes overseeing the financial and management
+
+accounting functions, procurement and property management, as well as IT
+
+and HR functions. While studying in the US as a Fulbright Scholar, Josephine
+
+worked for the Strategic Initiatives department at World Business Chicago,
+
+an economic development public private partnership that drives the City of
+
+Chicago’s economic growth.
+
+region was awarded Region of the Year at the Annual Dimension Data Sales Awards in both 2007 and 2008 for the Africa
+
+and Middle East region. In 2004 Stuart served on the Dimension Data Western Cape Exco, and on the Internet Solutions Exco
+
+between 2006 and 2010.:
+
+Managing Director - Namibia
+
+Background: Andrew has been in the telecommunications industry for 18
+
+years. He is passionate about customer service and a firm believer in the
+
+under-promise but over-deliver philosophy.
+
+Andrew is very service delivery orientated and is a very good communicator;
+
+having numerous teams reporting to him. Andrew started out in the
+
+telecommunications industry as a technical apprentice in 2001. He
+
+progressed rapidly due to his passion for the industry and the commitment
+
+to ensure projects are completed, implemented and planned meticulously.
+
+He progressed to become the: Managing
+
+Managing Director and Portfolio
+
+Manager for STANLIB Namibia.
+
+Brown was also an investment analyst at Allan Gray Namibia and has
+
+stockbroking experience with Golding Torr De Decker in Johannesburg.:
+
+MANAGING DIRECTOR’S
+
+REPORT
+
+OVERVIEW
+
+The last 6 months will definitely result in 2020 being a year to go down
+
+in the history books with worldwide travel bans, quarantine, curfews and
+
+lockdowns becoming our everyday norm. The impact of this pandemic was
+
+severe on an already struggling economy. The first industry affected was the
+
+tourism industry who overnight lost their customers and the ripple effect on
+
+industries dependent on them followed. The tourism industry contributes to
+
+roughly 6.5% of our turnover. We offered assistance to our customers in the
+
+tourism industry with discount options or temporary suspensions.
+
+We did however also experience an upside to this pandemic which resulted
+
+in a substantial increase in consumer demand with both data usage and
+
+new connections delivering a sharp increase on consumer-based revenue.
+
+The fast and easy customer deployment of the LTE network was a huge
+
+contribution to this consumer revenue increase during the lockdown period.
+
+The agility of adaption and capability of our billing engine also enabled us to
+
+customise and release data packages to market with relative ease.
+
+With all the challenges faced during this past financial period we still
+
+achieved total revenue of N$173.4 million over a 16-month period and
+
+exceeded our set revenue target by 4%.
+
+ASSETS/INVESTMENTS
+
+Our capital expenditure for the financial period March 2019 to June 2020
+
+was N$101 million. The main contributors to this amount was our fiber and
+
+LTE infrastructure expansion. As depicted in the graph below we invested
+
+N$72.6 million in fiber infrastructure and N$12.6 million in our LTE network.
+
+We mainly did fiber deployments in Walvisbay, Swakopmund and Windhoek
+
+with national expansion of our LTE network in Walvisbay, Swakopmund,
+
+Okahandja, Otjiwarongo and Windhoek.
+
+Capex for financial period March 2019 to June 2020
+
+The expansion of our network puts us in the position to supply services and
+
+expand our consumer footprint which currently contributes to about 15% of
+
+our annual revenue.
+
+Our subscriber count over this past financial period increased with 158.5%
+
+on fiber and 36.5% on LTE.
+
+Current market trends have also shown that both corporate and enterprise
+
+customers are also moving towards the use of broadband services as
+
+available capacity on these services have increased tremendously, at more
+
+affordable rates and with the introduction of SD-WAN still makes it possible
+
+for them to experience enterprise level reliability and quality of service.
+
+Factors that have contributed to this are:
+
+1.
+
+SD-WAN and its capability;
+
+2.
+
+Higher capacities available on broadband services with technologies
+
+like fiber and LTE; and
+
+3.
+
+Cost cutting across the board in difficult economic times
+
+With our focus and strategy of fiber and LTE infrastructure deployment it
+
+has perfectly aligned us to provide these services to both existing and new
+
+customers.
+
+INVESTMENT STRATEGY
+
+We will continue to invest in our own infrastructure for the next financial year
+
+with a capital expenditure budget of approximately N$150 million.
+
+Our focus will remain primarily on fiber and also a continued national roll out
+
+of our LTE network.
+
+We also have a back-office systems project planned to improve efficiencies
+
+by means of business process automation. This is also in alignment to cater
+
+for the increase in customers and services offered to consumer.
+
+Paratus is the official landing partner for the Equiano submarine cable in
+
+Namibia, a transaction valued at approximately N$260 million. The cable
+
+landing station, set to be completed in 2021, will be the second submarine
+
+cable landing in Namibia offering the country redundancy and even more
+
+affordable international capacity. This will enable Paratus to leverage even
+
+greater returns on our Trans Kalahari Fiber route due to the sale of capacity
+
+to neighbouring countries.
+
+The PNH board approved the development of a Tier-3 / PCI-compliant data
+
+center, with an expected completion date of 2022 with a total value of N$120
+
+million. The first phase of this data center will house 140 cabinets of which
+
+40% will be taken up by an international anchor tenant. Paratus will also
+
+include an array of value-added services to customers who make use of
+
+these facilities.
+
+Andrew Hall: Managing
+
+Managing Director (“MD”), Group Chief Executive Officer (“CEO”), Group Chief Financial Officer (“CFO”) and Group Chief Operations Officer (“COO”) are ex
+
+officio members of the Board.
+
+There is a clear division of responsibilities between the executive responsibility for the running of the business and the leadership of the Board, such that no one
+
+individual has unfettered powers of decision-making.
+
+The Remuneration and Nomination Committee (“REMCOM”) of the Board will assist with the identification of suitable candidates for appointment to the Board
+
+and to board committees. Directors appointed by the Board based on the recommendation of the REMCOM will stand down at the first annual general meeting
+
+of shareholders following such appointment and may offer themselves for re-election.
+
+The Board will on an annual basis consider its size, diversity, demographics and skills requirements as part of the assessment of the Board and directors’
+
+performance.
+
+At least one third of the non-executive directors will retire by rotation on an annual basis.
+
+The independence of all independent non-executive directors will be assessed on an annual basis with a specific focus on the independence of independent
+
+non-executive directors who have served for more than 6 (six) years and the outcome of such assessments will be reported on in the Integrated Annual Report.
+
+Upon the completion of the share swap transaction whereby PNH increased its shareholding from 51.4% to 100% in Paratus, the Board composition was reviewed
+
+and the directors of PNH and Paratus were aligned to create mirror boards for both entities.
+
+The directors at date of this report are:
+
+Director
+
+Date appointed
+
+Status
+
+Hans-Bruno Gerdes
+
+08 August 2017
+
+Independent non-executive director, Chairperson
+
+Brown Amuenje (1)
+
+08 August 2017
+
+Independent non-executive director
+
+Stuart Birch (2)
+
+08 August 2017
+
+Independent non-executive director
+
+Romé Mostert
+
+30 June 2017
+
+Independent non-executive director
+
+Josephine Shikongo
+
+08 August 2017
+
+Independent non-executive director
+
+Jaco Esterhuyse (2)
+
+23 May 2018
+
+Non-executive director
+
+Stefan de Bruin
+
+08 August 2017
+
+Group Chief Financial Officer, Executive director
+
+Schalk Erasmus
+
+08 August 2017
+
+Group Chief Operations Officer, Executive director
+
+Bartholomeus Harmse
+
+25 September 2019
+
+Group Chief Executive Officer, Executive director
+
+Rolf Mendelsohn (3)
+
+25 September 2019
+
+Group Chief Technology Officer, Executive director
+
+Andrew Hall
+
+25 September 2019: Managing
+
+letter of appointment. Inexperienced directors will
+
+be assisted, with the guidance of the chairperson, to participate in mentoring
+
+programmes where available. The need for continuing professional
+
+development programmes will be identified as part of the annual assessment
+
+of the performance of the directors.
+
+Directors will be provided with regular briefings on changes in risks, laws and
+
+the environment but will also be expected to keep abreast of developments
+
+in the business environment and markets that may have a material impact
+
+on the business.
+
+As part of the succession policy of the Board, suitably qualified candidates
+
+can be appointed as members of board committees so as to ensure that
+
+such candidates obtain sufficient exposure and experience.
+
+BOARD PROCEDURES AND POLICIES
+
+The Board adopted the below policies and procedures to ensure proper
+
+governance in the management of its affairs:
+
+Conflicts of interest: The Board adopted a formal Code of Conduct and
+
+Conflicts of Interest Policy in terms of which conflicts are defined and
+
+appropriate procedures for dealing with conflicts are prescribed. Directors
+
+are at liberty to accept other board appointments as long as the appointment
+
+does not conflict with the business of the Company and/or Group and does
+
+not detrimentally affect the director’s performance as a director on the
+
+Board of PNH.
+
+Trading in company equities: The Board adopted and approved a
+
+formal procedure to regulate the trading by directors, officers and senior
+
+management in the Company’s equities.
+
+Dissemination of company information: The Board approved a policy in
+
+respect of the dissemination of Company and/or Group information in order
+
+to regulate the circulation of price sensitive information and to ensure equal
+
+treatment of all shareholders.
+
+BOARD COMMITTEES
+
+The Board has delegated certain of its functions to well-structured committees but without abdicating its own responsibilities.
+
+As a minimum, the Board has established an Audit, Risk and Compliance Committee (“ARC”), Investment Committee (“IC”) and a Remuneration and Nomination
+
+Committee (“REMCOM”)
+
+Each board committee, as established by the Board, has a committee charter approved by the Board and is reviewed annually. The committees are appropriately
+
+constituted with due regard to the skills required by each committee.
+
+Each of these committees are chaired by an independent non-executive director or by a suitably qualified non-executive committee member and the majority of
+
+committee members are independent non-executive directors.
+
+Refer to separate committee reports on pages 58 to 67 for more information on each of the committees.
+
+The table below depicts the composition of the Board committees:
+
+Director
+
+ARC
+
+REMCOM
+
+IC
+
+Hans-Bruno Gerdes
+
+Brown Amuenje (1)
+
+CP
+
+Stuart Birch (2)
+
+Jaco Esterhuyse (2)
+
+CP
+
+CP
+
+Romé Mostert (3)
+
+CP
+
+Josephine Shikongo (4)
+
+CP
+
+chairperson of committee
+
+
+
+member
+
+(1)
+
+retired effective 25 September 2019
+
+(2)
+
+South African
+
+(3)
+
+appointed to the Investment Committee effective 19 November 2019
+
+(4)
+
+retired from Investment Committee effective 19 November 2019
+
+Investment Committee (Read more on page 58)
+
+Audit, Risk and Compliance Committee (Read more on pages 60 to 63)
+
+Remuneration and Nomination Committee (Read more on pages 64 to 67)
+
+Executive Committee:
+
+letter;
+
+•
+
+recommend letters of representation and other documentation for Board approval;
+
+•
+
+recommend approval of annual reports and interim results to Board;
+
+•
+
+recommend approval of annual budgets to Board;
+
+•
+
+recommend approval of NSX announcements to Board;
+
+•
+
+agree and recommend accounting policies to Board;
+
+•
+
+reporting to Board on proceedings of the committee;
+
+•
+
+monitor the corporate risk assessment process;
+
+•
+
+monitor the financial risk assessment process and the committee must review;
+
+-
+
+financial risks;
+
+-
+
+internal financial controls;
+
+-
+
+fraud risk as they relate to financial reporting;
+
+-
+
+IT risk as they relate to financial reporting; and
+
+-
+
+reporting to the NSX in the annual NSX compliance, that the committee has monitored compliance during the year concerned;
+
+•
+
+consider problems identified in the going concern assumption;
+
+•
+
+consider the appropriateness and disclosure of related party transactions;
+
+•
+
+the committee oversees integrated reporting;
+
+-
+
+have reasonable regard to all material factors and risks that may impact on the integrity of the Integrated Annual Report;
+
+-
+
+review the financial statements, interim reports, preliminary or provisional results announcement, summarised integrated information, any other
+
+intended release of price-sensitive information and prospectuses, trading statements and similar documents;
+
+•
+
+the committee ensures that a combined assurance model is applied to provide a coordinated approach to all assurance activities;
+
+•
+
+the committee satisfies itself of the expertise, resources and experience of the finance function of the Company and Group; and
+
+•
+
+the committee shall be responsible for overseeing any internal audit function, once such function is in place
+
+EXTERNAL AUDIT
+
+As regards External Audit, the committee:
+
+•
+
+is satisfied with their independence especially where non-audit services are performed;
+
+•
+
+agreed the principles with the external auditors without limiting their statutory obligations;
+
+•
+
+decided on the extent of external verification of non-financial information;
+
+•
+
+decided on the external review of interim results; and
+
+•
+
+recommends that PricewaterhouseCoopers (“PWC”) be re-appointed for the financial year ending 30 June 2021 and has overseen the external audit
+
+process; and
+
+•
+
+recommended the proposed audit fees by the external auditors to the Board during May 2020.
+
+The external auditor attended all committee meetings and has unfettered access to the ARC chairperson and the Board.
+
+INTERNAL AUDIT
+
+The Company and Group has not yet appointed an internal auditor and thus have not performed an internal audit.
+
+The committee will review the necessity of an internal audit function taking into consideration the size of the Company and/or Group.
+
+The Board may decide to outsource this function to address specified risk areas.
+
+INTERNAL CONTROL
+
+These financial statements support the viability, accountability and effective internal control processes of PNH.
+
+The system of internal financial and operational control is the responsibility of the Board. Management ensure that assets are protected, systems operate
+
+effectively, and all valid transactions are recorded properly.
+
+Risks and controls are reviewed and monitored regularly for relevance and effectiveness. Internal controls are designed to mitigate and not to eliminate
+
+significant risks faced. Such a system provides reasonable but not absolute assurance against error, omission, misstatement or loss. This is achieved through a
+
+combination of risk identification, evaluation and monitoring processes, appropriate decision-making, assurance and control functions such as risk management
+
+and compliance.
+
+Based on reviews, information and explanations given by management and discussions with the external auditors on the results of their audit, the committee is
+
+satisfied that the system of internal controls of PNH operated effectively in the year under review. Nothing has come to the committee’s attention that causes it
+
+to believe that the system of internal financial controls is not effective.
+
+FINANCE FUNCTION
+
+The committee has reviewed the financial statements of the Company and Group and is satisfied that they comply with IFRS.
+
+The external auditor has expressed an opinion on the financial statements for the period ended June 2020, refer to page 71.
+
+The committee is satisfied that Stefan de Bruin, the CFO for the financial period ended 30 June 2020, has the appropriate expertise and experience to meet his
+
+responsibilities in the position. The expertise, experience and adequacy of the resources making up the finance function were also considered, and the committee
+
+is satisfied that these are appropriate.:
+
+Managing Director of PNH effective 25 September 2019.
+
+Management agreement
+
+The Management agreement was terminated upon the completion of share swap transaction. For the period before termination the Management fee was a
+
+quarterly fee, calculated as one quarter of 0.5% of the total value of all the assets acquired or invested in by PNH from time to time (excluding the investment in
+
+Paratus), being the fair value thereof or cost thereof, whichever is the highest, but excluding the Total Subscription Value still held in cash or in an Escrow Account
+
+of PNH at each Quarter Date. The fee was payable on the last day of each quarter.
+
+An amount of N$35,650 per month was paid to the Manager, until the termination of the Management agreement. The fee was paid for management and
+
+accounting services and included recoveries for software and other disbursements.
+
+Investment agreement
+
+Prior to the completion of the share swap transaction and the termination of the Investment agreement, Cirrus was entitled to 1.25% on transactions successfully
+
+completed, 1.25% on equity capital raised and a fee ranging 0.35% to 1% on debt capital raised.:
+
+Managing director: Namibia, Executive director
+
+(1) retired effective 25 September 2019
+
+(2) South African
+
+(3) alternate director to Bartholomeus Harmse:
+
+director's remuneration (refer to RNC
+
+report for detail)
+
+1,277,500
+
+832,500
+
+812,000
+
+832,500
+
+%shares in issue
+
+%shares in issue
+
+%shares in issue
+
+%shares in issue
+
+Directors' interest in shares
+
+Total shareholding refer to directors' report for detail
+
+34.66%
+
+10.56%
+
+34.66%
+
+10.56%
+
+37. DIRECTORS' EMOLUMENTS
+
+Figures in Namibia Dollar
+
+Group
+
+Executive
+
+2020
+
+Emoluments
+
+Total
+
+Directors
+
+3,527,250
+
+3,527,250
+
+Group
+
+Non-executive
+
+2020
+
+Committees
+
+fees
+
+Total
+
+Directors
+
+1,277,500
+
+1,277,500
+
+2019
+
+Committees
+
+fees
+
+Total
+
+Directors
+
+832,500
+
+832,500
+
+Company
+
+Non-executive
+
+2020
+
+Committees
+
+fees
+
+Total
+
+Directors
+
+812,000
+
+812,000
+
+2019
+
+Committees
+
+fees
+
+Total
+
+Directors
+
+832,500
+
+832,500:
+
+MANAGING DIRECTOR: NAMIBIA
+
+Andrew Hall
+
+Tel. +264 83 300 1000
+
+E-mail: andrew@paratus.africa
+
+GROUP CHIEF FINANCIAL OFFICER
+
+Stefan de Bruin
+
+Tel. +264 83 300 1000
+
+E-mail: stefan@paratus.africa
+
+GROUP CHIEF EXECUTIVE OFFICER
+
+Barney Harmse
+
+Tel. +264 83 300 1000
+
+E-mail: barney@paratus.africa
+
+COMMERCIAL BANKS
+
+Bank Windhoek Limited
+
+Head Office
+
+262 Independence Avenue
+
+Windhoek, Namibia
+
+P.O. Box 15
+
+Windhoek, Namibia
+
+First National Bank Namibia
+
+FNB Windhoek Parkside Head Office
+
+130 Independence Avenue c/o Fidel
+
+Castro
+
+Windhoek, Namibia
+
+P.O. Box 195
+
+Windhoek, Namibia
+
+COMPANY SECRETARY
+
+Cronjé Secretarial Services (Proprietary)
+
+Limited
+
+1 Charles Cathral Street
+
+Windhoek, Namibia
+
+P.O. Box 81588
+
+Olympia
+
+Windhoek, Namibia
+
+Tel: +264 81 319 8200
+
+E-mail: cronje@cronjelaw.com
+
+www.cronjelaw.com
+
+AUDITORS AND REPORTING
+
+ACCOUNTANT
+
+PricewaterhouseCoopers (Chartered
+
+Accountants (Namibia))
+
+Registered Accountants and Auditors
+
+344 Independence Avenue
+
+Windhoek, Namibia
+
+P.O. Box 1571
+
+Windhoek, Namibia
+
+Tel: +264 61 284 1000
+
+CIRRUS CAPITAL
+
+45 Nelson Mandela Avenue
+
+Windhoek, Namibia
+
+P.O. Box 81009
+
+Windhoek, Namibia
+
+Cell: +264 81 675 6401
+
+Cell: +264 85 551 3649
+
+E-mail: rowland@cirrus.com
+
+www.cirrus.com.na
+
+INDEPENDENT EXPERT
+
+PSG Capital (Proprietary) Limited
+
+1st Floor,
+
+Ou Kollege Building
+
+35 Kerk Street
+
+P.O. Box 7403
+
+Stellenbosch, 7599
+
+South Africa
+
+Tel: +27 21 887 9602
+
+Fax: +27 21 887 9624
+
+E-mail: cronje@cronjelaw.com
+
+www.cronjelaw.com
+
+SPONSOR
+
+Simonis Storm Securities
+
+4 Koch Street
+
+Klein Windhoek
+
+Windhoek, Namibia
+
+P.O. Box 3970
+
+Windhoek, Namibia
+
+Tel: +264 61 254 194
+
+E-mail: info@sss.com.na
+
+www.sss.com.na/
+
+Tel: +264 83 300 1000
+
+LEGAL ADVISORS
+
+Cronjé & Co
+
+1 Charles
+
+Cathral Street
+
+Windhoek, Namibia
+
+P.O. Box 81588
+
+Olympia ,Windhoek, Namibia
+
+Tel: +264 61 247435/7
+
+E-mail: info@cronjelaw.com
+
+www.cronjelaw.com Continued
+
+Tel: +264 83 300 1000
+
+ENS Africa
+
+3rd Floor, Unit 4
+
+LA Chambers
+
+Ausspann Plaza
+
+Dr. Agostinho Neto Road
+
+Windhoek, Namibia
+
+Private Bag 12007
+
+Ausspannplatz
+
+Windhoek
+
+Namibia
+
+Tel: +264 61 379 700
+
+E-mail : infoWDH@ENSafrica.com:
+

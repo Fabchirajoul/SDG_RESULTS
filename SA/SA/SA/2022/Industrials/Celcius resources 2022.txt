@@ -1,0 +1,968 @@
+Letter
+
+4
+
+Directors’ Report
+
+5
+
+Corporate Governance Statement
+
+23
+
+Statement of Profit or Loss and Other Comprehensive Income
+
+30
+
+Statement of Financial Position
+
+31
+
+Statement of Changes in Equity
+
+32
+
+Statement of Cash Flows
+
+33
+
+Notes to the Financial Statements
+
+34
+
+Directors’ Declaration
+
+52
+
+Auditor’s Independence Declaration
+
+53
+
+Independent Auditor’s Report
+
+54
+
+Additional information
+
+58:
+
+LETTER
+
+4
+
+Dear Fellow Shareholders,
+
+It is my pleasure to present Celsius Resources Limited’s (“CLA”) Annual Report for the financial year ended 30 June 2022, in which
+
+the Company has substantially advanced its copper-gold assets in the Philippines and partially implemented a plan to generate
+
+value for our shareholders in relation to its Opuwo Copper Cobalt Project in Namibia.
+
+Philippines
+
+MCB Copper Gold Project: after completing a maiden JORC Mineral Resource Estimate of 313.8 million tonnes @ 0.48% copper
+
+and 0.15g/t gold, for 1.5 million tonnes of contained copper and 1.47 million ounces of contained gold, our Philippine team
+
+headed by Peter Hume has continued to deliver project milestone achievements at an incredible pace including:
+
+a) Outstanding drill results with intersections such as MCB 38 showing 611m at 1.39% Cu and 0.75 g/p/t Au. I am looking forward
+
+to an updated JORC Mineral Resource Statement later this year, which will feed these results into a revised mine plan and ore
+
+reserve as a basis for the Feasibility Study improving the overall cash flow early in the mine life;
+
+b) A signed off Scoping study to mine its High Grade Core with ~50Mt material at 1.1% CuEq over 25 years; and
+
+c) A community development program which follows a participatory process that institutes mechanisms for inculcating a sense
+
+of ownership for more effective and sustainable outcomes with our host Balatoc community.
+
+The Company’s Negros Island Sagay project has also progressed. The project appears to contain very large-scale porphyry copper
+
+mineralisation that remains open at depth. Drilling during the year ended 30 June 2022, drilling confirms the promising continuity
+
+of that mineralisation at shallower levels.
+
+Namibia Opuwo Project
+
+During the year, the Company successfully completed an upgraded JORC Compliant Resource, which demonstrates an estimated
+
+resource comprising 225.5 Mt at 0.12% Co, 0.43% Cu and 0.54% Zn. This is a globally significant resource containing 259,000
+
+tonnes of contained Co, and 970,000 tonnes of contained Cu. The Company also completed nine diamond drill holes for future
+
+metallurgical optimisation work, which includes ongoing roasting and tank leach test work as well as separate test work for
+
+hydrometallurgical downstream processing.
+
+Much of this work carried out in both the Philippines and Namibia was under difficult circumstances with Covid-19 uncertainty,
+
+climate change-linked events as well as national elections in the Philippines.
+
+On that note, the Company welcomes the new government of President Marcos in the Philippines and positive statements as to
+
+the importance on responsible mining in the post-Covid economic revival.
+
+The Company has ambitious goals in environmental stewardship and our MCB Project is designed to achieve ESG excellence. We
+
+also work to improve the lives of our host communities by working hand in hand with them in a variety of community
+
+enhancement projects, in addition seeking to act as a catalyst for sustainability.
+
+During the period to date, we have significantly refreshed the composition of the board of CLA directors to ensure we have the
+
+appropriate mix of skills, experience and diversity. In this regard, I welcome Peter Hume to the board as Executive Director and
+
+Michael Hulmes, Julito Sarmiento, Simon Farrell and Jonathan Colvile as valuable Non-Executive Directors.
+
+Having spent a considerable portion of my career developing copper-gold assets in the Philippines, which included the
+
+development from feasibility to production of one of the country’s most successful copper mines, I can attest to the quality of
+
+CLA’s assets.
+
+I would like to thank all our loyal shareholders who have joined us on this exciting journey to date, and look forward to providing
+
+more positive news on our prospective projects.
+
+Yours faithfully,
+
+Martin Buckingham
+
+Executive Chairman:
+
+Managing Director SOMINCOR in Portugal, General Manager Ok Tedi Mining in PNG, Chief
+
+Operating Officer Citadel Resources in Saudi Arabia, Executive General Manager Barrick Australia,
+
+General Manager Plutonic Gold Mine,: Managing
+
+Managing Director on 1 January 2022 and subsequently resigned on 16 June 2022.
+
+6
+
+Appointed as Non-Executive Director on 19 January 2022.
+
+7
+
+Appointed as Executive Director on 16 June 2022, previously being the Philippine Country Operations Director.
+
+8
+
+Appointed as Non-Executive Director on 17 June 2022.
+
+9
+
+Payments were made to Directors as either reimbursement of expenditure or additional consulting fees, detailed further in section H of this remuneration report.
+
+2021
+
+Key Management
+
+Person
+
+Short-term Benefits
+
+Post-
+
+employment
+
+Benefits
+
+Share
+
+based
+
+Payments
+
+Cash,
+
+salary &
+
+Commissions
+
+Cash
+
+profit
+
+Share
+
+Non-Cash
+
+Benefit
+
+Other7
+
+Superannuation
+
+Equity
+
+Total
+
+Performance
+
+Related
+
+Remuneration
+
+Consisting of
+
+Options
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+%
+
+%
+
+Mr W Oliver
+
+48,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+48,000
+
+-
+
+-
+
+Mr B Borg1,2
+
+34,080
+
+-
+
+-
+
+-
+
+-
+
+-
+
+34,080
+
+-
+
+-
+
+Mr P van Wyk3,4
+
+28,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+28,000
+
+-
+
+-
+
+Mr A Hood5
+
+28,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+28,000
+
+-
+
+-
+
+Mr M Buckingham6
+
+20,000
+
+-
+
+- 50,831
+
+-
+
+-
+
+70,831
+
+-
+
+-
+
+Ms A Austria6
+
+60,994
+
+-
+
+- 27,507
+
+-
+
+-
+
+88,501
+
+-
+
+-
+
+Mr B Sergeant8,9
+
+51,781
+
+-
+
+-
+
+-
+
+4,909
+
+-
+
+56,690
+
+-
+
+-
+
+270,855
+
+-
+
+- 78,338
+
+4,909
+
+- 354,102
+
+-
+
+-
+
+1
+
+The above are solely Director fees. Cash from other activities are also paid to Borg Geoscience Pty Ltd, a company with which Mr Borg is a shareholder and Director.
+
+The payments are for the provision of geological consulting services are disclosed in section H of the Remuneration Report.
+
+2
+
+Mr. Brendan Borg resigned as Non-Executive Director effective from 17 March 2021.
+
+3
+
+Mr. Pine van Wyk resigned as Non-Executive Director effective from 4 February 2021.:
+
+letter of appointment.
+
+The below is as at the date of the financial report:
+
+Key Management Person
+
+Appointment
+
+Term of Agreement Base Salary (excludes GST)
+
+$ p.a.
+
+Termination
+
+Benefit
+
+Martin Buckingham
+
+Executive Chairman
+
+No fixed term
+
+100,000
+
+Nil
+
+Simon Farell
+
+Non-Executive Director
+
+No fixed term
+
+48,000
+
+Nil
+
+Julito Sarmiento
+
+Non-Executive Director
+
+No fixed term
+
+48,000
+
+Nil
+
+Jonathan Colvile
+
+Non-Executive Director
+
+No fixed term
+
+48,000
+
+Nil
+
+Michael Hulmes (2)
+
+Non-Executive Director
+
+No fixed term
+
+48,000
+
+Nil
+
+Peter Hume (1)
+
+Executive Director
+
+2 years (1)
+
+(1)
+
+Nil
+
+1
+
+Mr Peter Hume has been engaged as a consultant to a related body corporate of the Company (Makilala Mining Co, Inc.) as the Country Operations Director in the
+
+Philippines. Under this contract Mr P Hume is entitled to receive a monthly gross payment equivalent to one million pesos (PHP1,000,000) or the equivalent amount
+
+paid in USD converted at a fixed exchange rate of PHP48.00 to the 1 USD for a minimum of 15 days of work rendered. In case of work rendered below 15 days, a gross
+
+daily rate of sixty-seven thousand pesos (PHP67,000) shall be applied in computing the total fee for the relevant month. Should the exchange rate fall below PHP 48.00
+
+at any time during the term of this contract, the BSP Exchange Rate Bulletin at the time of computing the monthly salary shall be used. Mr P Hume does not obtain
+
+any additional fee as an Executive Director outside of this consulting arrangement. The term of the consultancy agreement is 2 years, there is no fixed term for his
+
+appointment as executive director.
+
+2
+
+Mr Michael Hulmes is also entitled $2,300 per day for any work undertaken outside of his usual non-executive director duties.
+
+D. Share-based compensation
+
+Options and Performance Rights
+
+The terms and conditions of each grant of performance rights over ordinary shares affecting remuneration of Directors and other key
+
+management personnel in this financial year or future reporting years are as follows:
+
+Name
+
+Number of rights
+
+granted
+
+Vesting
+
+conditions
+
+Grant date
+
+Expiry date
+
+Fair value per right at grant date
+
+$
+
+Mr B Sergeant(1)
+
+2,500,000
+
+3
+
+18/11/2021
+
+17/03/2022
+
+0.0011
+
+Mr B Sergeant(1)
+
+2,500,000
+
+2
+
+18/11/2021
+
+17/03/2022
+
+0.0290
+
+Mr B Sergeant(1)
+
+2,500,000
+
+4
+
+18/11/2021
+
+17/03/2024
+
+0.0290
+
+Mr J Sarmiento
+
+8,000,000
+
+5
+
+26/08/2021
+
+26/08/2031
+
+0.0260
+
+1
+
+2,500,000 performance rights vested on 3 December 2021. The remaining performance rights were forfeited upon resignation.
+
+2
+
+On completion of a positive Scoping Study in relation to its MCB Project and a successful capital or equity raise both within 12 months from the:
+
+Director's commencement
+
+date (Milestone 2); and
+
+4
+
+On completion of a Definitive Feasibility Study, as defined under the JORC Code, at its MCB Project, within 3 years from the:
+
+Managing Director on 1 January 2022 and subsequently resigned on 16 June 2022
+
+(6)
+
+Appointed as Non-Executive Director on 19 January 2022
+
+(7)
+
+Appointed as Executive Director on 16 June 2022, previously being the Philippine Country Operations Director.
+
+(8)
+
+Appointed as Non-Executive Director on 17 June 2022
+
+G. Performance rights holdings
+
+The number performance rights in the company held during the financial year by each director and other members of key
+
+management personnel of the consolidated entity, including their personally related parties, is set out below:
+
+30 June 2022
+
+Balance at
+
+beginning
+
+of the year
+
+Performance
+
+rights on
+
+initial
+
+appointment
+
+Performance
+
+rights issued
+
+Converted
+
+to ordinary
+
+shares
+
+Expiry of
+
+performance
+
+rights
+
+Other
+
+changes (i)
+
+Balance at
+
+end of
+
+year
+
+Mr W Oliver (2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Mr M Buckingham
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Ms A Austria (1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Mr B Sergeant (3)
+
+-
+
+-
+
+7,500,000
+
+(2,500,000)
+
+-
+
+(5,000,000)
+
+-
+
+Mr M Hulmes (4)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Mr J Sarmiento (4)
+
+-
+
+8,000,000
+
+-
+
+(2,000,000)
+
+-
+
+-
+
+6,000,000
+
+Mr R Gregory (5)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Mr J Colvile (6)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Mr P Hume (7)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Mr S Farrell (8)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+8,000,000
+
+7,500,000
+
+(4,500,000)
+
+-
+
+(5,000,000)
+
+6,000,000
+
+(i) Resigned and subsequently expired
+
+(1)
+
+Resigned as Non-Executive Director on 30 September 2021
+
+(2)
+
+Resigned as Non-Executive Director on 13 June 2022
+
+(3)
+
+Resigned as Executive Director on 14 December 2021
+
+(4)
+
+Both Michael Hulmes and Julito Sarmiento were appointed as Non-Executive Directors on 9 November 2021:
+
+Managing Director on 1 January 2022 and subsequently resigned on 16 June 2022
+
+(6)
+
+Appointed as Non-Executive Director on 19 January 2022
+
+(7)
+
+Appointed as Executive Director on 16 June 2022, previously being the Philippine Country Operations Director.
+
+(8)
+
+Appointed as Non-Executive Director on 17 June 2022
+
+H. Related party disclosures
+
+a) Transactions with related parties
+
+During the year geological consulting services paid or payable were $15,587 (2021: $23,294) that were made to Billandbry
+
+Consulting Pty Ltd, a company with which Mr Oliver, is a shareholder and director. Payments were made to this company for
+
+services provided as a director of the company and amounts paid or payable for the year were $38,000 (2021: $48,000).
+
+During the year, there were payments made to Colvile Securities Ltd, a company with which Mr Colvile is a shareholder and
+
+director. The payments were for the provision of professional services and amounts paid or payable were $4,237 (2021: $Nil).
+
+Payments were also made to this company for the provision of Director fees and amounts paid or payable were $21,600 (2021:
+
+$nil).
+
+During the year, there were payments made to Evolution Capital Partners Pty Ltd, a company with which Mr Sergeant is a
+
+shareholder and director. The payments were for the provision of professional services and amounts paid or payable were $6,000
+
+(2021: $153). Payments were also made to this company for the provision of Director fees and amounts paid or payable were
+
+$136,798 (2021: $56,690).
+
+During the prior year, payments were made to Stewardship Management Pty Ltd (previously Stewardship Consulting Pty Ltd), a
+
+company with which Mr van Wyk, is a shareholder and director. Payments were made to this company for services provided as
+
+a director prior to his resignation on 4 February 2021 and amounts paid were $28,000.
+
+During the prior year, payments were made to Gecko Namibia (Pty) Ltd, a company with which Mr van Wyk is a shareholder and
+
+director. The payments were for the administrative costs and recovery of other expenses and amounts paid or payable were
+
+$63,392.
+
+During the prior year, there were payments to and receipts from Gecko Exploration (Pty) Ltd, a company with which Mr van Wyk
+
+is an indirect 5.5% shareholder and was a director (resigned 22 July 2020). The payments were for administrative and salary
+
+recovery costs and amounts paid or payable were $142,763.
+
+During the prior year, there were payments made to Borg Geoscience Pty Ltd, a company with which Mr Borg is a shareholder
+
+and director. The payments were for the provision of geological consulting services and amounts paid or payable were $14,400.
+
+Payments were also made to this company for the provision of Director fees and amounts paid or payable were $34,080.
+
+There were no other transactions with related parties. All related party transactions are on normal commercial terms and
+
+conditions.
+
+b)
+
+Payables owing to related parties
+
+2022
+
+$
+
+2021
+
+$
+
+Billandbry Consulting Pty Ltd
+
+-
+
+5,570
+
+Stewardship Consulting Pty Ltd
+
+21,000
+
+4,000
+
+Martin Buckingham
+
+16,667
+
+4,000
+
+Attilenore Austria
+
+-
+
+4,000
+
+Evolution Capital Partners Pty Ltd
+
+-
+
+18,068
+
+Colville Securities
+
+4,000
+
+-
+
+Julito Sarmiento
+
+4,000
+
+-
+
+45,667
+
+35,638
+
+c)
+
+Receivables from related parties
+
+There are no receivables from related parties at 30 June 2022 (2021: Nil).
+
+This concludes the remuneration report, which has been audited.:
+

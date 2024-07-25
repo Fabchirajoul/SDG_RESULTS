@@ -1,0 +1,2630 @@
+Letter
+
+22-24
+
+Strategies, KPIs & Goals
+
+25
+
+Review by the: Managing
+
+Letter: Dear Shareholders,
+
+I hope you and your loved ones are safe and healthy and
+
+vaccinated. The world entered the second year of the
+
+global Covid-19 pandemic, with millions more impacted by
+
+the known and unknown dangers the virus has presented.
+
+While India got off a little easy during the first wave of the
+
+coronavirus, even as Europe and the US suffered high
+
+death rates during that time, we got hit brutally during the
+
+second wave. While there are several debates and opinions
+
+about the hows and whys of it, we must acknowledge
+
+and accept that the virus, and a pandemic, both are
+
+almost unknown to the larger populace that is currently
+
+living through these unprecedented times. We also must
+
+acknowledge the efforts underway by humanity as a whole
+
+- the scientific community, the healthcare workers, the
+
+good Samaritans and the common man – each playing
+
+their part, contributing their best to alleviate the emotional,
+
+social, health and economic impact of the virus.
+
+Infibeam, which began as a platforms company in 2010
+
+and became a digital payments and platforms focused
+
+company in 2017, has consistently delivered value to the
+
+shareholders, investors, and society at large. With our
+
+platform being adopted by the Government of India for
+
+its e-marketplace, to our growing presence across the
+
+spectrum in the digital payments space, we have put all our
+
+energies and forces into bringing the best products and
+
+services to our merchant customers. Digital adoption is not
+
+a choice anymore, and we want to be the digital payments
+
+and ecommerce platform provider of choice for merchants,
+
+enterprises, financial institutions, and governments around
+
+the globe.
+
+Covid-19 – challenges, impact and action
+
+The Covid-19 pandemic brought challenges to the entire
+
+globe, and impacted individuals, enterprises and the
+
+economies. Some industries were more affected than
+
+others – travel, tourism, transportation and hospitality were
+
+harder hit, while technology companies, grocery retail,
+
+delivery companies, healthcare and pharma companies did
+
+well. In India, the festive season rang in good tidings for
+
+the retail sector, and the manufacturing PMI Index went up
+
+to 54.1 in October 2020 after being down for 6 months.
+
+Overall, power, rail, auto sales, GST collections and digital
+
+transactions started doing well around this time.
+
+Government initiatives of Atmanirbhar Bharat, financial
+
+assistance to the MSME sector and infrastructure spend
+
+commitments gave a further boost to the economy. While
+
+the beginning of January 2021 started on a positive note
+
+with approved vaccinations underway in production,
+
+India got impacted by the second wave of the Covid-19,
+
+stronger and more hard hitting than the first wave. Even
+
+as healthcare systems tried to gear up to tackle the
+
+severity of cases, the central and state governments,
+
+NGOs and volunteers, all worked towards doing their
+
+best to help the people during the crisis. By June 2021,
+
+things have started easing up. The country has now
+
+successfully administered more than 25 million doses of
+
+vaccines, and daily average new Covid positive cases are
+
+under 100,000, after having peaked at over 400,000 in
+
+early April 2021.
+
+Global Fintech story
+
+Digital payments, remote consumption of services, online
+
+shopping and online banking got a huge acceleration due
+
+to the pandemic, which necessitated social distancing and
+
+staying indoors. In short, the payments and remittances
+
+market started growing fast, with several merchants,
+
+vendors and providers of goods and services trying to
+
+digitize their offerings and processes to retain market
+
+share, survive the pandemic and sustain beyond it.
+
+While financial and economic indicators were negative
+
+the world over, the startup segment saw a lot more
+
+innovation, investment and excitement. The global fintech
+
+industry saw about $56.1billion infused during 2020-21
+
+(April to March), compared to $84.billion in 2019 and
+
+$77.8billion in 2018.
+
+Opportunities landscape
+
+India, with its 1.4 billion population, jumped on the
+
+digital bandwagon and is steadily racing ahead. Most
+
+Indian families now have access to at least one mobile,
+
+and thus, the telecom and internet revolution paved the
+
+India, with its 1.4 billion population, jumped on the
+
+digital bandwagon and is steadily racing ahead. Most
+
+Indian families now have access to at least one mobile,
+
+and thus, the telecom and internet revolution paved
+
+the way for other technological revolutions such as
+
+fintech, e-commerce, digital banking, e-governance
+
+and more.
+
+Annual Report 2020-21
+
+22
+
+Infibeam Avenues Limited
+
+Managing Director
+
+I sincerely hope that all of you, along with your families, are
+
+safe and well. In times of distress that the current pandemic
+
+has caused, we are extremely grateful to every single
+
+person, enterprise and institution that is helping alleviate
+
+our nation, and the world, from the problems caused by
+
+the pandemic. We, at Infibeam Avenues Limited, have tided
+
+through the pandemic, even grown our operations, and are
+
+ever thankful to our customers, stakeholders, employees
+
+and all the people whose lives we touch, and who touch our
+
+lives.
+
+The year gone by: delivering sustainable returns
+
+We had a great FY 2020-21, during which we grew in
+
+higher double-digit percentages in terms of processing
+
+volume and increased the value of transactions processed
+
+from ` 85,251 crore ($12bn) in FY 2019-20 to ` 139,405
+
+crore ($19bn) in FY 2020-21. We saw a great build up in
+
+the momentum for flat fee-based transactions, which got
+
+a big boost during both waves of Covid, compensating for
+
+the drop in percentage-based revenues from impacted
+
+segments such as airlines, travel & tourism, hospitality,
+
+entertainment and discretionary spends largely related to
+
+e-retail. Overall, our gross revenues went up to
+
+` 676 crore, a 7% growth YoY. Our Q4 contributed to
+
+end the year strongly. We achieved major milestones
+
+in our Q4 FY 2020-21 KPIs – TPV worth nearly ` 17,000
+
+crore ($2.3bn) per month (up 93% YoY), over 0.5 million
+
+transactions processed daily (up 20% YoY), and an
+
+increase in GeM revenues in Q4 FY 2020-21 by 78% YoY.
+
+Based on Q4 FY 2020-21 TPV run-rate we will achieve
+
+a TPV of $28 billion in FY 2021-22 and are targeting to
+
+achieve an overall TPV of $100 billion in the next four-
+
+five years as we expand our transaction processing
+
+businesses under Payments and Platforms.
+
+TPV in Payments business increased 55% YoY to
+
+approximately ` 100,780 crores in FY 2020-21. For a like-to-
+
+like comparison, we included the TPV of our subsidiary Go
+
+Payments in FY 2019-20 while calculating growth, without
+
+which the growth is higher at 64%. We consolidated Go
+
+Payments financials from May 2021. Monthly payment
+
+processing in Q4 averaged about ` 10,000 crore, from
+
+` 5,300 crore in the same period last year. Thus, we are at
+
+an annual run rate of processing ` 1.2 lakh crore to ` 1.3
+
+lakh crore, or about $18 billion in payments in FY 2022. This
+
+is coming from two major geographical markets - India
+
+and UAE. Soon, we’ll also see international markets like the
+
+Saudi and a few of the GCC countries and USA adding to
+
+this growth. We will add more international markets in the
+
+next few years.
+
+Merchant registrations continue to be robust, and our
+
+alliance partnerships continue to deepen, opening up
+
+more business for us. Our retail contribution continues
+
+to dominate in terms of number of merchants on the PG
+
+platforms. Education, utility, grocery, IT are among the
+
+larger contributors in FY 2020-21. Basically, merchant
+
+registrations in FY 2020-21 has been the best we have seen
+
+in our history, at nearly 300 registration on an average
+
+We grew in higher
+
+double-digit
+
+percentages in terms
+
+of processing volume
+
+and increased the
+
+value of transactions
+
+processed from
+
+` 85,251 crore ($12bn)
+
+in FY 2019-20 to
+
+` 139,405 crore ($19bn)
+
+in FY 2020-21
+
+Infibeam Avenues Limited
+
+26
+
+Annual Report 2020-21:
+
+Managing Director
+
+I am happy to share that
+
+Jio Mart went live on our
+
+platform in March 2021.
+
+The base platform is the
+
+same as Government
+
+e-Marketplace platform, but
+
+it was customized for Jio’s
+
+environment. As part of the
+
+overall contract, we have also
+
+offered payment solutions to
+
+Jio Platforms Limited.
+
+We are at an annual run rate
+
+of processing ` 1.2 lakh crore
+
+to ` 1.3 lakh crore, or about
+
+$18 billion in payments in FY
+
+2022. This is coming from two
+
+major geographical markets
+
+- India and UAE. Soon,
+
+we’ll also see international
+
+markets like the Saudi and a
+
+few of the GCC countries and
+
+USA adding to this growth.
+
+Annual Report 2020-21
+
+28
+
+Infibeam Avenues Limited:
+
+Managing Director
+
+Mr. Vishwas Patel
+
+Executive Director
+
+Mr. Keyoor Bakshi
+
+Independent Director
+
+Mr. Roopkishan Dave
+
+Independent Director
+
+Ms. Vijaylaxmi Sheth
+
+Independent Director
+
+Mr. Piyushkumar Sinha
+
+Independent Director
+
+AUDIT COMMITTEE:
+
+Mr. Keyoor Bakshi
+
+Chairman
+
+Mr. Vishal Mehta
+
+Member
+
+Mr. Roopkishan Dave
+
+Member
+
+Mr. Piyushkumar Sinha
+
+Member
+
+NOMINATION AND REMUNERATION COMMITTEE:
+
+Mr. Roopkishan Dave
+
+Chairman
+
+Mr. Keyoor Bakshi
+
+Member
+
+Mr. Piyushkumar Sinha
+
+Member
+
+STAKEHOLDERS’ RELATIONSHIP COMMITTEE:
+
+Mr. Ajit Mehta
+
+Chairman
+
+Mr. Roopkishan Dave
+
+Member
+
+Mr. Piyushkumar Sinha
+
+Member
+
+CORPORATE SOCIAL RESPONSIBILITY COMMITTEE:
+
+Ms. Vijaylaxmi Sheth
+
+Chairman
+
+Mr. Vishal Mehta
+
+Member
+
+Mr. Piyushkumar Sinha
+
+Member
+
+RISK MANAGEMENT COMMITTEE:
+
+Mr. Vishal Mehta
+
+Chairman
+
+Mr. Ajit Mehta
+
+Member
+
+Mr. Hiren Padhya
+
+Member
+
+Mr. Roopkishan Dave
+
+Member*
+
+KEY MANAGERIAL PERSONNEL:
+
+Mr. Vishal Mehta: Managing
+
+Letter
+
+etc. with attested specimen signature of the duly
+
+authorized signatory(ies) who are authorized to vote,
+
+to the Company by e-mail at ir@ia.ooo.
+
+6.
+
+Participation of members through VC will be reckoned
+
+for the purpose of quorum for the AGM as per section
+
+103 of the Companies Act, 2013.
+
+7.
+
+The Company has fixed Thursday, September 16, 2021
+
+as the ‘Record Date’ for the purpose of 11th AGM and
+
+for determining the entitlement of members to final
+
+dividend for the financial year ended March 31, 2021,
+
+if approved at the AGM. For members who have not
+
+updated their bank account details, dividend warrants
+
+/ demand drafts / cheques will be sent out to their
+
+registered addresses. To avoid delay in receiving
+
+dividend, members are requested to update their
+
+KYC with their depositories (where shares are held
+
+in dematerialized mode) and with the Company’s
+
+Registrar and Transfer Agent (“RTA”) (where shares are
+
+held in physical mode) to receive dividend directly into
+
+their bank account on the payout date.
+
+8.
+
+If the final dividend, as recommended by the Board of
+
+Directors, is approved at the AGM, payment of such
+
+dividend subject to deduction of tax at source will be
+
+paid on or after September 24, 2021.
+
+9.
+
+Members may note that the Income-tax Act, 1961, (“the
+
+IT Act”) as amended by the Finance Act, 2020, mandates
+
+that dividends paid or distributed by a company after
+
+April 1, 2020 shall be taxable in the hands of members.
+
+The Company shall therefore be required to deduct tax
+
+at source (“TDS”) at the time of making the payment
+
+of final dividend. In order to enable us to determine
+
+the appropriate TDS rate as applicable, members are
+
+requested to submit relevant documents, as specified
+
+in the below paragraphs, in accordance with the
+
+provisions of the IT Act.
+
+For resident shareholders, taxes shall be deducted
+
+at source under Section 194 of the IT Act as follows:
+
+Members having valid
+
+Permanent Account Number
+
+(“PAN”)
+
+10% or as notified by the
+
+Government of India
+
+Members not having PAN /
+
+valid PAN
+
+20% or as notified by the
+
+Government of India
+
+However, no tax shall be deducted on the dividend
+
+payable to a resident individual if the total dividend
+
+to be received by them during fiscal year 2022 does
+
+not exceed ₹ 5,000 and also in cases where members
+
+provide Form 15G / Form 15H (Form 15H is applicable
+
+to individuals aged 60 years or more) subject to
+
+conditions specified in the IT Act. Resident shareholders
+
+may also submit any other document as prescribed
+
+under the IT Act to claim a lower / nil withholding tax.
+
+PAN is mandatory for members providing Form 15G /
+
+15H or any other document as mentioned above.
+
+For non-resident shareholders, taxes are required
+
+to be withheld in accordance with the provisions of
+
+Section 195 and other applicable sections of the IT Act,
+
+at the rates in force. The withholding tax shall be at the
+
+rate of 20% (plus applicable surcharge and cess) or as
+
+notified by the Government of India on the amount
+
+of dividend payable. However, as per Section 90 of
+
+the IT Act, non-resident shareholders have the option
+
+to be governed by the provisions of the Double Tax
+
+Avoidance Agreement (“DTAA”), read with Multilateral
+
+Instrument (“MLI”) between India and the country of tax
+
+residence of the member, if they are more beneficial to
+
+them. For this purpose, i.e. to avail the benefits under:
+
+letter).
+
+Click “confirm” (Your password is now generated).
+
+2.
+
+Click on ‘Login’ under ‘SHARE HOLDER’ tab.
+
+3.
+
+Enter your User ID, Password and Image Verification (CAPTCHA) Code and click on ‘Submit’.
+
+4.
+
+After successful login, you will be able to see the notification for e-voting. Select ‘View’ icon.
+
+5.
+
+E-voting page will appear.
+
+6.
+
+Refer the Resolution description and cast your vote by selecting your desired option ‘Favour /
+
+Against’ (If you wish to view the entire Resolution details, click on the ‘View Resolution’ file link).
+
+7.
+
+After selecting the desired option i.e. Favour / Against, click on ‘Submit’. A confirmation box will be
+
+displayed. If you wish to confirm your vote, click on ‘Yes’, else to change your vote, click on ‘No’ and
+
+accordingly modify your vote.
+
+Institutional shareholders:
+
+Institutional shareholders (i.e. other than Individuals,
+
+HUF, NRI etc.) and Custodians are required to log on the
+
+e-voting system of LIIPL at https://instavote.linkintime.co.in
+
+and register themselves as ‘Custodian / Mutual Fund /
+
+Corporate Body’. They are also required to upload a scanned
+
+certified true copy of the board resolution /authority: letter/
+
+power of attorney etc. together with attested specimen
+
+signature of the duly authorised representative(s) in PDF
+
+format in the ‘Custodian / Mutual Fund / Corporate Body’
+
+login for the Scrutinizer to verify the same.
+
+Individual Shareholders holding securities in Physical
+
+mode & e-voting service Provider is LINKINTIME, have
+
+forgotten the password:
+
+
+
+Click on ‘Login’ under ‘SHARE HOLDER’ tab and
+
+further Click ‘forgot password?’
+
+
+
+Enter User ID, select Mode and Enter Image
+
+Verification (CAPTCHA) Code and Click on ‘Submit’.
+
+–
+
+In case shareholders/ members is having valid
+
+email address, Password will be sent to his / her
+
+registered e-mail address.
+
+–
+
+Shareholders/ members can set the password
+
+of his/her choice by providing the information
+
+about the particulars of the Security Question
+
+and Answer, PAN, DOB/DOI, Bank Account
+
+Number (last four digits) etc. as mentioned
+
+above.
+
+–
+
+The password should contain minimum 8
+
+characters, at least one special character
+
+(@!#$&*), at least one numeral, at least one
+
+alphabet and at least one capital letter.
+
+Individual Shareholders holding securities in demat
+
+mode with NSDL/ CDSL have forgotten the password:
+
+
+
+Shareholders/ members who are unable to retrieve
+
+User ID/ Password are advised to use Forget User ID and
+
+Forget Password option available at abovementioned
+
+depository/ depository participants website.
+
+Managing Director, Mr. Hiren
+
+Padhya, Chief Financial Officer and Mr. Shyamal Trivedi,
+
+Vice President & Company Secretary are the Key
+
+Managerial Personnel of your Company in accordance
+
+with the provisions of Sections 2(51), 203 of the Act
+
+read with Companies (Appointment and Remuneration
+
+of Managerial Personnel) Rules, 2014 (including
+
+any
+
+statutory
+
+modification(s)
+
+or
+
+re-enactment(s)
+
+for the time being in force). During the year, there
+
+was no change (appointment or cessation) in the office
+
+of KMPs.
+
+12. DECLARATION BY INDEPENDENT DIRECTORS
+
+The Company has received declarations from all the
+
+Independent Directors of the Company confirming
+
+that they meet with the criteria of independence
+
+as prescribed under Section 149(6) of the Act and
+
+under Securities and Exchange Board of India (Listing
+
+Obligations and Disclosure Requirements) Regulations,
+
+2015 (“Listing Regulations”). They have registered their
+
+names in the Independent Directors data-bank. They
+
+have also affirmed compliance to the Conduct for
+
+Independent Directors as prescribed in Schedule IV of
+
+the Act. In the opinion of the Board, the Independent
+
+Directors of the Company fulfil the conditions specified
+
+under the Act and Listing Regulations and are
+
+independent of the management.
+
+13. DIRECTOR’S RESPONSIBILITIES STATEMENT
+
+Pursuant to the requirement of Section 134(5) of
+
+the Act, the Board of Directors, to the best of their
+
+knowledge and ability, confirm that:
+
+(i)
+
+in
+
+preparation
+
+of
+
+the
+
+annual
+
+accounts,
+
+the
+
+applicable
+
+accounting
+
+standards
+
+have
+
+been followed and there are no material
+
+departures;
+
+(ii)
+
+they have selected such accounting policies and
+
+applied them consistently and made judgments
+
+and estimates that are reasonable and prudent,
+
+so as to give a true and fair view of the state of
+
+affairs of the Company at the end of the Financial
+
+04 Board’s Reports:
+
+Managing Director of the Company has not
+
+received any remuneration or commission from
+
+any of Company's Subsidiary;
+
+
+
+The Company has not issued Equity Shares
+
+with differential rights as to dividend, voting or
+
+otherwise;
+
+
+
+The Company has not issued any sweat equity
+
+shares to its directors or employees.
+
+
+
+Interested Directors were recused from the
+
+discussion of the agenda items, in which they
+
+were interested, of the Board or Committee
+
+meetings held during the year.
+
+43. ACKNOWLEDGEMENTS
+
+Your Directors place on record their appreciation for
+
+the contributions made by all employees towards the
+
+success of your Company more particularly ensuring
+
+business as usual in spite of Covid-19 impact.
+
+The Board places on record its appreciation for the
+
+continued co-operation and support extended to the
+
+Company by customers, vendors, regulators, banks,
+
+financial institutions, rating agencies, stock exchanges,
+
+depositories, auditors, legal advisors, consultants and
+
+business associates with whose help, cooperation and
+
+hard work the Company is able to achieve the results.
+
+The Directors regret the loss of lives due to Covid-19
+
+pandemic and are deeply grateful and have immense
+
+respect for every person who risked their lives and
+
+safety to fight this pandemic.
+
+The Board deeply acknowledges the trust and
+
+confidence placed by the customers of the Company
+
+and all its Stakeholders.
+
+For and on behalf of Board of Directors
+
+Ajit Champaklal Mehta
+
+Place: Gandhinagar
+
+Chairman
+
+Date: August 23, 2021
+
+[DIN: 01234707]:
+
+Managing Director
+
+DIN: 03093563
+
+Ajit Mehta
+
+Chairman
+
+DIN: 01234707
+
+Hiren Padhya
+
+Chief Financial Officer
+
+Shyamal Trivedi
+
+Vice President & Company Secretary:
+
+letter of
+
+the law, Corporate Governance standards should go
+
+beyond the law.
+
+
+
+Appropriate composition and size of the Board, with
+
+each member bringing in expertise in their respective
+
+domains;
+
+
+
+Availability of information to the members of the Board
+
+and Board Committees to enable them to discharge
+
+their fiduciary duties;
+
+
+
+Timely disclosure of material operational and financial
+
+information to the stakeholders;
+
+
+
+Systems and processes in place for internal control;
+
+and
+
+Annexure – B
+
+REPORT ON CORPORATE GOVERNANCE
+
+
+
+Proper business conduct by the Board, Senior
+
+Management and Employees.
+
+
+
+Embracing a trusteeship model in which the
+
+management is the trustee of the Shareholders’ capital.
+
+
+
+Making
+
+a
+
+clear
+
+distinction
+
+between
+
+personal
+
+convenience and corporate resources.
+
+The Company has adopted a Code of Conduct for its
+
+employees including the Directors and the Key Managerial
+
+Personnel(s) (“KMPs”). In addition, the Company has adopted
+
+a Code of Conduct for Independent Directors which suitably
+
+incorporates the duties of Independent Directors as laid
+
+down in the Companies Act, 2013 (“the Act”). The Company’s
+
+Corporate Governance philosophy has been further
+
+strengthened through the Code of Conduct for Prevention of
+
+Insider Trading and the Code of Practices and Procedures for
+
+Fair Disclosure of Unpublished Price Sensitive Information.
+
+SHAREHOLDERS
+
+The Companies Act, 2013, the Listing Regulations prescribed
+
+the governance mechanism by shareholders in terms of
+
+passing of ordinary and special resolutions, voting rights,
+
+participation in the corporate actions such as bonus issue,
+
+buyback of shares, declaration of dividend, etc. Your Company
+
+follows a robust process to ensure that the shareholders of
+
+the Company are well informed of Board decisions both on
+
+financial and non-financial matters and adequate notice with
+
+a detailed explanation is sent to the shareholders well in
+
+advance to obtain necessary approvals.
+
+BOARD OF DIRECTORS
+
+a)
+
+Composition and category of Directors
+
+We believe that our Board needs to be well diversified
+
+and have an appropriate mix of Executive, Non-
+
+executive and Independent Directors, to maintain its
+
+independence, and separate its functions of governance
+
+and management. The Listing Regulations mandate
+
+that for a Company with Non-Executive Chairman,
+
+who is a promoter, at least half of the Board should
+
+be Independent Directors. As on March 31, 2021, our
+
+Board comprised seven members, consisting of one
+
+Non-executive and Non-Independent Chairman, two
+
+Executive Directors including one: Managing
+
+Managing Director
+
+09
+
+09
+
+05
+
+0
+
+0
+
+Yes
+
+-
+
+Mr. Vishwas Patel
+
+DIN: 00934823
+
+Executive Director
+
+09
+
+08
+
+02
+
+0
+
+0
+
+Yes
+
+-
+
+Mr. Keyoor Bakshi
+
+DIN: 00133588
+
+Independent
+
+Director
+
+09
+
+09
+
+08
+
+03
+
+06#
+
+Yes
+
+1. Kiri Industries Limited
+
+(Non-Executive, Independent Director)
+
+2. Gokul Agro Resources Limited
+
+(Non-Executive, Independent Director)
+
+3. Saanvi Advisors Limited
+
+(Non-Executive, Independent Director)
+
+4. TTL Enterprises Limited
+
+(Non-Executive, Independent Director)
+
+5. Innovative Tyres & Tubes Limited
+
+(Non-Executive, Independent Director)
+
+6. Praveg Communications (India) Limited
+
+(Non-Executive, Independent Director)
+
+Mr. Roopkishan
+
+Dave
+
+DIN: 02800417
+
+Independent
+
+Director
+
+09
+
+02
+
+02
+
+0
+
+2
+
+Yes
+
+1. DRC Systems India Limited
+
+(Non-Executive, Independent Director)
+
+Ms. Vijaylaxmi Sheth
+
+DIN: 07129801
+
+Independent
+
+Director
+
+09
+
+07
+
+0
+
+0
+
+0
+
+Yes
+
+-
+
+Mr. Piyushkumar
+
+Sinha
+
+DIN: 00484132
+
+Independent
+
+Director
+
+09
+
+09
+
+03
+
+0
+
+1
+
+Yes
+
+1. Ujaas Energy Limited
+
+(Non-Executive, Independent Director)
+
+2. Gujarat Gas Limited
+
+(Non-Executive, Independent Director)
+
+* The Directorship held by the Directors, as mentioned above excludes alternate directorships, directorships in foreign companies, Companies under Section 8
+
+of the Companies Act, 2013 and Private Limited Companies, which were not the subsidiaries of Public Limited Companies.
+
+# Membership includes Chairmanship position.:
+
+Managing Director / Promoter
+
+11,99,18,800
+
+9.01
+
+3.
+
+Mr. Vishwas Patel
+
+Executive Director
+
+15,31,91,324
+
+11.51
+
+4.
+
+Mr. Keyoor Bakshi
+
+Non-Executive Director/ Independent
+
+Nil
+
+Nil
+
+5.
+
+Mr. Roopkishan Dave
+
+Non-Executive Director/ Independent
+
+1,000
+
+0.00
+
+6.
+
+Ms. Vijaylaxmi Sheth
+
+Non-Executive Director/ Independent
+
+Nil
+
+Nil
+
+7.
+
+Mr. Piyushkumar Sinha
+
+Non-Executive Director/ Independent
+
+Nil
+
+Nil
+
+* The Company has not issued any convertible instruments to any Directors of the Company during the Financial Year
+
+2020-21.
+
+04 Board’s Reports:
+
+Managing Director of the
+
+Company does not serve as an Independent Director
+
+in any listed entity.
+
+Policy of Code of Conduct and Term & Conditions of
+
+Appointment of Independent Director is placed on
+
+your Company’s website at https://www.ia.ooo/code-
+
+of-conduct-policies.
+
+h)
+
+Independent Directors’ Meeting:
+
+Schedule IV of the Act and the Rules thereunder
+
+mandate that the independent directors of the Company
+
+shall hold at least one meeting in a year, without
+
+the attendance of non-independent directors and
+
+members of the Management. During the year under
+
+review, the Independent Directors met on February
+
+11, 2021, without the attendance of Non-Independent
+
+Directors and members of the management, inter alia,
+
+to discuss on the following:
+
+
+
+To review the performance of the Non-
+
+Independent Directors and the Board as a whole;
+
+
+
+Review the performance of the Chairperson
+
+of your Company, taking into account views of
+
+Executive / Non- Executive Directors; and
+
+
+
+Assess the quality, quantity and timeliness of
+
+flow of information between your Company’s
+
+management and the Board that was necessary
+
+for the Board to effectively and reasonably
+
+perform their duties.
+
+i)
+
+Familiarisation Programme:
+
+The Company conducts a Familiarization Programme
+
+for the Independent Directors to enable them to be
+
+familiarized with the Company, its management and
+
+its operations to gain a clear understanding of their
+
+roles, rights and responsibilities for enabling their
+
+contribution to the Company. They are provided a
+
+platform to interact with multiple levels of management
+
+and are provided with all the documents required and/
+
+or sought by them to have a good understanding of
+
+Company’s operations, businesses and the industry
+
+as a whole. They are updated on all business related
+
+issues and new initiatives. They are also informed of:
+
+Managing Director
+
+Member
+
+08
+
+08
+
+3.
+
+Mr. Roopkishan Dave
+
+Independent Director
+
+Member
+
+08
+
+01
+
+4.
+
+Mr. Piyushkumar Sinha
+
+Independent Director
+
+Member
+
+08
+
+08
+
+Mr. Shyamal Trivedi, Vice President & Company Secretary, acts as a Secretary to the Committee.
+
+The Committee invites the Statutory Auditors, Internal Auditors and other related functional executives of the Company
+
+to attend the meeting when required.
+
+Date(s) on which meeting(s) were held
+
+April 20, 2020
+
+June 05, 2020
+
+September 02, 2020
+
+September 30, 2020
+
+November 12, 2020
+
+December 31. 2020
+
+February 11, 2021
+
+March 24, 2021
+
+-
+
+The Chairman of the Audit Committee was present at the last
+
+AGM held on September 30, 2020.
+
+The Audit Committee is empowered, pursuant to its terms of
+
+reference and its role, inter alia, includes the following:
+
+A) Scope and functions:
+
+1.
+
+Overseeing the Company’s financial reporting
+
+process and disclosure of its financial information
+
+to ensure that its financial statements are correct,
+
+sufficient and credible;
+
+2.
+
+Recommending to the Board the appointment,
+
+remuneration and terms of appointment of the
+
+statutory auditor of the Company;
+
+3.
+
+Reviewing
+
+and
+
+monitoring
+
+the
+
+statutory
+
+auditor’s independence and performance, and
+
+effectiveness of audit process;
+
+4.
+
+Approving payments to statutory auditors for any
+
+other services rendered by the statutory auditors;
+
+5.
+
+Reviewing, with the management, the annual
+
+financial statements and auditor’s report thereon
+
+before submission to the Board for approval, with
+
+particular reference to:
+
+a.
+
+Matters required to be included in the
+
+Director’s Responsibility Statement to be
+
+included in the Board’s report in terms of
+
+clause (c) of sub-section 3 of Section 134 of
+
+the Act, as amended;
+
+b.
+
+Changes, if any, in accounting policies and
+
+practices and reasons for the same;
+
+c.
+
+Major
+
+accounting
+
+entries
+
+involving
+
+estimates based on the exercise of
+
+judgment by management;
+
+d.
+
+Significant
+
+adjustments
+
+made
+
+in
+
+the
+
+financial statements arising out of audit
+
+findings;
+
+e.
+
+Compliance
+
+with
+
+listing
+
+and
+
+other
+
+legal requirements relating to financial
+
+statements;
+
+f.
+
+Disclosure of any related party transactions;
+
+and
+
+g.
+
+Modified opinion(s) in the draft audit report.
+
+6.
+
+Reviewing, with the management, the quarterly,
+
+half-yearly and annual financial statements
+
+before submission to the Board for approval;:
+
+Managing Director
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+*Mr. Malav Mehta
+
+Non-Executive Director
+
+0.02
+
+0.00
+
+0.00
+
+0.02
+
+Mr. Vishwas Patel
+
+Executive Director
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Mr. Keyoor Bakshi
+
+Independent Director
+
+0.31
+
+0.00
+
+0.00
+
+0.31
+
+Mr. Roopkishan Dave
+
+Independent Director
+
+0.08
+
+0.00
+
+0.00
+
+0.08
+
+Ms. Vijaylaxmi Sheth
+
+Independent Director
+
+0.17
+
+0.00
+
+0.00
+
+0.17
+
+Mr. Piyushkumar Sinha
+
+Independent Director
+
+0.37
+
+0.00
+
+0.00
+
+0.37
+
+Total
+
+1.16
+
+0.00
+
+0.00
+
+1.16
+
+*Mr. Malav Mehta has resigned from the office of Non-Executive Director w.e.f. June 05, 2020.
+
+No Stock Option has been offered to the Directors during the Financial Year 2020-21.
+
+The Executive Directors are not being paid sitting fees for attending meetings of the Board of Directors and its committees.
+
+The Company has no pecuniary relationship with Non-Executive Independent Directors except for payment of sitting fees for
+
+attending meetings of the Board/Committees thereof.
+
+Performance Evaluation:
+
+In line with the provisions of the Act and SEBI Guidance Note on Board evaluation issued on January 5, 2017 read with
+
+relevant provisions of the SEBI Listing Regulations, 2015 and other applicable provisions, if any, the Board has carried out an
+
+annual evaluation of its own performance and that of its Committees and individual directors through the separate meeting
+
+of Independent Directors and the Board as a whole. On the basis of performance evaluation of Independent Directors, it is
+
+determined whether to extend or continue their term of appointment, whenever their respective term expires.
+
+The Independent Directors at their separate meeting reviewed the performance of the Non-Independent Directors and the
+
+Board as a whole, Chairperson of the Company, and also took into consideration the views of the Executive Directors and
+
+Non-Executive Directors, the quality, quantity and timeliness of flow of information between the Company management and
+
+the Board.
+
+The performance evaluation process for the financial year 2020-21 has been completed.:
+
+Managing Director
+
+Member
+
+02
+
+02
+
+3.
+
+Mr. Piyush Kumar Sinha
+
+Independent Director
+
+Member
+
+02
+
+02
+
+Date(s) on which meeting(s) were held
+
+June 06, 2020
+
+February 11, 2021
+
+The role of CSR Committee is as under:
+
+a.
+
+Formulate and recommend to the Board, a CSR Policy which shall indicate the activities to be undertaken by the
+
+Company in compliance with the Act and rules thereunder;
+
+b.
+
+Recommend the amount of expenditure to be incurred on the activities;
+
+c.
+
+Monitor the CSR Policy of the Company from time to time; and
+
+d.
+
+Such other activities as the Board of Directors may determine from time to time.
+
+A CSR Policy indicating the activities to be undertaken by the Company as specified in Schedule VII of the Act and the
+
+CSR Expenditure thereon. The CSR policy of the Company is available on the website of the Company https://www.
+
+ia.ooo/code-of-conduct-policies.
+
+5.
+
+RISK MANAGEMENT COMMITTEE:
+
+The composition of the Committee is in conformity with the Listing Regulations, with majority of members being
+
+Directors of the Company.
+
+The Committee is required to lay down the procedures to inform to the Board about the risk assessment and minimisation
+
+procedures and the Board shall be responsible for framing, implementing and monitoring the risk management plan
+
+of the Company.
+
+The Composition of the Risk Management Committee as at March 31, 2021 is as under:
+
+Sr. No.
+
+Name of Member
+
+Category
+
+Nature of Membership
+
+Meeting (s) Details
+
+Held
+
+Attended
+
+1
+
+Mr. Vishal Mehta: Managing Director
+
+Managing Director and Hiren Padhya, Chief Financial Officer of Infibeam Avenues Limited hereby certify
+
+that:
+
+A.
+
+We have reviewed financial statements and the cash flow statement for the Financial Year ended on March 31, 2021
+
+and that to the best of our knowledge and belief:
+
+1.
+
+These statements do not contain any materially untrue statement or omit any material fact or contain statements
+
+that might be misleading;
+
+2.
+
+These statements together present a true and fair view of the Company’s affairs and are in compliance with
+
+existing accounting standards, applicable laws and regulations.
+
+B.
+
+To the best of our knowledge and belief, no transactions entered into by the Company during the Financial Year 2020-
+
+21, which are fraudulent, illegal or violative of the Company’s code of conduct.
+
+C.
+
+We accept responsibility for establishing and maintaining internal controls for financial reporting and we have evaluated
+
+the effectiveness of internal control systems of the Company pertaining to financial reporting and we have disclosed to
+
+the auditors and the audit committee, deficiencies in the design or operation of such internal controls, if any, of which
+
+we are aware and the steps we have taken or propose to take to rectify these deficiencies.
+
+D.
+
+We have indicated to the Auditors and the Audit committee that:
+
+1.
+
+There has not been any significant change in internal control over financial reporting during the year;
+
+2.
+
+There has not been any significant change in accounting policies during the year; and
+
+We are not aware of any instances of significant fraud with involvement therein, of the management or an employee having
+
+a significant role in the Company’s internal control system over financial reporting.
+
+Place: Gandhinagar
+
+Date: May 27, 2021
+
+_____________________________
+
+Vishal Mehta: Managing
+
+Managing Director
+
+(b)
+
+Details of the BR head
+
+Sr. No.
+
+Particulars
+
+Details
+
+1.
+
+DIN
+
+03093563
+
+2.
+
+Name of Director
+
+Mr. Vishal A. Mehta
+
+3.
+
+Designation: Managing
+
+letter of even date which is annexed as Annexure B and forms an integral part of this report.:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility of the management of the Company. Our responsibility is to
+
+express an opinion on these secretarial records based on our audit.
+
+2.
+
+We have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the
+
+correctness of the contents of the Secretarial records. The verification was done on test basis to ensure that correct
+
+facts are reflected in secretarial records. We believe that the processes and practices, we followed provide a reasonable
+
+basis for our opinion.
+
+3.
+
+We have not verified the correctness and appropriateness of financial records and Books of Accounts of the Company.
+
+4.
+
+Where ever required, we have obtained the Management representation about the compliance of laws, rules and
+
+regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of Corporate and other applicable laws, rules, regulations, standards is the
+
+responsibility of management. Our examination was limited to the verification of procedures on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to the future viability of the Company nor of the efficacy or
+
+effectiveness with which the management has conducted the affairs of the Company.
+
+Place: Ahmedabad
+
+Signature:
+
+Date: August 23, 2021
+
+Name of practicing CS
+
+: Ashish C. Doshi, Partner
+
+SPANJ & ASSOCIATES
+
+Company Secretaries
+
+ACS/FCS No.
+
+: F3544
+
+C P No
+
+:
+
+2356
+
+UDIN No.
+
+:
+
+F003544C000817115
+
+ANNEXURE - B:
+
+Managing Director
+
+DIN : 03093563
+
+Vijaylaxmi Sheth
+
+Chairman, CSR Committee
+
+DIN : 07129801
+
+04 Board’s Reports:
+
+Managing Director
+
+Nil
+
+All other Directors
+
+Nil
+
+II
+
+Percentage increase in remuneration of each of
+
+the Director, the Chief Financial Officer, the Chief
+
+Executive Officer, the Company Secretary or the
+
+Manager, if any, in the financial year
+
+Category
+
+% increase in
+
+remuneration in the
+
+Financial Year
+
+Directors
+
+Nil
+
+Key Managerial Personnels
+
+Nil
+
+III
+
+Percentage increase in the median remuneration of
+
+employees in the financial year
+
+15%
+
+IV
+
+Number of permanent employees on the rolls of
+
+Company
+
+642
+
+V
+
+Average percentile increase already made in the
+
+salaries of employees other than the managerial
+
+personnel in the last financial year and its comparison
+
+with the percentile increase in the managerial
+
+remuneration and justification thereof and point out if
+
+there are any exceptional circumstances for increase
+
+in the managerial remuneration
+
+The average increase in salaries of employees other than the managerial
+
+personnel in the last Financial Year was 9% and Nil for managerial
+
+personnel
+
+VI
+
+Affirmation that the remuneration is as per the
+
+Remuneration Policy of the Company
+
+It is affirmed that the remuneration is as per the Remuneration Policy
+
+of the Company.
+
+NOTES:
+
+1.
+
+Shares allotted under ESOP Scheme of the Company have not been included in the above.
+
+2.
+
+The Non-Executive Directors are paid only sitting fees for attending the meetings of the Board and its Committees. The
+
+ratio of remuneration and percentage increase in remuneration of these Directors is therefore not considered for the
+
+above.
+
+Annexure - F:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+05 Financial Statements:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+(` in Million)
+
+05 Financial Statements:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+05 Financial Statements:
+
+Managing Director
+
+Vishal Ajit Mehta
+
+Executive Director
+
+Vishwas Ambalal Patel
+
+Non-executive Directors
+
+Malav Ajit Mehta (upto June 05, 2020)
+
+Ajit Champaklal Mehta
+
+Roopkishan Sohanlal Dave
+
+Keyoor Madhusudan Bakshi
+
+Vijaylaxmi Tulsidas Sheth
+
+Piyushkumar Sinha
+
+Chief Financial Officer (CFO)
+
+Hiren Padhya
+
+Company Secretary (CS)
+
+Shyamal Trivedi
+
+4
+
+Relatives of KMP
+
+Jayshree Ajit Mehta
+
+Nirali Vishal Mehta
+
+Malav A. Mehta (with effect from June 06, 2020)
+
+Anoli Malav Mehta
+
+Varini Vishwas Patel
+
+Vivek Vishwas Patel
+
+5
+
+Company where Key Managerial personnel
+
+can exercise control / significant influence
+
+Tripwheels and Drive Private Limited (formerly known as Infinium Automall
+
+Private Limited) (upto March 14, 2020)
+
+Infinium Communication Private Limited
+
+Infinity Drive Private Limited (upto April 20, 2020)
+
+Infinium Motors (Gujarat) Private Limited
+
+Infinium Motors Private Limited
+
+Avenues Enterprises Private Limited
+
+05 Financials Statements:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+05 Financials Statements:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Consolidated Balance Sheet
+
+as at March 31, 2021
+
+05 Financial Statements:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+(` in Million):
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021:
+
+Managing Director
+
+Vishal Ajit Mehta
+
+Executive Director
+
+Vishwas Ambalal Patel
+
+Non-executive Directors
+
+Malav Ajit Mehta (upto June 05, 2020)
+
+Ajit Champaklal Mehta
+
+Roopkishan Sohanlal Dave
+
+Keyoor Madhusudan Bakshi
+
+Vijaylaxmi Tulsidas Sheth
+
+Piyushkumar Sinha
+
+Chief Financial Officer (CFO)
+
+Hiren Padhya
+
+Company Secretary (CS)
+
+Shyamal Trivedi
+
+Relatives of KMP
+
+Jayshree Ajit Mehta
+
+Nirali Vishal Mehta
+
+Malav A. Mehta (with effect from June 06, 2020)
+
+Anoli Malav Mehta
+
+Varini Vishwas Patel
+
+Vivek Vishwas Patel
+
+Description of relationship
+
+Name of the parties
+
+Associate Company
+
+Avenues Payments India Private Limited
+
+Instant Global Paytech Private Limited (upto May 05, 2020)
+
+NSI Infinium Global Limited (upto March 31, 2020)
+
+DRC Systems India Limited (with effect from April 01, 2020)
+
+Infibeam Global EMEA FZ LLC
+
+05 Financials Statements:
+
+Managing Director
+
+Chairman
+
+Membership No.: 103840
+
+DIN: 03093563
+
+DIN: 01234707
+
+Gandhinagar
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+Hiren Padhya
+
+Shyamal Trivedi
+
+Chief Financial Officer
+
+Company Secretary
+
+Gandhinagar
+
+Gandhinagar
+
+Date: May 27, 2021
+
+Date: May 27, 2021
+
+05 Financials Statements:
+

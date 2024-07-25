@@ -1,0 +1,3084 @@
+letter, duly signed providing their email address,
+
+mobile number, self-attested PAN copy and Client Master copy in case of electronic folio and
+
+copy of share certificate in case of physical folio for sending the Annual Report, AGM Notice
+
+and e-voting instructions.
+
+iv. It is clarified that for permanent registration of the email address, the members are requested
+
+to register their email address, in respect of electronic holdings with the Depository by
+
+contacting their respective Depository Participants and in respect of physical holdings with
+
+the RTA, by sending an email to einward.ris@kfintech.com or by logging into
+
+https://ris.kfintech.com/clientservices/mobilereg/mobileemailreg.aspx.
+
+B. Instructions pertaining to remote e-voting
+
+In compliance with the provisions of Section 108 of the Companies Act, 2013, Rule 20 of the
+
+Companies (Management and Administration) Rules, 2014, as amended from time to time,
+
+Regulation
+
+44
+
+of
+
+the
+
+Listing
+
+Regulations,
+
+read
+
+with
+
+SEBI
+
+circular
+
+no.
+
+SEBI/HO/CFD/CMD/CIR/P/2020/242 dated 9th December 2020 relating to ‘e-voting Facility
+
+Provided by Listed Entities’ (“SEBI e-voting Circular”), the Company is pleased to provide to the
+
+members facility to exercise their right to vote on resolutions proposed to be considered at the
+
+Meeting by electronic means through e-voting services arranged by KFin. The following
+
+information is being provided to the shareholders in respect of remote e-voting:
+
+i.
+
+Members may cast their votes on all resolutions set out in the AGM Notice using an
+
+electronic voting system from a place other than the venue of the Meeting (“remote e-
+
+voting”). Remote e-voting is optional.
+
+ii. The cut-off date for the purpose of ascertaining shareholders entitled for remote e-
+
+voting and voting at the Meeting is Thursday, 22nd September 2022 (hereinafter referred
+
+to as the “Cut-off Date”).
+
+iii. The remote e-voting period commences from Monday, 26th September 2022 (9.00 a.m.
+
+IST) till Wednesday, 28th September 2022 (5.00 p.m. IST). During this period, the
+
+members of the Company holding shares either in physical form or in demat form, as on the
+
+Cut-off Date may cast their vote by remote e-voting. The remote e-voting module shall be
+
+disabled by KFin for voting thereafter. Once the vote on a resolution is cast by a member, the
+
+member shall not be allowed to change it subsequently. Members, who cast their vote by
+
+remote e-voting, may attend the Meeting through VC / OAVM, but will not be entitled to cast
+
+their vote once again on the resolutions.
+
+iv. The voting rights of members shall be in proportion to their shares in the paid-up equity share
+
+capital of the Company as on the Cut-Off date.
+
+v. Any person, who acquires shares of the Company and becomes a member of the Company
+
+after the dispatch of AGM Notice and is holding shares as on the Cut-off date, may obtain the
+
+User ID and Password in the manner as mentioned below:
+
+
+
+If the mobile number of the member is registered against Folio No. / DP ID Client ID, the
+
+member may send SMS: MYEPWD<space>E-voting Event Number (EVEN) + Folio No.
+
+or DP ID Client ID to + 91 9212993399
+
+Example for NSDL
+
+: MYEPWD<SPACE>IN12345612345678
+
+Example for CDSL
+
+: MYEPWD<SPACE>1402345612345678
+
+Example for Physical
+
+: MYEPWD<SPACE>68741234567890.:
+
+LETTER...........................................................06
+
+FINANCIAL HIGHLIGHTS ....................................................17
+
+KEY HIGHLIGHTS ...................................................................18
+
+DIRECTORS’ REPORT AND
+
+ANNEXURE THERETO...........................................................22
+
+MANAGEMENT DISCUSSION AND
+
+ANALYSIS REPORT ................................................................54
+
+CORPORATE GOVERNANCE REPORT ............................68
+
+BUSINESS RESPONSIBILITY REPORT..............................89
+
+STATUTORY
+
+REPORTS
+
+22-98
+
+COMPANY
+
+OVERVIEW
+
+02-21
+
+STANDALONE FINANCIAL STATEMENTS
+
+INDEPENDENT AUDITOR'S REPORT
+
+ON FINANCIAL STATEMENTS ..........................................99
+
+BALANCE SHEET.................................................................111
+
+STATEMENT OF PROFIT AND LOSS.............................112
+
+STATEMENT OF CHANGES IN EQUITY.......................113
+
+STATEMENT OF CASH FLOW .........................................115
+
+NOTES TO FINANCIAL STATEMENTS..........................116
+
+FORM AOC-1 [STATEMENT CONTAINING
+
+SALIENT FEATURES OF THE FINANCIAL
+
+STATEMENTS OF SUBSIDIARIES / ASSOCIATE
+
+COMPANIES / JOINT VENTURES AS PER
+
+COMPANIES ACT, 2013] ..................................................172
+
+CONSOLIDATED FINANCIAL STATEMENTS
+
+INDEPENDENT AUDITOR'S REPORT ON
+
+CONSOLIDATED FINANCIAL STATEMENTS..............174
+
+CONSOLIDATED BALANCE SHEET...............................183
+
+STATEMENT OF CONSOLIDATED
+
+PROFIT AND LOSS .............................................................184
+
+STATEMENT OF CHANGES IN EQUITY.......................185
+
+STATEMENT OF CONSOLIDATED CASH FLOW.......187
+
+NOTES TO CONSOLIDATED
+
+FINANCIAL STATEMENTS................................................188
+
+NOTICE .......................................................................253
+
+01
+
+SUZLON ENERGY LTD., ANNUAL REPORT 2021-22
+
+SUZLON ENERGY LTD., ANNUAL REPORT 2021-22:
+
+Managing Director
+
+Mr. Vinod R. Tanti
+
+(DIN: 00002266)
+
+Wholetime Director &
+
+Chief Operating Officer
+
+Mr. Girish R. Tanti
+
+(DIN: 00002603)
+
+Non-Executive Director
+
+Mr. Marc Desaedeleer
+
+(DIN: 00508623)
+
+Non-Executive
+
+Independent Director
+
+Mr. Per Hornung Pedersen
+
+(DIN: 07280323)
+
+Non-Executive
+
+Independent Director
+
+Mr. Rakesh Sharma
+
+(DIN: 06695734)
+
+A nominee of State Bank of India
+
+Non-Executive Director
+
+(resigned w.e.f. June 8, 2022)
+
+Mr. Sameer Shah
+
+(DIN: 08702339)
+
+Non-Executive
+
+Independent Director
+
+Mrs. Seemantinee Khot
+
+(DIN: 07026548)
+
+Non-Executive
+
+Independent Director
+
+Mr. Gautam Doshi
+
+(DIN: 00004612)
+
+Non-Executive
+
+Independent Director
+
+Mr. Hiten Timbadia
+
+(DIN: 00210210)
+
+Non-Executive Director
+
+Mr. Ajay Mathur
+
+(DIN: 08805424)
+
+A nominee of REC Limited
+
+Non-Executive Director
+
+(appointed w.e.f. August 10, 2022)
+
+REGISTERED OFFICE
+
+"Suzlon", 5, Shrimali Society,
+
+Near Shri Krishna Complex,
+
+Navrangpura,
+
+Ahmedabad - 380009,
+
+Gujarat, India
+
+Tel.: +91.79.6604 5000
+
+Fax.: +91.79.2656 5540
+
+Website: www.suzlon.com
+
+Email: investors@suzlon.com
+
+CORPORATE OFFICE
+
+One Earth,
+
+Hadapsar,
+
+Pune - 411028,
+
+Maharashtra, India
+
+Tel.: +91.20.6702 2000
+
+Fax.: +91.20.6702 2100
+
+REGISTRAR AND SHARE TRANSFER AGENT
+
+KFin Technologies Limited
+
+[formerly KFin Technologies Pvt. Ltd.]
+
+Selenium, Tower B, Plot 31 & 32, Financial District,
+
+Nanakramguda, Serilingampally Mandal,
+
+Hyderabad-500032, Telangana, India
+
+Toll Free No. 1-800-309-4001;
+
+Website: https://www.kfintech.com;
+
+Email: einward.ris@kfintech.com.
+
+CHIEF EXECUTIVE OFFICER,
+
+SUZLON GROUP
+
+Mr. Ashwani Kumar
+
+CHIEF FINANCIAL OFFICER,
+
+SUZLON GROUP
+
+Mr. Himanshu Mody
+
+(appointed w.e.f. August 1, 2021)
+
+COMPANY SECRETARY
+
+Mrs. Geetanjali S. Vaidya
+
+ICSI Membership No.A18026
+
+STATUTORY AUDITOR
+
+Deloitte Haskins & Sells LLP, Chartered Accountants, Firm Registration No.117366W/W-100018
+
+th
+
+706, ‘B’ Wing, 7 Floor, ICC Trade Tower, Senapati Bapat Road, Pune-411016, Maharashtra, India
+
+LENDERS
+
+REC Limited (REC) | Indian Renewable Energy Development Agency Limited (IREDA)
+
+Axis Bank Limited* | Bank of Baroda* | Bank of India* | Bank of Maharashtra* | Central Bank of India*
+
+Export Import Bank of India* | ICICI Bank Limited* | IDBI Bank Limited* | Indian Overseas Bank*
+
+Life Insurance Corporation of India* | Power Finance Corporation Limited* | Punjab National Bank*
+
+State Bank of India* | The Saraswat Co-operative Bank Limited* | Union Bank of India* | Yes Bank *
+
+SUZLON ENERGY LIMITED | CIN: L40100GJ1995PLC025447
+
+COMPANY INFORMATION
+
+* The financial assistance provided by these lenders has been refinanced by REC and IREDA w.e.f. May 24, 2022.:
+
+Managing Director,
+
+Suzlon Group
+
+CHAIRMAN’S: LETTER
+
+Dear Stakeholders,
+
+The Suzlon Group was born with an inherent
+
+consciousness for the environment and sustainable
+
+development. We have always been cognizant of the
+
+ever-increasing perils of climate change, continually
+
+evolving, reinventing and remodelling our business
+
+to combat the same responsibly.
+
+The last few years have put humanity through the
+
+crises of the pandemic, economic slowdowns, and the
+
+recent Ukraine war. Seeing such varied and grave
+
+crises in a condensed timeframe is unprecedented.
+
+This has pushed countries across the globe to deeply
+
+introspect and act with alacrity to relook the
+
+foundations of the future we are building. This has
+
+also triggered drastic consequences in the last two
+
+years ranging from climate change to 'climate
+
+06
+
+SUZLON ENERGY LTD., ANNUAL REPORT 2021-22
+
+“The crises of the recent past
+
+have triggered a heightened
+
+acceptance of ‘Climate Emergency’
+
+and has put renewable energy
+
+firmly at the center of how the
+
+world is looking at its future,
+
+mainly in the area of global
+
+energy transition.”
+
+Chairman's: letter has been sourced from, United
+
+Nations Environment Programme,
+
+Global Wind Energy Council,
+
+International Renewable Energy
+
+Agency, World Resource Institute,
+
+World Economic Forum, Bloomberg
+
+NEF, Ministry of New and Renewable
+
+Energy, India Brand Equity
+
+Foundation, and The Energy and
+
+Resource Institute.
+
+Dear Shareholders,
+
+The Board of Directors present the Twenty Seventh Annual Report of your Company together with the audited standalone and
+
+consolidated Ind AS ﬁ nancial statements for the year ended March 31, 2022.
+
+1.
+
+Financial result
+
+The audited standalone and consolidated Ind AS ﬁ nancial results for the ﬁ nancial year ended March 31, 2022 are as under:
+
+₹ in Crore
+
+Particulars
+
+Standalone
+
+Consolidated
+
+FY 22
+
+FY 21
+
+FY 22
+
+FY 21
+
+Revenue from operations
+
+3,975.41
+
+1,169.14
+
+6,519.95
+
+3,294.65
+
+Other operating income
+
+64.63
+
+78.17
+
+61.83
+
+51.07
+
+Earnings before interest, tax, depreciation and
+
+amortisation (EBITDA)
+
+69.40
+
+(100.17)
+
+889.45
+
+534.28
+
+Less: Depreciation and amortisation expense
+
+(including impairment losses)
+
+185.13
+
+186.50
+
+259.84
+
+258.38
+
+Earnings before interest and tax (EBIT)
+
+(115.73)
+
+(286.67)
+
+629.61
+
+275.90
+
+Add: Other income
+
+63.02
+
+69.75
+
+22.19
+
+19.87
+
+Less: Finance cost
+
+777.08
+
+983.07
+
+734.52
+
+996.26
+
+Loss before tax before exceptional items
+
+(829.79)
+
+(1,199.99)
+
+(82.72)
+
+(700.49)
+
+Less: Exceptional items
+
+82.87
+
+(801.59)
+
+(83.12)
+
+(805.46)
+
+Proﬁ t/ (loss) before tax
+
+(912.66)
+
+(398.40)
+
+0.40
+
+104.97
+
+Less: Tax expense
+
+-
+
+-
+
+166.59
+
+4.63
+
+Proﬁ t/ (loss) after tax
+
+(912.66)
+
+(398.40)
+
+(166.19)
+
+100.34
+
+Share of proﬁ t / (loss) of associates and jointly
+
+controlled entities
+
+N.A.
+
+N.A.
+
+(10.36)
+
+3.25
+
+Net proﬁ t/ (loss) for the year
+
+(912.66)
+
+(398.40)
+
+(176.55)
+
+103.59
+
+Other comprehensive income/ (loss), net of tax
+
+1.67
+
+(0.11)
+
+(81.83)
+
+31.24
+
+Total comprehensive income/ (loss), net of tax
+
+(910.99)
+
+(398.51)
+
+(258.38)
+
+134.83
+
+2.
+
+Company’s performance
+
+2.1 On a standalone basis, the Company achieved revenue from operations of ₹ 3,975.41 Crore and EBIT of ₹ (115.73)
+
+Crore as against ₹ 1,169.14 Crore and ₹ (286.67) Crore respectively in the previous year. Net loss for the year under
+
+review is ₹ 912.66 Crore as compared to ₹ 398.40 Crore in the previous year.
+
+2.2 On consolidated basis, the Group achieved revenue from operations of ₹ 6,519.95 Crore and EBIT of ₹ 629.61
+
+Crore as against ₹ 3,294.65 Crore and ₹ 275.90 Crore respectively in the previous year. Net loss for the year under
+
+review is ₹ 176.55 Crore as compared to net proﬁ t of ₹ 103.59 Crore in the previous year.
+
+3.
+
+Appropriations
+
+3.1 Dividend
+
+In view of accumulated losses, the Board of Directors expresses its inability to recommend any dividend on
+
+equity shares for the year under review. In terms of Regulation 43A of the Securities and Exchange Board of
+
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (the “Listing Regulations”),
+
+the Company has adopted a dividend distribution policy which is available on the website of the Company
+
+(https://www.suzlon.com/pdf/about/cg/Policy_Dividend_Distribution.pdf).
+
+3.2 Transfer to reserves
+
+During the year under review, the Company was not required to transfer any amount to any reserves.
+
+4.
+
+Material developments during the ﬁ nancial year under review and occurred between the end of the ﬁ nancial
+
+year and the date of this Report
+
+During the year under review and up to the date of this Report, the following material events took place:
+
+DIRECTORS’ REPORT:
+
+Letter of Comfort (“LOC”);
+
+c.
+
+conversion of the entire outstanding Optionally Convertible Debentures (“OCDs”) into 57.14 Crore fully
+
+paid-up new equity shares having a face value of ₹ 2 each of the Company to the Existing Lenders;
+
+d.
+
+conversion of the entire outstanding Compulsorily Convertible Preference Shares (“CCPS”) issued by Suzlon
+
+Global Services Limited (“SGSL”), a wholly owned subsidiary of the Company, into 4,454 fully paid-up equity
+
+shares having face value of ₹ 10 each of SGSL;
+
+e.
+
+Payment of applicable coupon / interest payable to the Existing Lenders on the outstanding OCDs and
+
+dividend payable on CCPS;
+
+f.
+
+Surrender of 49.86 Crore share warrants by the Existing Lenders as issued by the Company to the Existing
+
+Lenders under the Framework Restructuring Agreement (FRA); and
+
+g.
+
+Waiver of the requirement of maintaining the lock-in for 99.72 equity shares of the Company issued to the
+
+Existing Lenders as stipulated in the FRA;
+
+(hereinafter referred to as the “Reﬁ nancing Proposal” and Term Loan, OCD and CCPS are collectively hereinafter
+
+referred to as the “Existing Facilities”).
+
+On April 28, 2022, the STG and the New Lenders entered into a Rupee Term Loan Agreement (“RTL Agreement”)
+
+for recording the terms and conditions on which the New Lenders would make available the reﬁ nancing amount
+
+to the STG.
+
+On May 24, 2022, the Reﬁ nancing Proposal was consummated. Pursuant to the same, the restructured facilities
+
+of the STG were reﬁ nanced and the outstanding obligations of the STG under the restructured facilities stood
+
+discharged as stated above. The key features of the RTL Agreement have been given in the Notes to the Financial
+
+Statements forming part of this Annual Report.
+
+4.2 Mergers / demergers / amalgamation / restructuring:
+
+During the year under review and up to the date of this Report, the following developments took place in the
+
+matters of mergers / demergers / divestment:
+
+a.
+
+In the matter of merger by absorption of Suzlon Power Infrastructure Limited (“SPIL”), a wholly owned
+
+subsidiary of the Company, with Suzlon Global Services Limited (“SGSL”) also a wholly owned subsidiary
+
+of the Company, the ﬁ nal order approving the Scheme of Amalgamation of SPIL with SGSL is awaited
+
+from NCLT, Ahmedabad Bench and NCLT, Chennai Bench. Post merger becoming eﬀ ective, the business
+
+undertaking of SPIL will be merged in to SGSL from the appointed date, i.e. April 1, 2020.
+
+b.
+
+In the matter of demerger by transfer and vesting of Project Execution Business and Power Evacuation
+
+Business of Suzlon Gujarat Wind Park Limited (“SGWPL”), a step down wholly owned subsidiary of the
+
+Company, in to SGSL, the ﬁ nal order approving the Scheme of Arrangement between SGWPL and SGSL is
+
+awaited from NCLT, Ahmedabad Bench. Post demerger becoming eﬀ ective, while Project Execution Business
+
+and Power Evacuation Business of SGWPL will be transferred to SGSL from the appointed date, i.e. April 2,
+
+2020, SGWPL will continue undertaking its Land Development Business and Power Generation Business.
+
+c.
+
+Suzlon Generators Limited (“SGL”), a subsidiary of the Company, ceased to be the subsidiary of the Company
+
+pursuant to completion of divestment of the Company’s 75% stake in SGL to Voith Turbo Private Limited on
+
+April 7, 2022.:
+
+managing director or the whole-time director did not receive any commission /
+
+remuneration from any subsidiary of the Company.
+
+23.4 Information pertaining to remuneration to be disclosed by listed companies in terms of Section 197(12)
+
+of the Companies Act, 2013 read with Rule 5(1) of the Companies (Appointment and Remuneration of
+
+Managerial Personnel) Rules, 2014:
+
+The information / details pertaining to remuneration to be disclosed by listed companies in terms of Section
+
+197(12) of the Companies Act, 2013, read with Rule 5(1) of the Companies (Appointment and Remuneration of
+
+Managerial Personnel) Rules, 2014 have been provided in an annexure which forms part of the Directors’ Report.
+
+23.5 Employees stock option plan (ESOP):
+
+The Company had in past introduced ESOP for its employees and employees of its subsidiaries. As on March 31,
+
+2022 and as on date of this Report, there are no ESOP schemes in force.
+
+24. Related party disclosures and management discussion and analysis report
+
+The disclosures pertaining to the related party transactions as required to be given in terms of Para A read with Para C
+
+of Schedule V of the Listing Regulations have been provided in an annexure which forms part of the Directors’ Report.
+
+Further, in terms of Regulation 34, the Management Discussion and Analysis Report on the operations and the ﬁ nancial
+
+position of the Company has been provided in a separate section which forms part of this Annual Report.
+
+25. Corporate governance report
+
+In terms of Para C of Schedule V of the Listing Regulations, a detailed report along with the auditors’ certiﬁ cate of
+
+compliance on Corporate Governance has been provided in a separate section which forms part of this Annual Report.
+
+The Company is in compliance with the requirements and disclosures that have to be made in this regard.
+
+26. Business responsibility report
+
+In terms of Regulation 34 of the Listing Regulations, the Business Responsibility report has been provided in a separate
+
+section which forms part of this Annual Report.
+
+27. Transfer to investor education and protection fund (“IEPF”) set up by the Government of India
+
+During the year under review, the Company was not required to transfer any unpaid or unclaimed dividend to the IEPF
+
+set up by the Government of India.:
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director
+
+Chairman
+
+1
+
+1
+
+Mr. Girish R.Tanti, Non-executive Director
+
+Member
+
+1
+
+1
+
+Mr. Per Hornung Pedersen, Independent Director
+
+Member
+
+1
+
+1
+
+3.
+
+Provide the web-link where composition of CSR committee, CSR policy and CSR projects approved by the board
+
+are disclosed on the website of the Company: The details of composition of the CSR committee, the CSR policy and
+
+the CSR projects as approved by the Board are available / shall be made available on the website of the Company (www.
+
+suzlon.com).
+
+4.
+
+Provide the details of impact assessment of CSR projects carried out in pursuance of sub-rule (3) of rule 8 of the
+
+Companies (Corporate Social responsibility Policy) Rules, 2014, if applicable (attach the report): Not applicable.
+
+5.
+
+Details of the amount available for set oﬀ in pursuance of sub-rule (3) of rule 7 of the Companies (Corporate Social
+
+responsibility Policy) Rules, 2014 and amount required for set oﬀ for the ﬁ nancial year, if any: Not applicable.
+
+6.
+
+Average net proﬁ t of the Company as per section 135(5): Not applicable since the average net proﬁ t for the last
+
+three ﬁ nancial years (preceding the ﬁ nancial year under review) is negative.
+
+7.
+
+CSR obligation
+
+Sr. No.
+
+Particulars
+
+Remarks
+
+a.
+
+Two per cent of average net proﬁ t of the company as per section 135(5)
+
+N.A.
+
+b.
+
+Surplus arising out of the CSR projects or programmes or activities of the
+
+N.A.
+
+previous ﬁ nancial years
+
+c.
+
+Amount required to be set oﬀ for the ﬁ nancial year
+
+N.A.
+
+d.
+
+Total CSR obligation for the ﬁ nancial year (7a+7b-7c)
+
+N.A.
+
+The average net proﬁ t for the last three ﬁ nancial years (preceding the ﬁ nancial year under review) is negative hence
+
+there is no mandatory obligation to spend on CSR, however the Company has voluntarily spent on CSR activities, the
+
+details of which have been provided in point 8(c) below.
+
+8.
+
+CSR spending for current year
+
+a.
+
+CSR amount spent or unspent for the ﬁ nancial year: There is no mandatory obligation to spend on CSR,
+
+however the Company has voluntarily spent on CSR activities, the details of which have been provided in point
+
+8(c) below.
+
+b.
+
+Details of CSR amount spent against on-going projects for the ﬁ nancial year: Not applicable for the year
+
+under review.
+
+c.
+
+Details of CSR amount spent against other than on-going projects for the ﬁ nancial year:
+
+₹ in Crore
+
+Sr.
+
+No.
+
+Name of
+
+the project
+
+or activity
+
+identiﬁ ed
+
+Sector in
+
+which the
+
+Project is
+
+covered
+
+State and
+
+district
+
+where
+
+projects or
+
+programs
+
+were
+
+undertaken
+
+Amount
+
+outlay
+
+(budget)
+
+project or
+
+programs
+
+wise
+
+Amount spent on the
+
+projects or programs
+
+Cumulative
+
+expenditure
+
+up to the
+
+reporting
+
+period
+
+(Name
+
+and CSR
+
+registration
+
+number)
+
+Direct
+
+expenditure
+
+Over-heads
+
+i
+
+SUZTAIN-
+
+Sustainable
+
+need based
+
+village
+
+development
+
+Education
+
+Andhra
+
+Pradesh,
+
+Anantapur
+
+villages
+
+0.01
+
+0.00*
+
+0.01
+
+0.01
+
+Suzlon
+
+Foundation
+
+(CSR Reg. No.
+
+CSR00003382)
+
+Environment
+
+0.05
+
+0.04
+
+0.01
+
+0.05
+
+Health
+
+0.02
+
+0.01
+
+0.01
+
+0.02
+
+Livelihood
+
+0.01
+
+0.01
+
+0.00*
+
+0.01
+
+Total – i
+
+0.09
+
+0.06
+
+0.03
+
+0.09:
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director
+
+43.13
+
+Mr. Girish R.Tanti
+
+Non-executive Director
+
+1.31
+
+Mr. Vinod R.Tanti
+
+Wholetime Director & Chief Operating Oﬃ cer
+
+49.06
+
+Mr. Marc Deseadeleer
+
+Non-executive Independent Director
+
+1.39
+
+Mr. Per Hornung Pedersen
+
+Non-executive Independent Director
+
+1.55
+
+Mr. Rakesh Sharma
+
+Non-executive Director
+
+1.23
+
+Mr. Sameer Shah
+
+Non-executive Independent Director
+
+1.47
+
+Mrs. Seemantinee Khot
+
+Non-executive Independent Director
+
+1.27
+
+Mr. Gautam Doshi
+
+Non-executive Independent Director
+
+1.39
+
+Mr. Hiten Timbadia
+
+Non-executive Director
+
+1.23
+
+1 The Non-executive directors are not paid any remuneration except sitting fees for attending the meetings of the Board
+
+and / or Committees thereof which is within the limits prescribed by the Companies Act, 2013.
+
+2.
+
+The percentage increase in remuneration of each Director, Chief Executive Oﬃ cer (CEO), Chief Financial Oﬃ cer
+
+(CFO) and Company Secretary (CS) for the ﬁ nancial year under review:
+
+Name
+
+Category
+
+~ Increase/ (decrease) (%)
+
+(including
+
+incentive)
+
+(excluding
+
+incentive)
+
+Mr. Tulsi R.Tanti
+
+Chairman &: Managing
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director of the Company.
+
+5.
+
+To approve divestment / dilution / disposal of the Company’s investment(s) / asset(s) / undertaking(s).
+
+We further report that, post the audit period and before the date of this report Suzlon Generators Limited (“SGL”) ceased
+
+to be subsidiary of the Company pursuant to completion of divestment of the Company’s 75% stake in SGL to Voith Turbo
+
+Private Limited on 7th April 2022.
+
+We further report that, Suzlon Energy Limited (the “Company” or “SEL”) and its certain speciﬁ ed subsidiaries (hereinafter
+
+collectively referred to as “Suzlon The Group” or the “STG”) entered into a Framework Restructuring Agreement (hereinafter
+
+referred to as the “FRA”) with a Consortium of Lenders led by State Bank of India (hereinafter referred to as the “Existing
+
+Lenders”) for restructuring the debt of the STG in terms of the Resolution Plan formulated under the Reserve Bank of India
+
+(Prudential Framework for Resolution of Stressed Assets) Directions, 2019 issued by the Reserve Bank of India vide its circular
+
+dated 7th June 2019 (the “RBI Circular”). The Resolution Plan is eﬀ ective from 30th June 2020.
+
+The FRA envisaged that the STG might provide an exit to the Existing Lenders with respect to the restructured facilities in the
+
+manner provided in the Resolution Plan and / or as may be acceptable to the Existing Lenders. As REC Limited and Indian
+
+Renewable Energy Development Agency Limited (“New Lenders”) have specialised knowledge in relation to the power sector
+
+in India and would be better placed to address the speciﬁ c needs of the Group and allow adequate operational ﬂ exibility
+
+for eﬃ cient running of business, the STG had submitted a proposal to the Existing Lenders for reﬁ nancing the outstanding
+
+restructured facilities (the “Reﬁ nancing Proposal”) on the basis of sanction letters from the New Lenders. As part of the
+
+Reﬁ nancing Proposal, an agreement was entered on 31st March 2022 between the STG and the Existing Lenders. The key
+
+features of the Reﬁ nancing Proposal are as follows:
+
+•
+
+Full repayment of outstanding Rupee Term Loan along with accrued interest;
+
+•
+
+Release or transfer or replacement of limits of non-fund based working capital facilities against cash margin or: Letter of
+
+Comfort (“LOC”);
+
+•
+
+Conversion of the entire outstanding value of 410,000 number of Optionally Convertible Debentures (“OCDs”) having
+
+face value of Rs. 100,000 each issued by the Company in to 57,14,28,572 equity shares having face value of Rs. 2 each
+
+of the Company to be allotted to the Existing Lenders;
+
+letter of even date which is annexed as Annexure A and forms an integral part of this report.
+
+‘Annexure A’
+
+To,
+
+The Members
+
+SUZLON ENERGY LIMITED.
+
+(CIN: L40100GJ1995PLC025447)
+
+Regd. Oﬃ ce: “Suzlon”, 5, Shrimali Society,
+
+Near Shri Krishna Complex, Navrangpura,
+
+Ahmedabad-380009.
+
+Our Secretarial Audit Report of even date is to be read along with this: letter.
+
+Management’s Responsibility
+
+1.
+
+It is the responsibility of the management of the Company to maintain secretarial records, devise proper systems
+
+to ensure compliance with the provisions of all applicable laws and regulations and to ensure that the systems are
+
+adequate and operate eﬀ ectively.
+
+Auditor’s Responsibility
+
+2.
+
+Our responsibility is to express an opinion on these secretarial records, standards and procedures followed by the
+
+Company with respect to secretarial compliances.
+
+3.
+
+We believe that audit evidence and information obtain from the Company’s management is adequate and appropriate
+
+for us to provide a basis for our opinion.
+
+4.
+
+Wherever required, we have obtained the management representation about the compliance of laws, rules and
+
+regulations and happening of events etc.
+
+Disclaimer
+
+5.
+
+The Secretarial Audit Report is neither an assurance as to the future viability of the Company nor of the eﬃ cacy or
+
+eﬀ ectiveness with which the management has conducted the aﬀ airs of the Company.
+
+Chirag Shah
+
+Partner
+
+Chirag Shah and Associates
+
+FCS No. 5545
+
+Place : Ahmedabad
+
+C P No.: 3498
+
+Date : May 25, 2022
+
+UDIN : F005545D000389742
+
+letter of event date which is annexed as Annexure A and forms an integral part of this report.:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility of the management of the company. Our responsibility is to
+
+express an opinion on these secretarial records based on our audit.
+
+2.
+
+We have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the
+
+correctness of the contents of the secretarial records. The veriﬁ cation was done on test basis to ensure that correct facts
+
+are reﬂ ected in secretarial records. We believe that the processes and practices, we followed provide a reasonable basis
+
+for our opinion.
+
+3.
+
+We have not veriﬁ ed the correctness and appropriateness of ﬁ nancial records and Books of Accounts of the company.
+
+4.
+
+Whereever required, we have obtained the Management representation about the Compliance of laws, rules and
+
+regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of corporate and other applicable laws, rules, regulations, Standards is the responsibility
+
+of management. Our examination was limited to the veriﬁ cation of procedures on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to the future viability of the company nor of the eﬃ cacy or
+
+eﬀ ectiveness with which the management has conducted the aﬀ airs of the company.
+
+For Shailesh Indapurkar & Associates
+
+Company Secretaries
+
+CS Shailesh Indapurkar
+
+Proprietor
+
+ACS 17306
+
+C. P. No: 5701
+
+Place: Pune
+
+Date: 24th May 2022:
+
+Letter of
+
+Comfort (“LOC”);
+
+•
+
+Conversion of the entire outstanding value of 410,000 number of Optionally Convertible Debentures (“OCDs”) having
+
+face value of Rs. 100,000 each issued by SEL in to 57,14,28,572 equity shares having face value of Rs. 2 each of SEL to be
+
+allotted to the Existing Lenders;
+
+•
+
+Conversion of 4,45,301 number of Compulsorily Convertible Preference Shares (“CCPS”) having face value of Rs. 100,000
+
+each issued by Suzlon Global Services Limited (“SGSL”), one of the wholly owned subsidiaries of SEL, into 4,454 equity
+
+shares having face value of Rs. 10 each of SGSL to be allotted to the Existing Lenders;
+
+•
+
+Payment of applicable coupon / interest payable to the Existing Lenders on the outstanding OCDs and dividends
+
+payable on CCPS;
+
+•
+
+Waiver of the requirement of maintaining the lock-in for 99,71,76,872 equity shares having face value of Rs.2 each of SEL
+
+issued to the Existing Lenders as stipulated in the Framework Restructuring Agreement dated 30th June 2020; and
+
+•
+
+49,85,88,439 number of Warrants issued by SEL to the Existing Lenders shall stand surrendered.:
+
+Managing Director of the Company without remuneration
+
+And following Special Resolution in Extra-Ordinary General Meeting held on 12th March, 2022:
+
+•
+
+To approve conversion of loan extended by New Lenders into equity
+
+CS Dhwani Rana
+
+Partner
+
+CHIRAG SHAH & ASSOCIATES
+
+Place: Ahmedabad
+
+ACS No. 43629
+
+Date: 24th May, 2022
+
+C P No.: 21737
+
+UDIN: A043629D000372529
+
+Peer Review Cer. No.: 704/2020
+
+This report is to be read with our: letter of even date which is annexed as Annexure A and forms an integral part of this report.
+
+‘Annexure A’
+
+To,
+
+The Members
+
+SUZLON GUJARAT WIND PARK LIMITED
+
+CIN: U40108GJ2004PLC044409
+
+“Suzlon”, 5, Shrimali Society,
+
+Near Shri Krishna Complex, Navrangpura,
+
+Ahmedabad-380009.
+
+Our Secretarial Audit Report of even date is to be read along with this letter.
+
+Management’s Responsibility
+
+It is the responsibility of the management of the Company to maintain secretarial records, devise proper systems to ensure
+
+compliance with the provisions of all applicable laws and regulations and to ensure that the systems are adequate and
+
+operate eﬀ ectively.
+
+Auditor’s Responsibility
+
+Our responsibility is to express an opinion on these secretarial records, standards and procedures followed by the Company
+
+with respect to secretarial compliances.
+
+We believe that audit evidence and information obtained from the Company’s management is adequate and appropriate for
+
+us to provide a basis for our opinion.
+
+Wherever required, we have obtained the management representation about the compliance of laws, rules and regulations
+
+and happening of events etc.
+
+Disclaimer
+
+The Secretarial Audit Report is neither an assurance as to the future viability of the company nor of the eﬃ cacy or eﬀ ectiveness
+
+with which the management has conducted the aﬀ airs of the Company.
+
+CS Dhwani Rana
+
+Partner
+
+CHIRAG SHAH & ASSOCIATES
+
+ACS No. 43629
+
+Place : Ahmedabad
+
+C P No.: 21737
+
+Date : 24th May, 2022
+
+Peer Review Cer. No.: 704/2020
+
+Letter of
+
+Comfort (“LOC”);
+
+•
+
+Conversion of the entire outstanding value of 410,000 number of Optionally Convertible Debentures (“OCDs”) having
+
+face value of Rs. 100,000 each issued by Suzlon Energy Limited in to 57,14,28,572 equity shares having face value of
+
+Rs. 2 each of Suzlon Energy Limited to be allotted to the Existing Lenders;
+
+•
+
+Conversion of 4,45,301 number of Compulsorily Convertible Preference Shares (“CCPS”) having face value of Rs. 100,000
+
+each issued by Suzlon Global Services Limited (“SGSL”) into 4,454 equity shares having face value of Rs. 10 each of SGSL
+
+to be allotted to the Existing Lenders;:
+
+letter of event date which is annexed as Annexure A and forms an integral part of this report.:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility of the management of the company. Our responsibility is to
+
+express an opinion on these secretarial records based on our audit.
+
+2.
+
+We have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the
+
+correctness of the contents of the secretarial records. The veriﬁ cation was done on test basis to ensure that correct facts
+
+are reﬂ ected in secretarial records. We believe that the processes and practices, we followed provide a reasonable basis
+
+for our opinion.
+
+3.
+
+We have not veriﬁ ed the correctness and appropriateness of ﬁ nancial records and Books of Accounts of the company.
+
+4.
+
+Wherever required, we have obtained the Management representation about the Compliance of laws, rules and
+
+regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of corporate and other applicable laws, rules, regulations, Standards is the responsibility
+
+of management. Our examination was limited to the veriﬁ cation of procedures on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to the future viability of the company nor of the eﬃ cacy or
+
+eﬀ ectiveness with which the management has conducted the aﬀ airs of the company.
+
+For Shailesh Indapurkar & Associates
+
+Company Secretaries
+
+CS Shailesh Indapurkar
+
+Proprietor
+
+ACS 17306
+
+C. P. No: 5701
+
+Place: Pune
+
+Date:24th May 2022:
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director, is the
+
+brother of Mr. Vinod R.Tanti, Wholetime Director & Chief Operating Oﬃ cer, and Mr. Girish R.Tanti, the Non-executive Director. Except for the
+
+relationship between Mr. Tulsi R.Tanti, Mr. Vinod R.Tanti and Mr. Girish R.Tanti, there is no other inter-se relationship amongst other directors.
+
+2.7 Disclosures pertaining to directorships in other listed entities – The information pertaining to name of listed
+
+companies in which director is a director is as under:
+
+Name of Director
+
+Names of other listed companies where the
+
+concerned Director is a Director as on March
+
+31, 2022
+
+Category of Directorship
+
+Mr. Tulsi R.Tanti
+
+None
+
+N.A.
+
+Mr. Vinod R.Tanti
+
+None
+
+N.A.
+
+Mr. Girish R.Tanti
+
+None
+
+N.A.
+
+Mr. Marc Desaedeleer
+
+None
+
+N.A.
+
+Mr. Per Hornung Pedersen
+
+PNE Wind AG, Cuxhaven, Germany (Frankfurt)
+
+Chairman
+
+Mr. Rakesh Sharma
+
+None
+
+N.A.
+
+Mr. Sameer Shah
+
+None
+
+N.A.
+
+Mrs. Seemantinee Khot
+
+None
+
+N.A.
+
+Mr. Gautam Doshi
+
+Sun Pharmaceutical Industries Limited
+
+Independent Director
+
+Piramal Capital & Housing Finance Limited
+
+Independent Director
+
+Mr. Hiten Timbadia
+
+Manugraph India Limited
+
+Independent Director:
+
+Managing Director, Group Chief Executive Oﬃ cer, Group Chief Financial Oﬃ cer,
+
+representatives of the statutory auditors, representatives of internal auditors and senior oﬃ cials of the
+
+Company are invited to attend the meetings of the Audit Committee from time to time. The Company
+
+Secretary of the Company acts as the secretary to the Audit Committee. The Chairman of the Audit
+
+Committee attended the Twenty Sixth Annual General Meeting of the Company held on September 24,
+
+2021 through Video Conferencing.
+
+c.
+
+Terms of reference – The broad terms of reference of the Audit Committee include the following:
+
+i.
+
+oversight of the Company’s ﬁ nancial reporting process and the disclosure of its ﬁ nancial information
+
+to ensure that the ﬁ nancial statement is correct, suﬃ cient and credible;
+
+ii.
+
+recommendation for appointment, remuneration and terms of appointment of Auditors of the Company;
+
+iii.
+
+approval of payment to Statutory Auditors for any other services rendered by the Statutory Auditors;
+
+iv.
+
+reviewing, with the management, the annual ﬁ nancial statements and Auditors’ report thereon before
+
+submission to the Board for approval, with particular reference to:
+
+•
+
+matters required to be included in the Directors’ Responsibility Statement to be included in the
+
+Board’s report in terms of clause (c) of sub-section 3 of section 134 of the Companies Act, 2013,
+
+•
+
+changes, if any, in accounting policies and practices and reasons for the same,
+
+•
+
+major accounting entries involving estimates based on the exercise of judgment by management,
+
+•
+
+signiﬁ cant adjustments made in the ﬁ nancial statements arising out of audit ﬁ ndings,
+
+•
+
+compliance with listing and other legal requirements relating to ﬁ nancial statements,
+
+•
+
+disclosure of any related party transactions,
+
+•
+
+modiﬁ ed opinion(s) in the draft audit report;:
+
+Managing Director of the Company with eﬀ ect from April 1, 2022
+
+for a further term of three years, i.e. up to March 31, 2025 at a remuneration of ₹ 5 Crore p.a. plus incentives and perquisites.
+
+2In terms of approval granted by the shareholders of the Company at the Twenty Fourth Annual General Meeting held on
+
+September 20, 2019, Mr. Vinod R.Tanti was entitled to a remuneration of ₹ 3.20 Crore p.a. plus incentives and perquisites for
+
+a period from October 1, 2019 to September 30, 2022. However the remuneration paid to Mr. Vinod R.Tanti for the period
+
+from April 1, 2021 to March 31, 2022 has been restricted to ₹ 2.40 Crore due to reduction in salary across certain categories
+
+of the employees on account of COVID 19 pandemic.
+
+Except Mr. Tulsi R.Tanti and Mr. Vinod R.Tanti, all other Directors are Non-executive Directors
+
+f.
+
+Remuneration of the Non-executive Directors – The Non-executive Directors are not paid any
+
+remuneration except sitting fees for attending the meetings of the Board and / or Committees thereof which
+
+is within the limits prescribed by the Act. The details of the sitting fees paid, stock options granted and
+
+securities held by the Non-executive Directors during FY22 are as under:
+
+Name of the Non-executive
+
+Sitting fees
+
+Stock options
+
+Equity shares
+
+Remarks
+
+Director
+
+(₹ in Crore)
+
+granted
+
+held as on
+
+March 31, 2022
+
+Mr. Girish R.Tanti
+
+0.0640
+
+-
+
+100,019,000
+
+-
+
+Mr. Marc Deseadeleer
+
+0.0680
+
+-
+
+-
+
+-
+
+Mr. Per Hornung Pedersen
+
+0.0760
+
+-
+
+-
+
+-
+
+Mr. Rakesh Sharma
+
+0.0600
+
+-
+
+-
+
+-
+
+Mr. Sameer Shah
+
+0.0720
+
+-
+
+-
+
+-
+
+Mrs. Seemantinee Khot
+
+0.0620
+
+-
+
+-
+
+-
+
+Mr. Gautam Doshi
+
+0.0680
+
+-
+
+42,750
+
+-
+
+Mr. Hiten Timbadia
+
+0.0600
+
+-
+
+218,000
+
+-
+
+Note: The Non-executive Directors do not hold any convertible instruments in the Company.:
+
+Managing Director of the Company
+
+•
+
+To approve divestment / dilution / disposal of the
+
+Company’s investment(s) / asset(s) / undertaking(s)
+
+4.3 Details of resolutions passed by way of postal ballot – During the year under review, none of the resolutions
+
+were passed by postal ballot. Further, none of the resolutions proposed for ensuing Annual General Meeting need
+
+to be passed by postal ballot.
+
+5.
+
+Disclosures –
+
+5.1 Means of communication
+
+a.
+
+Quarterly / annual results – The quarterly / annual results and notices as required under Regulation 33 of
+
+the Listing Regulations are ordinarily published in the ‘The Financial Express’ (English & Gujarati editions) /
+
+‘Nav Gujarat Samay’.
+
+b.
+
+Posting of information on the website of the Company – The annual / quarterly results of the Company,
+
+shareholding pattern, the oﬃ cial news releases, notiﬁ cations to the stock exchanges and the presentations
+
+made by the Company to analysts and institutional investors are regularly posted on its website (www.
+
+suzlon.com). The Company is in compliance of Regulation 46 of the Listing Regulations.
+
+5.2 Disclosure on materially signiﬁ cant related party transactions and RPT Policy –
+
+a.
+
+The Company has formulated ‘Policy on materiality of related party transactions and dealing with related
+
+party transactions’ (“RPT Policy”) which is available on the website of the Company (www.suzlon.com). During
+
+the year under review, the RPT Policy has been amended in order to bring it in conformity with the amended
+
+Listing Regulations.
+
+b.
+
+The Company has entered into various transactions with related parties as deﬁ ned under Section 2(76) of the
+
+Act in the ordinary course of business and on arm’s length basis; in accordance with the provisions of the Act
+
+read with the Rules made thereunder, Regulation 23 of the Listing Regulations and the ‘Policy on materiality
+
+of related party transactions and dealing with related party transactions’.
+
+5.3 Details of non-compliance with regard to capital market – There were no penalties imposed or strictures
+
+passed on the Company by the stock exchanges, SEBI or any other statutory authority on any matter related to
+
+the capital markets, during last three years except the following:
+
+a.
+
+Each of the National Stock Exchange of India Limited and BSE Limited have levied a penalty of ₹ 3,75,000/-
+
+plus GST for non-appointment of requisite number of Independent Directors including one Woman Director
+
+in terms of the Listing Regulations for the period from January 1, 2020 till March 15, 2020. The Company had
+
+already rectiﬁ ed the non-compliance by appointing requisite number of independent directors (including
+
+woman director) during FY20 and is fully compliant with the requirement pertaining to appointment of
+
+requisite number of independent directors (including woman director) w.e.f. March 16, 2020. The penalty
+
+imposed by both the stock exchanges has also been paid within stipulated time.
+
+b.
+
+In March 2021, SEBI has appointed the Forensic Auditor to carry out forensic audit with respect to the
+
+ﬁ nancial statements of the Company. The Company has submitted the required details to the Forensic
+
+Auditor from time to time.
+
+c.
+
+SEBI, by an Adjudication Order dated April 20, 2018 has imposed a monetary penalty of a total sum of ₹
+
+1.10 Crore on the Company and its the then Compliance Oﬃ cer for alleged non-reporting of certain events
+
+in the past. SAT vide its order dated May 3, 2021 had, while conﬁ rming the order of the SEBI with regard to
+
+the penalty imposed upon the Company to the extent of ₹ 5 Lacs and imposition of ₹ 5 Lacs penalty upon
+
+the Company and the Compliance Oﬃ cer, set aside the imposition of the penalty of ₹ 1 Crore upon the
+
+Company. The Company had duly complied with the said order of SAT and paid the requisite penalty of ₹ 10
+
+Lacs on May 28, 2021. SEBI has now ﬁ led an appeal with the Honourable Supreme Court of India against the
+
+said order of SAT and which is now pending before the Honourable Supreme Court of India.:
+
+Managing Director or the Chief Executive Oﬃ cer – As on March
+
+31, 2022, Mr. Tulsi R.Tanti was the Chairman &: Managing
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+letter reference no. SN/ 2021-22/44A dated
+
+October 30, 2021.
+
+2.
+
+We, Deloitte Haskins & Sells LLP, Chartered Accountants, the Statutory Auditors of Suzlon Energy Limited (“the
+
+Company”), have examined the compliance of conditions of Corporate Governance by the Company, for the year ended
+
+on March 31, 2022, as stipulated in regulations 17 to 27 and clauses (b) to (i) of regulation 46(2) and para C and D of
+
+Schedule V of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (the Listing Regulations).
+
+Managements’ Responsibility
+
+3.
+
+The compliance of conditions of Corporate Governance is the responsibility of the Management. This responsibility
+
+includes the design, implementation and maintenance of internal control and procedures to ensure the compliance with
+
+the conditions of the Corporate Governance stipulated in Listing Regulations.
+
+Auditor’s Responsibility
+
+4.
+
+Our responsibility is limited to examining the procedures and implementation thereof, adopted by the Company for
+
+ensuring compliance with the conditions of the Corporate Governance. It is neither an audit nor an expression of
+
+opinion on the ﬁ nancial statements of the Company.
+
+5.
+
+We have examined the books of account and other relevant records and documents maintained by the Company for the
+
+purposes of providing reasonable assurance on the compliance with Corporate Governance requirements by the Company.:
+
+Managing Director
+
+Date : May 25, 2022
+
+DIN: 00002283:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place: Pune
+
+Place: Pune
+
+Date: May 25, 2022
+
+Date: May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place: Pune
+
+Place: Pune
+
+Date: May 25, 2022
+
+Date: May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place: Pune
+
+Place: Pune
+
+Date: May 25, 2022
+
+Date: May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place: Pune
+
+Place: Pune
+
+Date: May 25, 2022
+
+Date: May 25, 2022:
+
+Letter of Comfort (“LOC”);
+
+iii.
+
+Conversion of the entire outstanding value of 410,000 number of Optionally Convertible Debentures (“OCD”)
+
+having face value of ₹100,000 each issued by the Company into 57,14,28,572 equity shares having face value of ₹
+
+2 each of the Company to be allotted to the Existing Lenders;
+
+iv.
+
+Conversion of 4,45,301 number of Compulsorily Convertible Preference Shares (“CCPS”) having face value of ₹
+
+100,000 each issued by Suzlon Global Services Limited (“SGSL”) into 4,454 equity shares having face value of ₹ 10
+
+each of SGSL to be allotted to the Existing Lenders;
+
+v.
+
+Payment of applicable coupon / interest payable to the Existing Lenders on the outstanding OCDs and dividends
+
+payable on CCPS;
+
+vi.
+
+Waiver of the requirement of maintaining the lock-in for 99,71,76,872 equity shares having face value of ₹ 2 each
+
+of the Company issued to the Existing Lenders as stipulated in the Framework Restructuring Agreement dated
+
+June 30, 2020; and
+
+vii. 49,85,88,439 number of Warrants issued by the Company to the Existing Lenders shall stand surrendered.
+
+On April 28, 2022, STG and the New Lenders entered into a Rupee Term Loan Agreement (“RTL Agreement”) for
+
+recording the terms and conditions on which the New Lenders would make available the reﬁ nancing amount to
+
+the STG.
+
+On May 24, 2022 (“Eﬀ ective Date”), the Reﬁ nancing Proposal was consummated. Pursuant to the same, the Restructured
+
+Facilities of STG are reﬁ nanced and the outstanding obligations of STG under the Restructured Facilities stand discharged
+
+as stated in paragraphs i to vii above. The key features of the RTL Agreement are as follows:
+
+i.
+
+Disbursement of Fund Based Rupee Term Loan and LOC by REC Limited (“REC Loan”) and Fund Based Rupee Term
+
+Loan by Indian Renewable Energy Development Agency Limited.
+
+ii.
+
+Repayment of Fund Based Rupee Term Loan in 97 structured monthly instalments commencing from June 2022 to
+
+June 2030 at initial interest rate of 9.50% per annum, subject to reset after 1 year;
+
+iii.
+
+Release of LOC on retirement of respective non-fund based working capital facilities by Existing Lenders;
+
+iv.
+
+Reduction of REC Loan to ₹ 2,178 Crore within 1 year from disbursement;
+
+v.
+
+Monetization of speciﬁ ed assets within stipulated dates;
+
+The existing borrowing liabilities including OCDs and CCPS issued by the Company and SGSL respectively, are carried in
+
+the books as on March 31, 2022 without taking cognizance of the Reﬁ nancing Proposal. However, upon consummation
+
+of Reﬁ nancing Proposal, the OCD issued by the Company and CCPS issued by SGSL to the Existing Lenders stands
+
+extinguished as on the Eﬀ ective Date and the diﬀ erence between the carrying value and fair value shall be recognized
+
+as gain on Eﬀ ective Date.
+
+5.
+
+Proposed restructuring of subsidiaries
+
+The Board of Directors of the Company at its meeting held on February 04, 2021 and the Board of Directors of Suzlon
+
+Global Services Limited (‘SGSL’), Suzlon Power Infrastructure Limited (‘SPIL’) and Suzlon Gujarat Wind Park Limited
+
+(‘SGWPL’), wholly owned subsidiaries of the Company, at their respective meetings held on February 03, 2021 have
+
+approved (i) the Scheme of Amalgamation involving merger by absorption (‘Scheme 1’) of SPIL with SGSL and (ii) the
+
+Scheme of Arrangement involving transfer and vesting of Project Execution Business (‘Demerged Undertaking I’) and
+
+Power Evacuation Business (‘Demerged Undertaking II’) (‘Scheme 2’) of SGWPL into SGSL. The proposed Scheme 1
+
+and Scheme 2 have been ﬁ led with the Honourable National Company Law Tribunal, Ahmedabad and Chennai Bench
+
+(‘NCLTs’) for their respective approvals. The amalgamation and arrangement shall be in accordance with the provisions
+
+of Section 230 to 232 and other applicable provisions of the Companies Act, 2013 and the Rules made thereunder. The
+
+Merger of SPIL with SGSL has been proposed from the appointed date of April 01, 2020. The Demerger of the Project
+
+Execution Business and Power Evacuation Business of SGWPL with SGSL has been proposed from the appointed date
+
+of April 02, 2020. Signiﬁ cant progress has happened in these matters, however, the ﬁ nal orders are not yet in place.
+
+Pending orders, the eﬀ ect of the Scheme has not been considered in the ﬁ nancial statements of the Company for the
+
+year ended March 31, 2022.
+
+6.
+
+Going concern
+
+Though there are signs of improvements, the Company continued to incur losses (before exceptional items and tax)
+
+during the year and the net worth of the Company remains negative at ₹ 3,892.09 Crore as at March 31, 2022. The:
+
+letter
+
+of credit (‘SBLC’) Facility Agreement and had given security on behalf of AE Rotor Holding B.V. (‘AERH’) a step down
+
+wholly owned subsidiary of the Company under the Oﬀ shore SBLC Facility Agreement for the issuance by State
+
+Bank of India in favour of the Security Agent acting on behalf of the lenders of AERH. The SBLC of USD 576.74
+
+Million issued by State Bank of India has been invoked during the year ended March 31, 2020 and accordingly,
+
+foreign currency translation loss of ₹ 14.87 Crore is recognised on invocation during the year ended March 31, 2021.
+
+35. Income tax
+
+35.1 Components of income tax expense includes current tax charged to statement of proﬁ t and loss of ₹ Nil (previous
+
+year: ₹ Nil).
+
+35.2 Reconciliation of tax expense and the accounting proﬁ t multiplied by India’s domestic tax rate for March
+
+31, 2022 and March 31, 2021:
+
+March 31, 2022
+
+March 31, 2021
+
+Accounting loss before income tax
+
+(912.66)
+
+(398.40)
+
+Enacted tax rates in India
+
+25.168%
+
+34.944%
+
+Computed tax expense
+
+(229.70)
+
+(139.22)
+
+Non-deductible expenses for tax purpose
+
+109.41
+
+0.45
+
+Deductible expenses for tax purpose
+
+1.67
+
+0.59
+
+Expenses taxable at diﬀ erent rates
+
+-
+
+-
+
+Unused tax losses
+
+118.62
+
+138.18
+
+Utilisation of previously unrecognised tax losses
+
+-
+
+-
+
+Tax expense as per statement of proﬁ t and loss
+
+-
+
+-
+
+35.3 Details of carry forward losses and unused credit on which no deferred tax asset is recognised by the
+
+Company are as follows:
+
+Unabsorbed depreciation can be carried forward indeﬁ nitely. The business losses can be carried forward for 8
+
+years. The Company has opted for concessional tax regime u/s.115BAA since FY 2020-21 and therefore carry
+
+forward of MAT credit will not be available. Majority of business losses will expire in between March 2023 to March
+
+2028. Majority of the capital loss will expire between March 2024 to March 2028.:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+DIN : 00002283
+
+DIN : 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place : Pune
+
+Date : May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place: Pune
+
+Date: May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place : Pune
+
+Place : Pune
+
+Date : May 25, 2022
+
+Date : May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place : Pune
+
+Place : Pune
+
+Date : May 25, 2022
+
+Date : May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place : Pune
+
+Place : Pune
+
+Date : May 25, 2022
+
+Date : May 25, 2022:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+Membership No.: 040081
+
+DIN: 00002283
+
+DIN: 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place : Pune
+
+Place : Pune
+
+Date : May 25, 2022
+
+Date : May 25, 2022:
+
+Letter of Comfort (“LOC”);
+
+iii.
+
+Conversion of the entire outstanding value of 410,000 number of Optionally Convertible Debentures (“OCD”)
+
+having face value of ₹ 100,000 each issued by the Company into 57,14,28,572 equity shares having face value of ₹
+
+2 each of the Company to be allotted to the Existing Lenders;
+
+iv.
+
+Conversion of 4,45,301 number of Compulsorily Convertible Preference Shares (“CCPS”) having face value of ₹
+
+100,000 each issued by Suzlon Global Services Limited (“SGSL”) into 4,454 equity shares having face value of ₹ 10
+
+each of SGSL to be allotted to the Existing Lenders;
+
+v.
+
+Payment of applicable coupon / interest payable to the Existing Lenders on the outstanding OCDs and dividends
+
+payable on CCPS;
+
+vi.
+
+Waiver of the requirement of maintaining the lock-in for 99,71,76,872 equity shares having face value of ₹ 2 each
+
+of the Company issued to the Existing Lenders as stipulated in the Framework Restructuring Agreement dated
+
+June 30, 2020; and
+
+vii.
+
+49,85,88,439 number of Warrants issued by the Company to the Existing Lenders shall stand surrendered.
+
+On April 28, 2022, the Company along with its identiﬁ ed subsidiaries and the New Lenders entered into a Rupee Term
+
+Loan Agreement (“RTL Agreement”) for recording the terms and conditions on which the New Lenders would make
+
+available the reﬁ nancing amount to the STG.
+
+On May 24, 2022 (“Eﬀ ective Date”), the Reﬁ nancing Proposal was consummated. Pursuant to the same, the Restructured
+
+Facilities of STG are reﬁ nanced and the outstanding obligations of STG under the Restructured Facilities stand discharged
+
+as stated in paragraphs i to vii above. The key features of the RTL Agreement are as follows:
+
+a.
+
+Disbursement of Fund Based Rupee Term Loan and LOC by REC Limited (“REC Loan”) and Fund Based Rupee Term Loan
+
+by Indian Renewable Energy Development Agency Limited.
+
+b.
+
+Repayment of Fund Based Rupee Term Loan in 97 structured monthly instalments commencing from June 2022 to June
+
+2030 at initial interest rate of 9.50% per annum, subject to reset after 1 year;
+
+c.
+
+Release of LOC on retirement of respective non-fund based working capital facilities by Existing Lenders;
+
+d.
+
+Reduction of REC Loan to ₹ 2,178 crores within 1 year from disbursement;
+
+e.
+
+Monetization of speciﬁ ed assets within stipulated dates;
+
+The existing borrowing liabilities including OCDs and CCPS issued by the Company and SGSL respectively, are carried
+
+in the books as on March 31, 2022 without taking cognisance of the Reﬁ nancing Proposal. The OCD issued by the
+
+Company and CCPS issued by SGSL to the Existing Lenders stands extinguished as on the Eﬀ ective Date and impact of
+
+the reﬁ nancing will be recorded in the books of account on Eﬀ ective Date.:
+
+managing director of the Company.
+
+e.
+
+₹ Nil (previous year: ₹ 37.04 Crore) classiﬁ ed as current portion of long-term borrowings secured by way of
+
+speciﬁ c receivables of few subsidiaries and corporate guarantee of wholly owned subsidiary of the Company,
+
+the Company and personal guarantee of chairman and: managing director of the Company.
+
+f.
+
+₹ 165.70 Crore (previous year: ₹ 251.51 Crore) classiﬁ ed as current portion of long-term borrowings secured
+
+by way of wind turbine components, proceeds from project of one of the subsidiary along with 100% pledge
+
+of its shares, charge on inventory and other speciﬁ ed assets of the subsidiary.
+
+23.5 STG has non-fund based facilities from banks on the basis of security of current assets. The quarterly statements
+
+of current assets ﬁ led by the Group for STG with Lenders are in complete agreement with the books of accounts.
+
+23.6 Foreign currency convertible bonds (FCCBs)
+
+August 2032 Bonds issued by the Company are compound ﬁ nancial instruments and on the conversion of the
+
+Bonds, the Company need to issue ﬁ xed numbers of equity shares to the holders of the Bonds. Accordingly, the
+
+liability components of the August 2032 Bonds is initially recognised at fair value and subsequently measured at
+
+amortised cost using the eﬀ ective interest method at 5.72% and the residual portion is recognised in other equity.
+
+Following are the key terms of August 2032 Bonds post restructuring:
+
+Particulars
+
+August 2032 Bonds
+
+Issue date
+
+August 17, 2020
+
+Number of bonds
+
+112,285
+
+Face value per bond (in USD)
+
+320
+
+Original outstanding (in USD)
+
+35.931 Million
+
+Conversion price per share (₹)
+
+2.61
+
+Fixed exchange rate (₹/ USD)
+
+74.8464
+
+Redemption as a % of principal amount (%)
+
+138.78
+
+Coupon rate (per annum)
+
+4.00%*
+
+Maturity date
+
+August 17, 2032
+
+Current outstanding (in USD)
+
+9.842 Million#
+
+# Since the date of issuance, Bonds equivalent to USD 26.818 Million of August 2032 Bonds have been converted
+
+into shares by March 31, 2022. The bondholders have exercised their rights to convert bonds of USD 16.995
+
+Million of August 2032 bonds during the year. Interest equivalent to USD 0.39 Million have been converted in
+
+FCCB by March 31, 2022. Refer Note 20.7 for FCCB conversion details.
+
+* Out of 4.00% coupon, 1.25% shall be paid on half yearly basis and balance 2.75% shall be accrued and added to
+
+the principal value of the Bonds.
+
+letter
+
+of credit (‘SBLC’) Facility Agreement and had given security on behalf of AE Rotor Holding B.V. (‘AERH’) a step
+
+down wholly owned subsidiary of the Company under the Oﬀ shore SBLC Facility Agreement for the issuance by
+
+State Bank of India in favour of the Security Agent acting on behalf of the lenders of AERH. The SBLC of USD 576.74
+
+Million issued by State Bank of India has been invoked during the year ended March 31, 2020 and accordingly,
+
+foreign currency translation loss of ₹ 14.87 Crore is recognised on invocation during the year ended March 31,
+
+2021.
+
+e.
+
+During the ﬁ nancial year ended March 31, 2021, the Group has made provision of ₹ 1.41 Crore towards impairment
+
+of assets classiﬁ ed as held for sale.:
+
+Managing Director
+
+Whole Time Director and Chief Operating Oﬃ cer
+
+DIN : 00002283
+
+DIN : 00002266
+
+Ashwani Kumar
+
+Himanshu Mody
+
+Geetanjali S. Vaidya
+
+Group Chief Executive Oﬃ cer
+
+Group Chief Financial Oﬃ cer
+
+Company Secretary
+
+Membership No.: A18026
+
+Place : Pune
+
+Date : May 25,2022:
+
+letter, duly signed, providing their email address,
+
+mobile number, self-attested PAN copy and Client Master copy in case of electronic folio
+
+and copy of share certiﬁ cate in case of physical folio for sending the Notice and the e-voting
+
+instructions.
+
+iv) After receiving the e-voting instructions, please follow all the above steps to cast your vote
+
+by electronic means.
+
+III)
+
+Method / Access to join the Meeting on KFin system and to participate and vote thereat
+
+Type of member
+
+Login Method
+
+All shareholders,
+
+including Individual,
+
+other than Individual
+
+and Physical, for
+
+attending the
+
+Meeting of the
+
+Company through VC
+
+/ OAVM and e-voting
+
+during the meeting
+
+A. Instructions for all the shareholders, including Individual, other than Individual
+
+and Physical, for attending the Meeting of the Company through VC / OAVM
+
+and e-voting during the meeting:
+
+i)
+
+Members will be able to attend the Meeting through VC / OAVM platform provided by KFin.
+
+Members may access the same at https://emeetings.kﬁ ntech.com/ by using the e-voting
+
+login credentials provided in the email received from the Company / KFin.
+
+ii)
+
+After logging in, click on the Video Conference tab and select the EVEN of the Company.
+
+iii) Click on the video symbol and accept the meeting etiquettes to join the meeting. Please note
+
+that members who do not have the user id and password for e-voting or have forgotten the
+
+same may retrieve them by following the remote e-voting instructions mentioned above.
+
+iv) The procedure for e-voting during the Meeting is same as the procedure for remote
+
+e-voting since the Meeting is being held through VC / OAVM.
+
+v)
+
+The e-voting window shall be activated upon instructions of the Chairman of the Meeting
+
+during the Meeting.
+
+vi) E-voting during the Meeting is integrated with the VC / OAVM platform and no separate
+
+login is required for the same.
+
+32.
+
+KPRISM- Mobile service application by KFin: Members are requested to note that KFin has launched a mobile application,
+
+KPRISM and website https://kprism.kﬁ ntech.com, for online service to members. Members can download the mobile
+
+application, register themselves (one time) for availing host of services, viz., consolidated portfolio view serviced by
+
+KFin, dividend status and send requests for change of address, change / update bank mandate. Through the mobile
+
+application, members can download annual reports, standard forms and keep track of upcoming general meetings and
+
+dividend disbursements. The mobile application is available for download from Android Play Store and Google Play Store.:
+
+Managing Director, and Mr. Girish R.Tanti, the Non-executive Director
+
+of the Company, and except for that Mr. Vinod R.Tanti does not have any other relationship with any other Director
+
+/ Key Managerial Personnel of the Company.
+
+3.
+
+Other Information:
+
+3.1 Reasons for loss / inadequate proﬁ ts, if any: From ﬁ nancial year 2017-18, on account of transition of Indian wind
+
+industry from feed in tariﬀ (FIT) regime to competitive bidding, there were lower volumes which impacted margins
+
+substantially. Further in the ﬁ nancial year 2018-19, the Company along with its certain identiﬁ ed subsidiaries
+
+made default in repayment of principal and interest payable to its lenders, which triggered cross default in a
+
+facility availed by one of the overseas subsidiary resulting into recognition of liability of ~Rs.3,937 Crore. This
+
+also resulted into stagnation in the operations due to shortage of working capital. Due to higher debt there was
+
+increase in ﬁ nance cost which also led to losses in the Company. However, the operating and ﬁ nancial situation
+
+has started improving from the ﬁ nancial year 2020-21 onwards.
+
+3.2 Steps taken / proposed to be taken for improvement: The Company has taken following operational steps
+
+during the last 2 (two) years in order to combat the economic and policy challenges:
+
+•
+
+building up of quality order book;
+
+•
+
+consistent and continuous focus on technological improvements for new product development and
+
+increasing the eﬃ ciency and PLF of the products;
+
+•
+
+COGS reduction through value engineering;:
+
+Managing Director and Mr. Girish R.Tanti, the Non-executive
+
+Director and their relatives may be deemed to be concerned or interested in the said resolution. Except the above, none of
+
+the Directors or Key Managerial Personnel of the Company or their relatives has any concern or interest, ﬁ nancial or otherwise,
+
+in the proposed resolution.
+
+Agenda Item No.8: To amend the Articles of Association of the Company
+
+In terms of the ﬁ nancial assistance granted to the Company and its certain identiﬁ ed subsidiaries (collectively, “Suzlon The
+
+Group” or the “STG”) by consortium led by REC Limited (“REC”) comprising of REC and Indian Renewable Energy Development
+
+Agency Limited (“IREDA”), being the new lenders to the Company (hereinafter collectively referred to as the “Lenders”), it is
+
+necessary to amend the Articles of Association of the Company to incorporate the terms of sanction of the Lenders.
+
+In terms of the provisions of Section 14 of the Companies Act, 2013 read with Rules made thereunder, a company may, by special
+
+resolution, alter its Articles of Association. Accordingly, it is proposed to amend the Articles of Association of the Company by
+
+adopting a new set of regulations of the Articles of Association of the Company in place of existing Articles of Association.
+
+The Board of Directors recommend amendment of the Articles of Association of the Company. In light of above, you are
+
+requested to accord your approval to the Special Resolution as set out at Agenda Item No.8 of the accompanying Notice.
+
+A copy of the amended Articles of Association of the Company is available for inspection at the Registered oﬃ ce and
+
+Corporate oﬃ ce of the Company between 2.00 p.m. and 5.00 p.m. on all working days (except Saturdays, Sundays and
+
+Holidays). The same is also available on the website of the Company, www.suzlon.com to facilitate online inspection till the
+
+conclusion of the ensuing Annual General Meeting.
+
+None of the Directors and Key Managerial Personnel of the Company and their relatives has any concern or interest, ﬁ nancial
+
+or otherwise, in the proposed resolution.
+
+Agenda Item No.9 & 10: To approve implementation of the ‘Employee Stock Option Plan 2022’ and to approve grant
+
+of employee stock options under the ‘Employee Stock Option Plan 2022’ to the eligible employees of the Company
+
+and the Company’s subsidiary companies
+
+In this era of globalisation and competition, it is important for the organisation to maintain and improve its employees’
+
+performance to ensure the progress and competitiveness. The Company believes that to improve performance of the employees,
+
+it is essential to motivate them as it brings-in higher productivity and energy to achieve other organisational goals.
+
+Further, it may be noted that emergence of new age skillsets in the ﬁ elds relevant for the energy business has resulted in
+
+changed dynamics of the talent market. This has necessitated in bringing out a meaningful reward strategy for attraction of
+
+new talents and retention of both existing and new critical resources instrumental for sustained corporate growth.:
+
+Managing Director, and Mr. Girish R.Tanti, the Non-executive Director
+
+9.
+
+No. of meetings attended during the year
+
+The details have been provided in the Corporate Governance Report
+
+forming part of the Annual Report
+
+10.
+
+In case of Independent Directors,
+
+justiﬁ cation for choosing the appointee
+
+Not Applicable
+
+11.
+
+Directorships, Memberships / Chairmanship of Committees
+
+Name of domestic companies in which
+
+director
+
+Name of committees in which member / chairman
+
+Suzlon Energy Limited
+
+Stakeholders Relationship Committee, Member
+
+Securities Issue Committee, Member
+
+ESOP Committee, Member
+
+Risk Management Committee, Member
+
+Audit Committee, Member
+
+Suzlon Power Infrastructure Limited
+
+Audit Committee, Chairman
+
+Nomination & Remuneration Committee, Member
+
+Suzlon Global Services Limited
+
+Audit Committee, Member
+
+Nomination & Remuneration Committee, Member
+
+CSR Committee, Chairman
+
+SE Forge Limited
+
+Audit Committee, Member
+
+Nomination & Remuneration Committee, Member
+
+CSR Committee, Chairman
+
+Suzlon Gujarat Wind Park Limited
+
+Nomination & Remuneration Committee, Member
+
+CSR Committee, Chairman
+
+Tanti Holdings Private Limited
+
+CSR Committee, Chairman
+
+Samanvaya Holdings Private Limited
+
+None
+
+Silectro Enterprise Private Limited
+
+None:
+

@@ -1,0 +1,1872 @@
+Letter to Shareholders
+
+On behalf of the Board of Directors, I am pleased to report that for the financial year ended March 31, 2022,
+
+your Company posted a consolidated revenue of ₹ 52.2 billion. Consolidated net profit for the financial year was
+
+₹ 18.9 billion, an increase of 7% over the previous financial year.
+
+Our customer footprint continues to be diverse in terms of scale and geography as we cater to the needs of the global
+
+multinational banks, small to large regional banks, as well as specialized banks and financial services companies.
+
+Maintaining a growth momentum throughout the financial year, your Company acquired new customers across all
+
+business areas - Corporate Banking, Retail Banking, Modern Risk and Finance, and Financial Crime and Compliance
+
+Management. Simultaneously, we have also been growing business from our existing clients through targeted cross-
+
+selling and upselling. Our continued investments in building organic SaaS solutions are now starting to bear fruits.
+
+This year, we signed our largest-ever multi-year SaaS deal with a tier-1 US bank.
+
+The banking and financial services industry has been witnessing a rapid transformation, with banks and financial
+
+institutions redefining their operating and deployment models to keep pace with technological disruptions. Our razor-
+
+sharp focus on innovative, market-leading technology, business solutions, and service offerings empowers financial
+
+institutions to deliver better financial services to their clients. Our solutions are built on our technology blueprint of an
+
+agile and adaptive architecture, with innovation built in for faster business outcomes. We can offer options of cloud or
+
+on-premise deployment based on the customers’ preferences. This year, we introduced the Embedded Finance for
+
+Transaction Banking solution that enables banks to provide a personalized digital banking experience—with seamless
+
+payments, collections, holistic working-capital management recommendations, and virtual account management—
+
+built on a modern, data-rich cloud foundation that is integrated seamlessly with the clients’ ERP systems. We are
+
+leveraging the power of Artificial Intelligence (AI), Machine Learning (ML), and advanced analytics to tackle financial
+
+crime and comply with evolving regulations.
+
+Your Company continues to lead the industry analyst recognitions. We retained our leadership position in this year’s
+
+Gartner - Global Retail Core Banking Annual Survey. IDC MarketScape recognized us as a leader in worldwide end-
+
+to-end corporate banking. Our successful shift to banking based on microservices was corroborated by Gartner who
+
+acknowledged that “Oracle’s number of exposed microservices is the highest across the vendors”. Asia Risk Awards
+
+recognized Oracle for the best asset-liability management solution and Risk Data Repository of the year. Regulation
+
+Asia awarded Oracle’s anti-financial crime solutions high distinction for Know Your Customer (KYC), Onboarding,
+
+PEPs, and Sanctions Screening capabilities.
+
+Continuing its support in the fight against the COVID-19 pandemic, your Company concentrated its CSR efforts in the
+
+last two years on providing pandemic-related relief to the community, including, but not limited to, delivering critical
+
+medical supplies and services, supporting vaccination drives, and providing essential services to those impacted by
+
+the pandemic. Internally, the Company directed its resources towards supporting the employees and their families
+
+during the critical pandemic period, including by helping arrange critical medical facilities and resources such as
+
+vaccination drives.
+
+Your Company continues its mission to empower financial institutions to deliver better financial services through
+
+innovative, market-leading technology and business solutions. As the global demand expands, we are well placed to
+
+respond to the market demands in the coming years.
+
+On behalf of the Board of Directors and Management of Oracle Financial Services Software, I would like to thank
+
+you for your support. In the coming year, we will continue to work towards surpassing your expectations from the
+
+Company and aim to set and achieve newer and more challenging targets.
+
+Regards,
+
+S Venkatachalam
+
+Chairperson
+
+Oracle Financial Services Software Limited:
+
+Managing Director and Chief Executive Officer
+
+Harinderjit Singh
+
+Jane Murphy
+
+Kimberly Woolley
+
+Makarand Padalkar, Whole-time Director and Chief Financial Officer
+
+Richard Jackson
+
+Sridhar Srinivasan
+
+Vincent Secondo Grelli
+
+Yong Meng Kau
+
+Bankers
+
+Barclays Bank PLC
+
+Canara Bank
+
+Citibank, N.A.
+
+HDFC Bank Ltd.
+
+HSBC Bank
+
+J P Morgan Chase
+
+Kotak Mahindra Bank Ltd.
+
+Yes Bank Ltd.
+
+Company secretary and
+
+Compliance officer
+
+Onkarnath Banerjee
+
+Chief accounting officer
+
+Avadhut (Vinay) Ketkar
+
+Legal counsel
+
+Rakesh Sharma
+
+Registered office
+
+Oracle Financial Services Software Limited
+
+Oracle Park
+
+Off Western Express Highway
+
+Goregaon (East)
+
+Mumbai 400063, Maharashtra, India
+
+CIN: L72200MH1989PLC053666
+
+Registrar & Transfer Agent
+
+KFin Technologies Limited
+
+Selenium Tower B, Plot Nos. 31 & 32
+
+Serilingampally Nanakramguda
+
+Financial District
+
+Hyderabad 500032
+
+Telangana, India
+
+Auditors
+
+Mukund M. Chitale & Co.
+
+Chartered Accountants
+
+Management team
+
+Arvind Gulhati
+
+Anand Ramachandran
+
+Bindu Venkatesh
+
+Chad Menke
+
+George Thomas
+
+Goutam Chatterjee
+
+Gregory Chapple
+
+H S Teji
+
+Karthick R Prasad
+
+Laura Balachandran
+
+Mahesh Kandavar Rao
+
+Mustafa Moonim
+
+Promod Radhakrishnan
+
+Rajaram N Vadapandeshwara
+
+S Bhargava
+
+Sanjay Bajaj
+
+Sanjay Kumar Ghosh
+
+Sanjib Chakraborty
+
+Surendra Shukla
+
+Tushar Chitra
+
+Umesh Arora
+
+Unmesh Pai
+
+Venkatesh Srinivasan
+
+Vikram Gupta
+
+Vinayak L Hampihallikar
+
+Vivek Jalan:
+
+Managing Director and Chief Executive
+
+Officer of the Company at the Annual General Meeting held on August 4, 2021 for a term of five consecutive years from
+
+October 25, 2021 to October 24, 2026.
+
+During the year, there were no changes to the Key Managerial Personnel.
+
+Number of meetings of the Board
+
+Six meetings of the Board were held during the financial year 2021-22. For details of meetings of the Board, please refer to the
+
+Corporate Governance Report which is a part of this Annual Report.
+
+Board Committees
+
+The details pertaining to the Committees of the Board and their meetings during the year are included in the Corporate Governance
+
+Report which is a part of this Annual Report.
+
+Board policies
+
+The Company has formed following policies as required by the Act and Listing Regulations:
+
+Particulars
+
+Details
+
+Website link for policy / details
+
+Code of ethics and business
+
+conduct policy
+
+This code defines and implements Oracle ethical
+
+business values and sets forth key rules and
+
+employee responsibilities. It also provides a context
+
+to handle any questions, issues, or concerns. The
+
+Code also covers the vigil mechanism and whistle
+
+blower policy.
+
+https://www.oracle.com/assets/cebc-
+
+176732.pdf
+
+Code of Practices and
+
+Procedures for Fair Disclosure
+
+of UPSI
+
+This code defines the principles for fair disclosure
+
+of Unpublished Price Sensitive Information (UPSI)
+
+with respect to its securities which is likely to
+
+affect price of the securities.
+
+https://www.oracle.com/a/ocom/docs/
+
+industries/financial-services/code-
+
+of-practices-and-procedures-for-fair-
+
+disclosure-upsi.pdf
+
+Corporate social responsibility
+
+policy
+
+This policy governs corporate social responsibility
+
+program of the Company and covers details of
+
+CSR activities that it can undertake and how
+
+to implement, monitor, and report on these
+
+activities.
+
+https://www.oracle.com/a/ocom/docs/
+
+industries/financial-services/ofss-social-
+
+responsibility.pdf
+
+Directors' appointment policy
+
+This policy governs the manner of appointment
+
+of Directors of the Company.
+
+https://www.oracle.com/a/ocom/docs/
+
+industries/financial-services/directors-
+
+appointment-policy.pdf
+
+Dividend distribution policy
+
+This policy details the factors to be considered by
+
+the Board while deciding or recommending any
+
+dividend.
+
+https://www.oracle.com/a/ocom/docs/
+
+industries/financial-services/ofss-
+
+dividend-distribution-policy.pdf:
+
+Managing Director & Chief Executive Officer
+
+25000
+
+Mr. Makarand Padalkar
+
+Whole-time Director & Chief Financial Officer
+
+14000
+
+Mr. Arvind Gulhati
+
+Business Planning VP-Ops
+
+4200
+
+Mr. Avadhut Ketkar
+
+Chief Accounting Officer
+
+2300
+
+Ms. Bindu Venkatesh
+
+Vice President - Human Resources & Training
+
+2475
+
+Mr. Goutam Chatterjee
+
+Consulting VP - Quality & Testing
+
+350
+
+Mr. Karthick Prasad
+
+Vice President, Software Development
+
+2500
+
+Ms. Laura Balachandran
+
+Business Planning VP-Ops
+
+200
+
+Mr. Mahesh Rao
+
+Consulting RVP
+
+1400
+
+Mr. Onkarnath Banerjee
+
+Company Secretary and Compliance Officer
+
+2500
+
+Mr. Rajaram Vadapandeshwara
+
+Software Development VP
+
+750
+
+Mr. Sanjay Bajaj
+
+VP - OFSAA Development Operations
+
+450:
+
+Managing Director and Chief Executive Officer
+
+Mr. Chaitanya Kamat
+
+Nil
+
+Whole-time Director and Chief Financial Officer#
+
+Mr. Makarand Padalkar
+
+20
+
+Company Secretary and Compliance Officer#
+
+Mr. Onkarnath Banerjee
+
+7
+
+# Excludes the (perquisite) value towards difference between the fair market value on the date of exercise of options and the exercise price.:
+
+letter of even date which is annexed as Annexure A and forms an integral part of this report.:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility of the management of the company. My responsibility is to express an
+
+opinion on these secretarial records based on my audit.
+
+2.
+
+I have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the correctness
+
+of the contents of Secretarial records. The verification was done on test basis to ensure that correct facts are reflected in
+
+secretarial records. I believe that the processes and practices, I followed provide a reasonable basis for my opinion.
+
+3.
+
+I have not verified the correctness and appropriateness of financial records and books of Accounts of the company.
+
+4.
+
+Where ever required, I have obtained the Management representation about the compliance of laws, rules and regulations
+
+and happening of events etc.
+
+5.
+
+The compliance of the provisions of Corporate, Specific and other applicable laws, rules, regulations, standards is the
+
+responsibility of management. My examination was limited to the verification of procedures on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to the future viability of the company nor of the efficacy or effectiveness
+
+with which the management has conducted the affairs of the company.
+
+7.
+
+I have carried out the verification of the records through digital mode as well as relied upon the Management representation
+
+made by the Company due to prevailing conditions of COVID‐19 in the country.
+
+CS Prashant Diwan
+
+Practicing Company Secretary
+
+FCS: 1403 CP: 1979
+
+PR: 1683/2022
+
+UDIN: F001403D000496920
+
+Date: June 15, 2022
+
+Place: Mumbai:
+
+Managing Director & Chief Executive Officer
+
+DIN: 06628566
+
+DIN: 00969094
+
+Place: Mumbai
+
+Date: June 15, 2022:
+
+Managing Director &
+
+Chief Executive Officer
+
+(DIN: 00969094)
+
+6/6
+
+Present
+
+–
+
+–
+
+–
+
+Mr. Makarand Padalkar
+
+Whole-time Director &
+
+Chief Financial Officer
+
+(DIN: 02115514)
+
+6/6
+
+Present
+
+1
+
+–
+
+–
+
+Video Conferencing (VC) / Other Audio Visual Means (OAVM) facilities were used to facilitate Directors to participate in the meetings.:
+
+Managing Director and Chief Executive
+
+Officer, Whole-time Director and Chief Financial Officer, Chief Accounting Officer, Statutory Auditors, Internal Auditors and Legal
+
+Counsel are permanent invitees to the Audit Committee meetings. The Chairperson of the Committee was present at the Annual
+
+General Meeting held on August 4, 2021 to address shareholders' queries.
+
+Nomination and remuneration committee
+
+Brief description of terms of reference
+
+The Nomination and Remuneration Committee of the Company is governed by the terms of reference adopted by the Board which
+
+are in line with the regulatory requirements mandated by the Act and the Listing Regulations.
+
+An extract of the terms of reference of the Nomination and Remuneration Committee is given below:
+
+a)
+
+To formulate the criteria for determining qualifications, positive attributes and independence of directors;
+
+b)
+
+To recommend to the Board policies relating to the remuneration of the directors, key managerial personnel, senior
+
+management and other employees of the Company;
+
+c)
+
+To review the criteria and conduct the evaluation of performance of Directors and the Board together with Board Committees;
+
+d)
+
+To administer and deal with all matters concerning the Employee Stock Option (ESOP) Schemes including grant of stock
+
+options to the eligible directors, key managerial personnel and employees of the Company and its subsidiary companies
+
+from time to time;
+
+e)
+
+To identify the persons who are qualified to become directors and recommend to the Board their appointment /
+
+re-appointment.
+
+Composition, meetings and attendance of the committee
+
+During the financial year 2021-22, one meeting of the Nomination and Remuneration Committee was held on March 16, 2022.
+
+Additionally, business was also dealt with by passing circular resolutions.
+
+The details of the composition of the Committee as on March 31, 2022 and the member’s attendance at the Committee meeting
+
+during the year then ended are given below:
+
+Name of the Member
+
+Number of meetings attended
+
+Mr. Richard Jackson
+
+Chairperson, Non-Executive, Independent Director
+
+1/1
+
+Mr. Harinderjit Singh
+
+Member, Non-Executive, Non-Independent Director
+
+1/1
+
+Mr. Sridhar Srinivasan
+
+Member, Non-Executive, Independent Director
+
+1/1:
+
+Managing Director and Chief Executive Officer; Whole-time Director
+
+and Chief Financial Officer of the Company are approved by the Members of the Company. The annual compensation including
+
+bonus of the Executive Directors is approved by the Nomination and Remuneration Committee within the limits approved by the
+
+Members of the Company.
+
+The Committee reviews the norms for ESOP allocation and approves the grant of the options to eligible employees.
+
+The criteria for payment of commission to the Non-Executive, Independent Directors includes a base commission plus incremental
+
+commission depending on the number and type of committees where they are a member or a chairperson, and number of
+
+directorships in material unlisted subsidiaries of the Company.
+
+Details of remuneration paid to the directors during the financial year 2021-22
+
+(Amounts in ₹ million, except number of OSUs)
+
+Name of the Director
+
+OSUs* granted
+
+under ESOPs
+
+during the year
+
+Salary
+
+Contribution to
+
+Provident Fund
+
+and other funds
+
+Commission
+
+paid
+
+Total Amount
+
+paid
+
+Executive Directors
+
+Mr. Chaitanya Kamat#
+
+25000
+
+46.32
+
+1.26
+
+−
+
+47.58
+
+Mr. Makarand Padalkar#
+
+14000
+
+12.93
+
+0.65
+
+−
+
+13.58
+
+Non-Executive, Independent Directors
+
+Mr. S Venkatachalam
+
+−
+
+−
+
+−
+
+4.40
+
+4.40
+
+Ms. Jane Murphy
+
+−
+
+−
+
+−
+
+3.90
+
+3.90
+
+Mr. Richard Jackson
+
+−
+
+−
+
+−
+
+4.20
+
+4.20
+
+Mr. Sridhar Srinivasan
+
+−
+
+−
+
+−
+
+3.20
+
+3.20
+
+*OSUs or OFSS Stock Units are Stock Options granted at an exercise price equal to face value of the shares.
+
+#Excluding perquisite on ESOP, Provision for Gratuity and Compensated absence benefit, if any.
+
+During the financial year ended March 31, 2022, the Nomination and Remuneration Committee granted 156,215 OFSS Stock
+
+Units (OSUs) on various dates at an exercise price of ₹ 5 under OFSS Stock Plan 2014 to the eligible employees, including Directors
+
+of the Company and its subsidiaries as follows:
+
+Date of OSUs grant
+
+Number of OSUs
+
+August 1, 2021
+
+149465
+
+September 17, 2021
+
+3600
+
+December 1, 2021
+
+650
+
+March 30, 2022
+
+2500
+
+The terms of Employee Stock Options / OSUs granted under OFSS Stock Plan 2014 to the Directors were as follows:
+
+Name of the Director
+
+Options / OSUs
+
+outstanding as at
+
+April 1, 2021
+
+Options / OSUs
+
+exercised & shares
+
+allotted during the year
+
+Options /OSUs
+
+outstanding as at
+
+March 31, 2022
+
+Exercise
+
+price (₹)
+
+Expiry Date
+
+Mr. Chaitanya Kamat
+
+6250
+
+–
+
+6250
+
+5.00
+
+June 27, 2027
+
+11250
+
+–
+
+11250
+
+5.00
+
+June 28, 2028
+
+18750
+
+–
+
+18750
+
+5.00
+
+June 26, 2029
+
+11250
+
+–
+
+11250
+
+5.00
+
+September 1, 2029
+
+30000
+
+–
+
+30000
+
+5.00
+
+July 23, 2030
+
+–
+
+–
+
+25000
+
+5.00
+
+July 31, 2031
+
+Mr. Makarand Padalkar
+
+2500
+
+–
+
+2500
+
+5.00
+
+June 27, 2027
+
+5563
+
+1188
+
+4375
+
+5.00
+
+June 28, 2028
+
+11250
+
+2812
+
+8438
+
+5.00
+
+June 26, 2029
+
+15000
+
+–
+
+15000
+
+5.00
+
+July 23, 2030
+
+–
+
+–
+
+14000
+
+5.00
+
+July 31, 2031:
+
+Managing Director and Chief Executive Officer acts as the Chairperson
+
+of the Committee and the other members are Whole-time Director and Chief Financial Officer, Chief Accounting Officer, Vice
+
+President and Head HR, Legal Counsel, Vice President Business Operations and Company Secretary & Compliance Officer.
+
+General body meetings
+
+Details of last three Annual General Meetings and summary of special resolutions passed therein are
+
+as under:
+
+Financial Year
+
+Date and Time
+
+Venue
+
+Gist of special resolutions passed
+
+2020-21
+
+August 4, 2021
+
+5.00 p.m.
+
+Video Conferencing (VC) / Other
+
+Audio Visual Means (OAVM)
+
+Payment of commission to the Directors (excluding: Managing
+
+Managing Director and Chief Executive Officer of the Company.
+
+b)
+
+The Statutory Auditors have issued unmodified audit opinion / report for the financial year 2021-22.
+
+c)
+
+The Internal Auditor of the Company reports to the Audit Committee.:
+
+Managing Director & CEO
+
+DIN: 00969094
+
+Makarand Padalkar
+
+Whole-time Director & CFO
+
+DIN: 02115514
+
+DECLARATION REGARDING COMPLIANCE BY BOARD MEMBERS AND SENIOR MANAGEMENT PERSONNEL WITH THE
+
+COMPANY’S CODE OF CONDUCT
+
+As provided under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Board Members and Senior
+
+Management Personnel have confirmed compliance with the Code of Ethics and Business Conduct for the financial year ended
+
+March 31, 2022.
+
+For Oracle Financial Services Software Limited
+
+Chaitanya Kamat: Managing
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 00969094
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director and Chief Executive Officer
+
+Makarand Padalkar − Whole−time Director and Chief Financial Officer
+
+Onkarnath Banerjee − Company Secretary & Compliance Officer
+
+(iv)
+
+Independent Directors
+
+S Venkatachalam
+
+Sridhar Srinivasan
+
+Richard Jackson
+
+Jane Murphy
+
+Transactions and balances outstanding with these parties are described below:
+
+(Amounts in ₹ million)
+
+Particulars
+
+Transaction
+
+Amount receivable (payable)
+
+Year ended
+
+March 31, 2022
+
+Year ended
+
+March 31, 2021
+
+As at
+
+March 31, 2022
+
+As at
+
+March 31, 2021
+
+Revenue
+
+Fellow Subsidiaries
+
+Oracle America, Inc.
+
+5,222.97
+
+3,901.33
+
+743.76
+
+858.30
+
+Oracle Austria GmbH
+
+15.84
+
+20.47
+
+7.73
+
+2.00
+
+Oracle Argentina S.R.L.
+
+0.40
+
+0.13
+
+−
+
+−
+
+Oracle Belgium B.V.B.A/SPRL.
+
+16.50
+
+67.80
+
+2.89
+
+3.17
+
+Oracle Bilgisayar Sistemleri Limited Sirketi
+
+10.48
+
+8.38
+
+0.38
+
+0.66
+
+Oracle Canada ULC
+
+1,725.91
+
+1,505.84
+
+203.92
+
+323.66
+
+Oracle Caribbean, Inc.
+
+169.07
+
+185.05
+
+9.73
+
+7.44
+
+Oracle (China) Software Systems Company
+
+Limited
+
+68.20
+
+48.98
+
+19.61
+
+2.81
+
+Oracle Colombia Limitada
+
+160.67
+
+269.30
+
+27.06
+
+100.92
+
+Oracle Consulting Kazakhstan LLP
+
+1.44
+
+0.12
+
+0.24
+
+−
+
+Oracle Corporation Japan
+
+2,781.89
+
+2,575.06
+
+502.06
+
+433.54
+
+Oracle Corporation (South Africa)(Pty) Limited
+
+869.37
+
+827.11
+
+134.00
+
+198.55
+
+Oracle Corporation (Thailand) Company Limited
+
+402.27
+
+483.30
+
+61.19
+
+70.77
+
+Oracle Corporation Australia Pty. Limited
+
+3,541.11
+
+3,664.55
+
+573.87
+
+920.77
+
+Oracle Corporation Malaysia Sdn. Bhd.
+
+612.73
+
+329.49
+
+122.25
+
+52.52
+
+Oracle Corporation Singapore Pte. Ltd.
+
+724.90
+
+822.47
+
+138.40
+
+88.82:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole−time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022
+
+Consolidated statement of cash flow
+
+for the year ended March 31, 2022 (continued):
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 00969094
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director and Chief Executive Officer
+
+Makarand Padalkar - Whole-time Director & Chief Financial Officer
+
+Onkarnath Banerjee - Company Secretary & Compliance Officer
+
+(v)
+
+Independent Directors
+
+S Venkatachalam
+
+Richard Jackson
+
+Sridhar Srinivasan
+
+Jane Murphy
+
+Transactions and balances outstanding with these parties are described below:
+
+(Amounts in ₹ million)
+
+Particulars
+
+Transaction
+
+Amount receivable (payable)
+
+Year ended
+
+March 31, 2022
+
+Year ended
+
+March 31, 2021
+
+As at
+
+March 31, 2022
+
+As at
+
+March 31, 2021
+
+Revenue
+
+Fellow Subsidiaries
+
+Oracle America, Inc.
+
+3,773.49
+
+1,830.87
+
+545.06
+
+660.19
+
+Oracle Corporation (South Africa) (Pty) Limited
+
+869.37
+
+827.11
+
+133.31
+
+197.89
+
+Oracle India Private Limited
+
+529.64
+
+491.76
+
+384.17
+
+78.72
+
+Oracle Egypt Ltd.
+
+765.26
+
+626.64
+
+100.91
+
+70.39
+
+Oracle Systems Limited
+
+−
+
+19.54
+
+(0.05)
+
+(0.05)
+
+Oracle do Brasil Sistemas Limitada
+
+159.97
+
+144.72
+
+106.60
+
+98.62
+
+Oracle Canada ULC
+
+882.53
+
+378.77
+
+123.23
+
+199.19
+
+Oracle Caribbean, Inc.
+
+149.54
+
+39.48
+
+16.81
+
+19.31
+
+Oracle Colombia Limitada
+
+141.98
+
+145.31
+
+24.90
+
+92.16
+
+Oracle de Centroamerica, S.A.
+
+112.13
+
+19.59
+
+14.44
+
+11.40
+
+Oracle de Mexico, S.A. de C.V.
+
+20.30
+
+12.41
+
+3.00
+
+8.52
+
+Sistemas Oracle de Chile Limitada
+
+264.36
+
+49.58
+
+23.88
+
+24.79
+
+Sistemas Oracle del Peru S.R.L.
+
+26.61
+
+14.22
+
+4.00
+
+5.99
+
+Subsidiaries
+
+Oracle Financial Services Software B.V.
+
+12,009.46
+
+10,502.70
+
+827.93
+
+157.77
+
+Oracle Financial Services Software, Inc.
+
+5,653.93
+
+7,538.81
+
+90.41
+
+165.83
+
+Oracle Financial Services Software Pte. Ltd.
+
+8,772.84
+
+8,469.18
+
+2,247.49
+
+1,718.22
+
+Oracle Financial Services Software (Shanghai)
+
+Limited
+
+61.58
+
+63.75
+
+8.53
+
+22.93
+
+Oracle Financial Services Software Chile Limitada
+
+293.00
+
+283.46
+
+98.56
+
+113.47
+
+Oracle (OFSS) Processing Services Limited
+
+22.31
+
+24.24
+
+−
+
+27.29:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 4, 2022
+
+May 4, 2022
+
+Statement of cash flow
+
+for the year ended March 31, 2022 (continued):
+
+Letter of Engagement as may be signed by the Company.
+
+2.
+
+In case of the appointment of a new auditor, any material change in the fees payable to such auditor from that paid to the
+
+outgoing auditor along with the rationale for such change: Not applicable.
+
+3.
+
+Basis of recommendation for appointment: The Board and Audit Committee have considered various evaluation criteria
+
+including competence, skill set, governance, international experience in taxation and accounting matters, audit methodology
+
+& processes, use of technology, and depth of talent of the audit firm.
+
+4.
+
+Credentials of the Statutory Auditors proposed to be appointed:
+
+M/s. S R Batliboi & Associates LLP, Chartered Accountants, is a part of S R Batliboi & Affiliates, a network of firms registered
+
+with the Institute of Chartered Accountants of India (ICAI). M/s. S R Batliboi & Associates LLP was established in 1965 and has
+
+offices across key cities in India. The firm provides audit and financial accounting advisory services. The firm caters to clients
+
+across diverse market segments including Industrial, Infrastructure, Consumer Products, Financial Services, Technology,
+
+Media and Entertainment, Telecommunications and Professional Services.
+
+None of the Directors or Key Managerial Personnel of the Company or their relatives is, in any way, concerned or interested
+
+in the resolution set out at item no. 5 of the Notice.
+
+The Board recommends the resolution at item no. 5 of the Notice.
+
+Item no. 6:
+
+The Articles of Association of the Company currently in force were originally adopted when the Company was incorporated in 1989.
+
+The Articles of Association were amended from time to time in accordance with the provisions of the Companies Act, 1956.
+
+It is now proposed to amend the existing Articles of Association to make them consistent with the provisions of the
+
+Companies Act, 2013 including the Rules framed thereunder. The proposed Articles of Association are available on the Company’s
+
+website at www.oracle.com/financialservices for perusal by the shareholders.
+
+None of the Directors or Key Managerial Personnel of the Company or their relatives is, in any way, concerned or interested in the
+
+resolution set out at item no. 6 of the Notice.
+
+The Board recommends the resolution at item no. 6 of the Notice.:
+

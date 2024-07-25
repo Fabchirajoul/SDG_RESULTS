@@ -1,0 +1,4292 @@
+letter dated July 7th July, 2023, wherein the Company had informed that the
+
+28th Annual General Meeting of the Company is scheduled to be held on Monday, 31st July, 2023
+
+through Video Conferencing / Other Audio Visual Means.
+
+In terms of Regulation 34(1)(a) of the SEBI (Listing Obligations and Disclosure Requirements)
+
+Regulations, 2015, we are enclosing herewith the Annual Report along with Notice of the 28th AGM of
+
+the Company.
+
+The copy of the Annual Report along with Notice is also being circulated through electronic mode to
+
+the Members whose email ID’s are registered with the Company/Depository Participants.
+
+The Annual Report along with Notice is also available on the Company’s website at sonata-
+
+software.com/sites/default/files/financial-reports/2023-07/sonata-software-limited-annual-report-
+
+2022-2023.pdf.
+
+Kindly take the same on record.
+
+Thanking you,
+
+Yours faithfully,
+
+For Sonata Software Limited
+
+Mangal Kulkarni
+
+Company Secretary, Compliance Officer and Head Legal
+
+Encl.: as above
+
+National Stock Exchange of India Limited
+
+Exchange Plaza, Bandra Kurla Complex, Mumbai
+
+Kind Attn: Manager, Listing Department
+
+Stock Code - SONATSOFTW
+
+BSE Limited
+
+P.J. Towers, Dalal Street, Mumbai
+
+Kind Attn: Manager, Listing Department
+
+Stock Code - 532221
+
+Mangal Krishnarao
+
+Kulkarni
+
+Digitally signed by Mangal
+
+Krishnarao Kulkarni
+
+Date: 2023.07.07 18:39:19
+
++05'30':
+
+Dear Shareholders,
+
+As I reflect on the past fiscal year, I am proud to share that Sonata continues to deliver
+
+outstanding value to its clients, employees, communities, and shareholders. We have done this
+
+feat over the years consistently.
+
+The past year has been characterized by numerous geopolitical shocks, inflationary pressures,
+
+post-COVID readjustments, and cryptocurrency volatility, which have profoundly impacted
+
+organizations worldwide. Yet, Sonata has remained agile and adaptable in such a dynamic
+
+environment.
+
+During the last fiscal, we successfully implemented a well-thought-out MD & CEO transition
+
+plan – as we continue to gain market share, we wanted to make sure this transition is seamless
+
+for the firm. Srikar Reddy has now taken the role of Executive Vice Chairman.
+
+I want to thank Srikar for his outstanding services to Sonata over the years. During the year,
+
+Samir, our CEO, and his team have continued to deliver on the vision and goals of the firm.
+
+We are excited to continue building Sonata as a Modernization Engineering powerhouse in
+
+the industry.
+
+We are committed to maintaining our strategic focus and driving growth and expansion.
+
+We are investing in our growth by recruiting a seasoned team of leaders and technologists
+
+who can drive our business forward, promoting talent from within, and we will continue to
+
+seek out strategic opportunities to supplement our organic growth. Our focus on innovation
+
+and emerging technologies will continue to be a driving force in our strategy, and we are
+
+confident that we can continue to deliver value to our stakeholders.
+
+Our employees are our greatest asset, and we are committed to fostering a culture of
+
+innovation and creativity. In the past year, we have taken several initiatives to provide our
+
+employees with the tools and resources they need to thrive. These initiatives include investing
+
+in training and development programs, providing access to cutting-edge technologies, and
+
+encouraging cross-functional collaboration. At Sonata, we have a culture where employees are
+
+encouraged to be curious to experiment, and share things they learn. In addition, we believe in
+
+cultivating a growth mindset, where personal growth goes hand in hand with organizational
+
+development and building a learning culture. These beliefs are the foundation on which we
+
+will create the next phase of our story – where we dream big and “Play Big”!
+
+Annual Report 2022-23
+
+03:
+
+Dear Shareholders,
+
+In today's market - there is a unique duality in technology adoption. On one side, extreme focus
+
+on cost containment by clients, and on the other, deep motivation to modernize their digital
+
+storefronts to attract more consumers and B2B customers.
+
+This duality presents a significant opportunity for Sonata globally based on the deep
+
+differentiation we have created in Modernization Engineering powered by our Lightening suite
+
+and Platformation™ playbook. In addition, we bring agility and systems thinking to accelerate
+
+time to market for our clients.
+
+I'm excited about the opportunity to lead Sonata Software into its next growth phase. I've taken
+
+the baton passed to me, and will work hard to make Sonata an IT powerhouse in the future.
+
+FY'23 was a year of transformation for Sonata! We see the benefits of modernization driven
+
+hypergrowth. We have set a goal to achieve revenue of $1.5B (~$1B from SITL and ~$0.5B from
+
+the International Business) and be in the leader category on Modernization and Great Places to
+
+Work in three years, building a mindset to "Play Big."
+
+We started well, and as a team, we won our largest deal ever during the year, TCV of $160M,
+
+to modernize our client's IT estate. In addition, we won eight other large contracts during the
+
+year. We successfully integrated Quant Systems into Sonata, our largest acquisition to date.
+
+Quant brings deep Enterprise data capabilities, and we added one BFSI and one Healthcare
+
+client to our Top 5 client list from the acquisition.
+
+As we bring the "Play Big" mindset, we continue to invest in our business. We invested in key
+
+GTMs (Cloud, Data, Dynamics, Managed Services, and Contact Centre) – all focused on
+
+Modernization and Automation in our key Markets of the USA, UK, Nordics, India, and ANZ.
+
+We strengthened solutions for our key verticals - TMT, Manufacturing-Retail-Travel, BFSI, and
+
+Healthcare. We made significant investments in Generative AI capabilities. We continued to
+
+build scale across partners (Microsoft, AWS, SFDC, and Snowflake) and win high-quality logos
+
+and large deals working with partners. We're investing in global sales and marketing in the USA,
+
+Europe, and APAC. We continue strengthening our frontline solution and sales organization to
+
+add value to our customers.
+
+All these investments resulted in us delivering industry-leading QoQ growth in the year's
+
+second half.
+
+Annual Report 2022-23
+
+06:
+
+Managing Director & Chief Executive Officer,
+
+Sonata Software Limited
+
+Annual Report 2022-23
+
+07:
+
+Managing Director and
+
+Chief Executive Officer,
+
+Sonata Information Technology Ltd.
+
+Samir Dhir: Managing
+
+Managing Director, Global Enterprise Systems,
+
+An American Global Media, Marketing, and
+
+Corporate Communications holding Company.:
+
+Managing Director & CEO
+
+(effective Feb 14, 2023)
+
+Radhika Rajan
+
+Director
+
+Sanjay K Asher
+
+Director
+
+KEY MANAGERIAL PERSONNEL
+
+Jagannathan C N
+
+Chief Financial Officer
+
+Mangal Kulkarni
+
+Company Secretary, Compliance Officer and
+
+Head-Legal
+
+COMMITTEES OF THE BOARD
+
+Audit Committee
+
+Pradip P Shah, Chairman
+
+S B Ghia
+
+Radhika Rajan
+
+Sanjay K Asher
+
+Stakeholders Relationship Committee
+
+S B Ghia, Chairman
+
+P Srikar Reddy
+
+Radhika Rajan
+
+Samir Dhir
+
+Nomination & Remuneration Committee
+
+Sanjay K Asher, Chairman
+
+Viren Raheja
+
+Pradip P Shah
+
+COMMITTEES OF THE BOARD
+
+Corporate Social Responsibility Committee
+
+Radhika Rajan, Chairperson
+
+P Srikar Reddy
+
+S B Ghia
+
+Samir Dhir
+
+Risk Management Committee
+
+Pradip P Shah, Chairman
+
+Viren Raheja
+
+P Srikar Reddy
+
+Samir Dhir
+
+Corporate Information
+
+Annual Report 2022-23
+
+43:
+
+Managing Director & Chief Executive
+
+Officer
+
+Samir Dhir
+
+Chief Revenue Officer
+
+Roshan Kumar Shetty
+
+Chief Human Resources Officer
+
+Balaji Kumar
+
+Senior Vice President -
+
+Client Services Delivery Portfolio
+
+Sathish Nuggu
+
+Head of Sales, BFSI, US
+
+Santos Jha
+
+Delivery Head, UK, Ireland & Europe
+
+Rajashekhara Tavarakere
+
+Head of IP Engineering
+
+Murthy Mulugu
+
+Head of Global Talent Acquisition
+
+Keerthi Rannore
+
+Head of Sales, APAC
+
+Anand Nair
+
+Chief Marketing Officer
+
+Hemant Kumar Bhardwaj
+
+Vice President - Cloud Growth Business, SITL
+
+Ashok Mysore
+
+Head of Sales, HLS, US
+
+Raghav Dave
+
+Head of Technology (Markets)
+
+Manu Swami
+
+Head of Global Business HR
+
+Sharvari Lingayat
+
+Global Partner Officer
+
+Anthony Lange
+
+Annual Report 2022-23
+
+65:
+
+Managing Director & CEO during the year. Your Company further
+
+strengthened its senior leadership with rich talent, and details of which are covered in Management Discussion
+
+and Analysis, which forms part of the Annual Report. This diverse Global Leadership Team is aligned for growth.
+
+Coming to Financial performance, despite an uncertain macroeconomic environment due to geopolitical
+
+instability and high inflation, we reported strong revenue growth in both the International IT Services and
+
+Domestic IT Products segments. The International IT Services business witnessed a 29% Y-o-Y basis growth
+
+to ₹ 1,920 crores, and the Domestic IT Products business grew by 36% Y-o-Y basis to ₹ 5,540 crore. A detailed
+
+analysis of the Company's business performance forms part of the Management Discussion and Analysis, a
+
+separate section of this Annual Report.
+
+In summary: Your Company remains optimistic about its long-term growth prospects.
+
+HUMAN RESOURCE MANAGEMENT
+
+Your Company continued to invest in talent, capacity and culture to support its growth strategy. In line with
+
+this, leadership talent- from within and outside-across levels, functions and geographies has been inducted;:
+
+Managing Director & CEO of your Company w.e.f. 14th February, 2023 and also approved the appointment
+
+of Mr. P Srikar Reddy (DIN: 00001401), (earlier appointed as: Managing Director) as Executive Vice
+
+Managing Director & CEO
+
+Jagannathan C N
+
+R Sathyanarayana
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Mangal Krishnarao Kulkarni
+
+Date : 13th May, 2023
+
+Company Secretary:
+
+letter.
+
+1.
+
+Maintenance of secretarial records is the responsibility of the Management of the Company.
+
+My responsibility is to express an opinion on these secretarial records based on my audit.
+
+2.
+
+I have followed the audit practices and process as were appropriate to obtain reasonable assurance about
+
+the correctness of the contents of the secretarial records. The verification was done on test basis to ensure
+
+that correct facts are reflected in secretarial records. I believe that the process and practices, I followed
+
+provide a reasonable basis for my opinion.
+
+3.
+
+I have not verified the correctness and appropriateness of financial records and books of accounts of the
+
+Company.
+
+4.
+
+Wherever required, I have obtained the Management Representation about the compliance of laws, rules
+
+and regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of corporate and other applicable laws, rules, regulations, standards is
+
+the responsibility of the Management. My examination was limited to the verification of procedure on test
+
+basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to the future viability of the Company nor of the
+
+efficacy or effectiveness with which the Management has conducted the affairs of the Company.
+
+P.G. HEGDE
+
+Hegde & Hegde
+
+Company Secretaries
+
+Place: Bengaluru
+
+FCS: 1325 / C.P.No: 640
+
+Date: 13th May, 2023
+
+UDIN: F001325E000297665:
+
+Managing Director & CEO
+
+Chairperson of CSR Committee
+
+Date: 13th May, 2023
+
+Date: 13th May, 2023
+
+Not Applicable:
+
+Managing Director
+
+& CEO
+
+-
+
+127.69
+
+1.72%
+
+7.18%
+
+* Includes Stock Appreciation Rights (SAR) & Bonus plan in lieu of SAR.
+
+^Appointed on 9th May, 2022.
+
+(ii)
+
+The percentage increase in remuneration of Chief Financial Officer & Company Secretary, in the Financial
+
+Year 2022-23:
+
+Name of Person
+
+Designation
+
+% of increase compared to
+
+the previous year
+
+% of
+
+Revenues
+
+% of Profits after
+
+tax
+
+Jagannathan C N
+
+Chief Financial Officer
+
+23.58%*
+
+0.27%
+
+1.11%
+
+Mangal K Kulkarni
+
+Company Secretary and Head-Legal
+
+33%*
+
+0.10%
+
+0.42%
+
+* Includes Bonus plan in lieu of Stock Appreciation Rights.
+
+(iii) The percentage increase in the median remuneration of employees in the Financial Year 2022-23:
+
+The percentage increase in the median remuneration of Sonata during the Financial Year under review is
+
+12.15%. This has been arrived by comparing the median remuneration of the cost-to-the Company as on
+
+31st March, 2023 as compared to the previous year 31st March, 2022.
+
+(iv) The number of permanent employees on the rolls of the Company as on 31st March, 2023: 3,705
+
+employees.
+
+The total employee strength across the group as on 31st March, 2023 - 6,434 as against 5,158 as on
+
+31st March, 2022.:
+
+Managing Director & CEO to have a balanced governance structure. The
+
+Chairman takes a lead role in managing the Board and facilitates effective communication among directors
+
+and management.
+
+During the year, familiarisation programme was imparted to all the Directors of the Board. Details of the
+
+familiarisation programme is available on the Company’s website at https://www.sonata-software.com/
+
+about-us/investor-relations/corporate-governance.
+
+The names, designation and categories of the Directors and their shareholdings in the Company as of
+
+31st March, 2023 are furnished below:
+
+Name of the Director & DIN
+
+Designation
+
+Category
+
+Equity shareholdings in the
+
+Company
+
+Mr. Pradip P Shah
+
+(00066242)
+
+Chairman & Director
+
+Independent Director
+
+Nil
+
+Mr. S B Ghia
+
+(00005264)
+
+Director
+
+Non-Executive Director
+
+6,666
+
+Mr. Viren Raheja
+
+(00037592)
+
+Director
+
+Promoter, Non-
+
+Executive Director
+
+11,000,000
+
+Mr. P Srikar Reddy*
+
+(00001401)
+
+Executive
+
+Vice Chairman &
+
+Whole-time Director
+
+Executive Director
+
+17,08,664
+
+Ms. Radhika Rajan
+
+(00499485)
+
+Director
+
+Independent Director
+
+Nil
+
+Mr. Sanjay K Asher
+
+(00008221)
+
+Director
+
+Independent Director
+
+Nil
+
+Mr. Samir Dhir**
+
+(03021413): Managing Director & CEO
+
+Executive Director
+
+Nil
+
+*Appointed as an Executive Vice
+
+Managing Director & CEO w.e.f. 14th February, 2023.
+
+List of Directorship held in other Listed Companies and the category of directorships.
+
+Name of the Director
+
+Directorship in other listed entities
+
+Category of Directorship
+
+Mr. Pradip P Shah
+
+Kansai Nerolac Paints Limited
+
+Non-Executive - Independent Director, Chairman
+
+Pfizer Limited
+
+Non-Executive - Independent Director, Chairman
+
+KSB Limited
+
+Non-Executive - Independent Director
+
+BASF India Limited
+
+Non-Executive - Independent Director, Chairman
+
+Bajaj Auto Limited
+
+Non-Executive - Independent Director
+
+Bajaj Holdings & Investment Limited
+
+Non-Executive - Independent Director
+
+Mr. S B Ghia
+
+Futura Polyesters Limited: Managing Director,
+
+Managing Director & CEO of the Company. As a business leader
+
+and technologist, he possesses a broad skill set and extensive expertise across multiple domains. He has
+
+a strong knowledge of IT services industry, sales, marketing, delivery, talent, and operations. He is well-
+
+versed in technological advancements and their applications for Enterprises. His special focus on creating:
+
+Managing Director & CEO. ESOPs will be granted as per
+
+employment agreement.
+
+# Excluding perquisite value of ESOPs exercised during the year
+
+*Payable in USD. It includes variable pay only for FY 22-23 which will be paid / is payable in FY 23-24 and does not include other long-term incentives which are
+
+due and payable only upon fulfillment of certain conditions in FY 24-25 and beyond.
+
+Note: All figures are rounded off.
+
+•
+
+Criteria for making payments to Non-Executive Directors
+
+The Shareholders at their meeting held on 13th August, 2018 had, by way of Special Resolution authorised
+
+the Board of Directors of the Company to pay commission to Non-Executive Directors in such amounts
+
+or proportions which cumulatively shall not exceed 1% of the net profits of the Company in any Financial
+
+Year.
+
+Further, as authorized by the Board in the meeting held on 14th February 2012, all Non-Executive Directors
+
+are also being paid a sitting fees of Rs. 20,000/- for each meeting of the Board and Committee attended
+
+by them from Financial Year 2012-13 onwards.
+
+V.
+
+STAKEHOLDERS RELATIONSHIP COMMITTEE
+
+Committee Charter
+
+The Stakeholders Relationship Committee was constituted and functions in accordance with the
+
+requirements of the Companies Act, 2013, Listing Regulations and its Charter.:
+
+Managing Director & CEO
+
+Member
+
+-
+
+-
+
+*appointed w.e.f. 14th February, 2023.
+
+•
+
+During the Financial Year under review 64 investor grievances were received and all of them were
+
+successfully resolved.
+
+The Board has appointed Ms. Mangal Kulkarni, Company Secretary, as the Compliance Officer, as required
+
+under the Listing Regulations and the Nodal Officer to ensure compliance with the IEPF rules.
+
+VI.
+
+CORPORATE SOCIAL RESPONSIBILITY “CSR” COMMITTEE
+
+CSR Vision:
+
+To enhance value creation in the community through Sonata’s services, conduct and initiatives, to
+
+promote sustained growth in the society and community. The objective is to operate its business in an
+
+economically, socially and environmentally sustainable manner, while recognizing the interests of all our
+
+stakeholders including our community.
+
+Committee Charter
+
+The CSR Committee was constituted and functions in accordance with the requirements of the Companies
+
+Act, 2013, Listing Regulations and its Charter.
+
+The CSR Committee is guided by the Charter adopted by the Board, available on the Company’s website at
+
+www.sonata-software.com:
+
+Managing Director & CEO
+
+Member
+
+-
+
+-
+
+*appointed w.e.f. 14th February, 2023.
+
+Environmental, Social and Governance (ESG): The CSR Committee discharges oversight responsibility on
+
+matters related to organization wide ESG initiatives, priorities, and leading ESG practices.
+
+VII. RISK MANAGEMENT COMMITTEE
+
+Committee Charter:
+
+Pursuant to Regulation 21 of the Listing Regulations, the Board of Directors have constituted the Risk
+
+Management Committee on 13th August, 2018. The composition of the Committee is in conformity with the
+
+Listing Regulations, with majority of members being Directors of the Company.
+
+The Risk Management Committee is guided by the Charter adopted by the Board, available on the
+
+Company’s website, at https://www.sonata-software.com/sites/default/files/financial-reports/2021-08/risk-
+
+management-policy.pdf
+
+•
+
+Terms of Reference
+
+The roles, responsibilities and the terms of reference of the Risk Management Committee inter-alia include
+
+the following:
+
+1.
+
+To formulate a detailed risk management policy which shall include:
+
+a.
+
+A framework for identification of internal and external risks specifically faced by the Company,
+
+in particular including financial, operational, sectoral, sustainability (particularly ESG related risks),
+
+information, cyber security risks or any other risk as may be determined by the Committee.
+
+b.
+
+Measures for risk mitigation including systems and processes for internal control of identified risks.
+
+c.
+
+Business continuity plan.:
+
+Managing Director & CEO
+
+Member
+
+1
+
+1
+
+*appointed w.e.f. 25th July, 2022.
+
+VIII. INDEPENDENT DIRECTORS’ MEETINGS
+
+For the Board to exercise free and fair judgment in all matters related to the functioning of the Company
+
+as well as the Board, the independent directors need to have meetings without the presence of the
+
+executive management. The Independent Directors met more than once and discussed among other
+
+matters the performance of the Company and risks faced by it, competition, strategy, leadership strengths,
+
+and also assessed the quality, quantity, and timeliness of the flow of information between the Company’s
+
+management and the Board, and succession planning.
+
+In accordance with Section 149 read with Schedule IV to the Act, and Listing Regulations, a meeting of the
+
+Independent Directors was held during the Financial Year 2022-23 without the attendance of the Non-
+
+Independent Directors and members of the management. Apart from yearly meeting, the Independent
+
+Directors alone also meet quarterly on need basis prior to the Audit Committee Meeting or prior to the
+
+Nomination and Remuneration Committee meeting.
+
+IX.
+
+SHAREHOLDERS MEETINGS
+
+• Details of the last three AGMs held:
+
+Financial Year
+
+Date
+
+Venue
+
+Time (IST)
+
+2019-20
+
+11.08.2020
+
+Held through Video conferencing / other Audio-visual means
+
+4.00 p.m.
+
+2020-21
+
+16.08.2021
+
+Held through Video conferencing / other Audio-visual means
+
+4.00 p.m.
+
+2021-22
+
+24.06.2022
+
+Held through Video conferencing / other Audio-visual means
+
+4.00 p.m.:
+
+Managing Director & CEO of the Company and the appointment of
+
+Mr. P Srikar Reddy (DIN: 00001401) as Executive Vice Chairman and Whole-Time Director
+
+of the Company.
+
+Date of Postal Ballot Notice
+
+:
+
+March 09, 2023
+
+Voting period
+
+:
+
+March 22, 2023 to April 21, 2023
+
+Date of approval
+
+:
+
+April 21, 2023
+
+Date of declaration of result
+
+:
+
+April 25, 2023
+
+Brief particulars of
+
+the resolution
+
+Type of
+
+Resolution
+
+No. of votes
+
+polled
+
+Votes cast in favour
+
+Votes cast against
+
+No. of votes
+
+%
+
+No. of votes
+
+%
+
+Re-designation / appointment of
+
+Mr. Samir Dhir (DIN: 03021413) as: Managing Director & CEO of the
+
+Company
+
+Ordinary
+
+Resolution
+
+7,28,41,800
+
+7,24,48,147
+
+99.46
+
+3,93,653
+
+0.54
+
+Appointment of Mr. P Srikar Reddy (DIN:
+
+00001401) as Executive Vice
+
+Managing Director.
+
+The Chairman of the Company is an Independent Director.
+
+-
+
+The Company allows a direct reporting of Internal Auditor to Audit Committee.
+
+G.
+
+Web Link where Policy for Determining ‘Material’ Subsidiaries is given Below-
+
+The Policy for determining ‘material’ subsidiaries is posted on Company’s website https://www.sonata-
+
+software.com/sites/default/files/financial-reports/2019-09/policy-on-determining-material-subsidiaries.pdf
+
+H.
+
+Web Link where Policy on dealing with Related Party Transactions is given Below-
+
+The policy on dealing with related party transactions is posted on Company’s website https://www.sonata-
+
+software.com/sites/default/files/financial-reports/2022-01/policy-on-related-party-transactions.pdf
+
+I.
+
+Disclosure of Commodity Price Risk and Commodity Hedging Activities
+
+Your Company does not have commodity price risk being in the IT sector and hence no commodity
+
+hedging is done.
+
+J.
+
+Details of Utilisation of Fund
+
+During the year under review, your Company has not raised any fund through preferential allotment
+
+or qualified institutions placement as specified under Regulation 32(7A) of SEBI (Issue of Capital and
+
+Disclosure Requirements) Regulations, 2018.
+
+K.
+
+Certificate from Company Secretary in Practice
+
+The Company has obtained a certificate from Mr. Parameshwar G Hegde a Company Secretary in practice,
+
+as required under Schedule V, Part C, Clause 10(i) of SEBI (Listing Obligations and Disclosure Requirement)
+
+(Amendment) Regulations, 2018, that none of the Directors on the Board of the Company have been
+
+debarred or disqualified from being appointed or continuing as directors of companies by the Board/
+
+Ministry of Corporate Affairs or any such statutory authority. A certificate to this effect, duly signed by the
+
+Practicing Company Secretary is annexed to this Report.
+
+L.
+
+Where the Board had not accepted any recommendations of any committee of the board, which is
+
+mandatorily required, in the relevant financial year:
+
+None.
+
+M. Auditors Remuneration :
+
+The details of total fees for all services paid by the Company and its subsidiaries, on a consolidated basis,
+
+to the statutory auditor and all entities in the network firm / network entity of which the statutory auditor
+
+is a part, are as follows:
+
+Particulars
+
+S in lakhs
+
+Remuneration for audit of the Company and its subsidiaries
+
+125
+
+Remuneration for other services
+
+4
+
+Re-imbursement of out-of pocket expenses
+
+7
+
+Total
+
+136:
+
+Managing Director and CEO of Sonata Software Limited, to the best of my knowledge
+
+and belief, hereby declare that all the Directors on the Boards and Senior Management Personnel have
+
+affirmed compliance with the Code of Conduct for the Financial Year ended 31st March, 2023.
+
+XVI. TRANSFER OF UNCLAIMED / UNPAID AMOUNTS TO THE INVESTOR EDUCATION AND PROTECTION FUND
+
+(“IEPF”)
+
+According to the applicable provisions of the Companies Act, 2013 read with the IEPF Authority
+
+(Accounting, Audit, Transfer and Refund) Rules, 2016 (‘the Rules’), all unpaid or unclaimed dividends are
+
+required to be transferred by the Company to the IEPF established by the Central Government, after
+
+the completion of seven years. Further, according to the Rules, the shares in respect of which dividend
+
+has not been paid or claimed by the shareholders for seven consecutive years or more shall also require
+
+to be transferred to the DEMAT account created by the IEPF Authority. Accordingly, the Company has
+
+transferred the unclaimed and unpaid dividends. Further, the corresponding shares are transferred as per
+
+the requirement of the rules, details of which are provided on our website, at www.sonata-software.com.
+
+Members who have not yet encashed their dividend warrant(s) of the interim dividend for the financial
+
+year 2015-16 and onwards are requested to make their claims without any delay.
+
+The members who have a claim on the above dividends and shares may claim the same from IEPF
+
+Authority by submitting an online application in web Form No. IEPF-5 available on the website www.
+
+iepf.gov.in and sending a physical copy of the same, duly signed to the Company, along with requisite
+
+documents enumerated in Form No. IEPF-5. No claims shall lie against the Company in respect of the
+
+dividend / shares so transferred.
+
+According to Section 124(6) of the Companies Act, 2013, read with the Investor Education and Protection
+
+Fund Authority (Accounting, Audit, Transfer and Refund) Rules 2016 as amended by the Ministry of
+
+Corporate Affairs with effect from 28th February, 2017 (“the Rules”), in case the beneficial owner has
+
+not encashed dividend warrant(s) during the last seven years, shares of such beneficial owners shall be
+
+required to be transferred to the Fund established by the Authority. Shareholders are therefore requested
+
+to contact Kfin Technologies Limited, Registrar and Share Transfer Agent concerning their unclaimed
+
+dividends.
+
+The Company sends regular reminders to shareholders to claim their unclaimed dividends/shares before
+
+it is transferred to the IEPF. Shareholders may note that both the unclaimed dividends and corresponding
+
+shares transferred to the IEPF, including all benefits accruing on such shares, if any, can be claimed from
+
+the IEPF following the procedure prescribed in the Rules. No claim shall lie in respect thereof with the
+
+Company.
+
+XVII. CORPORATE GOVERNANCE COMPLIANCE CERTIFICATE
+
+The Practicing Company Secretary’s certificate on corporate governance is annexed to the Corporate
+
+Governance Report.:
+
+Managing Director & CEO and Jagannathan C N, Chief Financial Officer of Sonata Software
+
+Limited, to the best of our knowledge and belief, certify that:
+
+(a)
+
+We have reviewed Financial Statements and the Cash Flow Statements for the year ended March 31, 2023
+
+and:
+
+(i)
+
+These Financial Statements do not contain any materially untrue statement or omit any material fact
+
+or contain statements that might be misleading;
+
+(ii)
+
+These Financial Statements together present a true and fair view of the Company’s affairs and are in
+
+compliance with existing Accounting Standards, applicable laws and regulations;
+
+(b)
+
+There is, to the best of our knowledge and belief, no transaction entered into by the Company during the
+
+year ended March 31, 2023, which is fraudulent, illegal or violative of the Company’s Code of Conduct.
+
+(c)
+
+We accept responsibility for establishing and maintaining Internal Controls for financial reporting and that
+
+we have evaluated the effectiveness of Internal Control Systems of the Company pertaining to financial
+
+reporting and we have disclosed to the Auditors and the Audit Committee, deficiencies in the design or
+
+operation of such Internal Controls, if any, of which we are aware and the steps we have taken or propose
+
+to take to rectify these deficiencies.
+
+(d)
+
+We have indicated to the Auditors and Audit committee that for the year ended March 31, 2023, there
+
+were;
+
+(i)
+
+No significant changes in Internal Control over financial reporting during the year under review;
+
+(ii)
+
+No significant changes in accounting policies during the year under review and that the same have
+
+been disclosed in the notes to the financial statement; and
+
+(iii)
+
+No instances of significant fraud of which we have become aware and there has been no involvement
+
+therein of the management or an employee having a significant role in the Company’s Internal
+
+Control System over financial reporting.
+
+(e)
+
+The financial results do not contain any false or misleading statement or figures and do not omit any
+
+material fact which may make the statements or figures contained therein misleading.
+
+Samir Dhir
+
+Jagannathan C N: Managing
+
+Managing Director & CEO
+
+8.
+
+Details of the highest authority responsible for implementation and oversight of the Business
+
+Responsibility policy (ies).
+
+Board level Corporate Social Responsibility (CSR) Committee is responsible for implementation and
+
+oversight of the Business Responsibility policy.
+
+9.
+
+Does the entity have a specified Committee of the Board/ Director responsible for decision making
+
+on sustainability related issues? (Yes / No). If yes, provide details.
+
+Yes, the Corporate Social Responsibility (CSR) Committee of the Board is also responsible for sustainability
+
+related issues. The said Committee comprises of 4 members in which the Chairperson is a Women
+
+Independent Director. The Committee meets at least 4 times in a financial year to discuss on CSR/
+
+Sustainability related matters.
+
+10. Details of Review of NGRBCs by the Company
+
+Subject for Review
+
+a.
+
+Indicate whether review was undertaken by Director /
+
+Committee of the Board/ Any other Committee
+
+P1
+
+P2
+
+P3
+
+P4
+
+P5
+
+P6
+
+P7
+
+P8
+
+P9
+
+1
+
+Performance against above policies and follow
+
+up action
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+2
+
+Compliance with statutory requirements of
+
+relevance to the principles, and rectification of
+
+any non-compliances
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Subject for Review
+
+b.
+
+Frequency (Annually/ Half yearly/ Quarterly/ Any other – please
+
+specify)
+
+P1
+
+P2
+
+P3
+
+P4
+
+P5
+
+P6
+
+P7
+
+P8
+
+P9
+
+1
+
+Performance against above policies and follow
+
+up action
+
+Annually
+
+2
+
+Compliance with statutory requirements
+
+of relevance to the principles, and the
+
+rectification of any non-compliances
+
+Annually:
+
+Managing Director & CEO and Executive Vice Chairman & Whole-Time Director has been included in Key Managerial Personnel
+
+^
+
+Key Management Personnel includes: Managing Director & CEO, Executive Vice
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Mangal Krishnarao Kulkarni
+
+Date : May 13, 2023
+
+Company Secretary
+
+Place: Bengaluru
+
+₹ in Lakhs:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Mangal Krishnarao Kulkarni
+
+Date : May 13, 2023
+
+Company Secretary
+
+Place: Bengaluru
+
+Standalone Statement of Profit and Loss
+
+₹ in Lakhs
+
+Note No.
+
+For the year ended
+
+March 31, 2023
+
+For the year ended
+
+March 31, 2022
+
+Revenue from operations
+
+17.1
+
+92,086
+
+75,814
+
+Other income
+
+17.2
+
+15,968
+
+16,424
+
+Total income
+
+108,054
+
+92,238
+
+EXPENSES
+
+Purchase of stock-in-trade (traded goods)
+
+18.1
+
+10,219
+
+9,453
+
+Changes in inventories of stock-in-trade
+
+18.2
+
+17
+
+15
+
+Employee benefits expense
+
+19
+
+54,350
+
+41,499
+
+Finance costs
+
+20
+
+696
+
+878
+
+Depreciation and amortization expense
+
+3.1 & 39
+
+1,851
+
+1,755
+
+Other expenses
+
+21
+
+14,504
+
+10,615
+
+Total expenses
+
+81,637
+
+64,215
+
+Profit before tax
+
+26,417
+
+28,023
+
+Tax expense
+
+Current tax
+
+15
+
+3,958
+
+4,197
+
+Deferred tax
+
+16
+
+422
+
+307
+
+Net tax expense
+
+4,380
+
+4,504
+
+Profit for the year
+
+22,037
+
+23,519
+
+Other Comprehensive Income
+
+1. Items that will not be reclassified to profit/(loss)
+
+(a) Remeasurement of the defined benefit plans
+
+(463)
+
+(933)
+
+(b) Income tax relating to items that will not be reclassified to profit/(loss)
+
+77
+
+149
+
+(386)
+
+(784)
+
+2. Items that will be reclassified to profit/(loss)
+
+(a) Exchange differences in translating the financial statements of foreign
+
+operations
+
+(5)
+
+(14)
+
+(b) Fair value changes on derivatives designated as cash flow hedge, net
+
+(1,117)
+
+201
+
+(c) Income tax relating to Items that will be reclassified to profit/(loss)
+
+186
+
+(30)
+
+(936)
+
+157
+
+Total
+
+(1,322)
+
+(627)
+
+Total Comprehensive Income for the year
+
+20,715
+
+22,892
+
+Earnings per share - (on ₹ 1 per share)
+
+Basic
+
+35
+
+15.89
+
+16.97
+
+Diluted
+
+35
+
+15.89
+
+16.96
+
+Weighted average equity shares used in computing earnings per equity share
+
+Basic (Nos)
+
+35
+
+138,704,906
+
+138,560,242
+
+Diluted (Nos)
+
+35
+
+138,704,906
+
+138,633,696:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Mangal Krishnarao Kulkarni
+
+Date : May 13, 2023
+
+Company Secretary
+
+Place: Bengaluru:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Mangal Krishnarao Kulkarni
+
+Date : May 13, 2023
+
+Company Secretary
+
+Place: Bengaluru:
+
+letter of intent
+
+during the year
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Exercised units
+
+70,000
+
+26,000
+
+6,250
+
+-
+
+10,000
+
+6,500
+
+-
+
+-
+
+Lapsed units
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Forfeited units
+
+-
+
+6,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Cancelled units
+
+150,000
+
+165,000
+
+23,250
+
+45,000
+
+170,000
+
+52,000
+
+165,000
+
+55,500
+
+Outstanding units as at
+
+the end of the year
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Contractual life (in years)
+
+3
+
+3
+
+1
+
+3
+
+3
+
+1
+
+3
+
+1
+
+Date of grant
+
+May 29,
+
+2017
+
+Dec 18,
+
+2018
+
+Sep 30,
+
+2018
+
+May 31,
+
+2020
+
+Oct 30,
+
+2020
+
+Oct 1,
+
+2020
+
+May 29,
+
+2021
+
+Jan 1,
+
+2022
+
+Grant price per unit (₹)
+
+149.65
+
+315.30
+
+200.00
+
+354.50
+
+317.40
+
+224.00
+
+206.05
+
+251.00
+
+Number of units
+
+exercisable at the end of
+
+the year
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Weighted average
+
+exercise price (₹)
+
+347.71
+
+171.05
+
+305.81
+
+-
+
+338.68
+
+228.97
+
+-
+
+-
+
+Weighted average
+
+exercise price for options
+
+exercisable at the end of
+
+the year (₹)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+The weighted average fair value of each unit during the previous year for stock appreciation rights plan
+
+has been calculated using the Black - Scholes pricing model with the following assumptions:
+
+For the year ended March 31, 2022
+
+As per
+
+plan 1
+
+(2018)
+
+As per
+
+plan
+
+2(2018)
+
+As per
+
+plan1
+
+(2019)
+
+As per
+
+plan 3
+
+(2018)
+
+As per
+
+plan 4
+
+(2018)
+
+As per
+
+plan
+
+2(2019)
+
+As per
+
+plan 2
+
+(2020)
+
+As per
+
+plan
+
+3(2020)
+
+Grant date
+
+May 29,
+
+2017
+
+Dec 18,
+
+2018
+
+Sep 30,
+
+2018
+
+May 31,
+
+2020
+
+Oct 30,
+
+2020
+
+Oct 1,
+
+2020
+
+May 29,
+
+2021
+
+Jan 1,
+
+2022
+
+Exercise price (₹ )
+
+149.65-
+
+187.72
+
+315.3-
+
+395.52
+
+200.00
+
+354.9-
+
+444.68
+
+317.4-
+
+398.15
+
+224.00
+
+206.05-
+
+258.47
+
+251.00
+
+Dividend yield
+
+2.50%
+
+2.50%
+
+2.50%
+
+2.50%
+
+2.50%
+
+2.50%
+
+2.50%
+
+2.50%
+
+Expected life (in years)
+
+3
+
+3
+
+1
+
+3
+
+3
+
+1
+
+3
+
+1
+
+Risk free interest rate
+
+3.86%
+
+3.86%-
+
+4.25%
+
+3.86%
+
+3.86%-
+
+5.18%
+
+3.86%-
+
+5.18%
+
+3.86%
+
+4.25%-
+
+5.58%
+
+4.25%
+
+Volatility
+
+40%
+
+40%
+
+40%
+
+40%
+
+40%
+
+40%
+
+40%
+
+40%:
+
+Managing Director & Chief Executive Officer
+
+(w.e.f. Feb 14, 2023)
+
+Mr. P Srikar Reddy, Executive Vice Chairman & Whole Time Director
+
+(w.e.f. Feb 14, 2023)
+
+Mr. Pradip P Shah, Chairman & Independent Director
+
+Ms. Radhika Rajan, Independent Director
+
+Mr. Viren Raheja, Non Executive Director
+
+Mr. S B Ghia, Non Executive Director
+
+Mr. Sanjay K Asher, Independent Director
+
+Mr. Jagannathan Chakravarthi, Chief Financial Officer
+
+Ms. Mangal Krishnarao Kulkarni, Company Secretary
+
+ii)
+
+Transactions with related parties :
+
+₹ in Lakhs
+
+Particulars
+
+WOS, Subsidiary
+
+KMP
+
+March 31, 2023
+
+March 31, 2022
+
+March 31, 2023
+
+March 31, 2022
+
+Rendering of services
+
+Sonata Software North America Inc.
+
+32,033
+
+26,149
+
+Sonata Europe Limited
+
+10,021
+
+6,879
+
+Sonata Software FZ LLC
+
+4
+
+145
+
+Gapbuster Worldwide Pty Limited
+
+226
+
+Interactive Business Information Systems Inc.
+
+157
+
+306
+
+Sonata Australia Pty Ltd
+
+909
+
+1,171
+
+Sopris Systems LLC
+
+130
+
+85
+
+Sonata Software Solutions Limited
+
+-
+
+1
+
+Sonata Software Intercontinental Limited
+
+394
+
+71
+
+Sale of Product
+
+Sonata Software North America Inc.
+
+12
+
+-
+
+Purchase of Software products and licenses
+
+Sonata Information Technology Limited
+
+12,151
+
+9,275
+
+Sonata Software Solutions Limited
+
+-
+
+1,737
+
+Gapbuster Worldwide Pty Limited
+
+126
+
+-
+
+Interactive Business Information Systems Inc.
+
+-
+
+60
+
+Sonata Software (Qatar) LLC
+
+-
+
+46
+
+Sonata Australia Pty Ltd
+
+108
+
+184
+
+Commission on Sales
+
+Sonata Australia Pty Ltd
+
+35
+
+-:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Mangal Krishnarao Kulkarni
+
+Date : May 13, 2023
+
+Company Secretary
+
+Place: Bengaluru:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Date : May 13, 2023
+
+Mangal Krishnarao Kulkarni
+
+Place : Bengaluru
+
+Company Secretary
+
+₹ in Lakhs:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Date : May 13, 2023
+
+Mangal Krishnarao Kulkarni
+
+Place : Bengaluru
+
+Company Secretary
+
+Consolidated Statement of Profit and Loss
+
+₹ in Lakhs
+
+For the year ended
+
+March 31, 2023
+
+For the year ended
+
+March 31, 2022
+
+Note No.
+
+Revenue from operations
+
+19.1
+
+744,912
+
+555,337
+
+Other income
+
+19.2
+
+7,082
+
+10,198
+
+Total income
+
+751,994
+
+565,535
+
+EXPENSES
+
+Purchase of stock-in-trade (traded goods)
+
+20.1
+
+548,163
+
+401,752
+
+Changes in inventories of stock-in-trade
+
+20.2
+
+(2,589)
+
+555
+
+Employee benefits expense
+
+21
+
+93,311
+
+73,702
+
+Finance costs
+
+22
+
+1,854
+
+1,805
+
+Depreciation and amortization expense
+
+3.1 , 5 & 37
+
+5,913
+
+4,732
+
+Other expenses
+
+23
+
+45,614
+
+32,953
+
+Total expenses
+
+692,266
+
+515,499
+
+Profit before tax
+
+59,728
+
+50,036
+
+Tax expense
+
+Current tax
+
+17
+
+16,709
+
+14,547
+
+Deferred tax
+
+18
+
+(2,171)
+
+(2,154)
+
+Net tax expense
+
+14,538
+
+12,393
+
+Profit for the year
+
+45,190
+
+37,643
+
+Other comprehensive income
+
+1. Items that will not be reclassified to profit/(loss)
+
+(a) Remeasurement of the defined benefit plans
+
+(662)
+
+(1,111)
+
+(b) Income tax relating to items that will not be reclassified to profit/(loss)
+
+162
+
+278
+
+(500)
+
+(833)
+
+2. Items that will be reclassified to profit/(loss)
+
+(a) Exchange differences in translating the financial statements of foreign
+
+operations
+
+873
+
+478
+
+(b) Fair value changes on derivatives designated as cash flow hedge, net
+
+(3,539)
+
+1,166
+
+(c) Income tax relating to Items that will be reclassified to profit/(loss)
+
+652
+
+(411)
+
+(2,014)
+
+1,233
+
+Total
+
+(2,514)
+
+400
+
+Total Comprehensive Income for the year
+
+42,676
+
+38,043
+
+Total comprehensive income attributable to:
+
+Owners of the company
+
+42,676
+
+38,043
+
+Non-controlling interest
+
+-
+
+-
+
+42,676
+
+38,043
+
+Profit for the year attributable to:
+
+Owners of the company
+
+45,190
+
+37,643
+
+Non - controlling interest
+
+-
+
+-
+
+45,190
+
+37,643
+
+Other Comprehensive Income for the year attributable to:
+
+Owners of the company
+
+(2,514)
+
+400
+
+Non - controlling interest
+
+-
+
+-
+
+(2,514)
+
+400
+
+Earnings per share (on ₹ 1 per share)
+
+Basic (₹)
+
+38
+
+32.58
+
+27.17
+
+Diluted (₹)
+
+38
+
+32.58
+
+27.15
+
+Weighted average equity shares used in computing earnings per equity share
+
+Basic (in shares)
+
+138,704,906
+
+138,560,242
+
+Diluted (in shares)
+
+138,704,906
+
+138,633,696:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Date : May 13, 2023
+
+Mangal Krishnarao Kulkarni
+
+Place : Bengaluru
+
+Company Secretary:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Date : May 13, 2023
+
+Mangal Krishnarao Kulkarni
+
+Place : Bengaluru
+
+Company Secretary:
+
+letter of intent during the year
+
+-
+
+Exercised units
+
+30,000
+
+Lapsed units
+
+20,000
+
+Forfeited units
+
+-
+
+Cancelled units
+
+-
+
+Outstanding units as at the end of the year *
+
+10,000
+
+Contractual life (in years)
+
+3
+
+Date of grant
+
+October 30, 2019:
+
+letter of intent
+
+during the year
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Exercised units
+
+70,000
+
+6,250
+
+26,000
+
+24,000
+
+6,500
+
+130,000
+
+-
+
+-
+
+-
+
+Lapsed units
+
+-
+
+-
+
+6,000
+
+-
+
+-
+
+-
+
+120,000
+
+-
+
+2,500
+
+Forfeited units
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Cancelled units
+
+150,000
+
+2
+
+231,000
+
+57,000
+
+67,500
+
+170,000
+
+-
+
+165,000
+
+81,500
+
+Outstanding units
+
+as at the end of the
+
+year*
+
+-
+
+-
+
+-
+
+-
+
+-
+
+60,000
+
+-
+
+-
+
+-
+
+Contractual life (in
+
+years)
+
+3
+
+1
+
+3
+
+3
+
+1
+
+3
+
+3
+
+3
+
+3
+
+Date of grant
+
+May 29,
+
+2017
+
+September
+
+30, 2018
+
+December
+
+18, 2018
+
+May 31,
+
+2019
+
+October
+
+1, 2019
+
+October
+
+30, 2019
+
+May 1,
+
+2020
+
+May 30,
+
+2020
+
+January
+
+1, 2021
+
+Grant price per unit
+
+(₹)
+
+149.65
+
+200.00
+
+315.30
+
+354.50
+
+224.00
+
+317.40
+
+155.00
+
+206.05
+
+251.00
+
+Number of units
+
+exercisable at the
+
+end of the year*
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Weighted average
+
+remaining
+
+contractual life (in
+
+years)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Weighted average
+
+exercise price (₹)
+
+347.71
+
+310.25
+
+171.05
+
+163.10
+
+228.97
+
+389.44
+
+-
+
+-
+
+Weighted average
+
+exercise price for
+
+options exercisable
+
+at the end of the
+
+year (₹)*
+
+-
+
+-
+
+-
+
+-
+
+338.68
+
+-
+
+-
+
+-
+
+* The Group had cancelled the existing Stock Appreciation Rights Plan (SAR) during the year and introduced the Bonus plan in lieu of SAR.:
+
+Managing Director & Chief Executive Officer
+
+(w.e.f. Feb 14, 2023)
+
+Mr. P Srikar Reddy, Executive Vice Chairman and Whole time
+
+Director (w.e.f. Feb 14, 2023)
+
+Mr. Pradip P Shah, Chairman & Independent Director
+
+Ms. Radhika Rajan, Independent Director
+
+Mr. Viren Raheja, Non Executive Director
+
+Mr. S B Ghia, Non Executive Director:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Jagannathan Chakravarthi
+
+R Sathyanarayana
+
+(Membership No. 065155)
+
+Chief Financial Officer
+
+VP - Finance & Accounts
+
+Date : May 13, 2023
+
+Mangal Krishnarao Kulkarni
+
+Place : Bengaluru
+
+Company Secretary:
+
+Managing Director’ and
+
+‘Chief Executive Officer’ of the Company effective 28th April 2022 to 30th November 2026 on such terms and
+
+conditions as approved by the Board of Directors at their meeting held on 28th April 2022.
+
+The Board of Directors at their meeting held on 3rd May 2023, has appointed Mr. Samir Dhir, (DIN: 03021413)
+
+as an Additional Director (Non-Executive & Non-Independent Director) of the Company, liable to retire by
+
+rotation, to hold office with effect from 3rd May 2023, subject to the approval of members at the ensuring AGM
+
+of your Company. The notice convening the meeting sets out the details of his appointment.
+
+INDEPENDENT DIRECTOR
+
+Your Company has received necessary declaration from Independent Director of your Company under Section
+
+149(7) of the Companies Act, 2013, that the Independent Director of your Company met with the criteria of their
+
+Independence laid down in Section 149(6) of the Companies Act, 2013. The Independent Director has confirmed
+
+that she has complied with the Company’s Code of Conduct. The Independent Director also further confirmed
+
+that she has registered her name in the Independent Directors’ Databank.
+
+DIRECTOR’S RESPONSIBILITY STATEMENT
+
+In pursuance of Section 134 (3)(c) read with Section 134 (5) of the Companies Act, 2013, the Directors, based
+
+upon the information and explanations obtained by them as also documents made available to them and to the
+
+best of their knowledge and belief, hereby confirm that:
+
+•
+
+in the preparation of the Annual Accounts, the applicable Accounting Standards have been followed along
+
+with proper explanation relating to material departures;:
+
+letter.
+
+1.
+
+Maintenance of secretarial records is the responsibility of the Management of the Company. My
+
+responsibility is to express an opinion on these secretarial records based on my audit.
+
+2.
+
+I have followed the audit practices and process as were appropriate to obtain reasonable
+
+assurance about the correctness of the contents of the secretarial records. The verification was
+
+done on test check basis to ensure that correct facts are reflected in secretarial records. I believe
+
+that the process and practices, I followed provide a reasonable basis for my opinion.
+
+3.
+
+I have not verified the correctness and appropriateness of financial records and Books of Accounts
+
+of the Company.
+
+4.
+
+Wherever required, I have obtained the Management Representation about the compliance of
+
+laws, rules and regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of Corporate and other applicable laws, rules, regulations,
+
+standards is the responsibility of Management. My examination was limited to the verification of
+
+procedure on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to the future viability of the Company
+
+nor of the efficacy or effectiveness with which the Management has conducted the affairs of the
+
+Company.
+
+P.G.HEGDE
+
+Hegde & Hegde
+
+Company Secretaries
+
+Place: Bengaluru
+
+FCS: 1325 / C.P.No: 640
+
+Date: May 03, 2023
+
+UDIN:F001325E000234657:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Naresh Kumar Katla
+
+(Membership No. 065155)
+
+Company Secretary
+
+Bengaluru
+
+Place : Bengaluru
+
+Date : May 03, 2023
+
+Note
+
+As at
+
+March 31, 2023
+
+As at
+
+March 31, 2023
+
+ASSETS
+
+Non-current assets
+
+Property, plant and equipment
+
+3
+
+129
+
+56
+
+Right-of-use assets
+
+33
+
+298
+
+418
+
+Financial assets
+
+Other financial assets
+
+4
+
+2,433
+
+2,028
+
+Deferred tax assets (net)
+
+16
+
+2,736
+
+1,519
+
+Income tax assets (net)
+
+15
+
+6,186
+
+4,620
+
+Other non-current assets
+
+5
+
+224
+
+224
+
+Total non-current assets
+
+12,006
+
+8,865
+
+Current assets
+
+Inventories
+
+6
+
+2,882
+
+276
+
+Financial assets
+
+7
+
+Investments
+
+7.1
+
+13,905
+
+6,205
+
+Trade receivables
+
+7.2
+
+81,501
+
+65,631
+
+Cash and cash equivalents
+
+7.3
+
+13,724
+
+37,874
+
+Other balances with banks
+
+7.4
+
+16,854
+
+1,080
+
+Other financial assets
+
+7.5
+
+605
+
+3,047
+
+Other current assets
+
+8
+
+2,902
+
+996
+
+Total current assets
+
+132,373
+
+115,109
+
+Total assets
+
+144,379
+
+123,974
+
+EQUITY AND LIABILITIES
+
+EQUITY
+
+Equity share capital
+
+9
+
+338
+
+338
+
+Other equity
+
+10
+
+28,988
+
+29,294
+
+Total Equity
+
+29,326
+
+29,632
+
+LIABILITIES
+
+Non-current liabilities
+
+Financial liabilities
+
+11
+
+Lease liabilities
+
+11.1
+
+255
+
+342
+
+Other financial liabilities
+
+11.2
+
+578
+
+-
+
+Total non-current liabilities
+
+833
+
+342
+
+Current liabilities
+
+Financial liabilities
+
+12
+
+Borrowings
+
+12.1
+
+2,961
+
+474
+
+Trade payables
+
+12.2
+
+-
+
+-
+
+Total outstanding dues of micro enterprises and
+
+small enterprises
+
+23
+
+1
+
+-
+
+Total outstanding dues of creditors other than micro
+
+enterprises and small enterprises
+
+106,297
+
+87,547
+
+Lease liabilities
+
+12.3
+
+148
+
+184
+
+Other financial liabilities
+
+12.4
+
+942
+
+332
+
+Other current liabilities
+
+13
+
+3,321
+
+3,995
+
+Provisions
+
+14
+
+80
+
+97
+
+Current tax liabilities (net)
+
+15
+
+470
+
+1,371
+
+Total current liabilities
+
+114,220
+
+94,000
+
+Total equity and liabilities
+
+144,379
+
+123,974:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Naresh Kumar Katla
+
+(Membership No. 065155)
+
+Company Secretary
+
+Bengaluru
+
+Place : Bengaluru
+
+Date : May 03, 2023
+
+Note No.
+
+For the year ended
+
+March 31, 2023
+
+For the year ended
+
+March 31, 2022
+
+Revenue from operations
+
+17.1
+
+554,039
+
+406,693
+
+Other income
+
+17.2
+
+4,169
+
+1,651
+
+Total income
+
+558,208
+
+408,344
+
+EXPENSES
+
+Purchase of stock-in-trade (traded goods)
+
+18.1
+
+533,645
+
+388,605
+
+Changes in inventories of stock-in-trade
+
+18.2
+
+(2,606)
+
+528
+
+Employee benefits expense
+
+19
+
+5,469
+
+3,850
+
+Finance costs
+
+20
+
+611
+
+369
+
+Depreciation and amortization expense
+
+3.1 & 33
+
+181
+
+197
+
+Other expenses
+
+21
+
+2,016
+
+1,115
+
+Total expenses
+
+539,316
+
+394,664
+
+Profit before tax
+
+18,892
+
+13,680
+
+Tax expense
+
+Current tax
+
+15
+
+5,336
+
+4,507
+
+Deferred tax
+
+16
+
+(568)
+
+(1,008)
+
+Net tax expense
+
+4,768
+
+3,499
+
+Profit for the year
+
+14,124
+
+10,181
+
+Other comprehensive income
+
+1. Items that will not be reclassified to profit/(loss)
+
+(a) Remeasurement of the defined benefit plans
+
+(168)
+
+(137)
+
+(b) Income tax relating to items that will not be reclassified
+
+to profit/(loss)
+
+42
+
+35
+
+(126)
+
+(102)
+
+2. Items that will be reclassified to profit/(loss)
+
+(a) Fair value changes on derivatives designated as cash flow
+
+hedge, net
+
+(2,402)
+
+966
+
+(b) Income tax relating to items that will be reclassified to
+
+profit/(loss)
+
+607
+
+(248)
+
+(1,795)
+
+718
+
+Total
+
+(1,921)
+
+616
+
+Total comprehensive income for the year
+
+12,203
+
+10,797
+
+Earnings per share - (on ₹ 10 per share)
+
+Basic and Diluted ₹
+
+30
+
+417.87
+
+301.21
+
+Weighted average equity shares used in computing earnings
+
+per equity share
+
+Basic and Diluted (Nos)
+
+30
+
+3,375,394
+
+3,375,394
+
+Statement of Profit and Loss
+
+₹ in Lakhs:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Naresh Kumar Katla
+
+(Membership No. 065155)
+
+Company Secretary
+
+Bengaluru
+
+Place : Bengaluru
+
+Date : May 03, 2023:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Naresh Kumar Katla
+
+(Membership No. 065155)
+
+Company Secretary
+
+Bengaluru
+
+Place : Bengaluru
+
+Date : May 03, 2023:
+
+letter of intent
+
+during the year
+
+-
+
+-
+
+-
+
+-
+
+Exercised units
+
+-
+
+2,500
+
+-
+
+-
+
+Lapsed units
+
+-
+
+-
+
+-
+
+-
+
+Forfeited units
+
+-
+
+-
+
+-
+
+-
+
+Cancelled units
+
+45,000
+
+6,500
+
+4,000
+
+12,000
+
+Outstanding units as at the end of the year*
+
+-
+
+-
+
+-
+
+-
+
+Contractual life (in years)
+
+3
+
+1
+
+1
+
+1
+
+Date of grant
+
+Dec 18, 2018
+
+Sep 30, 2018
+
+Oct 1, 2019
+
+Jan 1, 2021
+
+Grant price per unit (₹)
+
+315.30
+
+200.00
+
+224.00
+
+251.00
+
+Number of units exercisable at the end of the
+
+year*
+
+-
+
+-
+
+-
+
+-
+
+Weighted average exercise price (₹)
+
+335.66
+
+200.00
+
+224.00
+
+251.00
+
+Weighted average exercise price of options
+
+exercisable at the end of the year (₹)*
+
+-
+
+-
+
+-
+
+-
+
+The weighted average fair value of each unit during the previous year for the above mentioned stock
+
+appreciation rights plan has been calculated using the Black - Scholes pricing model with the following
+
+assumptions:
+
+For the year ended March 31, 2022
+
+As per plan
+
+3(2020)
+
+As per plan
+
+2(2018)
+
+As per plan1
+
+(2019)
+
+As per plan1
+
+(2019)
+
+Grant date
+
+Jan 1, 2021
+
+Dec 18, 2018
+
+Sep 30, 2018
+
+Oct 1, 2019
+
+Exercise price (₹)
+
+251.00
+
+315.3-395.52
+
+200.00
+
+224.00
+
+Dividend yield
+
+2.50%
+
+2.50%
+
+2.50%
+
+2.50%
+
+Expected life (in years)
+
+1
+
+3
+
+1
+
+1
+
+Risk free interest rate
+
+4.25%
+
+3.86%-4.25%
+
+3.86%
+
+3.86%
+
+Volatility
+
+40%
+
+40%
+
+40%
+
+40%:
+
+Managing Director & CEO
+
+Ms. Radhika Rajan, Director
+
+ii) Transactions with related parties :
+
+₹ in Lakhs
+
+Particulars
+
+Holding Company
+
+Fellow Subsidiary
+
+KMP
+
+March 31,
+
+2023
+
+March 31,
+
+2022
+
+March 31,
+
+2023
+
+March 31,
+
+2022
+
+March 31,
+
+2023
+
+March 31,
+
+2022
+
+Revenue from Software products and licenses
+
+12,151
+
+9,275
+
+Sonata Software North America Inc.
+
+2
+
+2
+
+Software project fees
+
+-
+
+-
+
+-
+
+-
+
+Service charges
+
+-
+
+-
+
+-
+
+-
+
+Rent paid
+
+96
+
+78
+
+-
+
+-
+
+Inter corporate borrowings taken
+
+9,410
+
+6,060
+
+-
+
+-
+
+Inter corporate borrowings repaid
+
+9,410
+
+6,060
+
+-
+
+-
+
+Interest on inter corporate borrowings
+
+54
+
+30
+
+-
+
+-
+
+Reimbursement of expenses
+
+-
+
+-
+
+Dividend paid
+
+12,509
+
+8,000
+
+-
+
+-
+
+Commission on corporate guarantees
+
+331
+
+58
+
+-
+
+-
+
+Reimbursement of expenses paid
+
+-
+
+10
+
+Sonata Software North America Inc.
+
+12
+
+Sonata Australia Pty Ltd
+
+174
+
+Sonata Europe Limited
+
+527
+
+Reimbursement of expenses Received
+
+-
+
+-
+
+-:
+
+Managing Director & CEO
+
+Amrit Bhansali
+
+Partner
+
+Naresh Kumar Katla
+
+(Membership No. 065155)
+
+Company Secretary
+
+Bengaluru
+
+Place : Bengaluru
+
+Date : May 03, 2023:
+
+Managing Director & CEO or Mr. Jagannathan CN, Chief
+
+Financial Officer of the Company along with the Trustees of the ESOP Trust be and are hereby severally
+
+authorised to do all such steps as may be necessary, proper or expedient to give effect to this resolution,
+
+as they may in their absolute discretion deem necessary, proper or desirable and to settle any question,
+
+difficulty or doubt that may arise in respect of aforesaid resolutions without being required to seek any
+
+further consent or approval of the members of Company, and to do all such acts, deeds, things and
+
+matters as may be considered necessary or expedient including the amendment to the ESOP Plan 2013
+
+and Trust Deed and such other documents as may be required for the purpose of giving effect to the
+
+above resolution and all things incidental and ancillary thereto.
+
+RESOLVED FURTHER THAT Mr. Samir Dhir,: Managing
+
+Managing Director & CEO of the Company in respect of any financial year during his tenure
+
+as the: Managing Director & CEO of the Company, in excess of the ceilings of managerial remuneration
+
+prescribed under Section 197 and Schedule V of the Act or such other limits as may be prescribed from
+
+time to time and/or such approvals as may be granted by the Central Government, as may be decided by
+
+the Board of Directors of the Company from time to time, without any restriction on the individual limit(s)
+
+on the remuneration payable to any of the Managerial Person, subject to the overall limits as may be
+
+approved by the members of the Company, and as set out in the explanatory statement attached hereto.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company (which term shall be deemed to
+
+include any Committee of the Board constituted to exercise its powers, including the powers conferred by this
+
+Resolution) be and is hereby authorised to do all such acts, matters, deeds and things and execute all such
+
+documents, instruments and writings as may be required and to take all such steps as may be necessary, proper
+
+and expedient to give effect to this Resolution and all things incidental and ancillary thereto.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company be and is hereby authorized to
+
+delegate all or any of the powers to any officer(s) / authorized representative(s) of the Company to do all
+
+such acts, matters, deeds and things and take all such steps as may be necessary, proper, or expedient to
+
+give effect to this resolution and all things incidental and ancillary thereto.”
+
+6.
+
+To approve and authorise the payment of managerial remuneration to Mr. P Srikar Reddy, Executive
+
+Vice
+
+Managing Director or Whole-
+
+Time Director or to all such Directors taken together if there is more than one such Director, as may
+
+be decided by the Board or its Committee thereof from time to time;
+
+(ii) Up to 17% (from existing 11%) of the net profits of the Company, to all Directors (overall maximum
+
+remuneration payable to Directors including remuneration payable to: Managing
+
+Letter etc. by clicking on "Upload Board Resolution / Authority: Letter"
+
+displayed under "e-Voting" tab in their login.
+
+Managing Director & CEO of the Company effective May 9, 2022 till May 8, 2026. The members had further
+
+authorised the Board upon recommendation of Nomination and Remuneration Committee to alter and vary the
+
+terms and conditions of appointment including remuneration and increment thereof, from time to time for Mr.
+
+Samir Dhir, and the total remuneration payable is subject to the limits specified in the Sections 197 & 198 and
+
+other applicable provisions of the Companies Act, 2013 ('the Act').
+
+As per Section 197 and other applicable provisions of the Act, the remuneration payable to him shall not exceed
+
+5% of the net profits of the Company without the approval of the members by a Special Resolution. Therefore,
+
+in the event of such circumstances as explained below, the approval of the members is being sought as an
+
+abundant caution in accordance with the Section 197, Schedule V, other applicable provisions of the Act.:
+
+Managing Director & CEO or Whole-Time Director or to all such Directors taken together.
+
+Accordingly, the Board recommends the resolution set forth at Item No. 5 of the Notice for approval of the
+
+members by way of Special Resolution.
+
+Except Mr. Samir Dhir, as the resolution relates to his remuneration, may be regarded as interested or
+
+concerned, no other Director(s) and Key Managerial Personnel(s) or their relatives, is in any way, concerned or
+
+interested, financially or otherwise, in this resolution.
+
+Item No. 6: Special Resolution
+
+The members through postal ballot on April 21, 2023, had approved the appointment and remuneration
+
+payable to Mr. P Srikar Reddy, Executive Vice Chairman & Whole-Time Director of the Company effective
+
+February 14, 2023 till April 03, 2026. The members had further authorised the Board upon recommendation of
+
+Nomination and Remuneration Committee to alter and vary the terms and conditions including remuneration
+
+and incremental thereof, from time to time for Mr. P Srikar Reddy and such remuneration payable shall be within
+
+the limits specified in the Section 197 and other applicable provisions of the Companies Act, 2013 ('the Act').
+
+As per Section 197 and other applicable provisions of the Act, the remuneration payable to him shall not exceed
+
+5% of the net profits of the Company without the approval of the members by a Special Resolution. Therefore,
+
+in the event of such circumstances as explained below, the approval of the members is being sought as an
+
+abundant caution in accordance with the Section 197, Schedule V, other applicable provisions of the Act.
+
+In terms of the employment agreement entered into between the Company and Mr. P Srikar Reddy, and as
+
+approved by the members through postal ballot on April 21, 2023, Mr. P Srikar Reddy is entitled to a fixed
+
+compensation including annual increment, bonus plan in lieu of SARs and the stock options previously granted
+
+etc. (hereinafter referred to as “remuneration”). The perquisite value in respect of stock options (upon exercise
+
+in any financial year) will therefore be considered as part of his remuneration under the Act for the relevant
+
+financial year. The value of stock options exercised will be determined on the basis of the market value of shares
+
+at the time of exercise.:
+
+Managing Director & CEO or Whole-Time Director or to all such Directors taken
+
+together.
+
+Accordingly, the Board recommends the resolution set forth at Item No. 6 of the Notice for approval of the
+
+members by way of Special Resolution.
+
+Except Mr. P Srikar Reddy, Executive Vice Chairman & Whole-Time Director as the resolution relates to
+
+his remuneration, may be regarded as interested or concerned, no other Director(s) and Key Managerial
+
+Personnel(s) or their relatives, is in any way, concerned or interested, financially or otherwise, in this resolution.
+
+Item No. 7: Special Resolution
+
+As per provisions of Sections 197 of the Companies Act, 2013 (‘Act’), i) the overall managerial remuneration of: Managing
+

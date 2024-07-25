@@ -1,0 +1,2650 @@
+Letter from the Chairman: Letter from the CEO
+
+Performance Highlights
+
+The Year Gone By
+
+Thematic Section
+
+TRDDC: Built on a Belief in the Future
+
+Operating Model and Front-end
+
+Transformation: Phoenix Group
+
+Business Model Innovation: Toyo Tire
+
+Building on Belief: A Panel Discussion
+
+Customer Journey Transformation: bpost
+
+Citizen Services Transformation: Connecticut
+
+Department of Labor
+
+Q&A with CFO and CHRO
+
+Business Transformation: Novolex
+
+Building Digital India: Reserve Bank of India
+
+Standalone Statement of Changes in Equity
+
+Standalone Statement of Cash Flows
+
+Notes forming part of the Standalone Financial
+
+Statements
+
+Statement under section 129 of the Companies
+
+Act, 2013 relating to Subsidiary Companies
+
+Glossary
+
+GRI Annexures
+
+About this Report
+
+Stakeholder Engagement Framework
+
+Identification of Material Topics
+
+GRI Content Index
+
+Statutory Section
+
+Notice
+
+Managing Director
+
+N G Subramaniam
+
+Chief Operating Officer
+
+and Executive Director
+
+Samir Seksaria
+
+Head - Business Finance
+
+and CFO Designate
+
+Milind Lakkad
+
+Chief Human
+
+Resources Officer
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter From The Chairman | 7
+
+Dear Stakeholder,
+
+Even as I write this, India and many other parts of the world are in the grip of
+
+second or even third waves of the pandemic, much fiercer than anything we
+
+saw last year. It is a health crisis of the kind we have not seen in generations.
+
+My heart goes out to everyone out there who has suffered the loss of loved
+
+ones. I am confident we will eventually get it under control, but until then, I urge
+
+you to stay safe, follow covid discipline, get vaccinated if you are eligible and keep
+
+your spirits up.
+
+On the business front, your company weathered the pandemic very well. It
+
+adapted quickly and embraced a new operating model that prioritized the health
+
+and wellbeing of its employees, while enabling it to continue supporting its
+
+customers not just in their mission-critical operations but also in their growth
+
+and transformation journeys. Its Vision 25x25 and pioneering work around talent
+
+clouds have reinforced its credentials as a thought leader on the future of work,
+
+and a trend setter in the industry.
+
+TCS’ agility, resilience and responsiveness during the crisis earned it tremendous
+
+goodwill from customers and enhanced its standing in the market. After the
+
+initial impact from lockdown-related disruptions, it swiftly returned to a sharp
+
+growth trajectory over the next nine months, and exited the year on a very
+
+strong note, with an expanded market share, industry-leading profitability and an
+
+all-time high order book.: Letter from the
+
+Letter From The Chairman | 8
+
+Technological change is far more perceptible when
+
+it comes to consumer technology, and less so in
+
+the enterprise world. Enterprise adoption of new
+
+technologies tends to be very measured, and it
+
+is only much later, with the benefit of hindsight,
+
+that the scale of change and the key inflection
+
+points become more evident. To my mind, the year
+
+gone by saw an important inflection point that has
+
+huge ramifications on enterprise consumption of
+
+technology in the coming years, and on demand for
+
+your company’s services.
+
+The pressing need for operational resilience and
+
+for enhancing customer experiences in digital
+
+channels accelerated enterprise decision-making,
+
+committing to future technology investments around
+
+the all-encompassing hyperscaler cloud stacks.
+
+This represents an important inflection point in
+
+the enterprise embrace of the cloud, and will drive
+
+significant spending on migrating workloads to public
+
+clouds in the coming years.
+
+Moving workloads to the cloud is just the start
+
+of their digital transformation journeys. The rich
+
+native capabilities of these stacks, particularly in the
+
+areas of analytics, machine learning and artificial
+
+intelligence open up a vast array of possibilities
+
+for enterprises to pursue new business models,
+
+address new customer segments, and provide highly
+
+personalized, differentiated experiences across the
+
+entire customer journey.
+
+Your company is very well positioned to benefit
+
+from this multi-year technology upgradation cycle,
+
+and help customers translate their transformative
+
+visions into reality. To better articulate its mission and
+
+its aspirations, your company adopted a new brand
+
+statement this year, `Building on Belief’. I think it
+
+describes what TCS does very accurately, and also
+
+reflects the ethos of the Tata Group and its evolution
+
+over the last century and a half.
+
+Your company has been guided by a set of strong
+
+beliefs, right from the time it was founded. Belief in
+
+our core values, belief in putting the customer above
+
+all, belief in investing in people and empowering
+
+them, belief in constantly trying out new ideas
+
+and models, and belief in doing right by all the
+
+stakeholder communities we work with. This is why
+
+the new brand statement resonates so well, and feels
+
+so right.
+
+Looking ahead, your company sees immense
+
+opportunities for growth, riding the new technology
+
+cycle that has kicked off, powered by the belief
+
+that its differentiated capabilities and collaborative,
+
+solution-centric approach makes it the preferred
+
+transformation partner of its customers. It is building
+
+on that belief, and investing in sharpening the
+
+capabilities needed to expand its footprint in this
+
+large opportunity.
+
+On behalf of the Board of Directors of Tata
+
+Consultancy Services, I want to thank you for your
+
+continued trust, confidence, and support.
+
+Warm regards,
+
+N Chandrasekaran
+
+Chairman
+
+Your company has been guided by
+
+a set of strong beliefs, right from
+
+the time it was founded. Belief in
+
+our core values, belief in putting
+
+the customer above all, belief in
+
+investing in people and empowering
+
+them, belief in constantly trying out
+
+new ideas and models, and belief in
+
+doing right by all the stakeholder
+
+communities we work with.
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter From The CEO | 9
+
+Dear Stakeholder,
+
+It has been a difficult year for everybody. Despite the ferocity with which the
+
+second and third waves of the pandemic are now hitting us, we are in a far better
+
+place as we exit FY 2021 than we were at the start. With a plethora of vaccines
+
+and new therapies that modern science and the pharmaceutical industry have
+
+delivered at unmatched speed, humanity is not as helpless as when the pandemic
+
+first struck. We are a resilient and adaptable species. With discipline, focus and
+
+fortitude, we shall overcome.
+
+Our business performance in the year gone by is also a reflection of that innate
+
+resilience and adaptability. In the early months of the pandemic, when the
+
+worldwide lockdown disrupted economic activity across virtually all sectors, your
+
+company responded with speed and agility, embracing a new operating model,
+
+Secure Borderless Workspaces (SBWS™). Working remotely, our teams helped
+
+customers maintain business continuity during peak disruption, and thereafter,
+
+to accelerate their growth and transformation (G&T). The dedication shown
+
+by TCSers, our agility and our innovation, won us much appreciation from our
+
+customers, and incremental business.
+
+Despite a sharp fall in revenues in the first quarter, progressively strengthening
+
+demand for our services helped us stage a swift recovery during the rest of the
+
+year, helping clock full year revenues of ₹164,177 crore in FY 2021, growing
+
+4.6% over the prior year in reported terms, and degrowing by 0.8% in constant
+
+currency terms.
+
+The uneven impact of the pandemic on the different sectors shows up clearly in
+
+our segmental reporting. Three of our six industry verticals showed growth (in
+
+constant currency) over the prior year. As is to be expected in a pandemic year,: Letter from the CEO
+
+1
+
+Integrated Annual Report 2020-21
+
+1 102-14
+
+Compiled by: Dion Global Solutions Limited
+
+Letter From The CEO | 10
+
+when the world looked to the pharma majors to
+
+save humanity from the scourge of disease, our Life
+
+Sciences and Healthcare business grew 17.1%. The
+
+other two verticals were Banking, Financial Services
+
+and Insurance which grew 2.4%1, and Technology and
+
+Services which grew 0.2%.
+
+Our operating margin continued to be industry-
+
+leading at 25.9%*, an expansion of 1.3%* over the
+
+prior year. Net profit was ₹33,388 crore*, a net
+
+margin of 20.3%*. Our cash conversion continues
+
+to be very strong, with a cash conversion ratio
+
+of 116.2%* and free cash flow of ₹35,663 crore,
+
+growing 21.8% over the prior year.
+
+The Board has recommended a final dividend of ₹15
+
+for the year, bringing the total dividend for the year
+
+to ₹38 per share. In keeping with our shareholder
+
+friendly capital allocation policy, your company has
+
+paid out ₹33,873 crore in dividends and a buyback in
+
+FY 2021, amounting to 95% of the free cash flow.
+
+Strong Business Momentum
+
+Demand was driven by the confluence of two big
+
+trends. First, with consumers preferring contactless,
+
+digital transactions, enterprises were forced to rely
+
+more on their digital channels, and in some cases,
+
+1 Excluding Regional Markets and Others
+
+*Excluding an exceptional item provided towards a contested legal
+
+claim
+
+switch entirely to online-only modes, triggering a lot of
+
+investment in not just front-end transformations and
+
+personalization of the customer experience, but also at
+
+the back end, to simplify and digitize processes, reduce
+
+turnaround times for customer service requests and
+
+enhance the end-to-end customer journey.
+
+Second, the pandemic drove home the downsides
+
+of carrying technology debt, and the need for
+
+greater resilience and agility within enterprises. This
+
+resulted in several core transformation engagements
+
+around building a lean, secure and adaptive digital
+
+core, encompassing operations, digital workplaces,
+
+applications, data, the underlying infrastructure and
+
+cybersecurity.
+
+In terms of technology choices, both these drivers
+
+converged on the hyperscaler cloud stacks, also
+
+known as public clouds. FY 2021 will be remembered
+
+as the year when many enterprises took the leap and
+
+committed to channeling their future technology
+
+investments into one or more of these cloud stacks,
+
+significantly accelerating what had been a measured
+
+movement over the last few years.
+
+This decision triggered many engagements around
+
+cloud migration, application modernization and
+
+data modernization. As a precursor to the core
+
+transformation and cloud migration, many customers
+
+are revisiting their current operations to look
+
+for opportunities for optimization and to free up
+
+resources to support their core transformation.
+
+Some customers embarked on significant operating
+
+model transformations as they sought out strategic
+
+partners with strong capabilities and shared values.
+
+There was also increased activity around traditional
+
+outsourcing.
+
+These trends resulted in a steady and strong flow
+
+of deals of all sizes, across all our industry verticals,
+
+throughout the year. We had two large deal wins,
+
+with Deutsche Bank and with Prudential Financial
+
+Inc respectively, that saw us strengthen our German
+
+presence and establish a strong local presence in
+
+Ireland. The order book signed every quarter was
+
+higher than that in the prior year. We closed the year
+
+with an all-time high quarterly TCV of $9.2 billion.
+
+The full year order book was $31.6 billion, our
+
+highest ever, representing a growth of 17.1% over
+
+the prior year.
+
+We see this technology shift
+
+as the start of a multi-year
+
+technology upgradation cycle in
+
+which the abundance of native
+
+capabilities will constantly expand
+
+the art of the possible, opening
+
+up newer opportunities for
+
+technology-driven differentiation.
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter From The CEO | 11
+
+A Multi-year Technology Cycle
+
+The enterprise embrace of the hyperscaler cloud
+
+has ramifications that go beyond the current year,
+
+extending to the medium and the longer term as
+
+well. This is a decadal technology shift that goes far
+
+beyond just the server and storage aspects of the
+
+IT infrastructure, and represents a crystallization of
+
+technology choices at a much broader level.
+
+This is because all the major hyperscale providers
+
+have been steadily building out their technology
+
+stacks over the last few years, expanding the
+
+offerings to include richer native choices around
+
+databases, data warehouses, applications and
+
+even cutting-edge tools like machine vision,
+
+conversational systems, AI, ML and IoT. Today’s
+
+public cloud is no longer just a very large and
+
+inexpensive third-party data center, but a holistic,
+
+all-encompassing technology ecosystem. Once an
+
+enterprise enters this ecosystem, it is virtually certain
+
+that all of its future innovation and technology
+
+programs will stay within that ecosystem.
+
+So we see this technology shift as the start of a
+
+multi-year technology upgradation cycle in which
+
+the abundance of native capabilities will constantly
+
+expand the art of the possible, opening up newer
+
+opportunities for technology-driven differentiation.
+
+Of course, the technology by itself doesn’t deliver
+
+differentiation. If anything, cloud models are
+
+predicated on standardization and commoditization.
+
+Differentiation takes place when enterprises
+
+invest in bespoke solutions that harness the native
+
+capabilities of the cloud, and are contextualized to
+
+each customer’s unique circumstances, which amplify
+
+their unique strengths, and manage the nuances and
+
+idiosyncrasies to reduce risks. This is exactly what
+
+we have been doing for our customers over the last
+
+few years, leveraging our deep contextual knowledge
+
+of their business and technology landscapes, our
+
+research and innovation, intellectual property and
+
+expertise across digital technologies.
+
+Given the ever-increasing reliance of enterprises
+
+on technology to drive differentiation, and to
+
+power their growth and transformation, we see our
+
+customers’ cloud transformation journeys play out
+
+over three horizons, spread over the next three to
+
+five years and beyond.
+
+The events of FY 2021 have kickstarted the
+
+journey across the first of those horizons for many
+
+enterprises. Migration to the cloud, by itself, is a
+
+material transformation program that will play out
+
+over the next two to three years, depending on the
+
+complexity of the IT landscape. The outcome of
+
+this first phase of transformation will be a resilient,
+
+future-ready digital technology stack that supports
+
+leaner, more agile operations and serves as a scalable
+
+foundation for growth and the subsequent horizons
+
+of transformation.
+
+Enterprises will start realizing the full value of their
+
+cloud investments in the subsequent two horizons.
+
+In the second horizon, we expect to start helping
+
+our customers leverage the rich native capabilities
+
+of these stacks around analytics, AI and ML to build
+
+new systems of customer engagement, new systems
+
+of differentiation and experiment with new business
+
+models.
+
+As more and more enterprises get on to this journey,
+
+the cloud will become the seamless technology fabric
+
+that will bring together enterprises from across
+
+industries to form collaborative ecosystems which
+
+co-innovate around their individual products and
+
+services. It will help launch larger, purpose-driven
+
+offerings, each representing much more value to
+
+Our verticalized, customer-
+
+centric organization structure
+
+has helped us foster domain and
+
+contextual knowledge within
+
+the Industry Solution Units. Our
+
+sustained investments in organic
+
+talent development, in research
+
+and innovation, and in creating
+
+intellectual property have helped
+
+build up solutioning expertise and
+
+boost our innovation credentials.
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter From The CEO | 12
+
+their common customers than the sum of its parts.
+
+We believe this boundaryless innovation has the
+
+power to change industry after industry. Given our
+
+deep domain knowledge across multiple industry
+
+verticals, and our work on innovation at their
+
+intersections, it presents us an opportunity to be the
+
+transformation agents and potential orchestrators of
+
+such ecosystems.
+
+Building on Belief
+
+With many of our customers embarking on multi-
+
+year, enterprise-wide transformation journeys,
+
+we are very well positioned to benefit from this
+
+expanding opportunity. Most importantly, we believe
+
+that this represents a unique opportunity to redefine
+
+how enterprises have traditionally approached
+
+transformations.
+
+We believe that enterprises can build sustainable,
+
+inclusive, and greater futures for their stakeholders
+
+by adopting an organic, inside out transformation
+
+model, rather than outside in, externally driven
+
+standardized change agendas. Our own journey over
+
+the last two decades in one of the most competitive
+
+industries in the world highlights the strengths of
+
+this approach. Our transformation approach values
+
+the collective knowledge between us and the
+
+customer, and combines it with a deep understanding
+
+of technologies and an innovation mindset to build
+
+their aspirations into reality.
+
+This differentiated approach is helping us win several
+
+G&T engagements that represent a promising
+
+beachhead in a market where our participation has
+
+been quite low traditionally.
+
+We are very proud of this early success. Our path
+
+to getting to where we are today, systematically
+
+investing to acquire the necessary capabilities and
+
+customer mindshare, has been very differentiated,
+
+very organic and very TCS. Our verticalized,
+
+customer-centric organization structure has
+
+helped us foster domain and contextual knowledge
+
+within the Industry Solution Units. Our sustained
+
+investments in organic talent development, in
+
+research and innovation, and in creating intellectual
+
+property have helped build up solutioning expertise
+
+and boost our innovation credentials. Moreover, we
+
+have created structures that help stitch together
+
+different capabilities from across TCS to put together
+
+holistic solutions that help our customers achieve
+
+their business objectives.
+
+Our focus and investments will now be on growing
+
+further and gaining more market share in this space.
+
+Towards this, we are investing in deepening our
+
+transformation capabilities. While we stay open to
+
+inorganic acquisitions, our focus and commitment to
+
+organic talent development remains unwavering.
+
+In addition to hiring more management graduates,
+
+we are scaling up our highly successful Contextual
+
+Masters program, that identifies individuals who have
+
+developed deep contextual knowledge on the job
+
+and are using that to create value for our customers.
+
+We have launched newer learning and development
+
+initiatives that will identify high potential candidates
+
+and put them through experiential courses that will
+
+help them become more effective transformation
+
+leaders. We are strengthening our partnerships
+
+with large technology providers as well as startups,
+
+academia and domain specialists towards co-
+
+innovating and collaborating to create new service
+
+offerings.
+
+We also refreshed our brand last
+
+month, and launched a new brand
+
+statement, `Building on Belief’, to
+
+reflect who we are today, and to
+
+support our, and our customers'
+
+aspirations in the G&T space. It
+
+celebrates the power of reinvention
+
+and instils hope into business and
+
+trust in the enterprise.
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter From The CEO | 13
+
+We also refreshed our brand last month, and
+
+launched a new brand statement, `Building on
+
+Belief’, to reflect who we are today, and to support
+
+our, and our customers' aspirations in the G&T space.
+
+It celebrates the power of reinvention and instils
+
+hope into business and trust in the enterprise. Our
+
+belief conveys our optimistic outlook and reflects our
+
+limitless potential to create greater futures.
+
+Purpose, People, Planet
+
+I have spoken earlier2 about how a purpose-driven
+
+approach can infuse greater resilience, adaptability
+
+and innovation within the organization, and drive
+
+greater rootedness in the community. In FY 2021,
+
+alongside a new brand statement, we also articulated
+
+our core purpose: building greater futures through
+
+innovation and collective knowledge.
+
+The first three words capture our forward-looking
+
+worldview very well. We truly believe that everything
+
+we do should result in better outcomes, and
+
+therefore greater futures, for our stakeholders. The
+
+emphasis on innovation and collective knowledge
+
+represents core tenets of the belief system that has
+
+sustained TCS over the last five decades, and shaped
+
+our culture and guided our strategy.
+
+It was this purpose-led approach which helped us
+
+keep our employees safe and well even during the
+
+bleakest phases of this pandemic. The proactive
+
+outreach of our HR, touching over 400,000
+
+employees, the 24/7 medical hotline, online
+
+counseling services, and virtual sessions to foster
+
+physical and emotional wellness brought us all closer
+
+together during the year. We tied up with ambulance
+
+services and hospitals and set up isolation centers
+
+and quarantine accommodation at our facilities to
+
+2: Letter from the CEO, Integrated Annual Report, FY 2019-20
+
+help employees cope with the disease and to ease
+
+the load on stretched local medical infrastructure.
+
+Our emphasis on organic talent development is a
+
+natural outcome of this belief system, to help our
+
+employees realize their potential. TCSers collectively
+
+logged 43 million learning hours in FY 2021, building
+
+expertise in a broad range of digital technologies
+
+that will be critical to our customers’ transformation
+
+needs.
+
+We honored all the job offers we had made pre-
+
+pandemic, and also onboarded all the trainees to
+
+whom we had given offer letters. We had our normal
+
+annual salary increase in October, and promotions
+
+as well. In line with the strong recovery in demand,
+
+we also ramped up our lateral hiring during the
+
+second half of the year and ended the year with a
+
+net addition of 40,185. By onboarding over 60,000
+
+freshers over the last couple of years and training
+
+them on the technologies most in demand, we have
+
+created for ourselves, a secure talent pool to support
+
+the growth ahead.
+
+While this influx of fresh talent is very important for
+
+our growth, even more critical has been our ability to
+
+consistently retain the talent that we have cultivated
+
+and grown in the organization. This year, we set a
+
+new benchmark in talent retention. Our attrition in IT
+
+services was 7.2%, the lowest in the industry globally,
+
+and an all-time low by our own standards.
+
+We are entering FY 2022 with
+
+strong growth momentum and
+
+with much better visibility for
+
+future growth than we did last
+
+year, powered by a strong order
+
+book built up throughout the
+
+year and a robust deal pipeline.
+
+Compiled by: Dion Global Solutions Limited
+
+Letter From The CEO | 14
+
+We continued to work with communities across the
+
+world, pursuing our long-standing commitment to
+
+programs in the areas of health, STEM education,
+
+skills development and the bridging of digital divides.
+
+In addition, we helped in the fightback against the
+
+pandemic. Our researchers used AI to identify
+
+promising new molecules which could potentially
+
+inhibit the spread of the virus. Our data marketplace
+
+solution is powering a critical national initiative to
+
+double India’s COVID testing capacity.
+
+Even more fulfilling is the work we do for our
+
+customers which helps further their mission to save
+
+lives. In the Life Sciences domain, our teams used our
+
+innovative platform to streamline drug development
+
+processes, speed up clinical trials, and help pharma
+
+companies rush new therapies and vaccines to
+
+the market. At a time when the world desperately
+
+needed more ventilators and manufacturers were
+
+struggling to increase production, our team worked
+
+with the engineers at GE Healthcare to automate
+
+the late-point configuration of ventilators. This
+
+reduced the production time per ventilator by 6
+
+minutes, enabling production of an additional 340
+
+ventilators per month, helping ease suffering and
+
+saving lives.
+
+On the environment front, while I am pleased that
+
+our large-scale switch to remote working helped
+
+us cut our absolute carbon footprint by 48.8% over
+
+the prior year, we are working on a longer-term
+
+roadmap to neutralize our carbon footprint and bring
+
+down atmospheric carbon towards helping the world
+
+reach net-zero levels by 2050.
+
+Our Vision 25x25 will be pivotal in this fight for
+
+our planet. Equally important is the leading role
+
+we are playing in helping our customers become
+
+more energy efficient, whether it is by deploying
+
+our Clever Energy solution that uses IoT and AI to
+
+remotely monitor and optimize energy consumption
+
+across distributed facilities, or by helping them switch
+
+from energy-inefficient in-house data centers to
+
+more efficient public clouds.
+
+Looking Ahead
+
+We are entering FY 2022 with strong growth
+
+momentum and with much better visibility for future
+
+growth than we did last year, powered by a strong
+
+order book built up throughout the year and a
+
+robust deal pipeline. In the medium and longer term,
+
+we see strong structural growth drivers triggered
+
+by the multi-year technology refresh cycle that our
+
+customers are embarking on, and their increased
+
+focus on G&T initiatives.
+
+The G&T opportunity is very large, and yet to be
+
+fully scoped. The transformation imperative will
+
+only strengthen over time, and as new technologies
+
+emerge, new combinatorial possibilities will open up,
+
+driving further investments by our customers. So we
+
+believe this market will see tremendous growth in
+
+the coming years.
+
+That puts us in a very advantageous position. In
+
+addition to the large outsourcing opportunity which
+
+we continue to dominate, we are now entering a
+
+large, growing opportunity that significantly expands
+
+our addressable market. It is an exciting growth
+
+journey we are embarking on for the next few years.
+
+We thank you for your trust and look forward to
+
+your continued support on the journey ahead.
+
+Best Regards,
+
+Rajesh Gopinathan
+
+Chief Executive Officer &: Managing
+
+Letter From The CEO | 15
+
+Revenue Trend
+
+CAGR 8.6%
+
+₹ crore
+
+FY 2021
+
+FY 2020
+
+FY 2019
+
+FY 2018
+
+FY 2017
+
+117,966
+
+123,104
+
+146,463
+
+156,949
+
+164,177
+
+Operating Profit Trend
+
+Operating Profit
+
+Operating Margin
+
+₹ crore
+
+FY 2021*
+
+FY 2020
+
+FY 2019
+
+FY 2018
+
+FY 2017
+
+30,324
+
+30,502
+
+37,450
+
+38,580
+
+42,481
+
+25.7%
+
+24.8%
+
+25.6%
+
+24.6%
+
+25.9%
+
+Client Metrics
+
+$50 Mn+ Clients
+
+$100 Mn+ Clients
+
+FY 2021
+
+FY 2020
+
+FY 2019
+
+FY 2018
+
+FY 2017
+
+35
+
+38
+
+44
+
+49
+
+48
+
+84
+
+97
+
+99
+
+105
+
+101
+
+Employee Metrics
+
+Total Headcount
+
+Attrition (IT Services)
+
+FY 2021
+
+FY 2020
+
+FY 2019
+
+FY 2018
+
+FY 2017
+
+10.5%
+
+11.0%
+
+11.3%
+
+12.1%
+
+7.2%
+
+387k
+
+395k
+
+424k
+
+448k
+
+488k
+
+Earnings per share^ (Amount in ₹)
+
+CAGR 7.7%
+
+^Earnings per share is adjusted for bonus issue
+
+FY 2021*
+
+FY 2020
+
+FY 2019
+
+FY 2018
+
+FY 2017
+
+66.71
+
+67.10
+
+83.05
+
+86.19
+
+89.27
+
+OCF# and Cash Conversion
+
+₹ crore
+
+# Operating Cash Flow
+
+OCF
+
+OCF to Net Profit Ratio
+
+FY 2021*
+
+FY 2020
+
+FY 2019
+
+FY 2018
+
+FY 2017
+
+25,223
+
+25,067
+
+28,593
+
+32,369
+
+38,802
+
+95.9%
+
+97.1%
+
+90.9%
+
+100.1%
+
+116.2%
+
+Cash Usage##
+
+Shareholder
+
+Payouts
+
+Acquisitions, etc.
+
+Capex
+
+Invested Funds
+
+0.2%
+
+7.5%
+
+9.7%
+
+82.6%
+
+## Cash usage for the period FY 2017 to FY 2021
+
+Shareholder Payouts
+
+Shareholder Payout ratio (Including special dividend and buyback, including tax)
+
+₹ crore
+
+Dividend
+
+Special Dividend
+
+Buyback, including tax
+
+# Includes proposed final dividend
+
+FY 2021*
+
+FY 2020
+
+FY 2019
+
+FY 2018
+
+FY 2017
+
+19,726
+
+17,840
+
+16,000
+
+16,000
+
+42.0%
+
+106.0%
+
+92.6%
+
+98.6%
+
+101.5%
+
+11,071
+
+11,377
+
+13,148
+
+14,055
+
+14,147 #
+
+* FY 2021 numbers are excluding provision towards legal claim
+
+Integrated Annual Report 2020-21
+
+Performance Highlights1
+
+1 201-1
+
+Performance Highlights | 15
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director, N. Ganapathy
+
+Subramaniam, Chief Operating Officer and
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Chairman, Corporate Social Responsibility Committee
+
+Compiled by: Dion Global Solutions Limited:
+
+letter of even date
+
+which is annexed as Annexure A and Forms an integral
+
+part of this report.
+
+‘Annexure A’
+
+To,
+
+The Members
+
+Tata Consultancy Services Limited
+
+Our report of even date is to be read along with this: letter.
+
+1.
+
+Maintenance of secretarial record is the
+
+responsibility of the management of the
+
+Company. Our responsibility is to express an
+
+opinion on these secretarial records based on
+
+our audit.
+
+2.
+
+We have followed the audit practices and
+
+process as were appropriate to obtain
+
+reasonable assurance about the correctness
+
+of the contents of the secretarial records. The
+
+verification was done on test basis to ensure
+
+that correct facts are reflected in secretarial
+
+records. We believe that the process and
+
+practices, we followed provide a reasonable basis
+
+for our opinion.
+
+3.
+
+We have not verified the correctness and
+
+appropriateness of financial records and Books
+
+of Accounts of the Company.
+
+4.
+
+Wherever required, we have obtained the
+
+Management Representation about the
+
+Compliance of laws, rules and regulations and
+
+happening of events etc.
+
+5.
+
+The Compliance of the provisions of Corporate
+
+and other applicable laws, rules, regulations,
+
+standards is the responsibility of management.
+
+Our examination was limited to the verification
+
+of procedure on test basis.
+
+6.
+
+The Secretarial Audit report is neither an
+
+assurance as to the future viability of the
+
+Company nor of the efficacy or effectiveness
+
+with which the management has conducted the
+
+affairs of the Company.
+
+For Parikh & Associates
+
+Company Secretaries
+
+P. N. Parikh
+
+Partner
+
+FCS No: 327 CP No: 1228
+
+Place: Mumbai
+
+Date: April 12, 2021 UDIN: F000327C000063984
+
+Compiled by: Dion Global Solutions Limited
+
+Managing Director
+
+(CEO and MD).
+
+TCoC2 for non-executive directors, and for Independent Directors,
+
+carries explicit clauses covering avoidance of conflict of interest.
+
+Likewise, it explicitly prohibits any employee – including the: Managing
+
+letter
+
+of the tax laws and regulations in all countries in which it operates.
+
+Compliance is achieved through a robust compliance reporting and
+
+monitoring process, with a strong governance on minimizing the tax
+
+risk. TCS has zero tolerance towards tax evasion, or the facilitation of
+
+tax evasion, by itself or by its employees or vendors. TCS maintains
+
+open and collaborative relationships with governments and tax
+
+authorities worldwide. Where appropriate, TCS seeks advance
+
+clearance from tax authorities on the proposed tax treatment of
+
+transactions, helping pre-empt future disputes.
+
+Succession
+
+planning
+
+TCS’ philosophy of empowering employees, its industry-leading
+
+talent retention, and a decentralized organization structure that
+
+devolves executive decision-making across over 150 business units
+
+have resulted in a large and deep bench of leadership talent that
+
+enables robust succession planning and continuity and consistency in
+
+strategy. Succession planning for the top two leadership positions in
+
+each business unit is reviewed by senior management. Additionally,
+
+heads of business units carry out succession planning for key
+
+functions within their units.
+
+Succession planning at senior management levels is reviewed by the
+
+Board. Business or unit heads are invited to present on specific topics
+
+at Board meetings from time to time, offering an opportunity for the
+
+directors to assess their values, competencies, and capabilities.
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director)
+
+DIN 06365813
+
+Non-Independent,
+
+Executive
+
+7
+
+Yes
+
+-
+
+-
+
+-
+
+-
+
+-
+
+N Ganapathy Subramaniam
+
+(Chief Operating Officer and
+
+Executive Director)
+
+DIN 07006215
+
+Non-Independent,
+
+Executive
+
+7
+
+Yes
+
+1
+
+-
+
+-
+
+-
+
+Tata Elxsi Limited @
+
+O P Bhatt
+
+DIN 00548091
+
+Independent,
+
+Non-Executive
+
+7
+
+Yes
+
+-
+
+4
+
+2
+
+4
+
+1.
+
+Hindustan Unilever Limited #
+
+2.
+
+Tata Steel Limited #
+
+3.
+
+Tata Motors Limited #
+
+4.
+
+Aadhar Housing Finance Limited (Debt Listed) #
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director and
+
+the Executive Directors. Annual increments
+
+are recommended by the Nomination and
+
+Remuneration Committee within the salary
+
+scale approved by the Board and Members
+
+and are effective April 1, each year.
+
+The Board of Directors, on the recommendation
+
+of the Nomination and Remuneration Committee,
+
+decides the commission payable to the Managing
+
+Director and the Executive Directors out of the
+
+profits for the financial year and within the ceilings
+
+prescribed under the Act, based on the Board
+
+evaluation process considering the criteria such as
+
+the performance of the Company as well as that of
+
+the: Managing
+
+Managing Director and Executive Director
+
+(` lakh)
+
+Name of Director
+
+Salary
+
+Benefits,
+
+Perquisites
+
+and Allowances
+
+Commission
+
+ESPS
+
+Rajesh Gopinathan
+
+Chief Executive Officer
+
+and: Managing
+
+Managing Director on the half-yearly financial
+
+performance of the Company including a summary of
+
+the significant events in the six month period ended
+
+September 30, 2020 was sent to every member.
+
+•
+
+The auditors’ report on financial statements of the
+
+Company are unmodified.
+
+•
+
+Internal auditors of the Company make quarterly
+
+presentations to the audit committee on their reports.
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director, on the
+
+compliance declarations received from the members of the
+
+Board and Senior Management.
+
+https://www.tcs.com/tata-code-of-conduct
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director and Executive Directors.
+
+In addition, the Company has adopted a Code
+
+of Conduct for its Non-Executive Directors and
+
+Independent Directors. These Codes are available on
+
+the Company’s website.
+
+I confirm that the Company has in respect of the
+
+year ended March 31, 2021, received from the
+
+Senior Management Team of the Company and the
+
+Members of the Board a declaration of compliance
+
+with the Code of Conduct as applicable to them.
+
+For the purpose of this declaration, Senior
+
+Management Team means the Chief Financial Officer,
+
+Global Head - HR, Global Business Unit Heads,
+
+Global Head - Legal and the Company Secretary as
+
+on March 31, 2021.
+
+Rajesh Gopinathan
+
+Chief Executive Officer and: Managing
+
+Letter – AR FY 2012
+
+Amsterdam, Pittsburgh and Toronto respectively – became operational digitally.
+
+TCS continued to invest in intellectual property and launched several new products within the ignio™ suite, the
+
+TCS BaNCS™ suite and the TCS ADD suite. There were also new service offerings launched, catering to the
+
+TCS Digital Library: An interactive channel that delivers
+
+cutting-edge thought leadership digitally
+
+TCS Rapid Labs: An innovation factory for quick turnaround of
+
+proofs of concepts and MVPs
+
+TCS Academic Research Lab: A collaborative medium to strike
+
+partnerships with academia
+
+TCS Innovation Showcase: A sensory experience of TCS’
+
+ongoing research and innovation stories
+
+TCS COINTM Accelerator: An entrepreneurial forum to bring
+
+together client teams to solve speciﬁc customer problems
+
+TCS Agile Workspace: An environment to produce
+
+working-quality pilots and MVP software in short and fast
+
+increments
+
+TCS Think Space: A space for researchers and analysts to
+
+create new solutions by leveraging digital forces and design
+
+thinking methodology
+
+Toronto (2021)
+
+New York (2020)
+
+Pittsburgh (2021)
+
+London
+
+Paris
+
+In pipeline
+
+Amsterdam (2021)
+
+Tokyo (2019)
+
+Sydney
+
+Largest pace port in
+
+collaboration with the
+
+universities of Toronto
+
+and Waterloo
+
+@ Carnegie
+
+Mellon
+
+University
+
+TCS’ first
+
+European
+
+Pace Port
+
+@ Cornell Tech
+
+TCS’ first
+
+Pace Port
+
+TCS Pace PortTM Network: Integrating Capabilities to Drive Innovation
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Consolidated Balance Sheet
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter of Offer was made to all eligible shareholders.
+
+The Company bought back 5,33,33,333 equity shares out of the shares that
+
+were tendered by eligible shareholders and extinguished the equity shares
+
+on January 6, 2021. Capital redemption reserve was created to the extent of
+
+share capital extinguished (`5 crore). The excess cost of buy-back of
+
+`16,031 crore (including `31 crore towards transaction cost of buy-back)
+
+over par value of shares and corresponding tax on buy-back of `3,726 crore
+
+were offset from retained earnings.
+
+I.
+
+Reconciliation of number of shares
+
+As at March 31, 2021
+
+As at March 31, 2020
+
+Number of
+
+shares
+
+Amount
+
+(` crore)
+
+Number of
+
+shares
+
+Amount
+
+(` crore)
+
+Equity shares
+
+Opening balance
+
+375,23,84,706
+
+375
+
+375,23,84,706
+
+375
+
+Shares extinguished on
+
+buy-back
+
+(5,33,33,333)
+
+(5)
+
+-
+
+-
+
+Closing balance
+
+369,90,51,373
+
+370
+
+375,23,84,706
+
+375
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director.
+
+The Group has identified business segments (‘industry vertical’) as reportable
+
+segments. The business segments comprise: 1) Banking, Financial Services
+
+and Insurance, 2) Manufacturing, 3) Retail and Consumer Business,
+
+4) Communication, Media and Technology and 5) Others such as Energy,
+
+Resources and Utilities, Life Sciences and Healthcare, s-Governance and
+
+Products.
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter of Credit has been made
+
+available to Epic for `3,230 crore (US $440 million) as financial security
+
+in order to stay execution of the judgement pending post-appeal
+
+proceedings and conclusion.
+
+•: Letter of comfort
+
+The Company has given letter of comfort to banks for credit facilities
+
+availed by its subsidiaries. As per the terms of letter of comfort, the
+
+Company undertakes not to divest its ownership interest directly or
+
+indirectly in the subsidiary and provide such managerial, technical and
+
+financial assistance to ensure continued successful operations of the
+
+subsidiary.
+
+The amounts assessed as contingent liability do not include interest that could
+
+be claimed by counter parties.
+
+Compiled by: Dion Global Solutions Limited
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Standalone Balance Sheet
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+d.
+
+Retained earnings
+
+This reserve represents undistributed accumulated earnings of the Company
+
+as on the balance sheet date.
+
+e.
+
+Investment revaluation reserve
+
+This reserve represents the cumulative gains and losses arising on the
+
+revaluation of equity and debt instruments on the balance sheet date
+
+measured at fair value through other comprehensive income. The reserves
+
+accumulated will be reclassified to retained earnings and profit and loss
+
+respectively, when such instruments are disposed.
+
+f.
+
+Cash flow hedging reserve
+
+The cash flow hedging reserve represents the cumulative effective portion
+
+of gains or losses arising on changes in fair value of designated portion of
+
+hedging instruments entered into for cash flow hedges. Such gains or losses
+
+will be reclassified to statement of profit and loss in the period in which the
+
+underlying hedged transaction occurs.
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter of Offer was made to all eligible shareholders.
+
+The Company bought back 5,33,33,333 equity shares out of the shares that
+
+were tendered by eligible shareholders and extinguished the equity shares
+
+on January 6, 2021. Capital redemption reserve was created to the extent of
+
+share capital extinguished (`5 crore). The excess cost of buy-back of
+
+`16,031 crore (including `31 crore towards transaction cost of buy-back)
+
+over par value of shares and corresponding tax on buy-back of `3,726 crore
+
+were offset from retained earnings.
+
+I.
+
+Reconciliation of number of shares
+
+As at March 31, 2021
+
+As at March 31, 2020
+
+Number of
+
+shares
+
+Amount
+
+(` crore)
+
+Number of
+
+shares
+
+Amount
+
+(` crore)
+
+Equity shares
+
+Opening balance
+
+375,23,84,706
+
+375
+
+375,23,84,706
+
+375
+
+Shares extinguished on
+
+buy-back
+
+(5,33,33,333)
+
+(5)
+
+-
+
+-
+
+Closing balance
+
+369,90,51,373
+
+370
+
+375,23,84,706
+
+375
+
+II.
+
+Rights, preferences and restrictions attached to shares
+
+The Company has one class of equity shares having a par value of `1
+
+each. Each shareholder is eligible for one vote per share held and carry
+
+a right to dividend. The dividend proposed by the Board of Directors
+
+is subject to the approval of the shareholders in the ensuing Annual
+
+General Meeting, except in case of interim dividend.
+
+Compiled by: Dion Global Solutions Limited:
+
+Letter of Credit has been made
+
+available to Epic for `3,230 crore (US $440 million) as financial security
+
+in order to stay execution of the judgement pending post-appeal
+
+proceedings and conclusion.
+
+•
+
+Bank guarantees and: letter of comfort
+
+The Company has given letter of comfort to banks for credit facilities
+
+availed by its subsidiaries. As per the terms of letter of comfort, the
+
+Company undertakes not to divest its ownership interest directly or
+
+indirectly in the subsidiary and provide such managerial, technical and
+
+financial assistance to ensure continued successful operations of the
+
+subsidiary.
+
+The Company has provided guarantees to third parties on behalf of its
+
+subsidiaries. The Company does not expect any outflow of resources in
+
+respect of the above.
+
+The amounts assessed as contingent liability do not include interest that could
+
+be claimed by counter parties.
+
+20) The Indian Parliament has approved the Code on Social Security, 2020 which
+
+would impact the contributions by the company towards Provident Fund
+
+and Gratuity. The Ministry of Labour and Employment has released draft
+
+rules for the Code on Social Security, 2020 on November 13, 2020, and has
+
+invited suggestions from stakeholders which are under active consideration
+
+by the Ministry. The Company will assess the impact and its evaluation once
+
+the subject rules are notified and will give appropriate impact in its financial
+
+statements in the period in which, the Code becomes effective and the related
+
+rules to determine the financial impact are published.
+
+Compiled by: Dion Global Solutions Limited
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Amit Somani
+
+Partner
+
+Membership No: 060154
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Bengaluru, April 12, 2021
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+V Ramakrishnan
+
+CFO
+
+Rajendra Moholkar
+
+Company Secretary
+
+Mumbai, April 12, 2021
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director, Chief Operating Officer
+
+and Executive Director,, Chief Financial Officer,
+
+and the Company Secretary. Please refer to the
+
+company’s policy on KMP.
+
+LatAm
+
+Acronym for Latin America
+
+Location
+
+Independent
+
+Agile
+
+A method to orchestrate globally distributed
+
+stakeholders and talent into Agile teams
+
+for improved speed to market in large
+
+transformational programs. It comprises
+
+processes, structure, and the technology
+
+that allows enterprises to overcome location
+
+constraints and embrace Agile methods on a
+
+global scale.
+
+LTM
+
+Last Twelve Months
+
+Machine First™
+
+Delivery Model
+
+A model that integrates analytics, AI and
+
+automation deep within the enterprise to
+
+redefine how humans and machines work
+
+together and to effectively deliver superior
+
+outcomes.
+
+Machine
+
+Learning
+
+A type of artificial intelligence that provides
+
+computers with the ability to learn behaviors
+
+without being explicitly programmed.
+
+Managed
+
+Services
+
+This is the practice of outsourcing to one
+
+service provider, also known as the Managed
+
+Services Provider (MSP), the end-to-end
+
+responsibility for providing, or orchestrating
+
+the provision through third party providers
+
+of, services around a range of processes and
+
+functions, in order to improve efficiency, service
+
+quality, agility and scalability.
+
+Managed
+
+Services
+
+Provider
+
+Service providers with the sole, end-to-end
+
+responsibility of providing Managed Services.
+
+Market
+
+Capitalization
+
+The total market value of a company’s total
+
+outstanding equity shares at a point in time.
+
+Market Cap = Last Trading Price * Total number
+
+of outstanding shares
+
+MEA
+
+Acronym for Middle East and Africa
+
+MFDM™
+
+Acronym for Machine First Delivery Model
+
+Minimum
+
+Viable Product
+
+The most basic version of a new product, with
+
+the bare minimum functionality, which can
+
+be released to the users at the earliest, to
+
+be augmented with incremental features and
+
+functionality over subsequent iterative cycles.
+
+MVPs can be used by teams to learn about user
+
+behavior and validate the product value with
+
+minimum investment.
+
+Mobility
+
+Information, convenience, and social media all
+
+combined together, and made available across a
+
+variety of screen sizes and hand-held devices.
+
+MSP
+
+See Managed Services Provider
+
+MVP
+
+See Minimum Viable Product
+
+Non-
+
+Controlling
+
+Interest
+
+The share of the net worth attributable to non-
+
+controlling shareholders of the subsidiaries.
+
+Non-
+
+discretionary
+
+Spend
+
+Also known as Run the Business (RTB) spend,
+
+is that portion of the IT budget that covers the
+
+basic IT activities required to keep a business
+
+running. Even in tough economic times,
+
+non-discretionary spend remains relatively
+
+unaffected.
+
+Compiled by: Dion Global Solutions Limited:
+
+letter. The Board was not involved in seeking this
+
+assurance.
+
+Contact2
+
+Corporate Headquarters: TCS House, Raveline
+
+Street, Fort, Mumbai 400 001, Maharashtra, India.
+
+Website: www.tcs.com
+
+2 102-3, 102-53
+
+Compiled by: Dion Global Solutions Limited:
+

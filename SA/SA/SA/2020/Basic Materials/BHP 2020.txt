@@ -1,0 +1,1104 @@
+letter
+
+110
+
+2.2 Board of Directors and Executive Leadership Team
+
+112
+
+2.3 Role and responsibilities of the Board
+
+118
+
+2.4 Board meetings and attendance
+
+119
+
+2.5 Key Board activities during FY2020
+
+120
+
+2.6 Stakeholder engagement
+
+122
+
+2.7
+
+Director skills, experience and attributes
+
+124
+
+2.8 Board evaluation
+
+127
+
+2.9 Nomination and Governance Committee Report
+
+128
+
+2.10 Risk and Audit Committee Report
+
+130
+
+2.11 Sustainability Committee Report
+
+135
+
+2.12 Remuneration Committee Report
+
+136
+
+2.13 Risk management governance structure
+
+137
+
+2.14 Management
+
+137
+
+2.15 Our conduct
+
+138
+
+2.16 Market disclosure
+
+138
+
+2.17 Conformance with corporate governance standards
+
+138
+
+2.18 Additional UK disclosure
+
+139
+
+3
+
+Remuneration Report
+
+3.1
+
+Annual statement by the Remuneration Committee Chair
+
+142
+
+3.2 Remuneration policy report
+
+144
+
+3.3 Annual report on remuneration
+
+150
+
+4 Directors’ Report
+
+4.1
+
+Review of operations, principal activities and state of affairs 166
+
+4.2 Share capital and buy-back programs
+
+167
+
+4.3 Results, financial instruments and going concern
+
+167
+
+4.4 Directors
+
+167
+
+4.5 Remuneration and share interests
+
+168
+
+4.6 Secretaries
+
+168
+
+4.7
+
+Indemnities and insurance
+
+168
+
+4.8 Employee policies
+
+169
+
+4.9 Corporate governance
+
+169
+
+4.10 Dividends
+
+169
+
+4.11 Auditors
+
+169
+
+4.12 Non-audit services
+
+169
+
+4.13 Political donations
+
+170
+
+4.14 Exploration, research and development
+
+170
+
+4.15 ASIC Instrument 2016/191
+
+170
+
+4.16 Proceedings on behalf of BHP Group Limited
+
+170
+
+4.17 Performance in relation to environmental regulation
+
+170
+
+4.18 Share capital, restrictions on transfer of shares and other
+
+additional information
+
+170
+
+5
+
+Financial Statements
+
+5.1
+
+Consolidated Financial Statements
+
+172
+
+5.2 BHP Group Plc
+
+230
+
+5.3 Directors’ declaration
+
+242
+
+5.4 Statement of Directors’ responsibilities in respect
+
+of the Annual Report and the Financial Statements
+
+243
+
+5.5 Lead Auditor’s Independence Declaration under
+
+Section 307C of the Australian Corporations Act 2001
+
+244
+
+5.6 Independent Auditors’ reports
+
+245
+
+5.7
+
+Supplementary oil and gas information – unaudited
+
+254
+
+6 Additional information
+
+6.1
+
+Alternative Performance Measures
+
+260
+
+6.2 Information on mining operations
+
+269
+
+6.3
+
+Production
+
+277
+
+6.4
+
+Resources and Reserves
+
+280
+
+6.5 Major projects
+
+304
+
+6.6 Sustainability – performance data
+
+305
+
+6.7
+
+Legal proceedings
+
+330
+
+6.8 Glossary
+
+333
+
+7
+
+Shareholder information
+
+7.1
+
+History and development
+
+342
+
+7.2
+
+Markets
+
+342
+
+7.3
+
+Organisational structure
+
+342
+
+7.4
+
+Material contracts
+
+343
+
+7.5
+
+Constitution
+
+343
+
+7.6
+
+Share ownership
+
+347
+
+7.7
+
+Dividends
+
+349
+
+7.8
+
+American Depositary Receipts fees and charges
+
+350
+
+7.9
+
+Government regulations
+
+350
+
+7.10 Ancillary information for our shareholders
+
+352
+
+Contents
+
+Forward looking statements
+
+This Annual Report contains forward looking statements, including:
+
+statements regarding trends in commodity prices and currency exchange
+
+rates; demand for commodities; production forecasts; plans, strategies and
+
+objectives of management; closure or divestment of certain assets,
+
+operations or facilities (including associated costs); anticipated production
+
+or construction commencement dates; capital costs and scheduling;
+
+operating costs and supply of materials and skilled employees; anticipated
+
+productive lives of projects, mines and facilities; provisions and contingent
+
+liabilities; and tax and regulatory developments.
+
+Forward looking statements may be identified by the use of terminology
+
+including, but not limited to, ‘intend’, ‘aim’, ‘project’, ‘see’, ‘anticipate’,
+
+‘estimate’, ‘plan’, ‘objective’, ‘believe’, ‘expect’, ‘may’, ‘should’, ‘will’, ‘would’,
+
+‘continue’ or similar words. These statements discuss future expectations
+
+concerning the results of assets or financial conditions, or provide other
+
+forward looking information.
+
+These forward looking statements are based on the information available as
+
+at the date of this Annual Report and are not guarantees or predictions of
+
+future performance and involve known and unknown risks, uncertainties and
+
+other factors, many of which are beyond our control and which may cause
+
+actual results to differ materially from those expressed in the statements
+
+contained in this Annual Report. BHP cautions against reliance on any
+
+forward looking statements or guidance, particularly in light of the current
+
+economic climate and the significant volatility, uncertainty and disruption
+
+arising in connection with COVID-19.
+
+For example, our future revenues from our assets, projects or mines
+
+described in this Annual Report will be based, in part, on the market price
+
+of the minerals, metals or petroleum produced, which may vary significantly
+
+from current levels. These variations, if materially adverse, may affect the
+
+timing or the feasibility of the development of a particular project, the
+
+expansion of certain facilities or mines, or the continuation of existing assets.
+
+Other factors that may affect the actual construction or production
+
+commencement dates, costs or production output and anticipated lives
+
+of assets, mines or facilities include: our ability to profitably produce and
+
+transport the minerals, petroleum and/or metals extracted to applicable
+
+markets; the impact of foreign currency exchange rates on the market prices
+
+of the minerals, petroleum or metals we produce; activities of government
+
+authorities in the countries where we sell our products and in the countries
+
+where we are exploring or developing projects, facilities or mines, including
+
+increases in taxes; changes in environmental and other regulations; the
+
+duration and severity of the COVID-19 pandemic and its impact on our
+
+business; political uncertainty; labour unrest; and other factors identified
+
+in the risk factors set out in section 1.5.4.
+
+Except as required by applicable regulations or by law, BHP does not
+
+undertake to publicly update or review any forward looking statements,
+
+whether as a result of new information or future events.
+
+Past performance cannot be relied on as a guide to future performance.
+
+Sale of Onshore US
+
+On 28 September 2018, BHP completed the sale of 100 per cent of the issued
+
+share capital of BHP Billiton Petroleum (Arkansas) Inc. and 100 per cent of the
+
+membership interests in BHP Billiton Petroleum (Fayetteville) LLC, which held
+
+the Fayetteville assets, for a gross cash consideration of US$0.3 billion.
+
+On 31 October 2018, BHP completed the sale of 100 per cent of the issued
+
+share capital of Petrohawk Energy Corporation, the BHP subsidiary that held
+
+the Eagle Ford (being Black Hawk and Hawkville), Haynesville and Permian
+
+assets, for a gross cash consideration of US$10.3 billion (net of preliminary
+
+customary completion adjustments of US$0.2 billion).
+
+While the effective date at which the right to economic profits transferred
+
+to the purchasers was 1 July 2018, the Group continued to control the
+
+Onshore US assets until the completion dates of their respective transactions.
+
+In addition, the Group provided transitional services to the buyer, which
+
+ceased in July 2019.
+
+For IFRS accounting purposes, Onshore US is treated as Discontinued
+
+operations in BHP’s Financial Statements. Unless otherwise stated,
+
+information in section 5 has been presented on a Continuing operations
+
+basis to exclude the contribution from Onshore US assets. Details of the
+
+contribution of Onshore US assets to the Group’s results are disclosed in
+
+note 28 ‘Discontinued operations’ in section 5. All other information in this
+
+Annual Report (other than FY2019 safety performance data) relating to the
+
+Group has been presented on a Continuing and Discontinued operations basis
+
+to include the contribution from Onshore US assets prior to completion of their
+
+sale, unless otherwise stated. FY2019 safety performance data in this Annual
+
+Report has been presented on a Continuing and Discontinued operations basis
+
+to include the contribution from Onshore US assets to 28 February 2019.
+
+Unless otherwise stated, comparative financial information for FY2017 and
+
+FY2016 has been restated to reflect the sale of the Onshore US assets, as
+
+required by IFRS 5/AASB 5 ‘Non-current Assets Held for Sale and Discontinued
+
+Operations’. Consolidated Balance Sheet information for these periods has
+
+not been restated as accounting standards do not require it.
+
+BHP Annual Report 2020 1:
+
+letter of credit’ so
+
+they can choose to buy a property elsewhere.
+
+In addition to these three community resettlements, 14 families
+
+from the rural area chose to rebuild their houses on their previous
+
+property, and of these, eight houses have been rebuilt and
+
+delivered to the families.
+
+A total of 126 families have chosen not to join the collective
+
+resettlement of their previous community. Fundação Renova is
+
+assisting them and 46 properties have been purchased for these
+
+families (as of June 2020).
+
+Financial assistance and compensation
+
+Fundação Renova had paid R$2.5 billion in indemnification
+
+and financial aid up to June 2020.
+
+Fundação Renova has distributed about 14,750 financial assistance
+
+cards to those whose livelihoods were impacted by the dam failure,
+
+including registered and informal commercial fisherfolk who had
+
+their activities affected due to the imposition of fishing restrictions
+
+in the Rio Doce in Minas Gerais and ban along the coast of Espírito
+
+Santo. The monthly payments are designed to provide support to
+
+affected people and their families pending the re-establishment of
+
+conditions that enable them to resume their economic activities.
+
+Fundação Renova is also undertaking a substantial mediated
+
+compensation program to fairly compensate all individuals
+
+impacted by the dam failure. It comprises two key components:
+
+• More than 270,000 people participated in the water damages
+
+program to compensate for temporary water interruption and
+
+were paid a total of approximately R$280 million.
+
+• The general damages component covers all other impacts,
+
+including loss of life, injury, property, business impacts, loss
+
+of income and moral damages. More than 10,000 families have
+
+been paid a total of approximately R$910 million.
+
+Compensation represents approximately 32 per cent of Fundação
+
+Renova’s R$4.7 billion CY2020 budget.
+
+Of the 19 fatalities, 16 families have been fully indemnified and one
+
+partially. The remaining two families are still in legal negotiations.
+
+Other socio-economic programs
+
+Fundação Renova continues to implement a wide range of
+
+socio-economic programs in areas such as health and social
+
+protection, education, small business development, economic
+
+diversification, Indigenous peoples and traditional communities
+
+(i.e. sand-gold miners):
+
+• Fundação Renova is working on two fronts in the area of health:
+
+(i) conducting a human health risk assessment to quantify
+
+potential risk associated with the environmental impact of the
+
+Fundão dam failure prior to conducting the epidemiological and
+
+toxicological studies, as recommended by the Health Technical
+
+Chamber and Sub-Secretariat of Health Surveillance and Security
+
+and (ii) supporting the public management of municipalities by
+
+strengthening existing municipal structures in clinical care and
+
+social protection.
+
+• Fundação Renova seeks to foster the local economy on
+
+the following fronts:
+
+• encouraging local employment opportunities in its own
+
+workforce and through its contractors
+
+• promoting the economic diversification of municipalities,
+
+especially those that rely on mining
+
+• encouraging mechanisms to stimulate economic development
+
+• restoring productive capacity to micro and small companies
+
+• Actions to protect and restore the quality of life of Indigenous
+
+peoples and traditional communities aim to repair and
+
+compensate for the social, cultural, environmental and
+
+economic impacts.
+
+• Fundação Renova has listening, dialogue and social participation
+
+as guiding practices for its actions with the affected
+
+communities. More than 110,000 people have attended
+
+collective meetings.
+
+• Additional compensatory actions are underway to construct new
+
+water and sewage treatment facilities and improve existing ones
+
+that were impacted by Fundão failure. Rio Doce was an industrial
+
+river before November 2015, with inadequate and inefficient
+
+water and sewage treatment. Raw sewage was, and continues
+
+to be, discharged directly into the river.
+
+Environmental remediation
+
+Fundação Renova successfully concluded works to stabilise the
+
+impacted land areas by June 2019. The riverbanks and floodplains
+
+were vegetated, river margins stabilised and, in general, water and
+
+sediment qualities returned to historic conditions. Long-term
+
+remediation work is continuing with landowners and regulators
+
+to re-establish agricultural production and riparian margins with
+
+native vegetation.
+
+The tailings have low concentrations of trace metals; however, the
+
+background concentrations of some elements are elevated in the
+
+area due to natural conditions or previous human activity. BHP has
+
+continued working with Fundação Renova to make sure robust data
+
+is collected, the assessment methodologies are consistent with
+
+Brazilian and international standards, and clear causes for any
+
+potential health impacts are identified so that health authorities
+
+have accurate information to support their decision-making.
+
+Results from water and sediment quality, aquatic habitat and fish
+
+surveys demonstrate that the river ecology downstream of the
+
+Candonga reservoir and along the coast has recovered from any
+
+tailings-related impacts. Upstream of the Candonga reservoir,
+
+sediment volumes in the river channel have slowed the recovery
+
+of habitats and aquatic fauna diversity and abundance compared
+
+to downstream of the reservoir. However Fundação Renova’s work
+
+is intended to support natural system dynamics of the river to
+
+enhance the recovery of habitats and aquatic ecology.
+
+In December 2019, Fundação Renova successfully and safely
+
+removed the Linhares barrier in the Pequeno River, allowing the
+
+free flow of water between the river and the Juparanã lake.
+
+1.8 Samarco continued
+
+76 BHP Annual Report 2020:
+
+letter
+
+2.2
+
+Board of Directors and Executive Leadership Team
+
+2.2.1
+
+Board of Directors
+
+2.2.2 Executive Leadership Team
+
+2.3
+
+Role and responsibilities of the Board
+
+2.4
+
+Board meetings and attendance
+
+2.5
+
+Key Board activities during FY2020
+
+2.6
+
+Stakeholder engagement
+
+2.6.1
+
+Shareholder engagement
+
+2.6.2 Workforce engagement
+
+2.7
+
+Director skills, experience and attributes
+
+2.8
+
+Board evaluation
+
+2.9
+
+Nomination and Governance Committee Report
+
+2.10 Risk and Audit Committee Report
+
+2.11
+
+Sustainability Committee Report
+
+2.12 Remuneration Committee Report
+
+2.13 Risk management governance structure
+
+2.14 Management
+
+2.15 Our conduct
+
+2.16 Market disclosure
+
+2.17 Conformance with corporate governance standards
+
+2.18 Additional UK disclosure
+
+Section 2
+
+Governance
+
+at BHP
+
+BHP Annual Report 2020 109:
+
+letter
+
+‘In this unprecedented year, through our
+
+people’s steadfast commitment to keeping
+
+our operations running safely, we have
+
+continued to contribute to local economies
+
+through the jobs we create and the taxes
+
+and royalties we pay.’
+
+Ken MacKenzie
+
+Chair
+
+110 BHP Annual Report 2020:
+
+Managing Director and Chief
+
+Executive Officer of Amcor Limited, a global
+
+packaging company with operations in over
+
+40 countries, from 2005 until 2015. During
+
+his 23-year career with Amcor, Ken gained
+
+extensive experience across all of Amcor’s
+
+major business segments in developed and
+
+emerging markets in the Americas, Australia,
+
+Asia and Europe.
+
+Other directorships and offices
+
+(current and recent):
+
+• Advisory Board member of American
+
+Securities Capital Partners LLC
+
+(since January 2016)
+
+• Former: Managing
+
+Managing Director and Chief
+
+Executive Officer of Orica Limited (a global
+
+mining services and chemicals company) from
+
+2001 until September 2005. Prior to joining
+
+Orica, he held a number of senior positions at
+
+North Limited, including: Managing
+
+Managing Director
+
+and an Operating Partner of First Reserve,
+
+a large global energy focused private equity
+
+firm, from 2009 until 2015, during which
+
+he served on the boards of First Reserve’s
+
+investee companies, including as Chair
+
+of Amromco Energy LLC and White Rose
+
+Energy Ventures LLP. John retired from the
+
+boards of Weir Group Plc and one of First
+
+Reserve’s portfolio companies, DOF Subsea
+
+AS, in 2018, and is currently a non-executive
+
+director of ERM Worldwide Group Limited.
+
+Other directorships and offices
+
+(current and recent):
+
+• Non-executive Director of ERM Worldwide
+
+Group Limited (since 2015)
+
+• Former Non-executive Director of Network
+
+Rail Limited (from 2016 to 2017)
+
+• Former: Managing
+
+Letter of appointment
+
+The Board has adopted a: letter of appointment that contains the terms on which Non-executive
+
+Dear Shareholders,
+
+I am pleased to introduce BHP’s Remuneration Report for the
+
+financial year to 30 June 2020, which is my first since assuming
+
+the Remuneration Committee Chair role, and I am looking forward
+
+to engaging with shareholders as the Committee undertakes its work.
+
+During FY2020, the Committee has continued its focus on achieving
+
+remuneration outcomes that fairly reflect the performance of BHP,
+
+and which are aligned to the interests of shareholders and other
+
+key stakeholders.
+
+FY2020 has been an unprecedented year, with the COVID-19
+
+pandemic having widespread impacts on lives, society and the
+
+global economy. In the face of this, BHP employees have rallied in
+
+line with the Group’s purpose and values, working very effectively
+
+to keep the business running and performing strongly, and keeping
+
+each other safe.
+
+I would like to thank my predecessor as Remuneration Committee
+
+Chair, Carolyn Hewson, for her leadership and for establishing a
+
+Committee with a strong foundation of policies, principles and
+
+practices upon which our decisions are able to be made. This is
+
+especially so in the unpredictable times in which we find ourselves.
+
+We have also made other changes to the Committee this year. New
+
+Directors Gary Goldberg and Dion Weisler have joined Anita Frew
+
+and Shriti Vadera on the Committee and I would like to thank all
+
+members for their contributions.
+
+Remuneration policy
+
+The Committee sought and received approval from shareholders
+
+at last year’s AGMs for a revised remuneration policy, with almost
+
+94 per cent of votes in favour, and we believe the policy will serve
+
+stakeholders well. The key changes approved for the CEO were:
+
+• A change in the balance of incentive arrangements comprising:
+
+– a significantly reduced LTIP grant size of 200 per cent of base
+
+salary (on a face value basis), down from 400 per cent
+
+– a CDP with a longer term focus than the former STIP. The CDP
+
+outcome is delivered one-third as a cash award, with two-thirds
+
+delivered in equity, as two-year and five-year deferred share
+
+awards each of equivalent value to the cash award. This aligns
+
+participants’ incentive remuneration with performance over
+
+the short, medium and long-term
+
+These two changes in combination did not materially alter the
+
+target value or vesting profile of incentive remuneration, but
+
+resulted in a 12 per cent reduction in the maximum possible
+
+remuneration for a year.
+
+• A significant reduction in the pension contribution rate to
+
+10 per cent of base salary, down from 25 per cent (noting that
+
+the estimated workforce average is approximately 11.5 per cent
+
+of base salary). As a result of this change, fixed remuneration for
+
+the CEO role has been reduced by 12 per cent and overall target
+
+remuneration reduced by 4 per cent.
+
+• The introduction of a two-year post-retirement
+
+shareholding requirement.
+
+While these changes took effect from 1 July 2019, existing short-
+
+and long-term equity awards made under prior policies remain
+
+on foot and will vest, subject to existing service and performance
+
+conditions, over coming years.
+
+We were also pleased to again receive strong support for our
+
+overall Remuneration Report from shareholders at the 2019
+
+AGMs, with approximately 96 per cent voting ‘for’ the report.
+
+This continues our strong shareholder support over the past five
+
+years, where on average almost 97 per cent have voted in favour.
+
+The Committee strives to implement the remuneration policy
+
+in a considered way:
+
+• We test the CEO’s remuneration against CEO roles in other global
+
+companies of similar complexity, size, reach and industry. The
+
+remuneration also reflects the CEO’s responsibilities, location,
+
+skills, performance, qualifications and experience. This detailed
+
+benchmarking ensures BHP’s executive remuneration packages
+
+are competitive enough to attract and retain talented executives,
+
+without being excessive. External benchmarking shows the CEO’s
+
+target remuneration package is below the average for similar
+
+global companies and importantly, can only be realised as actual
+
+remuneration if performance targets are met.
+
+• The CEO’s remuneration is deliberately tied to the performance
+
+of the business, with the majority of remuneration delivered in
+
+BHP shares, not cash. The CEO also has a minimum shareholding
+
+requirement of five times pre-tax base salary, which continues for
+
+two years post-retirement. This aligns the CEO to the experience
+
+of BHP’s shareholders.
+
+• The exercise of reasonable downward discretion has been
+
+a feature of BHP’s approach over many years where the status
+
+quo or a formulaic outcome does not align with the overall
+
+shareholder experience, and this remains unchanged.
+
+The Committee is focussed on having and applying a remuneration
+
+policy and approach that supports the Group’s strategy and enables
+
+us to attract, retain and motivate the executives critical to delivering
+
+the best outcomes for all of BHP’s stakeholders. In addition, the
+
+Committee is cognisant of the need to navigate the priorities
+
+of differing jurisdictions.
+
+COVID-19
+
+In early 2020, BHP began to experience the impacts of the
+
+COVID-19 pandemic. All BHP employees have come together as
+
+one team to deal with the issues faced and despite the challenges,
+
+BHP’s results have been strong. The CEO and other ELT members
+
+have provided strong and effective leadership through this period,
+
+and the Committee is proud of the way BHP’s employees have
+
+found new ways of working, collaborated to solve problems,
+
+supported each other and their communities, and aligned
+
+around a common goal.
+
+Despite the challenges the COVID-19 pandemic has presented,
+
+in FY2020 BHP has not needed to furlough any employees
+
+without pay, has not sought any government assistance, and
+
+did not raise additional equity. In addition, BHP’s strong, safe
+
+operational performance through this year, together with solid
+
+profitability, enabled the Board to announce a robust final dividend
+
+payable to shareholders in September 2020. This follows a
+
+record interim dividend paid to shareholders in March 2020,
+
+and continues the delivery of strong and consistent returns
+
+to shareholders. The COVID-19 pandemic increased costs and
+
+reduced volumes during FY2020, which negatively impacted
+
+executive remuneration outcomes.
+
+The Committee believes the remuneration
+
+outcomes for FY2020 reflect an appropriate
+
+alignment between pay and performance
+
+during the year and are also fair in terms
+
+of the global context in which decisions
+
+have been made.
+
+Susan Kilsby
+
+Chair, Remuneration Committee
+
+3.1 Annual statement by the Remuneration Committee Chair
+
+142 BHP Annual Report 2020:
+
+letter of appointment for Non-executive Directors is available at bhp.com. The Board has adopted a policy consistent with
+
+the UK Corporate Governance Code, under which all Non-executive Directors must seek re-election by shareholders annually if they wish
+
+to remain on the Board. As such, no Non-executive Directors seeking re-election have an unexpired term in their: letter of appointment.
+
+A Non-executive
+

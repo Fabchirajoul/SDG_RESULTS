@@ -1,0 +1,3220 @@
+Letter from the Chairman....................................................: Letter to Shareholders.........................................................
+
+Letter from the CEO.............................................................
+
+The Year Gone by.................................................................
+
+183
+
+190
+
+191
+
+192
+
+194
+
+196
+
+251
+
+260
+
+261
+
+262
+
+264
+
+266
+
+316
+
+330
+
+333
+
+339
+
+321
+
+15
+
+16
+
+18
+
+20
+
+22
+
+24
+
+02
+
+04
+
+05
+
+06
+
+08
+
+11
+
+12
+
+35
+
+72
+
+86
+
+109
+
+113
+
+136
+
+145
+
+Statutory Section
+
+Notice……………………………………….........................................
+
+Managing Director
+
+N G Subramaniam
+
+Chief Operating Officer
+
+and Executive Director
+
+Samir Seksaria
+
+Chief Financial Officer
+
+Milind Lakkad
+
+Chief Human Resources Officer
+
+Rajashree R
+
+Chief Marketing Officer
+
+K Ananth Krishnan
+
+Chief Technology Officer
+
+Madhav Anchan
+
+General Counsel Legal
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Business Heads
+
+Management Team | 5:
+
+Letter from the
+
+Chairman
+
+The global environment is going through
+
+considerable changes. At the same time,
+
+the world is navigating several important
+
+transitions: the Energy transition, the Supply
+
+Chain transition and the AI transition.
+
+Undoubtedly, these transitions will require
+
+significant investments in technology and
+
+innovation, and offer a huge growth
+
+opportunity for the IT industry.: Letter from the
+
+Letter from the Chairman | 7:
+
+Letter to
+
+Shareholders1
+
+Dear Stakeholder,
+
+Demand for our services showed remarkable resilience
+
+even as other parts of the technology universe deflated,
+
+and macroeconomic uncertainties worsened in our major
+
+markets throughout FY 2023. Our revenue for the year
+
+was ₹225,458 crore, a growth of 17.6% over the prior year
+
+(13.7% in constant currency).
+
+This growth came with an industry leading operating margin of
+
+24.1%. Our Net Margin was at 18.7%. The Earnings Per Share
+
+was at ₹115.19, a growth of 11.2% over the prior year.
+
+From an industry vertical perspective, growth in FY 2023
+
+was led by Retail and Consumer Business, which grew
+
+22.1%, Life Sciences and Healthcare which grew 20.2% and
+
+Communications, Media and Technology which grew 18.1%.
+
+Banking, Financial Services and Insurance grew 14.6% while
+
+Manufacturing grew 14.1%. Others, which make up 8.2% of
+
+revenues, grew 22.5%.
+
+By geographic markets, North America grew 24.2%, UK grew
+
+11.4% and Continental Europe grew 9.2%. Among emerging
+
+markets, Latin America grew 24.8%, India grew 14.9%, Middle
+
+East & Africa grew 12.5% while Asia Pacific grew 7.1%.
+
+The Board has recommended a final dividend of ₹24 per
+
+share, bringing the total dividend for the year to ₹115 per
+
+share. For the full year, the company’s shareholder payout was
+
+₹42,079 crore, 108.2% of the free cash flow during the year.
+
+Innovate, Adapt, Thrive
+
+Our performance this year reflects how much of an enterprise
+
+staple IT services have become. Our full services capability
+
+enables us to help our clients thrive, in good times and bad.
+
+During the up-cycle, we help clients accelerate and expand
+
+their technology-led innovation to differentiate themselves and
+
+drive growth. On the down cycle, we help them adapt, using
+
+technology to drive the efficiency, agility and resilience needed
+
+to cope with a faltering economy, and prepare for better times
+
+ahead.
+
+Cloud transformation remained a high priority area for
+
+enterprises in FY 2023, with greater focus on execution. They
+
+engaged us to take up the modernization and migration of
+
+their bigger, more complex workloads. The breadth and depth
+
+of our cloud expertise, our scale, deep domain knowledge,
+
+strong partnership credentials with the hyperscalers and our
+
+portfolio of intellectual property on the cloud, give us a distinct
+
+competitive edge in this phase of the cloud adoption cycle.
+
+We also helped clients cope with the challenge of managing
+
+cloud expenses. In some cases, it required rearchitecting
+
+their application stack to be more cloud native, capable of
+
+dynamically ramping up resource consumption during periods
+
+of high demand, and automatic ramping down at other times.
+
+Elsewhere, we offered our FinOps advisory and cloud managed
+
+services to rein in cloud costs.
+
+The adoption of cloud technologies continues to drive
+
+innovation within enterprises. The availability of compute, data
+
+1 GRI 2-22: Letter to Shareholders | 8
+
+Letter to Shareholders | 9:
+
+Managing Director
+
+(For FY 2022-23)
+
+Caring for Communities
+
+We continued to work with communities across the world,
+
+pursuing our long-standing commitment to programs in the
+
+areas of skills development, bridging of digital divides and
+
+STEM education. In FY 2023, we estimate that our community
+
+initiatives touched the lives of over 4.5 million beneficiaries –
+
+women, youth and members of marginalized communities.
+
+Our large programs in India around literacy, digital
+
+entrepreneurship and youth skilling continued to gain scale.
+
+Likewise, our STEM initiatives outside India. goIT is shaping
+
+the next generation of digital innovators in 42 countries, while
+
+Ignite my Future in School program has doubled its original
+
+goal, serving over 2 million students and educators in five
+
+geographies worldwide since inception in 2017.
+
+Our employee volunteer program called HOPE (Hours of Purpose
+
+by Employees) resulted in over 2.8 million hours of volunteering
+
+effort towards promoting issues most relevant in their local
+
+communities, such as mental health, climate action, circularity,
+
+education, skilling, mentoring, and conservation.
+
+On the environmental front, we continue to make good progress
+
+in our net zero journey. We have brought down our absolute
+
+carbon footprint across Scope 1 and Scope 2 emissions by 71%
+
+over base year 2016, meeting our target two years ahead of
+
+time. This was despite increased electricity consumption in FY
+
+2023 from employees’ return to office. In addition to enterprise-
+
+wide initiatives for energy efficiency, we have also significantly
+
+increased our use of renewable energy. Renewable energy
+
+sources today make up 55% of the total (7.25% in 2016).
+
+In FY 2023, we focused on utilizing the spare capacity built up in
+
+the prior year, and recalibrated our hiring especially as attrition
+
+started falling in the second half of the year. Our LTM attrition in
+
+IT services for the year was 20.1%. Net addition in FY 2023 was
+
+22,600, and the closing headcount was 614,795. Our workforce
+
+continued to be very diverse, with over 150 nationalities
+
+represented and with women making up 35.7% of the employee
+
+base.
+
+Our investments in organic talent development continue to
+
+deliver exceptional outcomes. In FY 2023, TCSers logged
+
+48.3 million learning hours, and acquired nearly 6 million
+
+competencies. Popular technologies witnessed unprecedented
+
+levels of interest from our employees. During the year, 53,000
+
+TCSers acquired certification on hyperscaler cloud skills, bringing
+
+the total number to over 110,000, making TCS one of the Top 2
+
+partners to the largest cloud providers.: Letter to Shareholders | 10
+
+Letter from the
+
+CEO
+
+I am truly humbled by this opportunity to lead this remarkable
+
+organization that I have been part of for 34 years. The culture,
+
+values and ethos of TCS and the Tata group have been an
+
+inspiration always. Your company has a very strong leadership
+
+team and a workforce that is highly motivated. It is my privilege
+
+to lead this talented team.
+
+As part of the transition, I interacted with a number of our
+
+customers, leadership teams and employees. This has further
+
+enriched my understanding of the depth of our customer
+
+relationships, customers ‘priorities and the opportunities
+
+ahead of us. I see a huge potential to create positive impact for
+
+our clients, our employees and for the broader community of
+
+stakeholders that we serve.
+
+Dear Shareholder,
+
+As part of their continuing digital transformation journey, we see
+
+sustained focus on cloud adoption, data architecture, customer
+
+experience and business model transformation. Through
+
+these initiatives, our customers intend to avoid technology
+
+obsolescence, become an intelligent enterprise, introduce new
+
+products and services, orchestrate ecosystems and provide
+
+immersive, hyper-personalized experiences. In addition, all our
+
+customers have also committed to ambitious net-zero carbon
+
+emission targets.
+
+On top of these current focus areas, technologies like 5G, IoT,
+
+generative AI, virtual reality / metaverse, digital twin and others
+
+are also gaining attention and are likely to attract investments in
+
+the short to medium term.
+
+As technology adoption will remain a key driver of business
+
+growth and transformation for our clients, we have been
+
+relentlessly focussed on our clients’ needs and have been
+
+investing in building newer capabilities to help them accelerate
+
+technology adoption. Your company continues to focus on
+
+enhancing the talent base of its associates, building partnerships
+
+with key technology providers, expanding the innovation
+
+ecosystem and building its own products and platforms.
+
+These business and technology trends drove a strong deal flow
+
+throughout FY 2023, peaking in the fourth quarter. We closed
+
+the year with an order book of $34.1 Bn. This along with the
+
+strong pipeline replenishment gives us a good visibility for the
+
+medium term.
+
+I would like to take this opportunity to thank you for your
+
+continued support in this exciting journey ahead.
+
+Best Regards,
+
+K Krithivasan
+
+Chief Executive Officer and: Managing
+
+Managing Director
+
+and CEO from 2017 to 2023, Rajesh
+
+Gopinathan decided to step down from
+
+his role, and resign from TCS effective
+
+September 15, 2023, to pursue other
+
+interests. The Board nominated
+
+K Krithivasan to step into the role with
+
+effect from June 1, 2023.
+
+Ranked the number one IT service provider for customer
+
+satisfaction in Europe in an independent survey of over 1,800
+
+CXOs by Whitelane Research. This is the tenth consecutive year
+
+that TCS has received the top ranking in this survey. Of the top
+
+23 IT service providers ranked on customer satisfaction, TCS
+
+topped the list, scoring 83%, versus the group’s average of 75%.
+
+Announced an expansion of its long-standing partnership with
+
+Phoenix Group, UK’s largest long-term savings and retirements
+
+provider, to digitally transform the latter’s ReAssure business
+
+using the TCS BaNCS™ based digital platform, and to administer
+
+the insurer’s 3 million policies. Consolidating on TCS’ platform
+
+will help Phoenix Group drive synergies and enhance customer
+
+experience.
+
+Named to the Forbes list of America’s Best Large Employers,
+
+based on a large, independent survey of US employees. TCS was
+
+also recognized as a Global Top Employer for the eighth year
+
+in a row, and as Top Employer in North America, Europe, Asia
+
+Pacific, and Latin America.
+
+Rated Baa1 by Moody’s credit rating agency, reflecting
+
+moderate credit risk for entities in the investment grade
+
+category. The company’s good corporate governance practices,
+
+extremely strong balance sheet, large liquidity and net cash
+
+position were cited as key credit strengths supporting this rating.
+
+TCS-sponsored marathons, such as the TCS New York City
+
+Marathon, TCS Amsterdam Marathon, TCS Toronto Waterfront
+
+Marathon and TCS Lidingöloppet returned to the streets, much
+
+to the delight of runners and spectators alike. The company also
+
+took on the title sponsorship of the TCS London Marathon.
+
+Q4
+
+Named to FORTUNE® magazine’s list of the World’s
+
+Most Admired Companies, regarded as a barometer
+
+of corporate reputation. Evaluation criteria include
+
+innovation, social responsibility, quality of management,
+
+global competitiveness, talent management, and quality
+
+of products/services.
+
+The Year Gone by | 12:
+
+Managing Director of the Company
+
+To consider and, if thought fit, to pass the following
+
+resolution as an Ordinary Resolution:
+
+“RESOLVED that pursuant to the provisions of Sections
+
+196, 197, 203 and other applicable provisions, if any, of the
+
+Companies Act, 2013 (“Act”) (including any modification
+
+and re-enactment thereof) read with Schedule V of the
+
+Act, and the Companies (Appointment and Remuneration
+
+of Managerial Personnel) Rules, 2014, as amended from
+
+time to time, the consent of the Company be and is hereby
+
+accorded for appointment and terms of remuneration of
+
+K Krithivasan (DIN 10106739), as the Chief Executive Officer
+
+and: Managing
+
+Letter, etc.
+
+by clicking on “Upload Board Resolution/Authority: Letter”
+
+displayed under “e-Voting” tab in their login.
+
+6.
+
+The Company has fixed Thursday, June 15, 2023 as the
+
+‘Record Date’ for determining entitlement of Members to
+
+final dividend for the financial year ended March 31, 2023,
+
+if approved at the AGM.
+
+7.
+
+If the final dividend, as recommended by the Board of
+
+Letter.
+
+The Members can attach the Entitlement: Letter and other
+
+required documents and file the IEPF-5 form for claiming
+
+the dividend and/or shares available on www.iepf.gov.in.
+
+For details, please refer to Corporate Governance Report
+
+which is a part of this report and FAQ of investor page on
+
+Company’s website https://on.tcs.com/IR-FAQ.
+
+16. Members attending the meeting through VC/OAVM shall be
+
+counted for the purpose of determining the quorum under
+
+Section 103 of the Act.
+
+17. Pursuant to the Finance Act, 2020, dividend income will
+
+be taxable in the hands of shareholders w.e.f. April 1, 2020
+
+and the Company is required to deduct tax at source from
+
+dividend paid to shareholders at the prescribed rates.
+
+For the prescribed rates for various categories, please refer
+
+to the Finance Act, 2020 and the amendments thereof.
+
+The shareholders are requested to update their valid PAN
+
+with the DPs (if shares held in dematerialized form) and
+
+the Company/TCPL (if shares are held in physical form).
+
+A Resident individual shareholder with PAN and whose
+
+income does not exceed maximum amount not chargeable
+
+to tax or who is not liable to pay income tax, as the case
+
+may be, can submit a yearly declaration in Form No.
+
+15G/15H, to avail the benefit of non-deduction of tax at
+
+source by e-mail to TCS-Exemptforms2324@tcplindia.co.in
+
+or upload the documents on https://on.tcs.com/FormsRegn
+
+by 11:59 p.m. (IST) on Wednesday, June 7, 2023.
+
+Shareholders are requested to note that in case their PAN is
+
+not registered or having invalid PAN or Specified Person as
+
+defined under Section 206AB of the Income-tax Act, the tax
+
+will be deducted at a higher rate prescribed under Section
+
+206AA or 206AB of the Income-tax Act, as applicable.
+
+Non-resident shareholders [including Foreign Institutional
+
+Investors (FIIs)/Foreign Portfolio Investors (FPIs)] can avail
+
+beneficial rates under tax treaty between India and their
+
+Managing Director
+
+(“CEO and MD”) of the Company, for a period of five years with
+
+effect from June 1, 2023, subject to approval of the Members.
+
+In terms of Section 161(1) of the Act, K Krithivasan holds the
+
+office of Additional Director only upto the date of this Annual
+
+General Meeting of the Company, and is eligible for appointment
+
+as a Director. The Company has received a notice in writing from
+
+a Member, in terms of Section 160(1) of the Act, proposing his
+
+candidature for the office of Director.
+
+K Krithivasan has also confirmed that he is not disqualified from
+
+being appointed as Director, in terms of the provisions of Section
+
+164(1), 164(2) of the Act and is not debarred to hold the office
+
+of a Director by virtue of any order passed by SEBI or any other
+
+authority and has given his consent to act as a Director of the
+
+Company.
+
+Prior to his appointment as the CEO and MD, K Krithivasan was
+
+the Global Head of Banking, Financial Services, and Insurance
+
+(BFSI) Business Group and played a key role in building deep
+
+customer relationships and mindshare as well as market
+
+positioning across geographies. He has been with the Company
+
+for over 3 decades helping customers with their growth and
+
+transformation journeys and technology strategies.
+
+He holds a Bachelor’s Degree in Mechanical Engineering from
+
+the University of Madras and a Master’s Degree in Industrial and
+
+Management Engineering from IIT Kanpur.
+
+Further details of K Krithivasan have been given in Annexure A
+
+to this Notice.
+
+The main terms and conditions of appointment of
+
+K Krithivasan (hereinafter referred to as “CEO and MD”) are
+
+given below:
+
+A. Tenure of Appointment
+
+The appointment as CEO and MD is for a period of five
+
+years with effect from June 1, 2023.
+
+B. Nature of Duties
+
+The CEO and MD shall devote his whole time and attention
+
+to the business of the Company and shall perform such
+
+duties as may be entrusted to him by the Board from
+
+time to time and separately communicated to him and
+
+exercise such powers as may be assigned to him, subject
+
+to the superintendence, control and directions of the
+
+Board in connection with and in the best interests of the
+
+business of the Company and the business of one or more
+
+of its associated companies and/or subsidiaries, including
+
+performing duties as assigned to the CEO and MD from
+
+time to time by serving on the Boards of such associated
+
+companies and/or subsidiaries or any other executive body
+
+or any committee of such a company.
+
+C. Remuneration
+
+a. Basic Salary
+
+Basic Salary of ₹10,00,000 per month; upto a
+
+maximum of ₹16,00,000 per month.
+
+The annual increments which will be effective
+
+1st April each year, will be decided by the Board
+
+based on the recommendations of the Nomination
+
+and Remuneration Committee (“NRC”) and will
+
+be performance-based and take into account the
+
+Company’s performance as well, within the said
+
+maximum amount.
+
+b. Benefits, Perquisites, and Allowances
+
+Details of Benefits, Perquisites and Allowances are as
+
+follows:
+
+i.
+
+Rent-free residential accommodation (partly
+
+furnished or otherwise) with the Company
+
+bearing the cost of repairs, maintenance, society
+
+charges and utilities (e.g., gas, electricity and
+
+water charges) for the said accommodation
+
+or house rent, house maintenance and utility
+
+allowances aggregating 85% of the Basic Salary
+
+(in case residential accommodation is not
+
+provided by the Company).
+
+ii.
+
+Hospitalisation and major medical expenses,
+
+car facility, telecommunication facility and
+
+housing loan facility as per Rules of the Company.
+
+iii.
+
+Other perquisites and allowances given below
+
+subject to a maximum of 55 percent of the Basic
+
+Salary; this shall include medical allowance,
+
+leave travel concession/allowance and other
+
+allowances/personal accident insurance/club
+
+membership fees.
+
+iv.
+
+Contribution to Provident Fund, Superannuation
+
+Fund or Annuity Fund and Gratuity Fund as per
+
+the Rules of the Company.
+
+v.
+
+Leave and encashment of unavailed leave as per
+
+the Rules of the Company.
+
+c.
+
+Commission
+
+In addition to Salary, Benefits, Perquisites and
+
+Allowances, the CEO and MD would be paid such
+
+remuneration by way of Commission, calculated
+
+with reference to the net profits of the Company in a
+
+particular financial year, as may be determined by the
+
+Board of the Company subject to the overall ceilings:
+
+Managing Director
+
+and/or Executive Director and/or Chief Operating Officer
+
+12.
+
+Following additional disclosures to be made in case of loans, inter-corporate deposits, advances or investments made
+
+or given
+
+A
+
+Source of funds
+
+Not Applicable
+
+B
+
+In case any financial indebtedness
+
+is incurred to make or give loans,
+
+intercorporate deposits, advances or
+
+investment:
+
+•
+
+Nature of indebtedness;
+
+•
+
+cost of funds; and
+
+•
+
+tenure of the indebtedness
+
+Not Applicable
+
+C
+
+Terms of the loan, inter-corporate
+
+deposits, advances or investment made
+
+or given
+
+(including covenants, tenure, interest
+
+rate and repayment schedule, whether
+
+secured or unsecured; if secured, the
+
+nature of security)
+
+Not Applicable
+
+D
+
+The purpose for which the funds will be
+
+utilized by the ultimate beneficiary of
+
+such funds pursuant to the RPT
+
+Not Applicable
+
+13.
+
+Any other relevant information
+
+All important information forms part of the statement setting out material
+
+facts, pursuant to Section 102(1) of the Act, forming part of this Notice
+
+None of the Directors or Key Managerial Personnel of the Company or its respective relatives, other than as mentioned above, is
+
+concerned or interested, in the resolution.
+
+The said transaction(s)/contract(s)/arrangement(s) have been recommended by the Audit Committee and Board of Directors of
+
+the Company for consideration and approval by the Members.
+
+It is pertinent to note that no related party shall vote to approve this Resolution whether the entity is a related party to the
+
+particular transaction or not.:
+
+Managing Director
+
+Chairman, Corporate Social Responsibility Committee
+
+DIN 06365813
+
+DIN 00121863:
+
+letter of even date which is
+
+annexed as Annexure A and Forms an integral part of this report.:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility of
+
+the management of the Company. Our responsibility is to
+
+express an opinion on these secretarial records based on
+
+our audit.
+
+2.
+
+We have followed the audit practices and process as were
+
+appropriate to obtain reasonable assurance about the
+
+correctness of the contents of the secretarial records.
+
+The verification was done on test basis to ensure that
+
+correct facts are reflected in secretarial records. We believe
+
+that the process and practices, we followed provide a
+
+reasonable basis for our opinion.
+
+3.
+
+We have not verified the correctness and appropriateness
+
+of financial records and Books of Accounts of the Company.
+
+4.
+
+Where ever required, we have obtained the Management
+
+Representation about the Compliance of Laws,
+
+Rules and Regulations and happening of events etc.
+
+5.
+
+The Compliance of the provisions of Corporate and
+
+other applicable laws, rules, regulations, standards is the
+
+responsibility of management. Our examination was limited
+
+to the verification of procedure on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to
+
+the future viability of the Company nor of the efficacy
+
+or effectiveness with which the management has
+
+conducted the affairs of the Company.
+
+For Parikh & Associates
+
+Company Secretaries
+
+P. N. Parikh
+
+Partner
+
+FCS No: 327 CP No: 1228
+
+UDIN: F000327E000066844
+
+PR No.: 1129/2021
+
+Place: Mumbai
+
+Date: 12.04.2023:
+
+Letter from CEO, Page 7:
+
+Managing Director and the Executive Directors. In addition,
+
+the Company has adopted a Code of Conduct for its non-
+
+executive directors which includes Code of Conduct for
+
+Independent Directors that suitably incorporates the duties
+
+of independent directors as laid down in the Companies
+
+Act, 2013 (“the Act”).
+
+The Company’s corporate governance philosophy has been
+
+further strengthened through the Tata Business Excellence
+
+Model, the TCS Code of Conduct for Prevention of Insider
+
+Trading and the Code of Corporate Disclosure Practices
+
+(“Insider Trading Code”). The Company has in place an
+
+Information Security Policy that ensures proper utilization
+
+of IT resources.
+
+The Company is in compliance with the requirements
+
+stipulated under Regulations 17 to 27 read with Schedule
+
+V and clauses (b) to (i) and (t) of sub-regulation (2)
+
+of Regulation 46 of Securities and Exchange Board of
+
+India (Listing Obligations and Disclosure Requirements)
+
+Regulations, 2015 (“SEBI Listing Regulations”), as
+
+applicable, with regard to corporate governance.
+
+The details of TCS’ board structure and the various
+
+committees that constitute the governance structure1 of
+
+the organization are covered in detail in this report.
+
+The various material aspects of corporate governance and TCS’ approach to them are discussed in the table below:
+
+Material Topic
+
+TCS’ Approach
+
+Board effectiveness,
+
+independence and protection
+
+of minority shareholders’
+
+interests
+
+Board effectiveness is enhanced by setting a high bar in selecting the right mix of individuals to
+
+serve on the Board, with the right qualifications, expertise and experience, who can collectively
+
+serve the best interests of all stakeholders, maintain board and management accountability
+
+and drive corporate ethics, values and sustainability. Profiles of Board of Directors are available
+
+at https://www.tcs.com/ir-corporate-governance.
+
+For greater diversity of opinions and perspectives within the Board, the Nomination and
+
+Remuneration Committee2 has fostered diversity in terms of backgrounds, areas of expertise
+
+and:
+
+•
+
+Gender: Two (22.2 per cent) of the nine Directors are women.
+
+•
+
+Nationality: Three nationalities represented – Indian, American and Danish.
+
+•
+
+Industry: Technology, Banking, Energy, Transportation and Academia.
+
+Corporate
+
+Governance
+
+Report
+
+About TCS | 3
+
+1 GRI 2-9
+
+2 GRI 2-10:
+
+Managing Director (CEO and MD).
+
+TCoC5 for non-executive directors, and for independent directors, carries explicit clauses
+
+covering avoidance of conflict of interest. Likewise, it explicitly prohibits any
+
+employee – including the executive directors – from accepting any position of responsibility,
+
+with or without remuneration, with any other organization without TCS’ prior written approval.
+
+For the executive directors, such approval must be obtained from the Board.
+
+Values, Ethics and compliance6
+
+Over the last five decades, TCS has consistently demonstrated very principled conduct and
+
+has earned its reputation for trust and integrity while building a highly successful global
+
+business. The Company’s core values are: Leading Change, Integrity, Respect for the Individual,
+
+Excellence, and Learning and Sharing.
+
+The TCoC serves as a moral guide and a governing framework for responsible corporate
+
+citizenship. It sets out guidelines on various topics including respect for human rights,
+
+prohibition of bribery and corruption, recognition of employees’ freedom of association, and
+
+avoidance of conflicts of interest.
+
+Every employee of the Company is required to sign the TCoC at the time of joining. Web-based
+
+annual refresher courses are mandated to ensure continued awareness of the Code. Further,
+
+frequent communications from the leadership, reiterate the importance of the company values
+
+and the TCoC.
+
+Customers are made aware of the TCoC principles in contract discussions, and through
+
+inclusion of specific clauses in proposals and contracts.
+
+Employees also undergo Web-based mandatory training every year on Anti-bribery and ethical
+
+behaviour. They can raise ethics concerns on Ultimatix – the intranet portal of the Company,
+
+which are investigated and tracked to closure by the HR department. Employees and other
+
+stakeholders can also report any non - compliance to the TCoC or to the laws of the land by
+
+senior executives directly to the Chairman of the Audit Committee under the Whistle blower
+
+Policy without fear of retaliation. Information about these channels is communicated to
+
+employees as part of the mandatory training modules.
+
+3 GRI 2-15
+
+4 GRI 2-11
+
+5 https://www.tcs.com/tata-code-of-conduct
+
+6 GRI 2-12:
+
+letter of the
+
+tax laws and regulations in all countries in which it operates. Compliance is achieved through a
+
+robust compliance reporting and monitoring process, with a strong governance on minimizing
+
+the tax risk. TCS has zero tolerance towards tax evasion, or the facilitation of tax evasion, by
+
+itself or by its employees or vendors.
+
+TCS maintains open and collaborative relationships with governments and tax authorities
+
+worldwide. Where appropriate, TCS seeks advance clearance from tax authorities on the
+
+proposed tax treatment of transactions, helping pre-empt future disputes.
+
+Board Oversight of
+
+Sustainability Matters8
+
+TCS’ approach to sustainable growth is built on the belief that it can expand its business by
+
+creating longer term value for all its stakeholders, including employees, customers, suppliers
+
+and local communities, while also valuing the environment. The various sustainability topics
+
+material to TCS are overseen by the relevant Board committees, as outlined below:
+
+Material Sustainability Topics
+
+Board Committee
+
+Financial reporting, robustness of internal controls and risk
+
+management systems, auditor remuneration, compliance to
+
+policies around insider trading, whistle blower, ethics and TCoC.
+
+Audit Committee
+
+Risk management policy and plan, management of foreign
+
+exchange risks, cyber security risks, data privacy risks and
+
+intellectual property infringement risks.
+
+Risk Management
+
+Committee
+
+Recommend composition of Board and its committees,
+
+appointment/re-appointment of directors and KMP, design
+
+executive directors’ remuneration, recommend remuneration
+
+policy for directors, executive team and KMP, evaluation of the
+
+performance of the Board, Committees and Directors.
+
+Nomination and
+
+Remuneration Committee
+
+Health and safety at the workplace, shareholder grievances and
+
+other sustainability initiatives.
+
+Stakeholders’ Relationship
+
+Committee
+
+Community initiatives and Corporate Social Responsibility,
+
+including compliances.
+
+Corporate Social
+
+Responsibility Committee
+
+Succession planning
+
+TCS’ philosophy of empowering employees, its industry-leading talent retention, and an
+
+organization structure that devolves executive decision-making across the three business
+
+groups (viz., Relationship Incubation group, Enterprise Growth group and Business
+
+Transformation group) have resulted in a large and deep bench of leadership talent that
+
+enables robust succession planning and continuity and consistency in strategy. Succession
+
+planning for the top two leadership positions in each business unit is reviewed by senior
+
+management. Additionally, heads of business units carry out succession planning for key
+
+functions within their units.
+
+Succession planning at senior management levels is reviewed by the Board. Business or unit
+
+heads are invited to present on specific topics at Board meetings from time to time, offering an
+
+opportunity to the directors to assess their values, competencies, and capabilities.
+
+7 GRI 207-1, GRI 207-2, GRI 207-3. TCS Tax Strategy link: https://on.tcs.com/TCS-Tax-Strategy
+
+8 GRI 2-12, GRI 2-14, TCFD Governance A & B:
+
+letter and
+
+spirit in turn for its employees.
+
+The Company supports the principles contained in the Universal Declaration of Human Rights,
+
+the ILO Declaration on Fundamental Principles and Rights at Work, and the United Nations
+
+Guiding Principles on Business and Human Rights. It works with its suppliers to ensure that they
+
+too are fully aligned with these principles.
+
+II.
+
+Board of Directors
+
+i.
+
+As on March 31, 2023, the Company has nine
+
+Directors. Of the nine Directors, seven (i.e. 77.8
+
+percent) are Non-Executive Directors out of which five
+
+(i.e. 55.6 percent) are Independent Directors including
+
+women directors.
+
+The composition of the Board is in conformity with
+
+Regulation 17 of the SEBI Listing Regulations read with
+
+Sections 149 and 152 of the Act.
+
+ii.
+
+None of the Directors on the Board:
+
+•
+
+holds directorships in more than ten public
+
+companies;
+
+•
+
+serves as Director or as independent directors in
+
+more than seven listed entities; and
+
+•
+
+who are the Executive Directors serve as
+
+independent directors in more than three listed
+
+entities.
+
+Necessary disclosures regarding Committee positions in
+
+other public companies as on March 31, 2023 have been
+
+made by the Directors. None of the Directors is related to
+
+each other except N G Subramaniam and
+
+N Chandrasekaran.
+
+iii.
+
+Independent Directors are non-executive directors as
+
+defined under Regulation 16(1)(b) of the SEBI Listing
+
+Regulations and Section 149(6) of the Act along with
+
+rules framed thereunder. In terms of Regulation 25(8)
+
+of SEBI Listing Regulations, they have confirmed that
+
+they are not aware of any circumstance or situation
+
+which exists or may be reasonably anticipated that
+
+could impair or impact their ability to discharge their
+
+duties. Based on the declarations received from the
+
+Independent Directors, the Board of Directors has
+
+confirmed that they meet the criteria of independence
+
+as mentioned under Section 149(6) of the Act and
+
+Regulation 16(1)(b) of the SEBI Listing Regulations
+
+and that they are independent of the management.
+
+Further, the Independent Directors have included
+
+their names in the data bank of Independent Directors
+
+maintained with the Indian Institute of Corporate
+
+Affairs in terms of Section 150 of the Act read
+
+with Rule 6 of the Companies (Appointment and
+
+Qualification of Directors) Rules, 2014.
+
+iv.
+
+Six Board Meetings were held during the year under
+
+review and the gap between two meetings did not
+
+exceed one hundred and twenty days. The said
+
+meetings were held on: April 11, 2022; July 8, 2022;
+
+October 10, 2022; January 9, 2023 and
+
+March 13 and 14, 2023 and March 16, 2023. The
+
+necessary quorum was present for all the meetings.
+
+v.
+
+The names and categories of the directors on
+
+the Board, their attendance at Board Meetings
+
+held during the year under review and at the last
+
+Annual General Meeting (“AGM”), name of other
+
+listed entities in which the Director is a director
+
+and the number of Directorships and Committee
+
+Chairmanships/Memberships held by them in other
+
+public limited companies as on March 31, 2023 are
+
+given herein below. Other directorships do not include
+
+directorships of private limited companies, foreign
+
+companies and companies registered under Section 8
+
+of the Act. Further, none of them is a member of more
+
+than ten committees or chairman of more than five
+
+committees across all the public limited companies
+
+in which he/she is a director. For the purpose of
+
+determination of limit of the Board Committees,
+
+chairpersonship and membership of the Audit
+
+Committee and Stakeholders’ Relationship Committee
+
+has been considered as per Regulation 26(1)(b) of SEBI
+
+Listing Regulations.:
+
+Managing Director)
+
+DIN 06365813
+
+Non-Independent,
+
+Executive
+
+6
+
+Yes
+
+-
+
+-
+
+-
+
+-
+
+-
+
+N G Subramaniam (Chief
+
+Operating Officer and
+
+Executive Director)
+
+DIN 07006215
+
+Non-Independent,
+
+Executive
+
+6
+
+Yes
+
+2
+
+1
+
+-
+
+-
+
+1. Tata Elxsi Limited @
+
+2. Tata Communications
+
+Limited@
+
+3. Tejas Networks Limited @
+
+O P Bhatt
+
+DIN 00548091
+
+Independent,
+
+Non-Executive
+
+6
+
+Yes
+
+1
+
+3
+
+1
+
+5
+
+1. Hindustan Unilever Limited #
+
+2. Tata Steel Limited #
+
+3. Tata Motors Limited #
+
+4. Aadhar Housing Finance
+
+Limited (Debt Listed)#
+
+Aarthi Subramanian
+
+DIN 07121802
+
+Non-Independent,
+
+Non-Executive
+
+6
+
+Yes
+
+2
+
+5
+
+1
+
+3
+
+Tata Capital Limited (Debt
+
+Listed)@
+
+Dr Pradeep Kumar Khosla*
+
+DIN 03611983
+
+Independent,
+
+Non-Executive
+
+4
+
+Yes
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Hanne Sorensen
+
+DIN 08035439
+
+Independent,
+
+Non-Executive
+
+6
+
+Yes
+
+-
+
+1
+
+-
+
+2
+
+Tata Motors Limited #
+
+Keki Mistry
+
+DIN 00008886
+
+Independent,
+
+Non-Executive
+
+6
+
+Yes
+
+1
+
+4
+
+1
+
+6
+
+1. Housing Development Finance
+
+Corporation Limited $
+
+2. Torrent Power Limited #
+
+3. HDFC Life Insurance Company
+
+Limited^
+
+4. HDFC Asset Management
+
+Company Limited@
+
+5. HDFC ERGO General Insurance
+
+Company Limited
+
+Don Callahan
+
+DIN 08326836
+
+Independent,
+
+Non-Executive
+
+6
+
+Yes
+
+-
+
+-
+
+-
+
+-
+
+-
+
+*Re-appointed as Independent Director for a second term w.e.f. January 11, 2023:
+
+Managing Director and the Executive Directors. Annual increments are recommended by the
+
+Nomination and Remuneration Committee within the salary scale approved by the Board and Members and are effective
+
+April 1, each year.
+
+The Board of Directors, on the recommendation of the Nomination and Remuneration Committee, decides the commission
+
+payable to the: Managing Director and the Executive Directors out of the profits for the financial year and within the ceilings
+
+prescribed under the Act, based on the Board evaluation process considering the criteria such as the performance of the
+
+Company as well as that of the Managing Director and each Executive Director.
+
+The Company pays sitting fees of `30,000 per meeting to its Non-Executive Directors for attending meetings of the Board
+
+and meetings of committees of the Board. The Company also pays commission to the Non-Executive Directors within the
+
+ceiling of 1 percent of the net profits of the Company as computed under the applicable provisions of the Act, with the
+
+approval of the Members. The said commission is decided each year by the Board of Directors, on the recommendation of
+
+the Nomination and Remuneration Committee and distributed amongst the Non-Executive Directors based on the Board
+
+evaluation process, considering criteria such as their attendance and contribution at the Board and Committee meetings,
+
+as well as the time spent on operational matters other than at meetings. The Company also reimburses the out-of-pocket
+
+expenses incurred by the Directors for attending the meetings. The Remuneration policy is available on
+
+https://on.tcs.com/remuneration-policy.
+
+iv.
+
+Details of the Remuneration for the year ended March 31, 2023
+
+a)
+
+Non-Executive Directors
+
+(` lakh)
+
+Name
+
+Commission
+
+Sitting Fees
+
+N Chandrasekaran,
+
+Managing Director and Executive Director
+
+(` lakh)
+
+Name of Director
+
+Salary
+
+Benefits,
+
+Perquisites and
+
+Allowances
+
+Commission
+
+ESPS*
+
+Rajesh Gopinathan
+
+Chief Executive Officer and: Managing
+
+letter of confirmation will be issued to the shareholders and
+
+shall be valid for a period of 120 days, within which the shareholder shall make a request to the Depository Participant for
+
+dematerializing those shares. If the shareholders fail to submit the dematerialisation request within 120 days, then the
+
+Company shall credit those shares in the Suspense Escrow Demat account held by the Company. Shareholders can claim
+
+these shares transferred to Suspense Escrow Demat account on submission of necessary documentation.
+
+The Directors and certain Company officials (including Chief Financial Officer and Company Secretary) are authorized by the
+
+Board severally to approve transfers, which are noted at subsequent Board Meetings.
+
+xiii. Shareholding as on March 31, 2023
+
+a)
+
+Distribution of equity shareholding
+
+Number of shares
+
+Holding
+
+Percentage to
+
+capital
+
+Number of
+
+accounts
+
+Percentage to total
+
+accounts
+
+1-100
+
+4,94,62,770
+
+1.35
+
+23,14,765
+
+88.31
+
+101-500
+
+5,21,27,240
+
+1.42
+
+2,58,714
+
+9.88
+
+501-1000
+
+1,87,54,401
+
+0.51
+
+26,324
+
+1.00
+
+1001-5000
+
+3,30,46,498
+
+0.90
+
+17,176
+
+0.66
+
+5001-10000
+
+1,08,58,233
+
+0.30
+
+1,539
+
+0.06
+
+10001-20000
+
+1,07,71,057
+
+0.29
+
+767
+
+0.03:
+
+letter.
+
+3.
+
+File Form IEPF-5 on IEPF website and send self-attested copies of IEPF-5 form along with the acknowledgement (SRN),
+
+Indemnity bond and entitlement: letter to RTA.
+
+4.
+
+On receipt of the physical documents mentioned above, Company will submit e-Verification report, for further
+
+processing by the IEPF Authority.
+
+Members are requested to note that no claims shall lie against the Company in respect of the dividend/shares transferred to
+
+IEPF.
+
+The following table give information relating to various outstanding dividends and the dates by which they can be claimed by
+
+the shareholders from the Company’s RTA:
+
+Financial Year
+
+Date of declaration
+
+Last date for claiming unpaid dividend
+
+2015-16
+
+June 17, 2016
+
+July 17, 2023
+
+2016-17
+
+July 14, 2016
+
+August 15, 2023
+
+October 13, 2016
+
+November 16, 2023
+
+January 12, 2017
+
+February 12, 2024
+
+June 16, 2017
+
+July 16, 2024
+
+2017-18
+
+July 13, 2017
+
+August 13, 2024
+
+October 12, 2017
+
+November 12, 2024
+
+January 11, 2018
+
+February 10, 2025
+
+June 15, 2018
+
+July 15, 2025
+
+2018-19
+
+July 10, 2018
+
+August 9, 2025
+
+October 11, 2018
+
+November 10, 2025
+
+January 10, 2019
+
+February 9, 2026
+
+June 13, 2019
+
+July 13, 2026
+
+2019-20
+
+July 9, 2019
+
+August 8, 2026
+
+October 10, 2019
+
+November 9, 2026
+
+January 17, 2020
+
+February 16, 2027
+
+March 10, 2020
+
+April 9, 2027
+
+June 11, 2020
+
+July 11, 2027
+
+2020-21
+
+July 9, 2020
+
+August 8, 2027
+
+October 7, 2020
+
+November 6, 2027
+
+January 8, 2021
+
+February 7, 2028
+
+June 10, 2021
+
+July 10, 2028
+
+2021-22
+
+July 8, 2021
+
+August 7, 2028
+
+October 8, 2021
+
+November 7, 2028
+
+January 12, 2022
+
+February 11, 2029
+
+June 9, 2022
+
+July 9, 2029
+
+2022-23
+
+July 8, 2022
+
+August 7, 2029
+
+October 10, 2022
+
+November 9, 2029
+
+January 9, 2023
+
+February 8, 2030
+
+xx. Plant locations
+
+In view of the nature of the Company’s business viz. Information Technology (IT) Services and IT Enabled Services, the
+
+Company operates from various offices in India and abroad. The Company has a manufacturing facility at 17-B, Tivim
+
+Industrial Estate, Karaswada, Mapusa– Bardez, Goa.
+
+xxi. Address for correspondence
+
+Tata Consultancy Services Limited
+
+9th Floor, Nirmal Building, Nariman Point, Mumbai 400 021, India
+
+Telephone: +91 22 6778 9595
+
+Designated e-mail address for Investor Services: investor.relations@tcs.com
+
+For queries on IEPF related matters: iepf.assist@tcs.com
+
+Website: www.tcs.com
+
+Managing Director and Executive
+
+Directors.
+
+In addition, the Company has adopted a Code of Conduct for its Non-Executive Directors and Independent Directors. These Codes are
+
+available on the Company’s website.
+
+I confirm that the Company has, in respect of the year ended March 31, 2023, received from the Senior Management Team of the
+
+Company and the Members of the Board a declaration of compliance with the Code of Conduct as applicable to them.
+
+For the purpose of this declaration, Senior Management Team means the Chief Financial Officer, Global Head-HR, Global Business Unit
+
+Heads, Global Head-Legal and the Company Secretary as on March 31, 2023.
+
+Rajesh Gopinathan
+
+Chief Executive Officer and: Managing
+
+letter. The
+
+Board was not involved in seeking this assurance.
+
+II.
+
+Products/services5
+
+14. Details of business activities (accounting for 90% of the turnover):
+
+TCS provides IT services, consulting and business solutions to many of the world’s largest businesses in their transformational
+
+journeys. Segment revenues, year on year growth, a brief commentary and segment margins are provided in the Financial
+
+Performance Overview section of Management Discussion and Analysis, which is a part of this Integrated Annual Report.
+
+15. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+
+Application Development and Maintenance, Consulting and Service Integration, Digital Transformation Services, Cognitive
+
+Business Operations and Products and Platforms.
+
+Some of the services broadly map to NIC classes 6201, 6202, 6209 and 6311.
+
+III. Operations6
+
+16. Number of locations where plants and/or operations/offices of the entity are situated:
+
+Location
+
+Number of plants
+
+Number of offices (Delivery offices)
+
+Total
+
+National
+
+NA
+
+Delivery centers – 111, Offices – 9
+
+120
+
+International
+
+NA
+
+Delivery centers – 73, Offices – 112
+
+185
+
+2
+
+GRI 2-2
+
+3
+
+GRI 2-4
+
+4
+
+GRI 2-5
+
+5
+
+GRI 2-6
+
+6
+
+GRI 2-6:
+
+Managing Director (CEO & MD), Chief Operating
+
+Officer and Executive Director (COO), Chief Financial Officer (CFO) and Company Secretary (CS).
+
+•
+
+Senior Management excludes Directors and KMP.
+
+7
+
+GRI 2-7, GRI 2-8
+
+8
+
+GRI 405-1:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023
+
+Consolidated Statement of Profit and Loss
+
+(` crore)
+
+Note
+
+Year ended
+
+March 31, 2023
+
+Year ended
+
+March 31, 2022
+
+Revenue from operations
+
+12
+
+2,25,458
+
+1,91,754
+
+Other income
+
+13
+
+3,449
+
+4,018
+
+TOTAL INCOME
+
+2,28,907
+
+1,95,772
+
+Expenses
+
+Employee benefit expenses
+
+14
+
+127,522
+
+107,554
+
+Cost of equipment and software licences
+
+15(a)
+
+1,881
+
+1,163
+
+Finance costs
+
+16
+
+779
+
+784
+
+Depreciation and amortisation expense
+
+5,022
+
+4,604
+
+Other expenses
+
+15(b)
+
+36,796
+
+29,980
+
+TOTAL EXPENSES
+
+1,72,000
+
+1,44,085
+
+PROFIT BEFORE TAX
+
+56,907
+
+51,687
+
+Tax expense
+
+Current tax
+
+17
+
+14,757
+
+13,654
+
+Deferred tax
+
+17
+
+(153)
+
+(416)
+
+TOTAL TAX EXPENSE
+
+14,604
+
+13,238
+
+PROFIT FOR THE YEAR
+
+42,303
+
+38,449
+
+OTHER COMPREHENSIVE INCOME (OCI)
+
+Items that will not be reclassified subsequently to profit or loss
+
+Remeasurement of defined employee benefit plans
+
+350
+
+261
+
+Net change in fair values of investments in equity shares carried at fair value
+
+through OCI
+
+(2)
+
+(4)
+
+Income tax on items that will not be reclassified subsequently to profit or loss
+
+(75)
+
+19
+
+Items that will be reclassified subsequently to profit or loss
+
+Net change in fair values of investments other than equity shares carried at fair
+
+value through OCI
+
+(679)
+
+(516)
+
+Net change in intrinsic value of derivatives designated as cash flow hedges
+
+(25)
+
+(37)
+
+Net change in time value of derivatives designated as cash flow hedges
+
+32
+
+(34)
+
+Exchange differences on translation of financial statements of foreign operations
+
+655
+
+20
+
+Income tax on items that will be reclassified subsequently to profit or loss
+
+236
+
+196
+
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)
+
+492
+
+(95)
+
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+
+42,795
+
+38,354
+
+Profit for the year attributable to:
+
+Shareholders of the Company
+
+42,147
+
+38,327
+
+Non-controlling interests
+
+156
+
+122
+
+42,303
+
+38,449
+
+Other comprehensive income for the year attributable to:
+
+Shareholders of the Company
+
+493
+
+(63)
+
+Non-controlling interests
+
+(1)
+
+(32)
+
+492
+
+(95)
+
+Total comprehensive income for the year attributable to:
+
+Shareholders of the Company
+
+42,640
+
+38,264
+
+Non-controlling interests
+
+155
+
+90
+
+42,795
+
+38,354
+
+Earnings per equity share:- Basic and diluted (`)
+
+18
+
+115.19
+
+103.62
+
+Weighted average number of equity shares
+
+365,90,51,373
+
+369,88,32,195
+
+NOTES FORMING PART OF CONSOLIDATED FINANCIAL STATEMENTS:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023
+
+Consolidated Statement of Cash Flows:
+
+Managing Director.:
+
+Letter of
+
+Credit provided as security, towards compensatory damages awarded by the District Court and confirmed by the Appeals
+
+Court, already provided for in the earlier years.
+
+On July 1, 2022, the District Court passed an Order affirming the punitive damages at `1,151 crore (US $140 million). The
+
+Company has filed an appeal on November 16, 2022, in the Appeals Court to reduce the punitive damages awarded by the
+
+District Court, which is pending.
+
+Pursuant to encashment of the: Letter of Credit towards compensatory damages, the value of Letter of Credit made available
+
+to Epic stands reduced to `1,250 crore (US $152 million).
+
+•
+
+Letter of comfort
+
+The Company has given letter of comfort to banks for credit facilities availed by its subsidiaries. As per the terms of letter
+
+of comfort, the Company undertakes not to divest its ownership interest directly or indirectly in the subsidiary and provide
+
+such managerial, technical and financial assistance to ensure continued successful operations of the subsidiary.
+
+The amounts assessed as contingent liability do not include interest that could be claimed by counter parties.
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023
+
+27) On March 16, 2023, Tata Consultancy Services (China) Co., Ltd., acquired control of 100 % equity interest in TCS Financial
+
+Solutions Beijing Co., Ltd., from TCS Financial Solutions Australia Pty Limited. The entities are engaged in the business of
+
+developing and selling computer software and providing information technology services. The transaction has been accounted as
+
+combination of entities under common control. There is no impact in the consolidated financial statements of the Group as the
+
+entities are under the same parent.
+
+28) Tata Consultancy Services Danmark ApS liquidated w.e.f. July 27, 2022.
+
+29) Dividends
+
+Dividends paid during the year ended March 31, 2023 include an amount of `22.00 per equity share towards final dividend for
+
+the year ended March 31,2022 and an amount of `91.00 per equity share towards interim dividends for the year ended
+
+March 31, 2023. Dividends paid during the year ended March 31, 2022 include an amount of `15.00 per equity share towards
+
+final dividend for the year ended March 31, 2021 and an amount of `21.00 per equity share towards interim dividends for the
+
+year ended March 31, 2022.
+
+Dividends declared by the Company are based on profits available for distribution. On April 12, 2023, the Board of Directors of the
+
+Company have proposed a final dividend of `24.00 per share in respect of the year ended March 31, 2023 subject to the approval
+
+of shareholders at the Annual General Meeting, and if approved, would result in a cash outflow of approximately `8,782 crore.:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023
+
+Standalone Statement of Profit and Loss
+
+(` crore)
+
+Note
+
+Year ended
+
+March 31, 2023
+
+Year ended
+
+March 31,2022
+
+Revenue from operations
+
+10
+
+1,90,354
+
+1,60,341
+
+Other income
+
+11
+
+5,328
+
+7,486
+
+TOTAL INCOME
+
+1,95,682
+
+1,67,827
+
+Expenses
+
+Employee benefit expenses
+
+12
+
+96,218
+
+81,097
+
+Cost of equipment and software licences
+
+13(a)
+
+1,416
+
+1,010
+
+Finance costs
+
+14
+
+695
+
+486
+
+Depreciation and amortisation expense
+
+3,940
+
+3,522
+
+Other expenses
+
+13(b)
+
+41,723
+
+31,989
+
+TOTAL EXPENSES
+
+1,43,992
+
+1,18,104
+
+PROFIT BEFORE TAX
+
+51,690
+
+49,723
+
+Tax expense
+
+Current tax
+
+15
+
+12,946
+
+11,931
+
+Deferred tax
+
+15
+
+(362)
+
+(395)
+
+TOTAL TAX EXPENSE
+
+12,584
+
+11,536
+
+PROFIT FOR THE YEAR
+
+39,106
+
+38,187
+
+OTHER COMPREHENSIVE INCOME (OCI)
+
+Items that will not be reclassified subsequently to profit or loss
+
+Remeasurement of defined employee benefit plans
+
+54
+
+180
+
+Income tax on items that will not be reclassified subsequently to profit
+
+or loss
+
+(12)
+
+(39)
+
+Items that will be reclassified subsequently to profit or loss
+
+Net change in fair values of investments other than
+
+equity shares carried at fair value through OCI
+
+(679)
+
+(516)
+
+Net change in intrinsic value of derivatives designated as
+
+cash flow hedges
+
+(25)
+
+(37)
+
+Net change in time value of derivatives designated as
+
+cash flow hedges
+
+32
+
+(34)
+
+Income tax on items that will be reclassified subsequently to profit or
+
+loss
+
+236
+
+196
+
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)
+
+(394)
+
+(250)
+
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+
+38,712
+
+37,937
+
+Earnings per equity share:- Basic and diluted (`)
+
+16
+
+106.88
+
+103.24
+
+Weighted average number of equity shares
+
+365,90,51,373
+
+369,88,32,195
+
+NOTES FORMING PART OF STANDALONE FINANCIAL STATEMENTS:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023
+
+NOTES FORMING PART OF STANDALONE FINANCIAL STATEMENTS:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023
+
+NOTES FORMING PART OF STANDALONE FINANCIAL STATEMENTS
+
+Standalone Statement of Cash Flows
+
+Refer note 13(c) for amount spent during the years ended March 31, 2023 and 2022 on construction / acquisition of any asset and
+
+other purposes relating to CSR activities.:
+
+Letter of
+
+Credit provided as security, towards compensatory damages awarded by the District Court and confirmed by the Appeals
+
+Court, already provided for in the earlier years.
+
+On July 1, 2022, the District Court passed an Order affirming the punitive damages at `1,151 crore (US $140 million). The
+
+Company has filed an appeal on November 16, 2022, in the Appeals Court to reduce the punitive damages awarded by the
+
+District Court, which is pending.
+
+Pursuant to encashment of the: Letter of Credit towards compensatory damages, the value of Letter of Credit made available
+
+to Epic stands reduced to `1,250 crore (US $152 million).
+
+•
+
+Guarantees and letter of comfort
+
+The Company has given letter of comfort to banks for credit facilities availed by its subsidiaries. As per the terms of letter of
+
+comfort, the Company undertakes not to divest its ownership interest directly or indirectly in the subsidiary and provide such
+
+managerial, technical and financial assistance to ensure continued successful operations of the subsidiary.
+
+The Company has provided guarantees to third parties on behalf of its subsidiaries. The Company does not expect any
+
+outflow of resources in respect of the above.
+
+The amounts assessed as contingent liability do not include interest that could be claimed by counter parties.
+
+20) Related party transactions
+
+The Company’s principal related parties consist of its holding company, Tata Sons Private Limited and its subsidiaries, its own
+
+subsidiaries, affiliates and key managerial personnel. The Company’s material related party transactions and outstanding
+
+balances are with related parties with whom the Company routinely enter into transactions in the ordinary course of business.
+
+Refer note 21 of consolidated financial statement for list of subsidiaries of the Company.
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023
+
+Mumbai, April 12, 2023:
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+COO and Executive Director
+
+Samir Seksaria
+
+CFO
+
+Pradeep Manohar Gaitonde
+
+Company Secretary
+
+Mumbai, April 12, 2023:
+
+Managing Director, Chief Operating Officer, Chief Financial
+
+Officer, and the Company Secretary. Please refer to the Company's policy on KMP: http://www.tcs.com/ir-
+
+corporate-governance
+
+kL
+
+Acronym for the unit kilo-liters used to measure volume. It is a unit used to measure and report water usage in
+
+TCS’ offices.
+
+KMP
+
+See Key Managerial Personnel
+
+kWh
+
+Acronym for kilowatt hours used as a unit of measurement of electricity
+
+Large Language
+
+Models
+
+This is a language model used to train generative AI, and consists of a neural network with many parameters
+
+(typically billions of weights), trained on large volumes of unlabeled text. By tracking words in sequences, it
+
+learns both context and meaning in language, enabling it to generate text artifacts that look they were written
+
+by humans.
+
+LatAm
+
+Acronym for Latin America
+
+Location
+
+Independent Agile
+
+A method to orchestrate globally distributed stakeholders and talent into Agile teams for improved speed to
+
+market in large transformational programs. It comprises processes, structure, and the technology that allows
+
+enterprises to overcome location constraints and embrace Agile methods on a global scale.
+
+Low-Code, No
+
+Code
+
+New software development platforms that offer a drag and drop user interface to allow business users to build
+
+custom web or mobile applications without actually having to write the code. The difference between the two is
+
+related the extent of programming ability needed. The former might still require some amount of programming,
+
+while the latter is entirely drag and drop. In addition to boosting innovation within the enterprise, these
+
+platforms also drive up productivity of programmers.
+
+Machine First™
+
+Delivery Model
+
+A model that integrates analytics, AI and automation deep within the enterprise to redefine how humans and
+
+machines work together and to effectively deliver superior outcomes.
+
+Machine Learning
+
+A type of artificial intelligence that provides computers with the ability to learn behaviors without being
+
+explicitly programmed.
+
+Managed Services
+
+This is the practice of outsourcing to one service provider, also knowns as the Managed Services Provider (MSP),
+
+the end-to-end responsibility for providing, or orchestrating the provision through third party providers of,
+
+services around a range of processes and functions, in order to improve efficiency, service quality, agility and
+
+scalability.
+
+Managed Services
+
+Provider
+
+Service providers with the sole, end-to-end responsibility of providing Managed Services.
+
+Market
+
+Capitalization
+
+The total market value of a company's total outstanding equity shares at a point in time.
+
+Market Capitalization = Last Trading Price * Total number of outstanding shares
+
+MEA
+
+Acronym for Middle East and Africa:
+
+Letter to Shareholders
+
+>> Pgs 8 to 11
+
+Internal
+
+2-22, 201-1
+
+•
+
+Demand sustainability •
+
+MDA >> Strategy for
+
+sustainable growth >>
+
+Pgs 86 to 88
+
+•
+
+MDA >> Business
+
+outlook >> Pg 94,95
+
+•
+
+Investments
+
+in capability
+
+development
+
+•
+
+MDA >> Enabling
+
+investments >> Pg 87
+
+•
+
+Intellectual Capital >>
+
+Pg 20,21
+
+Talent
+
+Management
+
+The company’s ability
+
+to attract, develop,
+
+motivate, and retain
+
+talent is critical to
+
+business success.
+
+•
+
+Talent acquisition
+
+•
+
+MDA >> Pg 89
+
+Internal
+
+401-1, 401-2,
+
+401-3, 403-1,
+
+403-2, 403-5,
+
+403-6, 403-9,
+
+403-10, 404-1,
+
+405-1, 405-2,
+
+406-1
+
+•
+
+Talent development
+
+•
+
+MDA >> Pg 90
+
+•
+
+Culture and Diversity
+
+•
+
+MDA >> Pg 89, 90
+
+•
+
+Employee retention
+
+•
+
+MDA >> Pg 91
+
+•
+
+Employee
+
+Enagagement
+
+•
+
+MDA >> Pg 91
+
+•
+
+Competitive
+
+Compensation
+
+•
+
+MDA >> Pg 91
+
+•
+
+Occupational Health
+
+and safety
+
+•
+
+MDA >> Pg 91
+
+2
+
+GRI 3-2
+
+3
+
+GRI 3-3
+
+*
+
+MDA: Management Discussion and Analysis, CG: Corporate Governance Report, BRSR: Business Responsibility and Sustainability Report:
+
+Letter to Shareholders
+
+86
+
+152
+
+8
+
+2-23 Policy commitments
+
+• BRSR
+
+151, 153,
+
+166, 182
+
+2-24 Embedding policy commitments
+
+• BRSR
+
+151, 165,
+
+166
+
+2-25 Processes to remediate negative impacts
+
+• BRSR
+
+149, 157,
+
+160, 166,
+
+179, 181
+
+2-27 Compliance with laws and regulations
+
+• BRSR
+
+153, 173
+
+2-28 Membership associations
+
+• BRSR
+
+177
+
+5.
+
+Stakeholder engagement
+
+2-29 Approach to stakeholder engagement
+
+• BRSR
+
+162
+
+2-30 Collective bargaining agreements
+
+• BRSR
+
+158
+
+9
+
+Requirement 7: Publish a GRI content index
+
+* MDA: Management Discussion and Analysis, CG: Corporate Governance Report, BRSR: Business Responsibility and Sustainability
+
+Report:
+

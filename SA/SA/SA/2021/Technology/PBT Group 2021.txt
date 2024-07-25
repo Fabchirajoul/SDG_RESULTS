@@ -1,0 +1,754 @@
+Letter to stakeholders
+
+14
+
+Financial highlights
+
+14
+
+Business model
+
+15
+
+Historical financials
+
+16
+
+Directorate
+
+18
+
+Corporate governance
+
+23
+
+Enterprise risk management
+
+24
+
+Remuneration report
+
+26
+
+Sustainability report
+
+28
+
+Application of the King IV Principles
+
+CONTENTS
+
+2
+
+About us
+
+6
+
+Company profile
+
+6
+
+Business milestones
+
+8
+
+Shareholder profile
+
+108
+
+Notice of Annual General Meeting
+
+117
+
+Form of Proxy
+
+119
+
+Form of election
+
+121
+
+Electronic participation application form
+
+122
+
+Glossary
+
+IBC
+
+General information
+
+PBT GROUP
+
+INTEGRATED REPORT 2021
+
+1
+
+>:
+
+LETTER TO
+
+STAKEHOLDERS
+
+BUSINESS ACTIVITIES AND GROUP RESULTS
+
+Financial results highlights
+
+Revenue increased by 17% to R789.0 million (2020:
+
+R672.5 million).
+
+EBITDA increased by 35% to R98.3 million (2020:
+
+R72.8 million).
+
+Profit after taxation for the period increased by 42% to
+
+R65.3 million (2020: R46.0 million).
+
+Cash generated from operations decreased by 10% to
+
+R92.1 million (2020: R102.1 million).
+
+Headline earnings increased by 49% to R44.3 million
+
+(2020: R29.7 million).
+
+Normalised headline earnings increased by 47% to
+
+R45.3 million (2020: R30.9 million).
+
+Earnings per share increased by 66% to 50.57 cents per
+
+share (2020: 30.65 cents per share).
+
+Headline earnings per share increased by 64% to
+
+50.59 cents per share (2020: 30.79 cents per share).
+
+Normalised headline earnings per share* increased by 58%
+
+to 45.62 cents per share (2020: 28.92 cents per share).
+
+*
+
+Normalised headline earnings per share is calculated as follows:
+
+• The numerator, being the headline earnings attributable to ordinary
+
+shareholders, is adjusted by including the preference dividend earned on the
+
+preference share investment in Spalding Investment 10 Proprietary Limited
+
+(Spalding) and eliminated on consolidation (refer to the explanation below in
+
+“Share-based payment transactions”).
+
+• The denominator, being the weighted average number of ordinary shares,
+
+is adjusted to include the weighted treasury shares held by Spalding.
+
+PBT Group’s financial performance was driven by:
+
+•
+
+Organic revenue growth due to continued demand for
+
+PBT Group’s services.
+
+•
+
+PBT Group operating expenses being contained, resulting in
+
+profit margin expansion.
+
+•
+
+PBT Group continuing to convert a large portion of its
+
+earnings to cash.
+
+PBT Group, for the first time, is reporting a normalised earnings
+
+figure. This figure reverses the accounting effect of IFRS 2 Share-
+
+based Payments. The Board of Directors is of the view that this is
+
+a more accurate reflection of after-tax earnings per share.
+
+As a Group we are humbled by the success
+
+over the past financial year, amidst challenging
+
+circumstances. Despite the COVID-19 pandemic,
+
+the resilience of our business development teams,
+
+professionalism of our consultants and exceptional
+
+work ethic of our support staff resulted in a very
+
+pleasing set of results.
+
+A highlight during the past financial year was the
+
+achievement of a Level 1 B-BBEE rating for both
+
+PBT Group as well as CyberPro (56%-held subsidiary).
+
+This positions us well in terms of the transformation
+
+goals we have set for the Company, with a view on
+
+growth, diversity and sustainability.
+
+Our focus is now on becoming a majority black-
+
+owned company, which we believe will give us a
+
+further competitive advantage in the market.
+
+TONY TAYLOR INDEPENDENT NON-EXECUTIVE CHAIRMAN
+
+ELIZNA READ CHIEF EXECUTIVE OFFICER
+
+10
+
+>:
+
+LETTER TO STAKEHOLDERS
+
+Going concern
+
+PBT Group evaluated its business operations as at 31 March 2021
+
+and also prepared cash flow forecasts for the next five years.
+
+These cash flow forecasts have been prepared based on historic
+
+financial performance and growth expectations for PBT Group
+
+and the South African economy. The cash flow forecasts included
+
+adjustments for the potential impact of COVID-19 on the business.
+
+The Group has a high tangible net asset value and has generated
+
+a significant profit for the 2021 financial year. PBT Group’s highly
+
+skilled consultants were able to continue providing services
+
+remotely throughout the various stages of lockdown. Cash
+
+flow in the Group remains strong, mainly due to the Group’s
+
+ability to collect timeous payments from its high-quality clients.
+
+All indications are that the business can continue as a going
+
+concern for the foreseeable future.
+
+REVIEW OF OPERATIONS
+
+Upon reflection of the past financial period, the performance
+
+of PBT Group remains positive, despite the ongoing COVID-19
+
+pandemic and the constant threat of its potential impact
+
+on the business. Our ability to adjust and realign in order to
+
+accommodate our clients, made this a fulfilling year, as our
+
+business development strategies survived a very difficult period.
+
+As most organisations have taken a downward spiral in profit,
+
+PBT Group recovered in a way that did not just equal the previous
+
+year’s performance, but in certain business units exceeded
+
+expectations.
+
+Client relationships, innovation and keeping to the basics of the
+
+PBT Group core competencies have enabled us to get through
+
+difficult times and to position ourselves for the demand awaiting
+
+the data industry. The quest for businesses to speed up their
+
+digitalisation strategies has increased the demand for data to the
+
+extent that it cannot only be serviced by the constant increase
+
+of the number of people allocated to projects and solutions.
+
+Technology by itself will not be the answer to the problem, but it
+
+is the execution approach supported by the enabling technology,
+
+that will allow for acceleration.
+
+In previous reports we stated that we are working with key clients
+
+to build accelerators to address this conundrum. We do not
+
+refer to these accelerators as products, as it is merely a facility
+
+to accelerate client data solutions and projects, supplemented
+
+by PBT Group’s core competencies of data specialisation and
+
+practices. Within our Innovation Centre new techniques and
+
+delivery methods are constantly being tested and deployed
+
+via our consultant and client base. Using data vault modelling
+
+PBT Group has
+
+maintained a
+
+sound business strategy
+
+that is based on a solutions
+
+approach in adding value
+
+to our clients.
+
+is just an example, also underpinned by an agile approach to
+
+analysis, modelling, data engineering and implementation. These
+
+accelerators have matured substantially over the last 12 months,
+
+to the extent that it can soon be demonstrated and offered to a
+
+broader client base.
+
+Whilst the accelerators were initially only focused on enablement
+
+for Microsoft Azure (Azure), Amazon Web Services (AWS) and
+
+Google Cloud Platform (GCP), it is also being extended to other
+
+cloud offerings entering the market. A further enhancement in
+
+progress is the ability to configure these accelerators to facilitate
+
+the integration with complementary software, deemed to be very
+
+popular in the market, such as Snowflake, Informatica and existing
+
+cloud utilities available in Azure, AWS and GCP. The accelerators
+
+are complementary to our existing professional services offering
+
+and will be applicable and available in all regional segments of
+
+the business, including South Africa, Europe, United Kingdom,
+
+Ireland and Australia. Training, which is well established within our
+
+organisation and remains a key focus to support this enablement,
+
+is often extended to key clients. Strategic value-add, combined
+
+with constantly finding ways of improving data solutions and
+
+implementations – taking cost efficiency into consideration –
+
+remains the PBT Group motto.
+
+As organisations continue with large-scale initiatives to migrate
+
+to the cloud, it is reconfirmed that PBT Group’s core competency,
+
+data engineering, remains a key enabler for most data projects
+
+and solutions. Whether in cloud or on premise, the three
+
+components of most big data architectures remain to be the data
+
+lake, where most raw data resides, the traditional data warehouse
+
+12
+
+>:
+
+Letter to Stakeholders on page 10 for an explanation on how normalised headline earnings per share is calculated.
+
+14
+
+>:
+
+letter of representation in terms of the
+
+custody agreement entered into between the dematerialised
+
+shareholder and the CSDP or broker.
+
+PARTICIPATION IN THE MEETING
+
+The Board has determined the following salient dates in respect of the AGM:
+
+2021
+
+Record date to receive the Notice of the Annual General Meeting
+
+Friday, 2 July
+
+Date of posting the Notice of Annual General Meeting
+
+Monday, 12 July
+
+Last date to trade to be eligible to vote
+
+Tuesday, 27 July
+
+Record date to be eligible to attend, participate and vote at the Annual General Meeting
+
+Friday, 30 July
+
+For administrative purposes, preferable date by which forms of proxy for the Annual General Meeting
+
+are requested to be lodged, by 10:00 on
+
+Wednesday, 4 August
+
+Annual General Meeting at 10:00
+
+Friday, 6 August
+
+Results of Annual General Meeting published on SENS on
+
+Friday, 6 August
+
+On a poll, every shareholder participating in person or represented by proxy or by: letter of representation and entitled to vote shall be
+
+entitled to that proportion of the total votes in the Company which is the aggregate amount of the nominal value of all shares issued
+
+by the Company.
+
+This Notice of AGM includes the attached proxy form.
+
+PBT GROUP
+
+INTEGRATED REPORT 2021
+
+113 >
+
+letter of
+
+representation to participate in the AGM, in the manner stipulated
+
+in their custody agreement. These instructions must be provided to
+
+the CSDP or broker by the cut-off time and date advised by the CSDP
+
+or broker, to accommodate such requests.
+
+TMS will assist shareholders with the requirements for electronic
+
+participation in, and/ or voting at the AGM. TMS is further obliged
+
+to validate (in correspondence with PBT Group and, in particular,
+
+the Transfer Secretary, JSE Investor Services Proprietary Limited (JIS)
+
+and shareholders’ CSDPs) each such shareholder’s entitlement to
+
+participate in and/or vote at the AGM, before providing it with the
+
+necessary means to access the AGM and/or the associated voting
+
+platform.
+
+Shareholders will be liable for their own network charges in relation
+
+to electronic participation in and/or voting at the AGM. Any such
+
+charges will not be for the account of the JSE, PBT Group and/or
+
+TMS. None of the JSE, PBT Group or TMS can be held accountable
+
+in the case of loss of network connectivity or other network failure
+
+due to insufficient airtime, internet connectivity, internet bandwidth
+
+and/or power outages which prevents any such shareholder from
+
+participating in and/or voting at the AGM.
+
+Shareholders are reminded that they are still able to vote
+
+normally through proxy submission, despite deciding to
+
+participate either electronically or not at all in the AGM.
+
+Shareholders are strongly encouraged to submit votes by proxy
+
+in advance of the AGM to JSE Investor Services Proprietary
+
+Limited, 13th Floor, 19 Ameshoff Street, Braamfontein, 2001
+
+(PO Box 4844, Johannesburg, 2000) South Africa, e-mail
+
+meetfax@jseinvestorservices.co.za or facsimile 086 674 2450 by
+
+no later than 10:00 on Wednesday, 4 August 2021.
+
+Kindly ensure that TMS is copied when submitting all completed
+
+proxy forms and/or letters of representation to JIS.
+
+Please forward all relevant information to the below-mentioned:
+
+The Meeting Specialist Proprietary Limited
+
+JSE Building
+
+One Exchange Square
+
+2 Gwen Lane
+
+Sandown
+
+South Africa
+
+2196
+
+Attention: Michael Wenner, Farhana Adam or Izzy van Schoor
+
+Tel: +27 11 520 7950/1/2
+
+E-mail: michael.wenner@tmsmeetings.co.za
+
+E-mail: farhana.adam@tmsmeetings.co.za
+
+E-mail: izzy.vanschoor@tmsmeetings.co.za
+
+E-mail: proxy@tmsmeetings.co.za
+
+As required in terms of section 63(1) of the Companies Act,
+
+before any person may attend or participate in the AGM, that
+
+person must present reasonably satisfactory identification and
+
+the presiding person at the meeting must be reasonably satisfied
+
+that the right of that person to participate and vote, either as a
+
+shareholder or as a proxy for a shareholder, has been reasonably
+
+verified. So as to comply with this verification procedure set out
+
+in section 63(1) of the Companies Act, shareholders wishing
+
+to participate electronically in the AGM are required to deliver
+
+written notice to TMS or JIS by e-mail to proxy@tmsmeetings.
+
+co.za or meetfax@jseinvestorservices.co.za by no later than 10:00
+
+on Wednesday, 4 August 2021 that they wish to participate via
+
+electronic communication at the AGM (the electronic notice). For
+
+the electronic participation to be valid, it must contain:
+
+•
+
+if the shareholder is an individual, a certified copy of his
+
+original identity document and/or passport and/or driver’s
+
+licence;
+
+•
+
+if the shareholder is not an individual, a certified copy of a
+
+resolution by the relevant entity and a certified copy of the
+
+identity documents and/or passports of the persons who
+
+passed the relevant resolution, which resolution must set out
+
+who from the relevant entity is authorised to represent the
+
+relevant entity at the AGM via electronic communication; and
+
+•
+
+a valid e-mail address and/or mobile telephone number
+
+(the contact e-mail address/number).
+
+SHAREHOLDER RIGHTS
+
+In terms of section 58 of the Companies Act, shareholders have
+
+rights to be represented by proxy, as herewith stated.
+
+1. At any time, a shareholder of the Company may appoint any
+
+individual, including an individual who is not a shareholder of
+
+the Company, as a proxy to:
+
+(a) participate in, and speak and vote at, a shareholders’
+
+meeting on behalf of the shareholder; or
+
+(b) give or withhold written consent on behalf of the
+
+shareholder to a decision contemplated in section 60,
+
+provided that the shareholder may appoint more than 1
+
+(one) proxy to exercise voting rights attached to different
+
+shares held by the shareholder.
+
+2. A proxy appointment:
+
+(a) must be in writing, dated and signed by the shareholder;
+
+and
+
+NOTICE OF ANNUAL GENERAL MEETING [CONTINUED]
+
+> 114:
+
+letter of representation in terms of the custody agreement
+
+entered into between the dematerialised shareholder and
+
+the CSDP or broker.
+
+9. A form of proxy shall be deemed to include the right to
+
+demand or join in demanding a poll.
+
+10. A minor must be assisted by his/her parent or guardian unless
+
+the relevant documents establishing his/her legal capacity are
+
+produced or have been registered by the Company Secretary.
+
+NOTES TO THE PROXY
+
+Registered office
+
+Postal address
+
+Transfer Secretaries
+
+2 Mews Close
+
+PO Box 276
+
+JSE Investor Services Proprietary Limited
+
+Waterford Mews
+
+Century City
+
+13th Floor, 19 Ameshoff Street, Braamfontein, 2001
+
+Century City
+
+7446
+
+PO Box 4844
+
+7441
+
+Tel: 021 551 0937
+
+Johannesburg, 2000:
+
+Letter to Stakeholders,
+
+but wish to receive a capital reduction distribution, you must complete this Form of Election.
+
+By completing this form, you confirm that you are the rightful shareholder of the relevant PBT Group ordinary shares (PBT Shares), that
+
+you have full legal capacity to contract, that you are in possession of the: Letter to Stakeholders and that you understand the implications
+
+of the election offered to you in the Letter to Stakeholders to which this form is attached.
+
+PBT Group Limited
+
+dividend from income
+
+reserves
+
+PBT Group Limited
+
+capital reduction
+
+distribution
+
+Election – Election regarding the PBT Group Limited distribution
+
+(insert the number of PBT Shares that you wish to apply to each of the options)
+
+Notes
+
+1. Elections made in terms of this form are irrevocable and may not be withdrawn once submitted.
+
+2. The Form of Election must only be used by certificated shareholders.
+
+3. All dematerialised shareholders are reminded that the onus is on them to communicate with their Central Securities Depository
+
+Participant (CSDP) or broker.
+
+4. Forms of election should be lodged with or mailed to:
+
+JSE Investor Services Proprietary Limited
+
+13th Floor, 19 Ameshoff Street, Braamfontein, 2001
+
+PO Box 4844
+
+Johannesburg, 2000
+
+meetfax@jseinvestorservices.co.za
+
+To be received by no later than 12:00 on 6 August 2021.
+
+5. Any alteration or correction made to this Form of Election, other than the deletion of alternatives, must be initialled by the signatory/ies.
+
+Signed at _____________________________________________________ on ____________________________________ 20______.
+
+Signature ___________________________________________________________________________________________________
+
+Assisted by (if applicable) _______________________________________________________________________________________
+
+Address ____________________________________________________________________________________________________
+
+Telephone number ___________________________________________________________________________________________
+
+Cell phone number ____________________________________________________________________________________________
+
+PBT GROUP LIMITED
+
+(Incorporated in the Republic of South Africa)
+
+(Registration number: 1936/008278/06)
+
+JSE share code: PBG ISIN: ZAE000256319
+
+(“PBT Group” or “the Company” or “the Group”)
+
+FORM OF
+
+ELECTION
+
+(FOR USE BY CERTIFICATED SHAREHOLDERS ONLY)
+

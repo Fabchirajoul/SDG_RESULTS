@@ -1,0 +1,2852 @@
+Letter
+
+16
+
+Board of Directors
+
+20
+
+Leadership Speak
+
+22
+
+Management & Board Reports
+
+Management Discussion and Analysis
+
+Industry Overview
+
+26
+
+Business Overview
+
+26
+
+Our Business Strategy
+
+28
+
+Operating Segment Overview
+
+31
+
+Good Governance and Management Practices
+
+36
+
+Capitals and Value Creation
+
+39
+
+Financial Capital
+
+43
+
+Human Capital
+
+53
+
+Intellectual Capital
+
+56
+
+Social & Relationship Capital
+
+58
+
+Natural Capital
+
+63
+
+Board’s Report
+
+69
+
+Corporate Governance Report
+
+115
+
+Financial Statements
+
+Standalone Financial Statements under Ind AS
+
+137
+
+Consolidated Financial Statements under Ind AS
+
+207
+
+Consolidated Financial Statements under IFRS
+
+279
+
+Business Responsibility Report
+
+336
+
+Glossary
+
+343
+
+Cautionary Statement Regarding Forward-Looking Statement
+
+Certain statements in this annual report concerning our future growth prospects are forward-looking statements, which involve a number of risks, and uncertainties that could cause actual
+
+results to differ materially from those in such forward-looking statements. The risks and uncertainties relating to these statements include, but are not limited to, risks and uncertainties
+
+regarding fluctuations in our earnings, revenue and profits, our ability to generate and manage growth, intense competition in IT Services, our ability to maintain our cost advantage, wage
+
+increases in India, our ability to attract and retain highly skilled professionals, time and cost overruns on fixed-price, fixed-time frame contracts, client concentration, restrictions on
+
+immigration, our ability to manage our international operations, reduced demand for technology in our key focus areas, disruptions in telecommunication networks, our ability to successfully
+
+complete and integrate potential acquisitions, liability for damages on our service contracts, the success of the companies in which we make strategic investments, withdrawal of fiscal
+
+governmental incentives, political instability, war, legal restrictions on raising capital or acquiring companies outside India, unauthorized use of our intellectual property, and general economic
+
+conditions affecting our business and industry. Additional risks that could affect our future operating results are more fully described in our filings with the United States Securities and
+
+Exchange Commission. These filings are available at www.sec.gov. We may, from time to time, make additional written and oral forward-looking statements, including statements contained
+
+in the company’s filings with the Securities and Exchange Commission and our reports to shareholders. We do not undertake to update any forward-looking statement that may be made from
+
+time to time by us or on our behalf.:
+
+Dear Stakeholders,
+
+As I write this, we are in the middle of the biggest crisis we
+
+have seen in our lifetimes, the COVID-19 pandemic. So far, it
+
+has created unprecedented socioeconomic disruption, fear
+
+and the tragic loss of human life. The collapse in economic
+
+activity this time is likely at a level unseen in previous
+
+recessions. The exit path remains a vaccine and till then it is
+
+likely to be a bumpy ride with a continuous stop-start rhythm
+
+and strict health protocols.
+
+Having said that, most of us have lived through economic
+
+crises before. Each time the agony has been different but
+
+each time we have adapted and bounced back. I am hopeful
+
+that like all previous crises, the COVID-19 calamity will
+
+also pass and in time, a fresh wave of business energy
+
+will be unleashed. The next few months will be critical for
+
+organizations as they build their resilience in order to
+
+persist, resurrect their businesses and master the new
+
+business environment.
+
+Chairman’s: letter
+
+“I am confident
+
+that we will emerge
+
+from this crisis, a
+
+stronger Wipro
+
+and a more valuable
+
+partner to our
+
+clients than
+
+ever before.”
+
+Managing Director,
+
+effective July 6, 2020. Thierry brings with him an exceptional
+
+leadership track record, strong international exposure, deep
+
+strategic expertise, a unique ability to forge long-standing
+
+client relationships, and proven experience of driving
+
+transformation and managing technological disruption. I
+
+believe that Thierry is the right leader for Wipro to drive us
+
+forward in our next phase of growth.
+
+Lastly, I am truly humbled at being appointed Chairman of
+
+Wipro Limited. I have begun this journey with a deep sense
+
+of gratitude - it is both an honor and a privilege to lead our
+
+company. I am thankful to our clients, partners, and other
+
+stakeholders who have reposed their trust and confidence in
+
+me and team Wipro. We are committed to work through the
+
+current environment and our future feels bright and exciting.
+
+Together, we shall overcome and triumph!
+
+Very Sincerely,
+
+Rishad A premji
+
+Chairman
+
+Together,
+
+we shall
+
+overcome and
+
+triumph!:
+
+Managing Director of the Company with
+
+effect from July 6, 2020
+
+Thierry Delaporte*:
+
+Managing Director (Designate)
+
+Deepak M. Satwalekar 2
+
+Independent Director
+
+Arundhati Bhattacharya 3
+
+Independent Director
+
+M K Sharma
+
+Independent Director
+
+Patrick Dupuis
+
+Independent Director
+
+Dr. Patrick J Ennis
+
+Independent Director
+
+1 Appointed as Chief Executive Officer and: Managing
+
+Managing Director of the Company with effect
+
+from July 31, 2019 till the end of current tenure of
+
+his appointment i.e. January 31, 2021, in addition to
+
+his existing position as Chief Executive Officer of the
+
+Company, and whose office shall be liable to retire by
+
+rotation.
+
+Dr. Ashok S. Ganguly and Mr. N. Vaghul, retired as Independent
+
+Directors from the Board of the Company with effect from
+
+July 31, 2019. Further, Mrs. Arundhati Bhattacharya will
+
+step down as an Independent Director from the Board of
+
+the Company with effect from close of business hours on
+
+June 30, 2020. The Board places on record the immense
+
+contributions made by Dr. Ashok S. Ganguly, Mr. N. Vaghul and
+
+Mrs. Arundhati Bhattacharya to the growth of your Company
+
+over the years.
+
+On January 31, 2020, the Company announced that
+
+Mr. Abidali Z. Neemuchwala, Chief Executive Officer and: Managing
+
+Managing Director
+
+Chief Financial Officer
+
+Bengaluru
+
+May 29, 2020:
+
+Managing Director
+
+18.15
+
+495.10
+
+495.10
+
+Azim H. Premji (3)
+
+Founder Chairman
+
+NA
+
+15.70
+
+15.70
+
+Remuneration paid to Other Directors
+
+Name of Directors
+
+Designation
+
+% Increase/Decrease of
+
+remuneration in 2020 as
+
+compared to 2019*
+
+Ratio of
+
+remuneration to
+
+MRE*
+
+Ratio of
+
+remuneration to
+
+MRE and WTD *
+
+Azim H. Premji (3)
+
+Founder Chairman
+
+NA
+
+7.80
+
+7.80
+
+Ireena Vittal
+
+Independent Director
+
+37.93
+
+15.51
+
+15.51
+
+M. K. Sharma
+
+Independent Director
+
+47.10
+
+16.53
+
+16.53
+
+Dr. Patrick J. Ennis
+
+Independent Director
+
+7.84
+
+30.53
+
+30.53
+
+Patrick A. Dupuis
+
+Independent Director
+
+-18.46
+
+23.00
+
+23.00
+
+William A. Owens
+
+Independent Director
+
+15.46
+
+41.42
+
+41.42
+
+Arundhati Bhattacharya (4)
+
+Independent Director
+
+NA
+
+13.67
+
+13.67
+
+Dr. Ashok S. Ganguly (4)
+
+Independent Director
+
+NA
+
+4.63
+
+4.63
+
+N. Vaghul (4)
+
+Independent Director
+
+NA
+
+5.79
+
+5.79
+
+MRE – Median Remuneration of employees, WTD – Whole Time Director
+
+* Rounded-off to two decimals
+
+(1) Mr. Rishad A. Premji was appointed as Executive Chairman with effect from July 31, 2019.
+
+(2) Mr. Abidali Z. Neemuchwala was appointed as: Managing Director of the Company with effect from July 31, 2019, in addition to his existing
+
+position as Chief Executive Officer.
+
+(3) Mr. Azim H. Premji retired from the position of Executive
+
+Managing Director due to family commitments and will, however, continue to hold the office of Chief Executive Officer and: Managing
+
+Managing Director or Whole Time Director or Manager and holds by himself or along with his spouse and dependent children, not less than two
+
+percent of the equity shares of the Company.
+
+4.
+
+In terms of proviso to Rule 5 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014, particulars of employees posted and working in a country outside India,
+
+not being Directors or their relatives, have not been included in the above statement.
+
+5.
+
+Mr. Rishad A. Premji, who is in the employment of the Company, is the son of Mr. Azim H. Premji, Founder Chairman of the Company. Computation of remuneration of Mr. Rishad A. Premji,
+
+Chairman, includes cash bonus (part of his allowances) on an accrual basis, which is payable over a period of time.
+
+*
+
+The Company announced on January 31, 2020 that Mr. Abidali Z. Neemuchwala has resigned from the position of Chief Executive Officer and: Managing Director due to family commitments
+
+and will, however, continue to hold the office of Chief Executive Officer and Managing Director until a successor is appointed. The Board of Directors has, at its meeting held on May 29, 2020,
+
+noted the resignation of Mr. Abidali Z. Neemuchwala as the Chief Executive Officer and Managing Director with effect from the end of the day on June 1, 2020. Compensation for the year
+
+ended March 31, 2020 includes cost of accelerated vesting of unested options and variable pay.
+
+#
+
+Figures mentioned in ` are equivalent of amounts paid in US$.
+
+** Mr. Rishad A. Premji was appointed as Executive
+
+Managing Director
+
+Hariprasad Hegde
+
+22-Apr-02
+
+40,583,367
+
+B. Tech, B.Sc, PG Diploma
+
+58
+
+36
+
+Satyam Computer
+
+Services Limited
+
+Vice President
+
+Muralidharan S
+
+23-Apr-15
+
+15,338,052
+
+B.Sc. (Engineering) Mechanical
+
+60
+
+33
+
+Schneider Electric IT
+
+Business India Pvt. Ltd.
+
+Senior Vice President & India
+
+BU Head
+
+Neeraj Sahdev
+
+24-Mar-97
+
+16,908,726
+
+B.Tech
+
+49
+
+25
+
+Mico Inds Software
+
+Vice - President
+
+Sanjesh K Gupta
+
+04-Dec-84
+
+19,400,796
+
+Diploma, AMIE
+
+(Elec.& Communication)
+
+56
+
+35
+
+Televista Electronics –
+
+Computer Division
+
+Vice President & Head -
+
+Govt. & Defence, India
+
+Santhosh G Nair
+
+30-Apr-90
+
+13,613,082
+
+B.Tech, PGDM
+
+53
+
+30
+
+First Employment
+
+Vice President
+
+Sharada Nandakumar
+
+08-Nov-10
+
+15,294,645
+
+B.Sc.
+
+54
+
+32
+
+Amdocs
+
+Vice President
+
+Sreenath A Venkappiah
+
+29-Nov-02
+
+19,855,986
+
+BE
+
+55
+
+32
+
+Kshema Technologies
+
+Vice President
+
+Suresh Kolati
+
+15-Jun-16
+
+14,326,905
+
+BE
+
+50
+
+23
+
+Accenture
+
+Vice President & Global Head -
+
+BFSI Domain & Consulting
+
+Vasudevan A
+
+31-Mar-86
+
+21,135,214
+
+B.E., M.Tech
+
+58
+
+34
+
+First Emloyment
+
+Vice President
+
+C) Employed for Part of the Year with an average salary of ` 8.5 lakhs or above per month and posted in India
+
+Notes
+
+1. The above table contains details of employees in alphabetical order and does not include the details of remuneration drawn by the top 10 employees as their details
+
+are provided in item (A) of Annexure III to this Board’s Report.
+
+2. Remuneration comprises salary, allowances, commission, performance based payments, perquisite and Company’s contribution to provident fund and super-
+
+annuation as per the definition contained in Section 2(78) of the Companies Act, 2013 paid during the year. It also includes perquisites value of Restricted Stock Units
+
+(RSUs) exercised, if any, by employees.
+
+3. The nature of employment is contractual in all the above cases
+
+4. None of the employees except Mr. Azim H. Premji, Founder Chairman, holds 2% or more of the paid-up equity share capital of the Company as per clause (iii) of sub-
+
+rule (2) of Rule 5 of Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014.
+
+5. In terms of the proviso to Rule 5 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014, particulars of employees posted and
+
+working in a country outside India, not being Directors or their relatives, have not been included in the above statement.
+
+*
+
+Mr. Azim H. Premji retired from the position of Executive Chairman and: Managing Director with effect from July 30, 2019. The remuneration disclosed above is for the
+
+period from April 1, 2019 to July 30, 2019. Mr. Azim H. Premji is the father of Mr. Rishad A. Premji,
+
+Managing Director of the Company, whose period of office
+
+was liable to expire on July 30, 2019 was re-appointed
+
+and designated as Non-Executive, Non-Independent
+
+Director of the Company for a period of five years with
+
+effect from July 31, 2019.
+
+c.
+
+Mr. Rishad A. Premji (DIN: 02983899) Whole Time Director
+
+(designated as Executive Director and Chief Strategy
+
+Officer) of the Company whose period of office was liable
+
+to expire on April 30, 2020 was re-appointed as Whole
+
+Time Director (designated as “Executive Chairman”) of
+
+the Company for a period of five years with effect from
+
+July 31, 2019.
+
+d.
+
+Mr. Abidali Z. Neemuchwala (DIN: 02478060) Whole Time
+
+Director who was earlier designated as Chief Executive
+
+Officer and Executive Director was designated as Chief
+
+Executive Officer and: Managing
+
+letter:
+
+1.
+
+Maintenance of secretarial record is the responsibility of
+
+the management of the company. Our responsibility is to
+
+express an opinion on these secretarial records based on
+
+our audit.
+
+2.
+
+We have followed the audit practices and processes
+
+as were appropriate to obtain reasonable assurance
+
+about the correctness of the contents of the Secretarial
+
+records. The verification was done on test basis to ensure
+
+that correct facts are reflected in secretarial records. We
+
+believe that the processes and practices, we followed
+
+provide a reasonable basis for our opinion.
+
+3.
+
+We have not verified the correctness and appropriateness
+
+of financial records and Books of Accounts of the
+
+company.
+
+4.
+
+Wherever required, we have obtained the Management
+
+representation about the compliance of laws, rules and
+
+regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of Corporate and other
+
+applicable laws, rules, regulations, standards is the
+
+responsibility of management. Our examination was
+
+limited to the verification of procedures on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as
+
+to the future viability of the company nor of the efficacy
+
+or effectiveness with which the management has
+
+conducted the affairs of the company.
+
+For V. SREEDHARAN & ASSOCIATES
+
+Company Secretaries
+
+(V. Sreedharan)
+
+Partner
+
+FCS: 2347; CP No. 833
+
+Bengaluru
+
+May 29, 2020
+
+Annexure -1:
+
+letter and spirit of being a responsible business.
+
+Our goals are centered around (i) making Wipro more
+
+sustainable as defined by the triple bottom-line framework
+
+and (ii) contributing to a more just, inclusive and sustainable
+
+society through our work in Education, Ecology, Primary
+
+Health Care and Disaster Response.
+
+Our areas of work span a wide range- Energy and Climate
+
+Change, Water, Solid Waste, Biodiversity, Urban Ecology
+
+and Public Spaces, issues of Quality, Access and Inclusion
+
+in Education, Sustainability in Education and Access to
+
+Primary Health Care for the disadvantaged sections. Our
+
+approach emphasizes depth and a systemic, long term
+
+view that informs the way we choose our areas of work, the
+
+partners we collaborate with and the bedrock of ethics and
+
+good governance that underlies all our programs. Collectively,
+
+these initiatives help in enhancing social and natural capital
+
+while our workplace culture of diversity, inclusion and
+
+employee empowerment strengthen human capital. Value is
+
+created when all these capitals reinforce each other.
+
+During the reporting year, we made significant progress on
+
+our goals through our extensive network of nearly 200 civil
+
+society and academic partner organizations across India
+
+and the overseas geographies where we have presence- US,
+
+UK, Europe, LATAM and APAC. A detailed articulation of our
+
+programs is available in the MD&A Report forming part of this
+
+Annual Report. The articulation is aligned with the integrated
+
+multiple capitals approach and covers salient facts, metrics
+
+and narratives on our goals, programs, outcomes and
+
+governance.
+
+Towards the end of the financial year, the whole world came
+
+face to face with the COVID-19 crisis, an unprecedented
+
+challenge for humanity. The multi-dimensional nature of the
+
+crisis- healthcare, humanitarian, economic and social- poses
+
+a particularly daunting challenge. At Wipro, we have made a
+
+commitment of ` 100 crores for FY21 towards our COVID-19
+
+response. In combination with the commitments of Azim
+
+Premji Foundation (` 1,000 Cr) and Wipro Enterprises Private
+
+Limited (` 25 Cr), we are weaving together an integrated
+
+response that addresses the different facets of the problem
+
+in a holistic manner. We recognize that the COVID-19 crisis
+
+is going to be with us for some time and therefore, our
+
+commitment is not just for immediate short-term relief but
+
+designed for impact over the medium and long term as well.
+
+Lastly, we would like to highlight that our COVID-19 financial
+
+commitment is in addition to our regular CSR work that
+
+we will continue to strengthen and focus on in the coming
+
+year.
+
+Summary of CSR spend for financial year 2019-20 is provided
+
+in the following pages.
+
+Annexure V:
+
+Managing Director, Whole Time Directors and/or Manager
+
+(` in Crores)
+
+Sl.
+
+No.
+
+Particulars of Remuneration
+
+Name of MD/WTD/Manager
+
+Rishad A. Premji(1)(4)
+
+Abidali Z
+
+Neemuchwala(2)(3)
+
+Azim H. Premji (4)(5)
+
+1
+
+Gross salary
+
+(a) Salary as per provisions contained in section 17(1) of the
+
+Income-tax Act, 1961
+
+1.31
+
+7.64
+
+0.10
+
+(b) Value of perquisites u/s 17(2) Income-tax Act, 1961
+
+0.98
+
+-
+
+0.72
+
+(c) Profits in lieu of salary under section 17(3)
+
+Income-Tax Act, 1961
+
+-
+
+-
+
+-
+
+2
+
+Stock Options
+
+-
+
+15.45
+
+-
+
+3
+
+Sweat Equity
+
+-
+
+-
+
+-
+
+4
+
+Commission
+
+- as % of net profits
+
+-
+
+-
+
+-
+
+- others
+
+-
+
+-
+
+-
+
+5
+
+Others-Variable Pay
+
+-
+
+9.15
+
+-
+
+6
+
+Allowances & Other Annual Compensation
+
+2.50
+
+-
+
+0.04
+
+7
+
+Retirals
+
+0.35
+
+0.03
+
+0.16
+
+Total (A)
+
+5.15
+
+32.28
+
+1.02
+
+Ceiling as per the Companies Act, 2013
+
+` 1,117 (being 10% of Net Profits of the Company as calculated
+
+under Section 198 of the Companies Act, 2013)
+
+(1)
+
+Mr. Rishad A. Premji’s compensation also included cash bonus (part of his allowances) on an accrual basis, which is payable over a period
+
+of time.
+
+(2)
+
+Figures mentioned in ` are equivalent of amounts paid in US $.
+
+(3)
+
+The Company announced on January 31, 2020 that Mr. Abidali Z. Neemuchwala has resigned from the position of Chief Executive
+
+Officer and: Managing Director due to family commitments and will, however, continue to hold the office of Chief Executive Officer and
+
+Managing Director until a successor is appointed. The Board of Directors has, at its meeting held on May 29, 2020, noted the resignation of
+
+Mr. Abidali Z. Neemuchwala as the Chief Executive Officer and Managing Director with effect from the end of the day on June 1, 2020.
+
+Compensation for Mr. Abidali Z. Neemuchwala for the year ended March 31, 2020 includes cost of accelerated vesting of unvested options
+
+and variable pay.
+
+(4)
+
+In view of the current situation caused by COVID-19, uncertainty in business is likely to last for the next few months. To show solidarity with
+
+the team in facing the challenge:
+
+•
+
+Mr. Azim H. Premji, Founder
+
+Managing Director
+
+Purchase - 19/04/2019 (Exercise of RSU)
+
+320,000
+
+-
+
+746,666
+
+0.01
+
+Purchase - 13/09/2019 (Exercise of RSU)
+
+160,000
+
+-
+
+906,666
+
+0.02
+
+Sale - 13/09/2019
+
+(RSUs through cashless mode)
+
+(66,978)
+
+-
+
+839,688
+
+0.01
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+839,688
+
+0.01
+
+M. K. Sharma
+
+Opening Balance - 01/04/2019
+
+-
+
+-
+
+-
+
+-
+
+Independent Director
+
+Purchase/Sale
+
+-
+
+-
+
+-
+
+-
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+-
+
+-
+
+Ireena Vittal
+
+Opening Balance - 01/04/2019
+
+-
+
+-
+
+-
+
+-
+
+Independent Director
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+-
+
+-
+
+Patrick J Ennis
+
+Opening Balance - 01/04/2019
+
+-
+
+-
+
+-
+
+-
+
+Independent Director
+
+Purchase/Sale
+
+-
+
+-
+
+-
+
+-
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+-
+
+-
+
+Patrick A. Dupuis
+
+Opening Balance - 01/04/2019
+
+-
+
+-
+
+-
+
+-
+
+Independent Director
+
+Purchase/Sale
+
+-
+
+-
+
+-
+
+-
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+-
+
+-
+
+Arundhati Bhattacharya
+
+Opening Balance - 01/04/2019
+
+-
+
+-
+
+-
+
+-
+
+Independent Director
+
+Purchase/Sale
+
+-
+
+-
+
+-
+
+-
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+-
+
+-
+
+Jatin Pravinchandra Dalal ^
+
+Opening Balance - 01/04/2019
+
+23,850
+
+0.00
+
+-
+
+-
+
+Chief Financial Officer
+
+Purchase - 03/05/2019 (Exercise of RSU)
+
+80,000
+
+-
+
+103,850
+
+0.00
+
+Sale - 22/07/2019
+
+(50,000)
+
+53,850
+
+0.00
+
+Buyback- 09/09/2019
+
+(5,029)
+
+-
+
+48,821
+
+0.00
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+48,821
+
+0.00
+
+M Sanaulla Khan
+
+Opening Balance - 01/04/2019
+
+16,000
+
+0.00
+
+-
+
+-
+
+Company Secretary
+
+Sale - 10/05/2019
+
+(15,400)
+
+-
+
+600
+
+0.00
+
+Purchase - 12/09/2019 (Exercise of RSU)
+
+7,360
+
+-
+
+7,960
+
+0.00
+
+Closing Balance - 31/03/2020
+
+-
+
+-
+
+7,960
+
+0.00
+
+# Shares are held jointly with a member of his immediate family.
+
+@ Includes shares held jointly by Mr. Azim H. Premji and members of his immediate family.
+
+$ Retired as Independent Director from the Board of the Company with effect from July 31, 2019
+
+&
+
+Represents ADSs having equivalent underlying equity shares.
+
+^
+
+Includes shares held jointly by Mr. Jatin Pravinchandra Dalal and a member of his immediate family.
+
+Percentage change in shareholding at the end of the year is as a result of respective participation in the buyback, overall reduction of
+
+paid-up share capital consequent to buyback and dilution on account of allotment of equity shares to employees pursuant to exercise of
+
+stock options.:
+
+letter of appointment outlining
+
+his/her role, function, duties and responsibilities as a
+
+Director. The template of the: letter of appointment is
+
+available on our website at https://www.wipro.com/
+
+investors/corporate-governance/.
+
+Details
+
+of
+
+Managing Director and Whole Time Directors in a
+
+financial year shall not exceed 1% of the net profits
+
+of the Company, in terms of Section 197 of the
+
+Companies Act, 2013 and computed in the manner
+
+referred to in Section 198 of the Companies Act,
+
+2013.
+
+b) Maintenance of Founder Chairman’s office including
+
+executive assistant at Company’s expense.
+
+c)
+
+Reimbursement of travel, stay and entertainment
+
+expenses actually and properly incurred in the
+
+course of business as per the Company’s policy.
+
+In determining the remuneration of Chairman, CEO and: Managing Director, and Senior Management Employees
+
+and Key Managerial Personnel, the Board Governance,
+
+Nomination and Compensation Committee and the
+
+Board shall ensure/consider the following:
+
+a)
+
+The balance between fixed and variable pay reflecting
+
+short-term and long-term performance objectives,
+
+appropriate to the working of the Company and its
+
+goals.
+
+b)
+
+Alignment of remuneration of Key Managerial
+
+Personnel and Directors with long-term interests of
+
+the Company.
+
+c)
+
+Directors forming part of the Promoter and Promoter
+
+Group shall not be entitled to receive stock options.
+
+d)
+
+Company’s
+
+performance
+
+vis-à-vis
+
+the
+
+annual
+
+achievement,
+
+individuals’
+
+performance
+
+vis-à-
+
+vis KRAs/KPIs, industry benchmark and current
+
+compensation trends in the market.
+
+The Board Governance, Nomination and Compensation
+
+Committee recommends the remuneration for the
+
+Managing Director due to family
+
+commitments and will, however, continue to hold the office of
+
+Chief Executive Officer and: Managing
+
+Managing Director with effect from the end of the day on June 1, 2020.
+
+# Mr. Azim H. Premji retired from the position of Executive Chairman and: Managing Director with effect from July 30, 2019 and was appointed
+
+as a Non-Executive, Non-Independent Director of the Company effective July 31, 2019.
+
+^ The Board of Directors has, at its meeting held on May 29, 2020, noted the resignation of Mrs. Arundhati Bhattacharya as an Independent
+
+Director with effect from close of business hours on June 30, 2020. In her resignation letter, Mrs. Arundhati Bhattacharya has indicated that
+
+the reason for her resignation is her decision to accept a full time role as Chairperson and CEO in another company. She has also confirmed
+
+that there is no other material reason, other than the reason stated in her resignation letter.
+
+$ Mr. N. Vaghul and Dr. Ashok S. Ganguly retired as Independent Directors of the Company with effect from July 31, 2019.
+
+1. Board Meeting: Mr. Abidali Z. Neemuchwala, Mr. William Arthur Owens, Dr. Patrick J. Ennis and Mr. Patrick Dupuis did not attend the Board
+
+Meeting held on June 6, 2019.
+
+2. Audit, Risk and Compliance Committee: The Committee was re-constituted during the year and Mr. M. K. Sharma was appointed as
+
+letter of comfort
+
+and other support for their day-to-day operations
+
+from time-to-time.
+
+The Company does not have any subsidiary whose income
+
+or net worth exceeds 10% of the consolidated income or
+
+net worth of the Company in the immediately preceding
+
+financial year.
+
+3.
+
+Details of non-compliance by the Company, penalties,
+
+and strictures imposed on the Company by Stock
+
+Exchanges or SEBI or any statutory authority, on any
+
+matter related to capital markets, during the last three
+
+years.
+
+The Company has complied with the requirements of the
+
+Stock Exchanges or SEBI on matters related to Capital
+
+Markets, as applicable, during the last three years.
+
+No penalties or strictures have been imposed on the
+
+Company.
+
+4.
+
+Whistle Blower Policy and affirmation that no
+
+personnel have been denied access to the Audit, Risk
+
+and Compliance Committee
+
+As detailed in the Board’s Report, the Company has
+
+adopted an Ombuds process which is a channel for
+
+receiving
+
+and
+
+redressing
+
+employees’
+
+complaints.
+
+No personnel in the Company has been denied access
+
+to the Audit, Risk and Compliance Committee or its
+
+Chairman.
+
+5.
+
+Transfer to Investor Education and Protection Fund
+
+Authority
+
+a)
+
+Pursuant to the Provisions of Section 124(6) of
+
+the Companies Act, 2013 and Investor Education
+
+and Protection Fund (IEPF) rules, during the year
+
+2019-20, unclaimed dividend for financial years
+
+2011-12 and 2012-13 of ` 7,911,052/- and
+
+` 4,094,448/- respectively, were transferred to the
+
+IEPF.
+
+b)
+
+Pursuant to the provisions of Section 124(6) of the
+
+Companies Act, 2013 and IEPF rules, during the year
+
+2019-20, 35,997 equity shares in respect of which
+
+dividend has not been claimed for the final dividend
+
+declared in financial year 2011-12 and interim
+
+dividend declared in financial year 2012-13 were
+
+transferred to the IEPF.
+
+6.
+
+Disclosures with respect to demat suspense account/
+
+unclaimed suspense account (Unclaimed Shares)
+
+Pursuant to Regulation 39 of the Listing Regulations,
+
+reminder letters have been sent to shareholders whose
+
+shares remain unclaimed from the Company. Based on
+
+their response, such shares have been transferred to
+
+“unclaimed suspense account” as per the provisions of
+
+Schedule VI of the Listing Regulations. The disclosure as
+
+required under Schedule V of the Listing Regulations is
+
+given below:
+
+Sl.
+
+No.
+
+Particulars
+
+No. of
+
+Shareholders
+
+No. of
+
+Shares
+
+1.
+
+Aggregate
+
+number
+
+of
+
+shareholders
+
+and
+
+the
+
+outstanding shares in the
+
+suspense account lying at the
+
+beginning of the year
+
+303
+
+302,659
+
+2.
+
+Number of shareholders who
+
+approached
+
+the
+
+Company
+
+for transfer of shares from
+
+suspense account during the
+
+year
+
+7
+
+30,743
+
+3.
+
+Number
+
+of
+
+shareholders
+
+to
+
+whom
+
+shares
+
+were
+
+transferred from suspense
+
+account during the year
+
+7
+
+30,743
+
+4.
+
+Aggregate
+
+number
+
+of
+
+shareholders
+
+and
+
+the
+
+outstanding shares in the
+
+suspense account lying at the
+
+end of the year
+
+296
+
+271,916
+
+5.
+
+Voting rights on these shares
+
+shall remain frozen till the
+
+rightful owner of such shares
+
+claim the same
+
+Yes:
+
+Managing Director
+
+Place: Bengaluru
+
+Date: May 29, 2020:
+
+Managing Director of the Company.
+
+ii. Re-appointment of Mr. William Arthur Owens (DIN: 00422976)
+
+as Independent Director of the Company
+
+2017-18
+
+July 19, 2018
+
+at 4:00 PM
+
+i.
+
+Re-appointment of Mrs. Ireena Vittal (DIN: 05195656) as
+
+Independent Director of the Company.
+
+2018-19
+
+July 16, 2019
+
+at 4:00 PM
+
+i.
+
+Amendments to the Articles of Association of the Company
+
+ii. Appointment of Mr. Azim H. Premji (DIN: 00234280) as
+
+Non-Executive, Non-Independent Director of the Company
+
+Details of resolutions passed through postal ballot during Financial Year 2019-20 and details of the voting pattern:
+
+The Company sought the approval of shareholders through notice of postal ballot dated April 16, 2019 for approval for Buyback
+
+of Equity Shares by way of special resolution and for appointment of Mrs. Arundhati Bhattacharya (DIN: 02011213) as an
+
+Independent Director of the Company, by way of ordinary resolution. The aforesaid resolutions were duly passed and the results
+
+of postal ballot/e-voting were announced on June 3, 2019. Mr. V. Sreedharan, Partner of V Sreedharan & Associates, Practicing
+
+Company Secretaries, was appointed as the Scrutinizer to scrutinize the postal ballot and remote e-voting process in a fair and
+
+transparent manner.
+
+Resolution
+
+No. of Votes
+
+Polled
+
+No. of Votes
+
+Cast in Favour
+
+No. of Votes
+
+Cast Against
+
+% of Votes
+
+Cast in Favour
+
+on Votes
+
+Polled
+
+% of Votes
+
+Cast Against
+
+on Votes
+
+Polled
+
+a) Approval for Buyback of Equity Shares
+
+5,416,305,336
+
+5,406,747,266
+
+9,558,070
+
+99.82
+
+0.18
+
+b) Appointment
+
+of
+
+Mrs.
+
+Arundhati
+
+Bhattacharya (DIN: 02011213) as an
+
+Independent Director of the Company
+
+5,414,103,223
+
+5,405,400,463
+
+8,702,760
+
+99.84
+
+0.16
+
+Procedure for Postal Ballot
+
+The postal ballot is conducted in accordance with the provisions contained in Section 110 and other applicable provisions,
+
+if any, of the Companies Act, 2013, read with Rule 22 of the Companies (Management and Administration) Rules, 2014. The
+
+shareholders are provided the facility to vote either by physical ballot or through e-voting. The postal ballot notice is sent to
+
+shareholders in electronic form to the email addresses, where available, or in physical form through permitted mode where
+
+email addresses are not available. The Company also publishes a notice in the newspapers in accordance with the requirements
+
+under the Companies Act, 2013.:
+
+Managing Director
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No.: 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No.: 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No.: 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020
+
+The accompanying notes form an integral part of these standalone financial statements:
+
+Managing Director
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No.. 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director (ii)
+
+Azim H Premji
+
+Non-Executive Non-Independent Director (iii)
+
+N Vaghul
+
+Non-Executive Director (iv)
+
+Dr. Ashok S. Ganguly
+
+Non-Executive Director (iv)
+
+William Arthur Owens
+
+Non-Executive Director
+
+M.K. Sharma
+
+Non-Executive Director
+
+Ireena Vittal
+
+Non-Executive Director
+
+Dr. Patrick J. Ennis
+
+Non-Executive Director
+
+Patrick Dupuis
+
+Non-Executive Director
+
+Arundhati Bhattacharya
+
+Additional Director (v)
+
+Jatin Pravinchandra
+
+Dalal
+
+Chief Financial Officer
+
+M. Sanaulla Khan
+
+Company Secretary
+
+(i) Effective July 31, 2019, Mr. Rishad A Premji was appointed as Whole-time director (designated as Chairiman by the Board of Directors
+
+of the Company).
+
+(ii) Effective July 31, 2019, Mr. Abidali Z Neemuchwala was designated and appointed as: Managing Director in addition to his existing
+
+position as Chief Executive Officer. On January 31, 2020, the Company announced that Mr. Abidali Z Neemuchwala has decided to
+
+step down from the position of Chief Executive Officer and Managing Director due to family commitments and he will continue to hold
+
+the office of Chief Executive Officer and Managing Director, until a successor is appointed, for a smooth transition and to ensure that
+
+business continues as usual. The Board of Directors has, at its meeting held on May 29, 2020, noted the resignation of Mr. Abidali Z.
+
+Neemuchwala as the Chief Executive Officer and Managing Director with effect from the end of day on June 1, 2020.
+
+(iii) On July 30, 2019, Mr. Azim H Premji retired as Executive
+
+Managing Director
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No.: 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director
+
+Firm’s Registration No: 117366W/W- 100018
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No. 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020
+
+Notes
+
+As at
+
+March 31, 2020
+
+As at
+
+March 31, 2019
+
+LIABILITIES
+
+Non-current liabilities
+
+Financial liabilities
+
+Borrowings
+
+16
+
+4,840
+
+28,368
+
+Derivative liabilities
+
+9
+
+138
+
+-
+
+Lease liabilities
+
+16
+
+12,638
+
+-
+
+Other financial liabilities
+
+17
+
+151
+
+-
+
+Deferred tax liabilities (net)
+
+28
+
+2,793
+
+3,384
+
+Non-current tax liabilities (net)
+
+13,205
+
+11,023
+
+Other non-current liabilities
+
+19
+
+3,771
+
+3,176
+
+Provisions
+
+18
+
+3,768
+
+2,084
+
+Total non-current liabilities
+
+41,304
+
+48,035
+
+Current liabilities
+
+Financial liabilities
+
+Borrowings
+
+16
+
+54,020
+
+68,085
+
+Trade payables
+
+20
+
+58,400
+
+62,660
+
+Derivative liabilities
+
+9
+
+7,231
+
+1,310
+
+Lease liabilities
+
+16
+
+6,560
+
+-
+
+Other financial liabilities
+
+17
+
+39,810
+
+29,302
+
+Contract liabilities
+
+18,775
+
+24,768
+
+Current tax liabilities (net)
+
+11,731
+
+9,541
+
+Other current liabilities
+
+19
+
+6,503
+
+7,627
+
+Provisions
+
+18
+
+13,363
+
+11,057
+
+Total current liabilities
+
+216,393
+
+214,350
+
+TOTAL LIABILITIES
+
+257,697
+
+262,385
+
+TOTAL EQUITY AND LIABILITIES
+
+812,789
+
+829,248
+
+The accompanying notes form an integral part of these consolidated financial statements:
+
+Managing Director
+
+Firm’s Registration No: 117366W/W- 100018
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No. 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No. 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No. 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director (ii)
+
+Azim H. Premji
+
+Non-Executive Non-Independent Director (iii)
+
+N Vaghul
+
+Non-Executive Director (iv)
+
+Dr. Ashok S. Ganguly
+
+Non-Executive Director (iv)
+
+William Arthur Owens
+
+Non-Executive Director
+
+M.K. Sharma
+
+Non-Executive Director
+
+Ireena Vittal
+
+Non-Executive Director
+
+Dr. Patrick J. Ennis
+
+Non-Executive Director
+
+Patrick Dupuis
+
+Non-Executive Director
+
+Arundhati Bhattacharya
+
+Non-Executive Director (v)
+
+Jatin Pravinchandra Dalal
+
+Chief Financial Officer
+
+M. Sanaulla Khan
+
+Company Secretary
+
+(i) Effective July 31, 2019, Mr. Rishad A. Premji was appointed as Whole-Time Director (designated as Chairman by the Board of Directors of the
+
+Company).
+
+(ii) Effective July 31, 2019, Mr. Abidali Z Neemuchwala was designated and appointed as: Managing Director in addition to his existing
+
+position as Chief Executive Officer. On January 31, 2020, the Company announced that Mr. Abidali Z Neemuchwala has decided to
+
+step down from the position of Chief Executive Officer and Managing Director due to family commitments and he will continue to hold
+
+the office of Chief Executive Officer and Managing Director, until a successor is appointed, for a smooth transition and to ensure that
+
+business continues as usual. The Board of Directors has, at its meeting held on May 29, 2020, noted the resignation of Mr. Abidali Z.
+
+Neemuchwala as the Chief Executive Officer and Managing Director with effect from the end of day on June 1, 2020.
+
+(iii) On July 30, 2019, Mr. Azim H. Premji retired as Executive
+
+Managing Director
+
+Firm’s Registration No: 117366W/W- 100018
+
+Vikas Bagaria
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Partner
+
+Chief Financial Officer
+
+Company Secretary
+
+Membership No. 60408
+
+Bengaluru
+
+Bengaluru
+
+May 29, 2020
+
+May 29, 2020:
+
+Managing Director
+
+Jatin P. Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+May 29, 2020
+
+Part B -Associates and Joint Ventures
+
+Name of the
+
+associates/
+
+Joint
+
+Ventures
+
+Latest
+
+audited
+
+Balance
+
+Sheet date
+
+Date on
+
+which the
+
+Associate
+
+or Joint
+
+Venture was
+
+associated
+
+or acquired
+
+No. of shares
+
+held by the
+
+Company in
+
+Associate on the
+
+yearend
+
+Amont of
+
+investment in
+
+Associates
+
+Extent of
+
+Holding (in
+
+percentage)
+
+Description
+
+of how there
+
+is significant
+
+influence
+
+Reason why
+
+the associate/
+
+joint venture
+
+is not
+
+consolidated
+
+Networth
+
+attributable to
+
+shareholding
+
+as per latest
+
+audited Balance
+
+Sheet
+
+Profit or Loss for the year
+
+Considered in
+
+Consolidation
+
+Not Considered
+
+in Consolidation
+
+Drivestream
+
+31-Dec-18
+
+12-Jun-17
+
+94,527 Seris A
+
+Preferred Stock
+
+27,865 common
+
+stock 190,525
+
+Series B Preferred
+
+stock
+
+USD 9,480,032
+
+43.75%
+
+Extent of
+
+equity holding
+
+in the associate
+
+company
+
+exceeds 20%
+
+Not
+
+Applicable
+
+USD (2,426,280)
+
+USD (269,869)
+
+USD (347,013)
+
+Denim Group
+
+Ltd.
+
+31-Dec-18
+
+1-Mar-18
+
+510 Series A
+
+Preferred Units
+
+USD 8,833,333
+
+33.33%
+
+Extent of equity
+
+holding in
+
+the associate
+
+company
+
+exceeds 20%
+
+Not
+
+Applicable
+
+USD 3,249,754
+
+USD 685,325
+
+USD 1,152,671
+
+Denim Group
+
+Management,
+
+LLC
+
+-
+
+1-Mar-18
+
+500 Membership
+
+Units
+
+USD 200,000
+
+33%
+
+Extent of equity
+
+holding in
+
+the associate
+
+company
+
+exceeds 20%
+
+Not
+
+Applicable
+
+-
+
+-
+
+-
+
+Note:
+
+(a) International TechneGroup Incorporated, International TechneGroup Ltd., MechWorks S.R.L., ITI Proficiency Ltd. and International Technegroup S.R.L. , were acquired on October 3, 2019.
+
+(b) Rational Interaction, Inc., Rational Interaction Limited and Rational Consulting Australia Pty Ltd. were acquired on February 21, 2020.
+
+(c) Wipro Information Technology Egypt SAE has been put into liquidation with effect from September 30, 2016.
+
+(d) Wipro US Foundation is yet to start operations.
+
+(e) Frontworx Informationstechnologie GmbH was merged with and into Cellent GmbH, Austria with effect from August 22, 2019. Therefore, particulars of the entity are not included in the above list.
+
+(f) Appirio GmbH is liquidated with effect from January 22, 2020. Therefore, particulars of the entity are not included in the above list.
+
+(g) Digital Aps was merged with and into Designit A/s with effect from March 16, 2020. Therefore, particulars of the entity are not included in the above list
+
+(h) Wipro Retail UK is dissolved with effect from July 23, 2019. Therefore, particulars of the entity are not included in the above list.
+
+(i) Investments excludes investments in subsidiaries and associates.
+
+(j) Indian rupee equivalents of the figures in foreign currencies of accounts of the subsidiary companies are based on the exchange rates as of the respective reporting period end dates.
+
+(k) Indian rupee equivalents of the figures in foreign currencies of accounts of the subsidiary companies are converted on the yearly average exchange rates.
+
+(*) Value is less than One Million Rupees:
+
+Managing Director (ii)
+
+Azim H Premji
+
+Non-Executive Non-Independent Director (iii)
+
+N Vaghul
+
+Non-Executive Director (iv)
+
+Dr. Ashok S. Ganguly
+
+Non-Executive Director (iv)
+
+William Arthur Owens
+
+Non-Executive Director
+
+M.K. Sharma
+
+Non-Executive Director
+
+Ireena Vittal
+
+Non-Executive Director
+
+Dr. Patrick J. Ennis
+
+Non-Executive Director
+
+Patrick Dupuis
+
+Non-Executive Director
+
+Arundhati Bhattacharya
+
+Non-Executive Director (v)
+
+Jatin Pravinchandra Dalal
+
+Chief Financial Officer
+
+(i) Effective July 31, 2019, Mr. Rishad A Premji was appointed as Whole-time director (designated as Chairman by the Board of Directors of the
+
+Company)
+
+(ii) Effective July 31, 2019, Mr. Abidali Z Neemuchwala was designated and appointed as: Managing Director in addition to his existing position
+
+as Chief Executive Officer. On January 31, 2020, the Company announced that Mr. Abidali Z Neemuchwala has decided to step down from
+
+the position of Chief Executive Officer and Managing Director due to family commitments and he will continue to hold the office of Chief
+
+Executive Officer and Managing Director, until a successor is appointed, for a smooth transition and to ensure that business continues as
+
+usual. The Board of Directors has, at its meeting held on May 29, 2020, noted the resignation of Mr. Abidali Z. Neemuchwala as the Chief
+
+Executive Officer and Managing Director with effect from the end of day on June 1, 2020.
+
+(iii) On July 30, 2019, Mr. Azim H Premji retired as Executive
+
+Managing Director.
+
+• Principle 3: Yes. The COBC is approved by the Board
+
+of Directors. Wipro Global Statement on Health and
+
+Safety has been signed by the President & Chief
+
+Human Resources Officer.
+
+• Principle 4: Yes. The COBC is approved by our
+
+Board of Directors and endorsed by our Chairman.
+
+The Policy on Corporate Social Responsibility is
+
+approved by the Board of Directors.
+
+• Principle 5: Yes. The COBC is approved by our Board
+
+of Directors and endorsed by our Chairman. The
+
+Human rights policy is endorsed by the board.
+
+• Principle 6: Yes. The COBC is approved by our
+
+Board of Directors and endorsed by our Chairman.
+
+The Policy on Ecological Sustainability has been
+
+signed by the Chief Executive Officer and Managing
+
+Director.
+
+• Principle 7: Not Applicable.
+
+• Principle 8: Yes. The Policy on Corporate Social
+
+Responsibility (CSR) is approved by the Board of
+
+Directors. The COBC is approved by our Board of
+
+Directors and endorsed by our Chairman. The Policy
+
+on Ecological Sustainability is approved by the
+
+Board and has been signed by the Chief Executive
+
+Officer and: Managing
+
+Managing Director
+
+126
+
+MD&A
+
+Management Discussion and Analysis
+
+127
+
+MFG
+
+Manufacturing and Technology
+
+128
+
+MICI
+
+Most Inclusive Companies Index
+
+129
+
+ML
+
+Machine Learning
+
+130
+
+MOU
+
+Memorandum of Understanding
+
+131
+
+MPS
+
+Managed Print Services
+
+132
+
+MRE
+
+Median Remuneration of employees
+
+133
+
+MSCI ESG
+
+Morgan Stanley Capital International
+
+Environmental Social and Governance
+
+134
+
+NASSCOM
+
+National Association of Software and
+
+Services Companies
+
+135
+
+NLP
+
+Natural Language Processing
+
+136
+
+NPS
+
+Net Promoter Score
+
+137
+
+NSE
+
+National Stock Exchange of India
+
+Limited:
+

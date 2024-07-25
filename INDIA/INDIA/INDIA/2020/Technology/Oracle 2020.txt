@@ -1,0 +1,1546 @@
+Letter to Shareholders
+
+On behalf of the Board of Directors, I am pleased to report that for the financial year ended March 31, 2020, your Company
+
+posted consolidated revenue of ₹ 48.6 billion. Consolidated net profit for the current financial year grew 6% over the previous
+
+financial year to reach ₹ 14.6 billion.
+
+Our growth streak continued with strong deal momentum around the world with wins across our platform with new and existing
+
+customers. The customers included top banks in US, Japan, Australia, Europe, APAC and Africa. A leading Japanese bank
+
+licensed Flexcube. A regional bank in Africa signed a multi country enterprise deal. LAPO Microfinance Bank, Nigeria’s largest
+
+microfinance bank with four million customers, is implementing FLEXCUBE as well as Oracle Banking Digital Experience, Oracle
+
+Banking Payments and Oracle Financial Services Analytical Applications. Central Bank of Libya in Tripoli, which includes four
+
+of Libya’s public sector banks, is also upgrading its current FLEXCUBE solution. Multiple banks including Al Nile Bank, Balad
+
+Bank in Sudan, as well as Libya’s Alyaqeen and Andalus Banks, chose Oracle Banking Digital Experience alongside FLEXCUBE
+
+to enhance their operations. Other wins for the year include, My Bucks Banking Corporation, a new banking entity in Malawi,
+
+has invested in the latest banking technology by signing a deal for Oracle FLEXCUBE Universal Banking and Oracle Banking
+
+Digital Experience. Westlake Financial Services, a Southern California based finance company has extended its relationship by
+
+signing a deal for Oracle Financial Services Lending and Leasing for servicing and collection of loans. A leading Canadian bank
+
+has extended its relationship with Oracle by signing a deal for Oracle Financial Services Analytical Applications. A top Australian
+
+bank has extended its relationship with Oracle by signing a deal for Oracle Banking Platform.
+
+Through the financial year, we continued to strengthen our solutions portfolio to help financial institutions in their
+
+transformation initiatives. We introduced Oracle Banking Enterprise Originations, localized and compliant for UK banks and
+
+building societies. We announced the availability of Oracle Financial Services Anti Money Laundering (AML) Express Edition.
+
+Targeted at small and mid-sized banks, the solution is available at a lowered total cost of ownership without compromising core
+
+functional capabilities. This is an engineering breakthrough that your Company has made possible with the use of modern
+
+cloud-compatible architectures. We launched Oracle Banking Supply Chain Finance, a comprehensive digitized end-to-end
+
+solution that supports the full lifecycle of supply chain finance across receivables and payables offering supplier centric and
+
+buyer centric financing.
+
+The Company has been at the forefront of innovation to ensure our customers stay ahead in today’s shifting business landscape.
+
+We introduced machine learning frameworks, included Chatbots and built Internet of Things (IoT) capabilities into several
+
+products. We also received a patent for our “Computerized Transaction Management Module for Blockchain Networks” that allows
+
+Oracle FLEXCUBE customers to instantly utilize the power of Blockchain. The Financial Crime and Compliance Management and
+
+Anti-Money Laundering portfolio was enhanced with new capabilities and solutions, leveraging machine learning for analytical
+
+capabilities, Robotic Process Automation (RPA) for workflows, and graphic analytics for the visualization of networks. These
+
+offerings are setting a new industry standard and turning compliance into a competitive advantage for banks.
+
+Forging a path towards better banking, our products and services continued to win us and our customers several accolades
+
+and industry recognition. Oracle FLEXCUBE has been recognized as a ‘Leader’ in the Gartner Magic Quadrant for Global Retail
+
+Core Banking, 2019. Oracle Asset Liability Management won ‘Product of the Year’ at Asia Risk Technology Awards 2019. The
+
+Company remained among the top three vendors in Chartis RiskTech100, 2020 for the fifth consecutive year, while retaining
+
+awards in two categories: core technology, data integrity and control. Arbuthnot Latham, a FLEXCUBE customer in the UK, has
+
+won the title “Bank of the Year – 2019” in the City A.M. awards beating digital challengers and some of the bigger UK high street
+
+banks. Westpac, one of our key customers in Australia, running Oracle Banking Platform, took the coveted iTnews benchmark
+
+award in finance for its work on the single view of the customer.
+
+As we closed the year, we faced the unprecedented disruption due to global COVID-19 pandemic. The Company proactively
+
+switched to work from home to keep employees safe and avoid exposure. This was the time when our customers had joined
+
+the battle with the local government in respective countries and needed our support. Our sales and services have increasingly
+
+taken on a digital format, while our robust infrastructure, business continuity programs and most importantly our people have
+
+ensured that we deliver our customer commitments with minimal disruptions. With processes that support the delivery of
+
+products, services, and software from anywhere, anytime, your Company has helped customers alleviate the negative impact
+
+of the pandemic. We have many heartening stories and accolades from our customers. While the uncertainty due to COVID-19
+
+continues, our value proposition remains very relevant and even more so as the economic recovery begins.
+
+On behalf of the Board of Directors and Management of Oracle Financial Services Software, I would like to thank you for your
+
+support through this financial year. I look forward to your continued patronage as we chart a new path towards fulfilling our
+
+mission of providing world class solutions for the financial services industry.
+
+Regards,
+
+S Venkatachalam
+
+Chairperson
+
+Oracle Financial Services Software Limited:
+
+Managing Director and Chief Executive Officer
+
+Harinderjit Singh
+
+Jane Murphy
+
+Kimberly Woolley
+
+Makarand Padalkar, Whole-time Director and Chief Financial Officer
+
+Richard Jackson
+
+Sridhar Srinivasan
+
+Vincent Secondo Grelli
+
+Yong Meng Kau
+
+Bankers
+
+Barclays Bank PLC
+
+Canara Bank
+
+Citibank, N.A.
+
+Deutsche Bank AG
+
+HDFC Bank Ltd.
+
+HSBC Bank
+
+J P Morgan Chase
+
+Kotak Mahindra Bank Ltd.
+
+Yes Bank Ltd.
+
+Company secretary and
+
+Compliance officer
+
+Onkarnath Banerjee
+
+Chief accounting officer
+
+Avadhut (Vinay) Ketkar
+
+Legal counsel
+
+Mohamed Yacob
+
+Registered office
+
+Oracle Financial Services Software
+
+Limited
+
+Oracle Park
+
+Off Western Express Highway
+
+Goregaon (East)
+
+Mumbai 400063, Maharashtra, India
+
+CIN: L72200MH1989PLC053666
+
+Registrar & Transfer Agents
+
+Link Intime India Private Limited
+
+C 101, 247 Park
+
+L B S Marg, Vikhroli (West)
+
+Mumbai 400083, Maharashtra, India
+
+Auditors
+
+Mukund M. Chitale & Co.
+
+Chartered Accountants
+
+Management team
+
+Arvind Gulhati
+
+Bindu Venkatesh
+
+Edwin Niranjan Moses
+
+George Thomas
+
+Goutam Chatterjee
+
+Gregory Chapple
+
+H S Teji
+
+Karthick R Prasad
+
+Laura Balachandran
+
+Mahesh Kandavar Rao
+
+Manish Chandra Gupta
+
+Mudit Govil
+
+Mustafa Moonim
+
+Rajaram N Vadapandeshwara
+
+Rajendra Potdar
+
+Ravikumar V
+
+S Bhargava
+
+Sanjay Bajaj
+
+Sanjay Kumar Ghosh
+
+Surendra Shukla
+
+Tushar Chitra
+
+Umesh Arora
+
+Venkatesh Srinivasan
+
+Vikram Gupta
+
+Vinayak L Hampihallikar
+
+Vivek Jalan:
+
+Managing Director and Chief Executive Officer#
+
+Mr. Chaitanya Kamat
+
+32%
+
+Whole-time Director and Chief Financial Officer@
+
+Mr. Makarand Padalkar
+
+Not Applicable
+
+Company Secretary and Compliance Officer#
+
+Mr. Onkarnath Banerjee
+
+8%
+
+*The remuneration structure of the Non-Executive, Independent Directors was revised in February 2019.
+
+# Excludes the (perquisite) value towards difference between the fair market value on the date of exercise of options and the
+
+exercise price.
+
+@Appointed as Whole-time Director and Chief Financial Officer effective from May 9, 2019.
+
+iii.
+
+The percentage increase in the Median Remuneration of Employees in fiscal 2020, as compared to fiscal
+
+2019:
+
+14%.
+
+iv.
+
+The number of permanent employees on the rolls of the Company:
+
+6,474 as on March 31, 2020.:
+
+Managing Director and Chief Executive Officer
+
+At the beginning of the year
+
+25500
+
+0.03
+
+25500
+
+0.03
+
+Transactions - purchase / (sale) from
+
+April 1, 2019 to March 31, 2020
+
+−
+
+−
+
+−
+
+−
+
+At the end of the year
+
+25500
+
+0.03
+
+3
+
+Mr. Makarand Padalkar
+
+Whole-time Director and Chief Financial Officer
+
+At the beginning of the year
+
+45590
+
+0.05
+
+45590
+
+0.05
+
+ESOP exercised on March 24, 2020
+
+10000
+
+0.01
+
+55590
+
+0.06
+
+At the end of the year
+
+55590
+
+0.06
+
+4
+
+Mr. Onkarnath Banerjee
+
+Company Secretary and Compliance Officer
+
+At the beginning of the year
+
+3
+
+0.00
+
+3
+
+0.00
+
+ESOP exercised on August 21, 2019
+
+155
+
+0.00
+
+158
+
+0.00
+
+Sale on August 28, 2019
+
+(158)
+
+0.00
+
+0
+
+0.00
+
+ESOP exercised on October 23, 2019
+
+105
+
+0.00
+
+105
+
+0.00
+
+ESOP exercised on November 20, 2019
+
+115
+
+0.00
+
+220
+
+0.00
+
+ESOP exercised on December 17, 2019
+
+94
+
+0.00
+
+314
+
+0.00
+
+Sale on December 19, 2019
+
+(100)
+
+0.00
+
+214
+
+0.00
+
+Sale on December 20, 2019
+
+(120)
+
+0.00
+
+94
+
+0.00
+
+Sale on December 26, 2019
+
+(68)
+
+0.00
+
+26
+
+0.00
+
+At the end of the year
+
+26
+
+0.00
+
+The following Directors did not held any shares during the Financial Year 2019-20:
+
+Mr. Harinderjit Singh - Director
+
+Mr. Richard Jackson - Independent Director
+
+Ms. Jane Murphy - Independent Director
+
+Mr. Sridhar Srinivasan - Independent Director
+
+Ms. Kimberly Woolley - Director
+
+Mr. Vincent Secondo Grelli - Director
+
+Ms. Maria Smith* - Director
+
+Mr. Yong Meng Kau - Director
+
+*Resigned on May 9, 2019
+
+V.
+
+Indebtness:
+
+The Company has not availed any loan during the year and is a debt-free company.:
+
+Managing Director, Whole-time Directors and / or Manager:
+
+(Amounts in ₹ million)
+
+Sr.
+
+No.
+
+Particulars of Remuneration
+
+Name of: Managing
+
+letter of even date which is annexed as Annexure A and forms an integral part of
+
+this report.:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility of the management of the company. My responsibility is
+
+to express an opinion on these secretarial records based on my audit.
+
+2.
+
+I have followed the audit practices and processes as were appropriate to obtain reasonable assurance about
+
+the correctness of the contents of Secretarial records. The verification was done on test basis to ensure that
+
+correct facts are reflected in secretarial records. I believe that the processes and practices, I followed provide a
+
+reasonable basis for my opinion.
+
+3.
+
+I have not verified the correctness and appropriateness of financial records and books of Accounts of the
+
+company.
+
+4.
+
+Where ever required, I have obtained the Management representation about the compliance of laws, rules and
+
+regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of Corporate, Specific and other applicable laws, rules, regulations, standards
+
+is the responsibility of management. My examination was limited to the verification of procedures on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as to the future viability of the company nor of the efficacy
+
+or effectiveness with which the management has conducted the affairs of the company.
+
+7.
+
+I have carried out the verification of part of the records through digital mode as well as relied upon the
+
+Management representation made by the Company due to prevailing conditions of COVID‐19 in the country.
+
+CS Prashant Diwan
+
+Practicing Company Secretary
+
+FCS: 1403 CP: 1979
+
+PR: 530/2017
+
+UDIN: F001403B000377341
+
+Date: June 24, 2020
+
+Place: Mumbai:
+
+Managing Director & Chief Executive Officer
+
+DIN: 06628566
+
+DIN: 00969094
+
+Place: Mumbai
+
+Date: June 24, 2020:
+
+Managing Director &
+
+Chief Executive Officer
+
+(DIN: 00969094)
+
+5/6
+
+Present
+
+–
+
+–
+
+–
+
+Mr. Makarand Padalkar
+
+Whole-time Director &
+
+Chief Financial Officer
+
+(DIN: 02115514)
+
+5/5
+
+Present
+
+1
+
+–
+
+–
+
+Video / audio-conferencing facilities are also used to facilitate Directors travelling / residing abroad or at other locations
+
+to participate in the meetings.:
+
+Managing Director and
+
+Chief Executive Officer, Whole-time Director and Chief Financial Officer, Chief Accounting Officer, Statutory Auditors,
+
+Internal Auditors and Legal Counsel are permanent invitees to the Audit Committee meetings. The Chairperson of the
+
+Committee was present at the last Annual General Meeting held on August 8, 2019 to address shareholders' queries.
+
+4.
+
+Nomination and remuneration committee
+
+4.1 Brief description of terms of reference
+
+The Nomination and Remuneration Committee of the Company is governed by the terms of reference adopted by the
+
+Board which are in line with the regulatory requirements mandated by the Act and the Listing Regulations. Pursuant
+
+to the amendments in the Listing Regulations, the charter of the Committee was amended at the Board Meeting held
+
+on November 13, 2019, and extract of which is given below:
+
+1.
+
+To formulate the criteria for determining qualifications, positive attributes and independence of directors;
+
+2.
+
+To recommend to the Board policies relating to the remuneration of the directors, key managerial personnel,
+
+senior management and other employees of the Company;
+
+3.
+
+To review the criteria and conduct the evaluation of performance of Directors and the Board together with Board
+
+Committees;
+
+4.
+
+To administer and deal with all matters concerning the Employee Stock Option (ESOP) Schemes including grant
+
+of stock options to the eligible directors, key managerial personnel and employees of the Company and its
+
+subsidiary companies from time to time;
+
+5.
+
+To identify the persons who are qualified to become directors and recommend to the Board their appointment
+
+/ re-appointment.
+
+4.2 Composition, meetings and attendance of the committee
+
+During the financial year 2019-20, two meetings of the Nomination and Remuneration Committee were held on
+
+June 20, 2019 and August 8, 2019. Additionally, business was also dealt with by passing circular resolutions.
+
+The details of the composition of the Committee as on March 31, 2020 and the member’s attendance at the Committee
+
+meetings during the year then ended were as under:
+
+Name of the Member
+
+Number of meetings attended
+
+Mr. Richard Jackson
+
+Chairperson, Non-Executive, Independent Director
+
+2/2
+
+Mr. Harinderjit Singh
+
+Member, Non-Executive, Non-Independent Director
+
+2/2
+
+Mr. Sridhar Srinivasan
+
+Member, Non-Executive, Independent Director
+
+2/2
+
+4.3 Performance evaluation criteria for independent directors
+
+The performance evaluation criteria for the Independent Directors is determined by the Nomination and Remuneration
+
+Committee. The factors like regular participation, business expertise, independent views, contribution in the form
+
+of knowledge sharing and guidance to strategies and risk management are amongst the performance evaluation
+
+criterions.:
+
+Managing Director and Chief Executive Officer;
+
+Whole-time Director and Chief Financial Officer of the Company are approved by the Members of the Company. The
+
+annual compensation including bonus of the Executive Directors is approved by the Nomination and Remuneration
+
+Committee within the limits approved by the Members of the Company.
+
+The Committee reviews the norms for ESOP allocation and approves the grant of the options to eligible employees.
+
+The criteria for payment of commission to the Non-Executive, Independent Directors includes a base commission plus
+
+incremental commission depending on the number and type of committees where they are members or chairpersons,
+
+and holding number of directorships in the material unlisted subsidiaries of the Company.
+
+5.1 Details of remuneration paid to the directors during the financial year 2019-20
+
+(Amounts in ₹ million, except number of OSUs)
+
+Name of the Director
+
+OSUs* granted
+
+under ESOPs
+
+during the year
+
+Salary
+
+Contribution
+
+to Provident
+
+Fund and
+
+other funds
+
+Commission
+
+paid
+
+Total
+
+Amount
+
+paid
+
+Executive Directors
+
+Mr. Chaitanya Kamat#
+
+40000
+
+42.03
+
+1.89
+
+−
+
+43.92
+
+Mr. Makarand Padalkar#@
+
+11250
+
+9.59
+
+0.78
+
+−
+
+10.37
+
+Non-Executive, Independent Directors
+
+Mr. S Venkatachalam
+
+−
+
+−
+
+−
+
+4.40
+
+4.40
+
+Ms. Jane Murphy
+
+−
+
+−
+
+−
+
+3.85
+
+3.85
+
+Mr. Richard Jackson
+
+−
+
+−
+
+−
+
+4.20
+
+4.20
+
+Mr. Sridhar Srinivasan
+
+−
+
+−
+
+−
+
+3.20
+
+3.20
+
+*OSUs or OFSS Stock Units are Stock Options granted at an exercise price equal to face value of the shares.
+
+#Excluding perquisite on ESOP, Provision for Gratuity and Compensated absence benefit, if any.
+
+@ Mr. Makarand Padalkar, Chief Financial Officer, was appointed as a Whole-time Director & Chief Financial Officer
+
+w.e.f. May 9, 2019.
+
+During the financial year ended March 31, 2020, the Nomination and Remuneration Committee granted 142,250
+
+OFSS Stock Units (OSUs) at an exercise price of ₹ 5 under OFSS Stock Plan 2014 to the eligible employees, including
+
+Directors, of the Company and its Subsidiaries as under:
+
+Date of Grant
+
+No. of OSUs granted
+
+May 13, 2019
+
+1200
+
+June 27, 2019
+
+124800
+
+September 2, 2019
+
+15000
+
+September 18, 2019
+
+500
+
+October 31, 2019
+
+750:
+
+Managing Director and
+
+Chief Executive Officer acts as the Chairperson of the Committee and the other members are Whole-time Director
+
+and Chief Financial Officer, Chief Accounting Officer, Vice President and Head-Human Resources, Legal Counsel and
+
+Compliance and Ethics Officer, Vice President Business Operations and Company Secretary and Compliance Officer.
+
+12. General body meetings
+
+Details of last three Annual General Meetings and summary of special resolutions passed therein are
+
+as under:
+
+Financial Year
+
+Date and Time
+
+Venue
+
+Gist of special resolutions passed
+
+2018-19
+
+August 8, 2019
+
+3.00 p.m.
+
+Courtyard By Marriott
+
+Mumbai International Airport
+
+C.T.S No. 215, Andheri Kurla
+
+Road, Andheri (East)
+
+Mumbai 400059
+
+Re-appointment of Mr. Sridhar Srinivasan
+
+(DIN: 07240718) as an Independent
+
+Director for a further term of five
+
+consecutive years up to March 31, 2025.
+
+2017-18
+
+August 14, 2018
+
+3.00 p.m.
+
+Rama & Sundri Watumull
+
+Auditorium, K C College
+
+124, Dinshaw Wachha Road
+
+Churchgate, Mumbai 400020
+
+Re-appointment of Mr. S Venkatachalam
+
+(DIN: 00257819) as an Independent
+
+Director for a further term of five
+
+consecutive years up to March 31, 2024.
+
+Re-appointment of Mr. Richard Jackson
+
+(DIN: 06447687) as an Independent
+
+Director for a further term of five
+
+consecutive years up to March 31, 2024.
+
+2016-17
+
+September 20, 2017
+
+2.30 p.m.
+
+Shri Bhaidas Maganlal
+
+Sabhagriha, Bhaktivedanta
+
+Swami Marg, Vile Parle (West)
+
+Mumbai 400056
+
+N.A.
+
+(i)
+
+There was no Extra-Ordinary General Meeting held during the last three financial years.
+
+(ii)
+
+There was no matter requiring approval of the Members through Postal Ballot during the financial year ended
+
+March 31, 2020.
+
+(iii)
+
+No special resolution is currently proposed to be conducted through postal ballot.
+
+13. Means of communication
+
+The Company communicates with its shareholders from time to time through multiple channels of communications
+
+such as online portals of the Stock Exchanges, press releases, annual reports, press notices and advertisements and
+
+uploading relevant information on its website.
+
+The Company’s quarterly financial results, press releases, annual reports and other relevant corporate documents are
+
+also placed on the Company’s website at www.oracle.com/financialservices and the same can be downloaded.
+
+The quarterly and annual results of the Company were published in widely circulated English and Marathi newspapers,
+
+such as Business Standard and Sakal.
+
+All the disclosures made to the Stock Exchanges are also available on the Company’s website at:
+
+www.oracle.com/financialservices.
+
+To support the ‘Green Initiative’, Members who have not yet registered their email addresses are requested to register
+
+the same with their Depository Participants (“DPs”) in case the shares are held by them in electronic form, or with the
+
+Registrar and Transfer Agents of the Company, in case the shares are held by them in physical form.:
+
+Managing Director and Chief Executive Officer of the
+
+Company.
+
+b.
+
+The Statutory Auditors have issued unmodified audit opinion / report for the financial year 2019-20.
+
+c.
+
+The Internal Auditor of the Company reports to the Audit Committee.:
+
+Managing Director & CEO
+
+Makarand Padalkar
+
+Whole-time Director & Chief Financial Officer
+
+DECLARATION REGARDING COMPLIANCE BY BOARD MEMBERS AND SENIOR MANAGEMENT PERSONNEL
+
+WITH THE COMPANY’S CODE OF CONDUCT
+
+As provided under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Board Members
+
+and Senior Management Personnel have confirmed compliance with the Code of Ethics and Business Conduct for the
+
+financial year ended March 31, 2020.
+
+For Oracle Financial Services Software Limited
+
+Chaitanya Kamat: Managing
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 00969094
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director and Chief Executive Officer
+
+Makarand Padalkar - Whole-time Director and Chief Financial Officer
+
+(Whole-time Director from May 9, 2019)
+
+Onkarnath Banerjee - Company Secretary & Compliance Officer
+
+(iv)
+
+Independent Directors
+
+S Venkatachalam
+
+Sridhar Srinivasan
+
+Richard Jackson
+
+Jane Murphy (from February 13, 2019):
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020
+
+Consolidated statement of cash flow
+
+for the year ended March 31, 2020 (continued):
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+& Chief Financial Officer
+
+& Compliance Officer
+
+DIN: 00969094
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director and Chief Executive Officer
+
+Makarand Padalkar - Whole-time Director & Chief Financial Officer
+
+(Whole-time Director from May 9, 2019)
+
+Onkarnath Banerjee - Company Secretary & Compliance Officer
+
+(v)
+
+Independent Directors
+
+S Venkatachalam
+
+Richard Jackson
+
+Sridhar Srinivasan
+
+Jane Murphy (from February 13, 2019):
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020:
+
+Managing Director
+
+ICAI Firm Registration No. 106655W
+
+DIN: 00257819
+
+& Chief Executive Officer
+
+DIN: 00969094
+
+S. M. Chitale
+
+Makarand Padalkar
+
+Onkarnath Banerjee
+
+Partner
+
+Whole-time Director
+
+Company Secretary
+
+Membership No. 111383
+
+& Chief Financial Officer & Compliance Officer
+
+DIN: 02115514
+
+ACS: 8547
+
+Mumbai, India
+
+Mumbai, India
+
+May 14, 2020
+
+May 14, 2020
+
+Statement of cash flow
+
+for the year ended March 31, 2020 (continued):
+
+managing director at STG, a leading private
+
+equity firm focused on investing in software
+
+and enterprise services companies. At STG,
+
+he was responsible for the transformation
+
+and operations of its portfolio companies
+
+with a specific focus on their use of global
+
+operating models.
+
+Earlier, Mr. Kamat worked as the CEO of a retail
+
+financial services startup and at Accenture.
+
+Joining Accenture in 1986, he worked across
+
+Accenture locations in India, United States,
+
+Sweden, Hungary, and the Philippines in a
+
+range of business consulting and large scale
+
+systems integration engagements. In his last
+
+role at Accenture, Mr. Kamat was managing
+
+partner of Accenture’s India Delivery Centre
+
+Network, which he was responsible for
+
+establishing from scratch and growing to a
+
+13,000 strong unit serving more than 200
+
+global clients.
+
+Age
+
+55 Years
+
+58 Years
+
+Date of
+
+Appointment
+
+July 10, 2013
+
+October 25, 2010
+
+Qualifications
+
+Mr. Harinderjit Singh holds a master’s degree in
+
+industrial engineering from Stanford University
+
+and
+
+a
+
+bachelor’s
+
+degree
+
+in
+
+mechanical
+
+engineering from Punjab University, India.
+
+Mr. Chaitanya Kamat obtained his masters
+
+in computer science from the University
+
+of Bombay and a post graduate diploma in
+
+management from the Indian Institute of
+
+Management, Ahmedabad.
+
+Expertise in
+
+specific Services,
+
+functional areas
+
+Over three decades of experience in managing
+
+global technology businesses. Heads the
+
+Financial Services Global Business Unit in Oracle
+
+Corporation.
+
+Having over thirty five years of financial
+
+services, product engineering, consulting
+
+and business transformation experience
+
+with over two decades of leadership and
+
+board level roles in both national and global
+
+organizations.:
+

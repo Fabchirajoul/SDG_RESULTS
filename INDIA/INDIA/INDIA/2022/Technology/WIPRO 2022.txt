@@ -1,0 +1,2266 @@
+letter to stakeholders
+
+18
+
+CEO’s: letter to stakeholders
+
+20
+
+28
+
+Management discussion and analysis
+
+IT services industry overview
+
+28
+
+Business overview
+
+29
+
+Our business strategy
+
+30
+
+ESG strategy and goals
+
+32
+
+Value creation model
+
+34
+
+Key strengths
+
+36
+
+Risk management framework
+
+42
+
+46
+
+Capital-wise review
+
+Financial capital
+
+46
+
+Human capital
+
+54
+
+Intellectual capital
+
+61
+
+Social and relationship capital
+
+65
+
+Natural capital
+
+76
+
+87
+
+Ambitions Realized•
+
+Performance snapshot
+
+For over 75 years, Wipro has believed
+
+in turning big ambitions into bold
+
+achievements. Our brand campaign,
+
+Ambitions Realized, reflects our journey
+
+as a company, and celebrates our
+
+commitment to empowering bold ideas
+
+and the success of our customers,
+
+colleagues, and communities. Further,
+
+the campaign underscores Wipro’s
+
+ambition of being an inspiration for
+
+bold action in an era of unprecedented
+
+change.
+
+Living up to this promise requires us
+
+to continually transform and reinvent
+
+ourselves and our capabilities. Over the
+
+past year, we have made significant
+
+investments and revamped how we
+
+serve clients and how we go to market
+
+in many critical areas of our business.
+
+We created Wipro FullStride Cloud
+
+Services and committed to investing
+
+$1 billion in cloud technologies,
+
+capabilities, acquisitions, and
+
+partnerships.
+
+Statutory Reports and
+
+Financial Statements
+
+Board’s Report
+
+87
+
+Corporate Governance Report
+
+116
+
+Standalone Financials under Ind AS 138
+
+Consolidated Financials under Ind AS 215
+
+Consolidated Financials under IFRS 299
+
+Business Responsibility
+
+& Sustainability Report
+
+370
+
+Payout ratio
+
+81.6%
+
+for a block of
+
+trailing three
+
+years
+
+IT Services
+
+Revenue
+
+$10.4
+
+billion
+
+27.3% YoY growth
+
+Net Income
+
+attributable to
+
+Shareholder
+
+K122
+
+billion
+
+an increase of
+
+13.2% YoY
+
+24
+
+Governance focus
+
+Board of
+
+Dear Stakeholders,
+
+I want to begin by acknowledging a historic milestone – Wipro
+
+crossed $10 billion in revenue this year. Congratulations!
+
+From this vantage point, it seems impossible to believe that
+
+Wipro was founded as a tiny oil mill in Amalner, Western India,
+
+in 1945. No one could have predicted that one day, it would
+
+morph into a global technology company with a presence
+
+across 66 countries, employing over 240,000 people. I feel
+
+humbled by the progress we have made in our 75-plus years,
+
+but also immensely proud that we accomplished this while
+
+remaining completely committed to our values.
+
+1945 was an extremely difficult year for the world. World war II
+
+had just ended, and a large part of the world lay in ruins. India
+
+was still under colonial rule and facing an uncertain future.
+
+Chairman’s: letter to stakeholders
+
+The post-war world, though, saw one of the greatest periods
+
+of economic expansion in human history.
+
+Today, we find ourselves at another crossroads. The pandemic
+
+is not yet over. Inflation is soaring. An armed international
+
+conflict is underway. The global economy is facing an
+
+uncertain future, and we are staring at a huge climate and
+
+energy crisis.
+
+And yet I remain optimistic. Because I believe that grave crises
+
+carry within them seeds of great possibilities. The fact that
+
+we had a Covid vaccine within a year of the outbreak, and that
+
+two-thirds of the world population has already received at
+
+least one dose of the vaccine, is testament to that belief.
+
+Driven by the pandemic, all of us –individuals, and businesses
+
+– have discovered new ways to work together at scale with
+
+technology. Demand for digital, cloud, data, and cybersecurity
+
+18
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited
+
+letter to stakeholders: Dear Stakeholders,
+
+Fiscal year 2022 (FY’22) was the year we started to reap the
+
+benefits of our transformation strategy and began to move
+
+the needle in every single benchmark we set for ourselves.
+
+At the end of the year, we became a $10 billion company and
+
+recorded our fastest-ever revenue growth in absolute terms.
+
+Further, we ended the year with the most robust pipeline ever.
+
+Despite an extraordinarily challenging labor market, we added
+
+new talent at a record pace, reaching a global employee pool
+
+of over 240,000.
+
+These results are reflective of the success of our bold growth
+
+strategy, our singular focus on creating value for clients, and
+
+most importantly, the unwavering dedication of our people.
+
+As we look to the year ahead, we are watching the conflict
+
+in Europe, mounting economic headwinds, and the rising
+
+inflation rates and emerging food shortages across the globe.
+
+We strongly believe in the power of technology in solving
+
+some of our most intractable problems and galvanizing the
+
+human spirit.
+
+We expect technology investments to only grow in importance
+
+in the coming years, as businesses continue to turn to
+
+cloud-based technologies and digital tools to enable an
+
+increasingly dispersed global workforce, as well as to enhance
+
+enterprise agility and speed of innovation to better prepare for
+
+the future.
+
+20
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited
+
+Managing Director
+
+Living our purpose and
+
+continuing our commitment to
+
+our employees, communities, and
+
+environment
+
+Wipro has always operated with a strong commitment to
+
+our values and purpose, conducted business responsibly,
+
+and stood by the principles of democracy, justice,
+
+and equality.
+
+As one of the only companies that gives back two thirds
+
+of its earnings to its communities, our shared sense of
+
+purpose is one of the main drivers of our success.
+
+Most recently, shaken by the armed conflict in Europe,
+
+many of our employees in countries neighboring Ukraine
+
+personally joined relief efforts, providing food and shelter
+
+for thousands of displaced people. We also partnered with
+
+Project HOPE to raise funds to support their emergency
+
+response team and partners in providing critical medical
+
+supplies and assistance to refugees.
+
+Climate change has become the greatest challenge
+
+of our era, posing a grave threat to our well-being,
+
+livelihoods, food and physical security, as well as our
+
+future development.
+
+We have long acknowledged the negative impact
+
+of climate change on our society and incorporated
+
+Environmental, Social and Governance (ESG) principles
+
+into our business. As a founding member of Transform
+
+to Net Zero, we are fully committed to reducing our
+
+emissions to zero by 2040.
+
+We recognize that the climate challenge is greater than
+
+us and requires collective action. We are now taking
+
+our learnings and applying our long-term experience
+
+in sustainability to help businesses define their ESG
+
+missions and reach higher standards. In the past year,
+
+we started creating a portfolio of sustainability solutions
+
+to accelerate how we help our clients address climate
+
+change and define optimal transitions to net zero.
+
+23
+
+Integrated Annual Report 2021-22
+
+Performance overview
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+William Arthur Owens
+
+Independent Director
+
+Deepak M. Satwalekar
+
+Independent Director
+
+Dr. Patrick J. Ennis
+
+Independent Director
+
+Tulsi Naidu
+
+Independent Director
+
+Patrick Dupuis
+
+Independent Director
+
+Ireena Vittal
+
+Lead Independent Director
+
+Six
+
+Independent Directors
+
+Two
+
+Executive Directors
+
+One
+
+Non Independent,
+
+Non Executive Director
+
+Board Composition
+
+Member
+
+Audit, Risk and Compliance
+
+Committee
+
+Board Governance, Nomination and
+
+Compensation Committee
+
+(also acts as CSR Committee)
+
+Chairman
+
+Audit, Risk and Compliance
+
+Committee
+
+Administrative and Shareholders/
+
+Investors Grievance Committee
+
+(Stakeholders Relationship
+
+Committee)
+
+Member
+
+Audit, Risk and Compliance
+
+Committee
+
+Member
+
+Board Governance, Nomination and
+
+Compensation Committee
+
+(also acts as CSR Committee)
+
+Chairman
+
+Board Governance, Nomination
+
+and Compensation Committee
+
+(also acts CSR Committee)
+
+Member
+
+Administrative and Shareholders/
+
+Investors Grievance Committee
+
+(Stakeholders Relationship Committee)
+
+Member
+
+Administrative and Shareholders/
+
+Investors Grievance Committee
+
+(Stakeholders Relationship Committee)
+
+Female
+
+22%
+
+Male
+
+78%
+
+Board nationality
+
+Board gender diversity
+
+Foreign
+
+nationals
+
+56%
+
+Indian
+
+44%
+
+Board age profile
+
+35-55 years
+
+45%
+
+>70 years
+
+33%
+
+56-70 years
+
+22%
+
+Board demographics
+
+25
+
+24
+
+Integrated Annual Report 2021-22
+
+Wipro Limited | Ambitions Realized
+
+Governance focus
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Stephanie Trautman
+
+Chief Growth Officer
+
+Angan Guha
+
+CEO - Americas 2
+
+Saurabh Govil
+
+Chief Human Resources Officer
+
+Anis Chenchah
+
+CEO - APMEA (Asia Pacific,
+
+India, Middle East & Africa)
+
+Rajan Kohli
+
+Managing Partner - iDEAS
+
+Business Line
+
+Nagendra P Bandaru
+
+Managing Partner - iCORE
+
+Business Line
+
+Jatin Dalal
+
+Chief Financial Officer
+
+Pierre Bruno
+
+CEO - Europe
+
+Srini Pallia
+
+CEO - Americas 1
+
+Sanjeev Singh
+
+Chief Operations Officer
+
+27
+
+26
+
+Integrated Annual Report 2021-22
+
+Wipro Limited | Ambitions Realized
+
+Governance focus
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+24.02
+
+1006.31
+
+1006.31
+
+MRE – Median Remuneration of employees, WTD – Whole-Time Director
+
+* Rounded off to two decimals
+
+(1) Mr. Thierry Delaporte was appointed as the Chief Executive Officer and: Managing Director of the Company with effect from July 6, 2020 and hence the
+
+remuneration is not comparable. The remuneration of Chief Executive Officer and Managing Director is computed on an accrual basis. It also includes the
+
+amortization of RSUs granted to him, which will vest over a period of time and the RSUs that will vest based on performance parameters of the Company. The
+
+remuneration disclosed includes components such as a one-time cash award, as per the terms approved by the shareholders at the Annual General Meeting
+
+held in July 2020.
+
+Remuneration paid to other Directors
+
+Name of Directors
+
+Designation
+
+% increase/decrease of
+
+remuneration in 2022 as
+
+compared to 2021*
+
+Ratio of remuneration to
+
+MRE*
+
+Ratio of remuneration
+
+to MRE and WTD*
+
+Azim H. Premji
+
+Founder
+
+Managing Director, is based on clearly laid out criteria
+
+and measures, which are linked to the desired performance and business objectives of the organization. The criteria for variable pay,
+
+which is paid out quarterly/annually, includes financial parameters like revenue, profit achievement, operating margin achievement
+
+and other strategic goals as decided by the Board from time to time.
+
+Apart from the variable pay component, long term (typically greater than one year) incentives granted to executive officers, including
+
+the Chief Executive Officer and: Managing
+
+Managing Director
+
+2.
+
+Bhanumurthy B M
+
+03-09-1992
+
+331,988,740
+
+B.Tech, PGDM
+
+58
+
+35
+
+CMC Ltd
+
+President
+
+and
+
+Chief
+
+Operating Officer
+
+3.
+
+Saurabh Govil
+
+11-05-2009
+
+162,538,240
+
+B.Sc, PGDM - PM & IR
+
+54
+
+33
+
+GE India
+
+President and Chief Human
+
+Resources Officer
+
+4.
+
+Rishad A. Premji
+
+20-07-2007
+
+138,009,178
+
+B.A, MBA
+
+45
+
+23
+
+Bain & Company
+
+Executive Chairman
+
+5.
+
+Kumudha Sridharan
+
+31-05-1995
+
+132,505,492
+
+BE
+
+58
+
+35
+
+ITI Ltd
+
+Senior Vice President
+
+6.
+
+Jatin Pravinchandra Dalal*
+
+01-07-2002
+
+120,719,970
+
+BE, CA, PGDBA, CFA
+
+(USA), CGMA (UK),
+
+CMA
+
+47
+
+23
+
+GE India
+
+President
+
+and
+
+Chief
+
+Financial Officer
+
+7.
+
+Kiran K Desai
+
+21-09-1998
+
+92,461,540
+
+BE, PG Diploma
+
+56
+
+35
+
+Unicorp
+
+Industries
+
+Senior Vice President - GIS
+
+8.
+
+Sunita Cherian
+
+04-11-1996
+
+65,867,546
+
+B.Tech, PGDBA
+
+48
+
+25
+
+First Employment
+
+Senior Vice President -
+
+Human Resources
+
+9.
+
+Deepak Acharya
+
+01-02-2018
+
+54,342,082
+
+B.Sc, LLB, FCS
+
+54
+
+26
+
+Procter & Gamble
+
+Singapore
+
+Senior Vice President &
+
+General Counsel
+
+10.
+
+Dipak Kumar Bohra
+
+14-06-2002
+
+50,296,496
+
+B.Com, CA, ICWAI
+
+49
+
+25
+
+Aditya
+
+Birla
+
+Group
+
+Senior Vice President and
+
+Chief of Internal Audit
+
+Notes:
+
+1.
+
+Remuneration comprises salary, allowances, commission, performance based payments, perquisite and Company’s contribution to Provident Fund and super-annuation as
+
+per definition contained in Section 2(78) of the Companies Act, 2013, paid during the year. It also includes perquisites value of Restricted Stock Units (RSUs) exercised, if any,
+
+by employees.
+
+2.
+
+The nature of employment is contractual in all the above cases.
+
+3.
+
+In terms of proviso to Rule 5 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014, particulars of employees posted and working in a
+
+country outside India, not being Directors or their relatives, have not been included in the above statement.
+
+4.
+
+Mr. Rishad A. Premji, who is in the employment of the Company, is the son of Mr. Azim H. Premji, Founder Chairman of the Company. Computation of remuneration of Mr. Rishad
+
+A. Premji, Chairman includes cash bonus (part of his salary) on an accrual basis, which is payable over a period of time.
+
+#
+
+Figures mentioned in ` are equivalent of amounts paid in foreign currency, as may be applicable. It includes components such as a one-time cash award, as per the terms approved by the shareholders
+
+at the Annual General Meeting held in July 2020.
+
+*
+
+Computation of remuneration to the Chief Executive Officer and: Managing
+
+Managing Director or Whole-Time Director or Manager and holds by himself or along with his spouse and
+
+dependent children, not less than two per cent of the equity shares of the Company.
+
+5. In terms of the proviso to Rule 5 of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014, particulars of employees posted and working in a
+
+country outside India, not being Directors or their relatives, have not been included in the above statement.
+
+105
+
+Integrated Annual Report 2021-22
+
+Statutory Reports and Financial Statements
+
+Compiled by: Dion Global Solutions Limited:
+
+letter of even date which is annexed as ‘Annexure -1’ and forms an integral part of this report.
+
+107
+
+Integrated Annual Report 2021-22
+
+Statutory Reports and Financial Statements
+
+Compiled by: Dion Global Solutions Limited:
+
+letter:
+
+1.
+
+Maintenance of secretarial record is the responsibility of the
+
+management of the company. Our responsibility is to express
+
+an opinion on these secretarial records based on our audit.
+
+2.
+
+We have followed the audit practices and processes as
+
+were appropriate to obtain reasonable assurance about the
+
+correctness of the contents of the Secretarial records. The
+
+verification was done on test basis to ensure that correct
+
+facts are reflected in secretarial records. We believe that the
+
+processes and practices, we followed provide a reasonable
+
+basis for our opinion.
+
+3.
+
+We have not verified the correctness and appropriateness of
+
+financial records and Books of Accounts of the company.
+
+4.
+
+Wherever required, we have obtained the Management
+
+representation about the compliance of laws, rules and
+
+regulations and happening of events etc.
+
+5.
+
+The compliance of the provisions of Corporate and other
+
+applicable laws, rules, regulations, standards is the
+
+responsibility of management. Our examination was limited
+
+to the verification of procedures on test basis.
+
+6.
+
+The Secretarial Audit report is neither an assurance as
+
+to the future viability of the company nor of the efficacy or
+
+effectiveness with which the management has conducted
+
+the affairs of the company.
+
+For V. SREEDHARAN & ASSOCIATES
+
+Company Secretaries
+
+(V. Sreedharan)
+
+Partner
+
+FCS: 2347; CP No. 833
+
+Place: Bengaluru
+
+Date: April 29, 2022
+
+UDIN: F002347D000241740
+
+Peer Review Certificate No. 589/2019
+
+108
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director is
+
+a professional CEO who is responsible for the day to day
+
+operations of the Company. Of the seven Non-Executive
+
+Directors, six are Independent Directors, free from any
+
+business or other relationship that could materially
+
+influence their judgment. In the opinion of the Board, all the
+
+Independent Directors are independent of the management
+
+and satisfy the criteria of independence as defined under
+
+the Companies Act, 2013, the Listing Regulations and the
+
+NYSE Listed Company manual.
+
+The Board is well diversified and consists of two women
+
+Independent Directors and five Directors who are foreign
+
+nationals. The profiles of our Directors are available on our
+
+website at https://www.wipro.com/leadership.
+
+2. Board Meetings
+
+The Board meeting dates are decided in consultation with
+
+the Board members. The schedule of the Board meetings
+
+and Board Committee meetings are communicated in
+
+advance to the Directors to enable them to attend the
+
+meetings.
+
+The Board meetings are normally scheduled over two
+
+days. In addition, every quarter, Independent Directors
+
+meet amongst themselves exclusively. In line with Para 4
+
+of Schedule B of SEBI (Prohibition of Insider Trading)
+
+Regulations, 2015, it is the endeavor of the Company that the
+
+gap between the clearance of accounts by audit committee
+
+and board meeting is as narrow as possible, and Wipro is
+
+committed to adhere to this requirement.
+
+3. Information flow to the Board Members
+
+Information is provided to the Board Members on a
+
+continuous basis for their review, inputs, and approval
+
+from time to time. More specifically, we present our annual
+
+strategic plan and operating plan of our business to the
+
+Board for their review, inputs, and approval. Likewise,
+
+our quarterly financial statements and annual financial
+
+statements are first presented to the Audit Committee and
+
+subsequently to the Board for their approval. In addition,
+
+various matters such as appointment of Directors and Key
+
+Managerial Personnel, corporate actions, review of internal
+
+and statutory audits, details of investor grievances, specific
+
+cases of acquisitions, important managerial decisions,
+
+material positive/negative developments, risk management
+
+initiatives including cyber security along with mitigation
+
+actions and legal/statutory matters are presented to the
+
+respective Committees of the Board and later with the
+
+recommendation of Committees to the Board of Directors
+
+for their approval as may be required.
+
+As a system, in most cases, information to Directors is
+
+submitted along with the agenda papers well in advance
+
+of the Board meeting. Inputs and feedback of Board
+
+Members are taken and considered while preparing agenda
+
+and documents for the Board meeting. Sufficient time is
+
+allocated for discussions and deliberations at the meeting.
+
+Documents
+
+containing
+
+Unpublished
+
+Price
+
+Sensitive
+
+Information are submitted to the Board and Committee
+
+Members, at a shorter notice, as per the general consent
+
+taken from the Board, from time to time.
+
+Post the Board meeting, we have a formal system for
+
+follow-up, review and reporting on actions taken by the
+
+management on the decisions of the Board and Committees
+
+of the Board.
+
+4. Appointment of Directors
+
+The Board has adopted the provisions with respect
+
+to appointment and tenure of Independent Directors
+
+consistent with the Companies Act, 2013 and the Listing
+
+Regulations.
+
+As per the provisions of the Companies Act, 2013, the
+
+Independent Directors shall be appointed for not more than
+
+two terms, of a maximum of five years each, and shall not be
+
+liable to retire by rotation.
+
+At the time of appointment of an Independent Director, the
+
+Company issues a formal: letter of appointment outlining
+
+their role, function, duties and responsibilities. The template
+
+of the letter of appointment is available on our website at
+
+https://www.wipro.com/investors/corporate-governance/
+
+policies-and-guidelines/.
+
+Details of the
+
+Managing Director
+
+and Whole-Time Director in a financial year shall
+
+not exceed 1% of the net profits of the Company, in
+
+terms of Section 197 of the Companies Act, 2013 and
+
+computed in the manner referred to in Section 198 of
+
+the Companies Act, 2013.
+
+b)
+
+Maintenance of Founder Chairman’s office including
+
+executive assistant at Company’s expense.
+
+c)
+
+Reimbursement of travel, stay and entertainment
+
+expenses actually and properly incurred in the course
+
+of business as per the Company’s policy.
+
+In determining the remuneration of Chairman, CEO and: Managing Director, Senior Management employees and Key
+
+Managerial Personnel, the Board Governance, Nomination
+
+and Compensation Committee and the Board shall ensure/
+
+consider the following:
+
+a)
+
+The balance between fixed and variable pay reflecting
+
+short
+
+and
+
+long-term
+
+performance
+
+objectives,
+
+appropriate to the working of the Company and its
+
+goals.
+
+b)
+
+Alignment of remuneration of Key Managerial
+
+Personnel and Directors with long-term interests of
+
+the Company.
+
+c)
+
+Company’s
+
+performance
+
+vis-à-vis
+
+the
+
+annual
+
+achievement, individuals’ performance vis-à-vis KRAs/
+
+KPIs, industry benchmark and current compensation
+
+trends in the market.
+
+The Board Governance, Nomination and Compensation
+
+Committee recommends the remuneration for the
+
+Managing Director of the Company to hold office for a period
+
+of five years from July 6, 2020 to July 5, 2025.
+
+At the 74th AGM, Mr. Deepak M. Satwalekar was appointed as an Independent Director for a period of five years from July 1, 2020 to June 30, 2025.
+
+Dr. Patrick J. Ennis and Mr. Patrick Dupuis were re-appointed as Independent Directors of the Company for a second term of 5 years, with effect from
+
+April 1, 2021 to March 31, 2026. The said re-appointment was approved by shareholders of the Company vide special resolutions dated June 4, 2021,
+
+passed through postal ballot by e-voting.
+
+At the 75th AGM, Ms. Tulsi Naidu was appointed as an Independent Director for a period of five years from July 1, 2021 to June 30, 2026.
+
+2.
+
+This does not include position in foreign companies and position as an advisory board member but includes position in private companies and
+
+companies under Section 8 of the Companies Act, 2013. None of our Directors hold directorship in more than seven listed companies.
+
+3.
+
+In accordance with Regulation 26 of the Listing Regulations, Membership/Chairmanship of only Audit Committees and Stakeholders’ Relationship
+
+Committees in all public limited companies have been considered.
+
+@
+
+Includes equity shares held with immediate family members.
+
+*
+
+Represents ADSs having equivalent underlying equity shares.
+
+Compiled by: Dion Global Solutions Limited:
+
+letter of comfort and
+
+other support for their day-to-day operations from
+
+time-to-time.
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+08107242
+
+06/07/2020
+
+* Mr. M. K. Sharma (DIN: 00327684) retired as Independent Director on 30.06.2021 after completing his term of office.
+
+Ensuring the eligibility for the appointment / continuity of every Director on the Board is the responsibility of the management of the
+
+Company. Our responsibility is to express an opinion based on our verification. This certificate is neither an assurance as to the future
+
+viability of the Company nor of the efficiency or effectiveness with which the management has conducted the affairs of the Company.
+
+For V. SREEDHARAN & ASSOCIATES
+
+Company Secretaries
+
+(V. Sreedharan)
+
+Partner
+
+FCS: 2347; CP No. 833
+
+Bengaluru
+
+April 29, 2022
+
+UDIN: F002347D000241905
+
+Peer Review Certificate No.589/2019
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Notes
+
+As at
+
+March 31, 2022
+
+As at
+
+March 31, 2021
+
+Provisions
+
+18
+
+641
+
+885
+
+Deferred tax liabilities (net)
+
+21
+
+-
+
+1,305
+
+Non-current tax liabilities (net)
+
+16,052
+
+9,110
+
+Other non-current liabilities
+
+19
+
+4,845
+
+4,979
+
+Total non-current liabilities
+
+28,584
+
+23,623
+
+Current liabilities
+
+Financial liabilities
+
+Borrowings
+
+15
+
+76,734
+
+58,011
+
+Lease liabilities
+
+5,15
+
+4,311
+
+4,021
+
+Derivative liabilities
+
+20
+
+585
+
+1,021
+
+Trade payables
+
+(a) Total outstanding dues of micro enterprises and small enterprises
+
+16
+
+1,117
+
+184
+
+(b) Total outstanding dues of creditors other than micro enterprises and small
+
+enterprises
+
+16
+
+45,734
+
+41,055
+
+Other financial liabilities
+
+17
+
+53,714
+
+22,049
+
+Contract liabilities
+
+21,095
+
+18,063
+
+Other current liabilities
+
+19
+
+6,426
+
+6,965
+
+Provisions
+
+18
+
+13,683
+
+15,120
+
+Current tax liabilities (net)
+
+8,338
+
+14,835
+
+Total current liabilities
+
+231,737
+
+181,324
+
+TOTAL LIABILITIES
+
+260,321
+
+204,947
+
+TOTAL EQUITY AND LIABILITIES
+
+803,828
+
+657,363
+
+The accompanying notes form an integral part of these standalone financial statements
+
+Balance Sheet
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Azim H. Premji
+
+Non-Executive non-Independent director (designated as “Founder
+
+Chairman”) (1)
+
+(` in millions, except share and per share data, unless otherwise stated)
+
+Notes to the Standalone Financial Statements
+
+208
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+(` in millions, except share and per share data, unless otherwise stated)
+
+Notes to the Standalone Financial Statements
+
+214
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+Consolidated Statement of Cash Flows
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Azim H. Premji
+
+Non-Executive non-Independent director (designated as “Founder
+
+Chairman”) (1)
+
+William Arthur Owens
+
+Independent Director
+
+M.K. Sharma
+
+Independent Director (2)
+
+Ireena Vittal
+
+Independent Director
+
+Dr. Patrick J. Ennis
+
+Independent Director
+
+Patrick Dupuis
+
+Independent Director
+
+Deepak M. Satwalekar
+
+Independent Director
+
+Tulsi Naidu
+
+Independent Director (3)
+
+Jatin Pravinchandra Dalal
+
+Chief Financial Officer
+
+M. Sanaulla Khan
+
+Company Secretary
+
+(1) Mr. Azim H. Premji is the ultimate controlling party.
+
+(2) Mr. M.K. Sharma retired as Independent Director with effect from close of business hours on June 30, 2021.
+
+(3) Ms. Tulsi Naidu was appointed as Independent Director with effect from July 1, 2021 for a term of five years.
+
+Relatives of key management personnel:
+
+– Yasmeen A. Premji
+
+– Tariq A. Premji
+
+(` in millions, except share and per share data, unless otherwise stated)
+
+Notes to the Consolidated Financial Statements
+
+286
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Membership No.: 60408
+
+Jatin Pravinchandra Dalal
+
+M. Sanaulla Khan
+
+Chief Financial Officer
+
+Company Secretary
+
+Bengaluru
+
+June 8, 2022
+
+(` in millions, except share and per share data, unless otherwise stated)
+
+Notes to the Consolidated Financial Statements
+
+292
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Chief Financial Officer
+
+Company Secretary
+
+298
+
+Wipro Limited | Ambitions Realized
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Azim H. Premji
+
+Non-Executive non-Independent director (designated as
+
+“Founder Chairman”) (1)
+
+William Arthur Owens
+
+Independent Director
+
+M.K. Sharma
+
+Independent Director (2)
+
+Ireena Vittal
+
+Independent Director
+
+Dr. Patrick J. Ennis
+
+Independent Director
+
+Patrick Dupuis
+
+Independent Director
+
+Deepak M. Satwalekar
+
+Independent Director
+
+Tulsi Naidu
+
+Independent Director (3)
+
+Jatin Pravinchandra Dalal
+
+Chief Financial Officer
+
+(1) Mr. Azim H. Premji is the ultimate controlling party.
+
+(2) Mr. M.K. Sharma retired as Independent Director with effect from close of business hours on June 30, 2021.
+
+(3) Ms. Tulsi Naidu was appointed as Independent Director with effect from July 1, 2021 for a term of five years.
+
+Relatives of key management personnel:
+
+- Yasmeen A. Premji
+
+- Tariq A. Premji
+
+The Company has the following related party transactions:
+
+Transactions / balances
+
+Entities controlled by Directors
+
+Key Management Personnel
+
+2020
+
+2021
+
+2022
+
+2020
+
+2021
+
+2022
+
+Sale of goods and services
+
+` 43
+
+` 171
+
+` 182
+
+` -
+
+` -
+
+` -
+
+Assets purchased
+
+741
+
+423
+
+158
+
+-
+
+-
+
+-
+
+Dividend
+
+3,987
+
+3,760
+
+3,760
+
+243
+
+242
+
+244
+
+Buyback of Shares
+
+69,392
+
+91,562
+
+-
+
+4,076
+
+-
+
+-
+
+Rental income
+
+45
+
+50
+
+3
+
+-
+
+-
+
+-
+
+Rent Paid
+
+2
+
+2
+
+2
+
+9
+
+7
+
+8
+
+Others
+
+119
+
+44
+
+49
+
+-
+
+-
+
+-
+
+Key management personnel *
+
+Remuneration and short-term benefits
+
+` -
+
+` -
+
+` -
+
+` 354
+
+` 741
+
+` 805
+
+Other benefits
+
+-
+
+-
+
+-
+
+178
+
+231
+
+376
+
+Balance as at the year end
+
+Receivables
+
+` 94
+
+` 241
+
+` 198
+
+` -
+
+` -
+
+` -
+
+Payables
+
+23
+
+-
+
+-
+
+166
+
+333
+
+293
+
+* Post-employment benefits comprising compensated absences is not disclosed, as this is determined for the Company as a whole. Other benefits include
+
+` 170, ` 219, and ` 368 as of March 31, 2020, 2021 and 2022, respectively towards amortization of Restricted Stock Units (“RSUs”) granted to them which
+
+vest over a period of time. This also includes RSU’s that will vest based on performance parameters of the Company.
+
+All related party transactions were entered at an arm’s length basis and in the ordinary course of business. There are no materially
+
+significant related party transactions made by the Company with Promoters, Directors or Key Managerial Personnel, which may
+
+have a potential conflict with the interests of the Company at large.
+
+(` in millions, except share and per share data, unless otherwise stated)
+
+Notes to the Consolidated Financial Statements
+
+Consolidated financial statements under IFRS
+
+365
+
+Integrated Annual Report 2021-22
+
+Statutory Reports and Financial Statements
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director, Chief Financial Officer and Company Secretary.
+
+# Our overall gender diversity stands at 36.1% and we heave nearly 20% women in our 200 senior-most leadership ranks.
+
+20. Turnover rate for permanent employees and workers:
+
+Refer to details provided in section 2.4 of the ESG Dashboard available on the Company’s website at https://www.wipro.
+
+com/investors/annual-reports/.
+
+V.
+
+Holding, Subsidiary and Associate Companies (including joint ventures)
+
+21. (a) Names of holding / subsidiary / associate companies / joint ventures:
+
+Refer to Form AOC-1 provided at page nos. 293 to 298 of this Annual Report for information on holding/subsidiary/
+
+associate companies/ joint ventures.
+
+VI. CSR Details
+
+22. (i) Whether CSR is applicable as per Section 135 of Companies Act, 2013 : Yes
+
+(ii) Turnover (` In Mn) : ` 595,744
+
+(iii) Net worth (` In Mn) : ` 543,506
+
+VII. Transparency and Disclosures Compliances
+
+23. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible
+
+Business Conduct (NGRBC):
+
+i) Employees may register their concerns through the dedicated e-mail address available (ombuds.person@wipro.com)
+
+or through the Company’s intranet portal. The Company encourages its employees to register their concerns/grievances
+
+through the Ombuds process and ensures that there is no discrimination, retaliation or harassment of any kind against
+
+any employee who reports under the vigil mechanism or participates in the investigation.
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+122
+
+MD&A
+
+Management Discussion and Analysis
+
+123
+
+MICI
+
+Most Inclusive Companies Index
+
+124
+
+ML
+
+Machine Learning
+
+125
+
+MOU
+
+Memorandum of Understanding
+
+126
+
+MRE
+
+Median Remuneration of Employees
+
+127
+
+MSCI ESG
+
+Morgan Stanley Capital International
+
+Environmental Social and Governance
+
+128
+
+MSME
+
+Micro, Small and Medium Enterprises
+
+129
+
+NASSCOM
+
+National Association of Software and
+
+Services Companies
+
+130
+
+NFT
+
+Non-fungible token
+
+131
+
+NGO
+
+Non-government organization
+
+132
+
+NLP
+
+Natural Language Processing
+
+133
+
+NPS
+
+Net Promoter Score
+
+134
+
+NSE
+
+National Stock Exchange of India Limited
+
+135
+
+NYSE
+
+New York Stock Exchange
+
+136
+
+OEM
+
+Original Equipment Manufacturer
+
+137
+
+OHSAS
+
+Occupational Health and Safety
+
+Assessment Series
+
+138
+
+OM
+
+Operating Margin
+
+139
+
+OSDU
+
+Open Subsurface Data Universe
+
+140
+
+PMI
+
+Post-Merger Integration
+
+141
+
+POS
+
+Launchpad Point of Sale
+
+142
+
+PPA
+
+Power Purchase agreements
+
+Compiled by: Dion Global Solutions Limited:
+
+Managing Director
+
+Ireena Vittal
+
+William Arthur Owens
+
+Deepak M. Satwalekar
+
+Dr. Patrick J. Ennis
+
+Patrick Dupuis
+
+Tulsi Naidu
+
+Chief Financial Officer
+
+Jatin Pravinchandra Dalal
+
+Corporate Information
+
+Statutory Auditors
+
+Deloitte Haskins & Sells LLP
+
+Auditors- IFRS
+
+Deloitte Haskins & Sells LLP
+
+Company Secretary
+
+M Sanaulla Khan
+
+Depository for American Depository Shares
+
+J.P. Morgan Chase Bank N.A.
+
+Registrar and Share Transfer Agents
+
+KFin Technologies Limited
+
+Registered & Corporate Office
+
+Wipro Limited
+
+Doddakannelli, Sarjapur Road
+
+Bengaluru – 560 035, India
+
+Ph: +91 (80) 28440011
+
+Fax: +91 (80) 28440054
+
+Website: www.wipro.com
+
+Compiled by: Dion Global Solutions Limited:
+

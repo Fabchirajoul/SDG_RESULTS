@@ -1,0 +1,2042 @@
+Managing Director
+
+Aarthi Subramanian
+
+Director:
+
+Managing Director
+
+N G Subramaniam
+
+Chief Operating Officer
+
+and Executive Director
+
+V Ramakrishnan
+
+Chief Financial Officer
+
+Milind Lakkad
+
+Global Head
+
+Human Resources
+
+Rajashree R
+
+Chief Marketing Officer
+
+K Ananth Krishnan
+
+Chief Technology Officer
+
+Rajendra Moholkar
+
+Company Secretary
+
+Madhav Anchan
+
+General Counsel Legal
+
+& Corporate Affairs
+
+TCS Annual Report 2019-20
+
+Management Team I 03
+
+Management Team
+
+Corporate:
+
+Letter from the Chairman I 05: Letter from the
+
+Letter from the Chairman I 06
+
+By staying true to its purpose and its values,
+
+and helping its employees, customers and
+
+communities use the power of technology
+
+to realize their potential, your company is the
+
+embodiment of stakeholder capitalism in the
+
+true spirit of the Tata ethos. Over the last five
+
+decades, your company has shown itself
+
+to be very purpose-driven, resilient and
+
+adaptable, staying relevant to its customers
+
+through multiple economic and technology
+
+cycles, and doing good for all its stakeholders.
+
+This is the secret behind its longevity and
+
+sustainability.
+
+The sharp shift in consumer preferences will force enterprises
+
+to significantly accelerate their digital transformation
+
+initiatives. They will also invest heavily in building resilience
+
+at every level, on the front-end as well as in back-office
+
+operations. Having pioneered Location Independent Agile™
+
+and the Machine First™ Delivery Model, both of which are of
+
+immense value to organizations looking to build operational
+
+resilience and agility, your company is very well positioned
+
+to benefit from these trends.
+
+Stepping back from the enterprise level and taking a more
+
+global view, I believe that the new world in which digital
+
+channels become mainstream, which I described in my book
+
+Bridgital Nation, will offer countries like India, a unique
+
+opportunity to implement large scale digital interventions
+
+that would provide its citizenry easier access to essential
+
+services, while creating millions of new jobs. Your company
+
+has been at the forefront in enabling several such high-
+
+impact initiatives. TCS’ Financial Inclusion Network supports
+
+over 210 million no-frills accounts set up under the Pradhan
+
+Mantri Jan Dhan Yojana. The scheme has created jobs for
+
+over 100,000 banking correspondents who go out to remote
+
+villages with handheld devices to provide banking services
+
+to the unbanked.
+
+There are several other examples: the Passport Seva project
+
+which completely reimagined the issuance of passports,
+
+the digital transformation of India Post, the platform that
+
+supports Ayushman Bharat – the world’s largest, fully funded
+
+health insurance scheme covering 500 million of India’s
+
+poorest, and so on. Each of these initiatives showcases the
+
+innovative use of technology to transform citizen services,
+
+enhance inclusivity and reduce inequity in society.
+
+By staying true to its purpose and its values, and helping
+
+its employees, customers and communities use the power
+
+of technology to realize their potential, your company is the
+
+embodiment of stakeholder capitalism in the true spirit
+
+of the Tata ethos. Over the last five decades, your company
+
+has shown itself to be very purpose-driven, resilient and
+
+adaptable, staying relevant to its customers through multiple
+
+economic and technology cycles, and doing good for
+
+all its stakeholders. This is the secret behind its longevity
+
+and sustainability.
+
+The next few months will be difficult, but your company
+
+is strong with deep relationships with customers and
+
+partners, enviable scale, a diversified business mix, a robust
+
+and resilient business model, and strong financials. It is well
+
+positioned to weather the storms ahead and take advantage
+
+of opportunities that come up during the downturn to
+
+acquire new capabilities and gain market share. In the post-
+
+pandemic world, technology will play an ever larger role in
+
+helping enterprises adapt to the new normal and differentiate
+
+themselves. Your company is well poised to take the lead
+
+in partnering customers to recover and rebound on to their
+
+growth and transformation journeys.
+
+On behalf of the Board of Directors of Tata Consultancy
+
+Services, I want to thank you for your continued trust,
+
+confidence, and support.
+
+Warm regards,
+
+N Chandrasekaran
+
+Chairman:
+
+Letter from the CEO I 07
+
+1: Letter from the CEO
+
+1102-14
+
+Letter from the CEO I 08:
+
+Letter from the CEO I 09
+
+TCS Annual Report 2019-20
+
+For over five decades, TCS has been helping
+
+individuals, enterprises, and communities
+
+use technology to realize their potential.
+
+This organizational purpose has served
+
+as a beacon that has guided our customer-
+
+centric strategy, our policies and our
+
+decision-making over the years.
+
+Our greatest accomplishment has been
+
+to imbue every TCSer with this same
+
+purpose-driven worldview.:
+
+letter to their
+
+shareholders every year for the last three years. The strength
+
+of these relationships and the trust we enjoy is what gives us
+
+the confidence that we will come out of these difficult times
+
+stronger together.
+
+The same purpose-driven worldview shapes the community
+
+initiatives we take up across the world, for building skills
+
+and fostering entrepreneurship to bridge the digital divide,
+
+to encourage STEM education and careers, and to enable
+
+better healthcare and wellness.
+
+We pick programs that are scalable and which can make
+
+a big, measurable impact on the local community. These
+
+programs are estimated to have benefited over 840,000
+
+people across the world. Our employees have also been
+
+doing their bit for worthy social and environmental causes
+
+in their respective communities, collectively contributing
+
+over 780,000 volunteering hours in FY 2020.
+
+Looking forward
+
+We are entering the new fiscal year at a time when all major
+
+economies have been brought to a standstill. The impact has
+
+been very fast and widespread, and the next few months will
+
+be very difficult for everyone, individuals and organizations.
+
+On the other hand, the economic downturn is not due to any
+
+structural problem in any industry, but due to an externality
+
+that has hit the pause button on all economic activity.
+
+Whenever that externality is removed, an equally quick
+
+recovery should follow.
+
+We are staying close to our customers, aligning ourselves
+
+to their evolving priorities, staying lean and nimble, finding
+
+newer ways to create value, and launching newer offerings
+
+that address current imperatives.
+
+Many of the innovative frameworks and methodologies that
+
+we pioneered are of even greater relevance to our customers
+
+today. The TCS thought-leading Business 4.0™ framework
+
+that we launched three years ago to help enterprises
+
+leverage digital technologies for their growth and
+
+transformation agendas, continues to guide them today.
+
+Business levers such as mass personalization, creating
+
+exponential value, leveraging ecosystems, and embracing risk
+
+coupled with core technologies such as agile, automation,
+
+intelligence, and cloud are some of the foundational pillars
+
+helping enterprises respond and recover from the crisis.: Letter from the CEO I 10
+
+TCS Annual Report 2019-20
+
+TCS’ customer-centricity and commitment
+
+to helping customers succeed in their
+
+businesses, has helped us establish enduring
+
+customer relationships and abiding trust.
+
+Our oldest customer relationship goes back
+
+over four decades. We have stayed close
+
+to our customers through good times and
+
+bad, helping them navigate challenges
+
+and speed bumps, harnessing the power of
+
+technology to solve their business problems
+
+and enabling competitive differentiation.
+
+Managing Director: Letter from the CEO I 11
+
+letter etc., with attested specimen
+
+signature of the duly authorized signatory(ies)
+
+who are authorized to vote, to the Scrutinizer
+
+by email to tcs.scrutinizer@gmail.com with a
+
+copy marked to evoting@nsdl.co.in
+
+2. It is strongly recommended not to share
+
+your password with any other person and
+
+take utmost care to keep your password
+
+conﬁdential. Login to the e-voting website will
+
+be disabled upon ﬁve unsuccessful attempts to
+
+key in the correct password. In such an event,
+
+you will need to go through the “Forgot User
+
+Details/Password?” or “Physical User Reset
+
+Password?” option available on
+
+https://www.evoting.nsdl.com to reset the
+
+password.
+
+3. In case of any queries relating to e-voting
+
+you may refer to the FAQs for Shareholders
+
+and e-voting user manual for Shareholders
+
+available at the download section of
+
+https://www.evoting.nsdl.com or call on toll
+
+free no.: 1800-222-990 or send a request at
+
+evoting@nsdl.co.in.
+
+In case of any grievances connected with
+
+facility for e-voting, please contact
+
+Ms. Pallavi Mhatre, Manager, NSDL,
+
+4th Floor, ‘A’ Wing, Trade World,
+
+Kamala Mills Compound, Senapati Bapat Marg,
+
+Lower Parel, Mumbai 400 013.
+
+Email: evoting@nsdl.co.in/pallavid@nsdl.co.in,
+
+Tel: 91 22 2499 4545/ 1800-222-990:
+
+Managing Director, N Ganapathy
+
+Subramaniam, Chief Operating Officer and Executive
+
+Director, Ramakrishnan V, Chief Financial Officer and
+
+Rajendra Moholkar, Company Secretary. The term of
+
+Ramakrishnan V as the Chief Financial Officer was
+
+extended up to April 30, 2021.
+
+11. Number of meetings of the Board
+
+Seven meetings of the Board were held during the year
+
+under review. For details of meetings of the Board,
+
+please refer to the Corporate Governance Report,
+
+which is a part of this report.
+
+12. Board evaluation
+
+The Board of Directors has carried out an annual
+
+evaluation of its own performance, board committees
+
+and individual directors pursuant to the provisions of
+
+the Act and SEBI Listing Regulations.
+
+The performance of the Board was evaluated by the
+
+Board after seeking inputs from all the directors on
+
+the basis of criteria such as the board composition and
+
+structure, effectiveness of board processes, information
+
+and functioning, etc.
+
+The performance of the committees was evaluated
+
+by the board after seeking inputs from the committee
+
+members on the basis of criteria such as the
+
+composition of committees, effectiveness of committee
+
+meetings, etc.
+
+The above criteria are broadly based on the Guidance
+
+Note on Board Evaluation issued by the Securities and
+
+Exchange Board of India on January 5, 2017.
+
+In a separate meeting of independent directors,
+
+performance of non-independent directors, the Board
+
+as a whole and the Chairman of the Company was
+
+evaluated, taking into account the views of executive
+
+directors and non-executive directors.:
+
+Managing Director
+
+Chairman, Corporate Social
+
+Responsibility Committee
+
+Mumbai, April 16, 2020
+
+1 201-1:
+
+Managing Director, Whole-time Directors and / or Manager:
+
+(` lakh)
+
+Sr.
+
+No.
+
+Particulars of Remuneration
+
+Name of MD/WTD/Manager
+
+Rajesh Gopinathan
+
+Chief Executive Officer and
+
+Managing Director
+
+N Ganapathy Subramaniam
+
+Chief Operating Officer and
+
+Executive Director
+
+Total Amount
+
+1.
+
+Gross salary
+
+(a) Salary as per provisions contained in Section 17(1) of the Income-tax Act, 1961
+
+135.90
+
+129.18
+
+265.08
+
+(b) Value of perquisites u/s 17(2) of the Income-tax Act, 1961
+
+129.22
+
+16.00
+
+145.22
+
+(c) Proﬁts in lieu of salary under Section 17(3) of the Income-tax Act, 1961
+
+-
+
+-
+
+-
+
+2.
+
+Stock Option
+
+-
+
+-
+
+-
+
+3.
+
+Sweat Equity
+
+-
+
+-
+
+-
+
+4.
+
+Commission
+
+1,000.00
+
+700.00
+
+1,700.00
+
+as % of proﬁt
+
+0.02
+
+0.02
+
+0.04
+
+5.
+
+Others, Allowances
+
+72.82
+
+166.51
+
+239.33
+
+Total (A)
+
+1,337.94
+
+1,011.69
+
+2,349.63
+
+Ceiling as per the Act (@ 10% of proﬁts calculated under Section 198 of the
+
+Companies Act, 2013)
+
+420,701.94:
+
+letter of even date which
+
+is annexed as Annexure A and Forms an integral part of this
+
+report.:
+
+letter.
+
+1.
+
+Maintenance of secretarial record is the responsibility
+
+of the management of the Company. Our responsibility
+
+is to express an opinion on these secretarial records
+
+based on our audit.
+
+2. We have followed the audit practices and process
+
+as were appropriate to obtain reasonable assurance
+
+about the correctness of the contents of the secretarial
+
+records. The veriﬁcation was done on test basis to
+
+ensure that correct facts are reﬂected in secretarial
+
+records. We believe that the process and practices, we
+
+followed provide a reasonable basis for our opinion.
+
+3. We have not veriﬁed the correctness and
+
+appropriateness of ﬁnancial records and Books of
+
+Accounts of the Company.
+
+4. Where ever required, we have obtained the
+
+Management Representation about the Compliance of
+
+laws, rules and regulations and happening of events
+
+etc.
+
+5. The Compliance of the provisions of Corporate and
+
+other applicable laws, rules, regulations, standards is
+
+the responsibility of management. Our examination
+
+was limited to the veriﬁcation of procedure on test
+
+basis.
+
+6. The Secretarial Audit report is neither an assurance
+
+as to the future viability of the Company nor of the
+
+efficacy or effectiveness with which the management
+
+has conducted the affairs of the Company.
+
+For Parikh & Associates
+
+Company Secretaries
+
+P N Parikh
+
+Partner
+
+FCS No: 327 CP No: 1228
+
+Mumbai, April 16, 2020
+
+UDIN: F000327B000161246:
+
+Letter – AR FY 2012:
+
+Managing Director and
+
+the Executive Directors. In addition, the Company
+
+has adopted a Code of Conduct for its non-executive
+
+directors which includes Code of Conduct for
+
+Independent Directors which suitably incorporates
+
+the duties of Independent Directors as laid down in
+
+the Companies Act, 2013 (“the Act”). The Company’s
+
+corporate governance philosophy has been further
+
+strengthened through the Tata Business Excellence
+
+Model, the TCS Code of Conduct for Prevention of
+
+Insider Trading and the Code of Corporate Disclosure
+
+Practices (“Insider Trading Code”). The Company has
+
+in place an Information Security Policy that ensures
+
+proper utilisation of IT resources.
+
+The Company is in compliance with the requirements
+
+stipulated under Regulation 17 to 27 read with
+
+Schedule V and clauses (b) to (i) of sub-regulation
+
+(2) of Regulation 46 of Securities and Exchange
+
+Board of India (Listing Obligations and Disclosure
+
+Requirements) Regulations, 2015 (“SEBI Listing
+
+Regulations”), as applicable, with regard to corporate
+
+governance.
+
+Details of TCS’ board structure and the various
+
+committees that constitute the governance structure1
+
+of the organization are covered in detail in this report.
+
+1 102-18:
+
+Managing Director and executive directors – from accepting any
+
+position of responsibility, with or without remuneration, with
+
+any other organization without TCS’ prior written approval. For
+
+executive directors and the: Managing
+
+Managing Director)
+
+DIN 06365813
+
+Non-Independent,
+
+Executive
+
+7
+
+Yes
+
+-
+
+-
+
+-
+
+-
+
+-
+
+N Ganapathy
+
+Subramaniam
+
+(Chief Operating
+
+Officer and
+
+Executive Director)
+
+DIN 07006215
+
+Non-Independent,
+
+Executive
+
+7
+
+Yes
+
+1
+
+-
+
+-
+
+-
+
+Tata Elxsi Limited (Non-Independent, Non-Executive)
+
+Aman Mehta*
+
+DIN 00009364
+
+Independent,
+
+Non-Executive
+
+2
+
+Yes
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+Dr Ron Sommer*
+
+DIN 00621387
+
+Independent,
+
+Non-Executive
+
+2
+
+Yes
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.:
+
+Managing Director and the Executive
+
+Directors. Annual increments are recommended
+
+by the Nomination and Remuneration Committee
+
+within the salary scale approved by the Board and
+
+Members and are effective April 1, each year.
+
+The Board of Directors, on the recommendation
+
+of the Nomination and Remuneration Committee,
+
+decides the commission payable to the Managing
+
+Director and the Executive Directors out of the
+
+proﬁts for the ﬁnancial year and within the ceilings
+
+prescribed under the Act, based on the Board
+
+evaluation process considering the criteria such as
+
+the performance of the Company as well as that of
+
+the: Managing
+
+Managing Director and Executive Director
+
+(` lakh)
+
+Name of Director
+
+Salary
+
+Beneﬁts, perquisites
+
+and allowances
+
+Commission
+
+ESPS
+
+Rajesh Gopinathan
+
+Chief Executive
+
+Officer and Managing
+
+Director (w.e.f.
+
+February 21, 2017 for
+
+a period of 5 years)
+
+135.90
+
+202.04
+
+1,000.00
+
+-
+
+N Ganapathy
+
+Subramaniam
+
+Chief Operating
+
+Officer and Executive
+
+Director (w.e.f.
+
+February 21, 2017 for
+
+a period of 5 years)
+
+129.18
+
+182.51
+
+700.00
+
+-
+
+The above ﬁgures do not include provisions for encashable leave, gratuity and
+
+premium paid for group health insurance, as separate actuarial valuation / premium
+
+paid are not available.
+
+Services of the: Managing
+
+Managing Director, on the compliance declarations
+
+received from the members of the Board and Senior Management.
+
+https://www.tcs.com/tata-code-of-
+
+conduct
+
+Dividend Distribution Policy
+
+Regulation 43A of
+
+the SEBI Listing
+
+Regulations
+
+A regular annual dividend generally consists of three interim dividends after each
+
+of the ﬁrst three quarters of the ﬁscal year, topped up with a ﬁnal dividend after
+
+the fourth quarter. In addition, every second or third year, the accumulated surplus
+
+cash has been returned to shareholders through a special dividend.
+
+https://on.tcs.com/Dividend
+
+Terms of Appointment of
+
+Independent Directors
+
+Regulation 46 of SEBI
+
+Listing Regulations
+
+and Section 149 read
+
+with Schedule IV of
+
+the Act
+
+Terms and conditions of appointment /
+
+re-appointment of Independent Directors are available on the Company’s website.
+
+https://on.tcs.com/ApptID
+
+Familiarisation Program
+
+Regulations 25(7)
+
+and 46 of SEBI Listing
+
+Regulations
+
+Details of familiarisation program imparted to Independent Directors are available
+
+on the Company’s website.
+
+https://on.tcs.com/Familiarization
+
+Disclosure under the Sexual
+
+Harassment of Women at
+
+Workplace (Prevention,
+
+Prohibition and Redressal) Act,
+
+2018
+
+The details have been disclosed in the Business Responsibility Report forming part
+
+of the Annual Report.:
+
+Managing Director
+
+and Executive Directors. In addition, the Company has
+
+adopted a Code of Conduct for its Non-Executive Directors
+
+and Independent Directors. These Codes are available on
+
+the Company’s website.
+
+I conﬁrm that the Company has in respect of the
+
+year ended March 31, 2020, received from the Senior
+
+Management Team of the Company and the Members of
+
+the Board a declaration of compliance with the Code of
+
+Conduct as applicable to them.
+
+For the purpose of this declaration, Senior Management
+
+Team means the Chief Financial Officer, Global Head - HR,
+
+Global Business Unit Heads, Global Head - Legal and the
+
+Company Secretary as on March 31, 2020.
+
+Rajesh Gopinathan
+
+Chief Executive Officer and: Managing
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020
+
+(` crore)
+
+Note
+
+As at
+
+March 31, 2020
+
+As at
+
+March 31, 2019
+
+Liabilities
+
+Non-current liabilities
+
+Financial liabilities
+
+Lease liabilities
+
+6,906
+
+44
+
+Other ﬁnancial liabilities
+
+8(g)
+
+291
+
+287
+
+Unearned and deferred revenue
+
+697
+
+844
+
+Employee beneﬁt obligations
+
+14
+
+417
+
+330
+
+Deferred tax liabilities (net)
+
+17
+
+779
+
+1,042
+
+Other liabilities
+
+10(g)
+
+-
+
+413
+
+Total non-current liabilities
+
+9,090
+
+2,960
+
+Current liabilities
+
+Financial liabilities
+
+Lease liabilities
+
+1,268
+
+-
+
+Trade payables
+
+6,740
+
+6,292
+
+Other ﬁnancial liabilities
+
+8(g)
+
+6,100
+
+4,903
+
+Unearned and deferred revenue
+
+2,915
+
+2,392
+
+Provisions
+
+10(f)
+
+293
+
+239
+
+Employee beneﬁt obligations
+
+14
+
+2,749
+
+2,356
+
+Income tax liabilities(net)
+
+3,712
+
+2,667
+
+Other liabilities
+
+10(g)
+
+3,283
+
+3,235
+
+Total current liabilities
+
+27,060
+
+22,084
+
+TOTAL EQUITY AND LIABILITIES
+
+120,899
+
+114,943
+
+Consolidated Balance Sheet:
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020
+
+Consolidated Statement of Proﬁt and Loss
+
+(` crore)
+
+Note
+
+Year ended
+
+March 31, 2020
+
+Year ended
+
+March 31, 2019
+
+Revenue
+
+12
+
+156,949
+
+146,463
+
+Other income
+
+13
+
+4,592
+
+4,311
+
+TOTAL INCOME
+
+161,541
+
+150,774
+
+Expenses
+
+Employee beneﬁt expenses
+
+14
+
+85,952
+
+78,246
+
+Cost of equipment and software licences
+
+15(a)
+
+1,905
+
+2,270
+
+Depreciation and amortisation expense
+
+3,529
+
+2,056
+
+Other expenses
+
+15(b)
+
+26,983
+
+26,441
+
+Finance costs
+
+16
+
+924
+
+198
+
+TOTAL EXPENSES
+
+119,293
+
+109,211
+
+PROFIT BEFORE TAX
+
+42,248
+
+41,563
+
+Tax expense
+
+Current tax
+
+17
+
+10,378
+
+9,502
+
+Deferred tax
+
+17
+
+(577)
+
+499
+
+TOTAL TAX EXPENSE
+
+9,801
+
+10,001
+
+PROFIT FOR THE YEAR
+
+32,447
+
+31,562
+
+OTHER COMPREHENSIVE INCOME (OCI)
+
+Items that will not be reclassiﬁed subsequently to
+
+proﬁt or loss
+
+Remeasurement of deﬁned employee beneﬁt plans
+
+(429)
+
+(51)
+
+Net change in fair values of investments in equity
+
+shares carried at fair value through OCI
+
+(20)
+
+(1)
+
+Income tax on items that will not be reclassiﬁed
+
+subsequently to proﬁt or loss
+
+90
+
+11
+
+Items that will be reclassiﬁed subsequently to proﬁt or
+
+loss
+
+Net change in fair values of investments other than
+
+equity shares carried at fair value through OCI
+
+958
+
+425
+
+Net change in intrinsic value of derivatives designated
+
+as cash ﬂow hedges
+
+(94)
+
+153
+
+(` crore)
+
+Note
+
+Year ended
+
+March 31, 2020
+
+Year ended
+
+March 31, 2019
+
+Net change in time value of derivatives designated as
+
+cash ﬂow hedges
+
+(52)
+
+44
+
+Exchange differences on translation of ﬁnancial
+
+statements of foreign operations
+
+326
+
+(86)
+
+Income tax on items that will be reclassiﬁed
+
+subsequently to proﬁt or loss
+
+(315)
+
+(171)
+
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)
+
+464
+
+324
+
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+
+32,911
+
+31,886
+
+Proﬁt for the year attributable to:
+
+Shareholders of the Company
+
+32,340
+
+31,472
+
+Non-controlling interests
+
+107
+
+90
+
+32,447
+
+31,562
+
+Total comprehensive income for the year attributable to:
+
+Shareholders of the Company
+
+32,764
+
+31,787
+
+Non-controlling interests
+
+147
+
+99
+
+32,911
+
+31,886
+
+Earnings per equity share:- Basic and diluted (`)
+
+18
+
+86.19
+
+83.05
+
+Weighted average number of equity shares
+
+375,23,84,706
+
+378,97,49,350:
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020
+
+Consolidated Statement of Changes in Equity:
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020:
+
+Letter of Offer made to all eligible
+
+shareholders of the Company at `2,850 per equity share. The equity
+
+/$ .!/ƫ +1#$0ƫ 'ƫ3!.!ƫ!40%*#1%/$! ƫ+*ƫ
+
+1*!ƫĈČƫĂĀāĈċ:
+
+Managing Director.
+
+The Group has identiﬁed business segments (‘industry vertical’) as reportable
+
+/!#)!*0/ċƫ$!ƫ 1/%*!//ƫ/!#)!*0/ƫ +),.%/!čƫāĩƫ *'%*#Čƫ%* * % (ƫ!.2% !/ƫ * ƫ
+
+Insurance, 2) Manufacturing, 3) Retail and Consumer Business, 4) Communication,
+
+Media and Technology and 5) Others such as Energy, Resources and Utilities, Life
+
+Sciences and Healthcare, s-Governance and Products.
+
+Revenue and expenses directly attributable to segments are reported under each
+
+reportable segment. Expenses which are not directly identiﬁable to each reporting
+
+segment have been allocated on the basis of associated revenue of the segment
+
+or manpower efforts. All other expenses which are not attributable or allocable to
+
+segments have been disclosed as unallocable expenses.
+
+The assets and liabilities of the Group are used interchangeably amongst segments.
+
+Allocation of such assets and liabilities is not practicable and any forced allocation
+
+would not result in any meaningful segregation. Hence assets and liabilities have not
+
+been identiﬁed to any of the reportable segments.
+
+Summarised segment information for the years ended March 31, 2020 and 2019 is as
+
+follows:
+
+(` crore)
+
+Year ended March 31, 2020
+
+Banking,
+
+Financial
+
+Services and
+
+Insurance
+
+Manufacturing
+
+Retail and
+
+Consumer
+
+Business
+
+Communication,
+
+Media and
+
+Technology
+
+Others
+
+Total
+
+Revenue
+
+61,095
+
+16,468
+
+26,280
+
+25,978
+
+27,128 156,949
+
+Segment result
+
+16,950
+
+4,445
+
+6,870
+
+7,703
+
+6,141
+
+42,109
+
+Total unallocable
+
+expenses
+
+4,453
+
+Operating
+
+income
+
+37,656
+
+Other income
+
+4,592
+
+Proﬁt before tax
+
+42,248
+
+Tax expense
+
+9,801
+
+Proﬁt for the
+
+year
+
+32,447
+
+Depreciation
+
+and amortisation
+
+expense
+
+(unallocable)
+
+3,529
+
+Signiﬁcant
+
+non-cash items
+
+(allocable)
+
+(2)
+
+-
+
+18
+
+8
+
+120
+
+144:
+
+Letter of Credit has been made available to Epic for
+
+`3,319 crore (US $440 million) as ﬁnancial security in order to stay execution
+
+of the judgment pending post-judgment proceedings and appeal. Pursuant
+
+to reaffirmation of the Court order in March 2019, the Company has ﬁled a
+
+notice of appeal in the superior Court to fully set aside the Order. Epic has
+
+also ﬁled a cross appeal challenging the reduction by the trial judge of
+
+`754 crore (US $100 million) award and `1,509 crore (US $200 million) in
+
+punitive damages. The Company has received legal advice to the effect that
+
+the order and the reduced damages awarded are not supported by evidence
+
+presented during the trial.
+
+ƫ
+
+đƫ: Letter of comfort
+
+ƫ
+
+ƫ
+
+$!ƫ+), *5ƫ$ /ƫ#%2!*ƫ(!00!.ƫ+"ƫ +)"+.0ƫ0+ƫ *'ƫ"+.ƫ .! %0ƫ" %(%0%!/ƫ 2 %(! ƫ
+
+by its subsidiary Tata America International Corporation. As per the terms of
+
+(!00!.ƫ+"ƫ +)"+.0Čƫ0$!ƫ+), *5ƫ1* !.0 '!/ƫ*+0ƫ0+ƫ %2!/0ƫ%0/ƫ+3*!./$%,ƫ%*0!.!/0ƫ
+
+directly or indirectly in the subsidiary and provide such managerial, technical
+
+and ﬁnancial assistance to ensure continued successful operations of the
+
+subsidiary.
+
+The amounts assessed as contingent liability do not include interest that could be
+
+claimed by counter parties.
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020:
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020:
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020
+
+Standalone Statement of Proﬁt and Loss
+
+(` crore)
+
+Note
+
+Year ended
+
+March 31, 2020
+
+Year ended
+
+March 31, 2019
+
+Items that will be reclassiﬁed subsequently to proﬁt
+
+or loss
+
+Net change in fair values of investments other than
+
+equity shares carried at fair value through OCI
+
+958
+
+425
+
+Net change in intrinsic value of derivatives
+
+designated as cash ﬂow hedges
+
+(94)
+
+153
+
+Net change in time value of derivatives designated
+
+as cash ﬂow hedges
+
+(52)
+
+44
+
+Income tax on items that will be reclassiﬁed
+
+subsequently to proﬁt or loss
+
+(315)
+
+(171)
+
+TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)
+
+174
+
+436
+
+TOTAL COMPREHENSIVE INCOME FOR THE YEAR
+
+33,434
+
+30,501
+
+Earnings per equity share:- Basic and diluted (`)
+
+16
+
+88.64
+
+79.34
+
+Weighted average number of equity shares
+
+375,23,84,706
+
+378,97,49,350:
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020
+
+Standalone Statement of Changes in Equity:
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020:
+
+Letter of Credit has been made available to Epic for
+
+`3,319 crore (US $440 million) as ﬁnancial security in order to stay execution
+
+of the judgment pending post-judgment proceedings and appeal. Pursuant to
+
+reaffirmation of the Court order in March 2019, the Company has ﬁled a
+
+notice of appeal in the superior Court to fully set aside the Order. Epic has
+
+also ﬁled a cross appeal challenging the reduction by the trial judge of
+
+`754 crore (US $100 million) award and `1,509 crore (US $200 million) in
+
+punitive damages. The Company has received legal advice to the effect that
+
+the order and the reduced damages awarded are not supported by evidence
+
+presented during the trial.
+
+đƫ
+
+ *'ƫ#1 . *0!!/ƫ * ƫ(!00!.ƫ+"ƫ +)"+.0
+
+ƫ
+
+ƫ
+
+$!ƫ+), *5ƫ$ /ƫ#%2!*ƫ(!00!.ƫ+"ƫ +)"+.0ƫ0+ƫ *'/ƫ"+.ƫ .! %0ƫ" %(%0%!/ƫ 2 %(! ƫ
+
+by its subsidiaries. As per the terms of: letter of comfort, the Company
+
+1* !.0 '!/ƫ*+0ƫ0+ƫ %2!/0ƫ%0/ƫ+3*!./$%,ƫ%*0!.!/0ƫ %.! 0(5ƫ+.ƫ%* %.! 0(5ƫ%*ƫ0$!ƫ
+
+subsidiary and provide such managerial, technical and ﬁnancial assistance to
+
+ensure continued successful operations of the subsidiary.
+
+The Company has provided guarantees to third parties on behalf of its
+
+subsidiaries. The Company does not expect any outﬂow of resources in
+
+respect of the above.
+
+The amounts assessed as contingent liability do not include interest that could be
+
+claimed by counter parties.
+
+20)
+
+The proposed Social Security Code, 2019, when promulgated, would subsume labour
+
+laws including Employees' Provident Funds and Miscellaneous Provisions Act and
+
+amend the deﬁnition of wages on which the organisation and its employees are
+
+to contribute towards Provident Fund. The Company believes that there will be
+
+no signiﬁcant impact on its contributions to Provident Fund due to the proposed
+
+amendments. Additionally, there is uncertainty and ambiguity in interpreting
+
+and giving effect to the guidelines of Hon. Supreme Court vide its ruling in
+
+February 2019, in relation to the scope of compensation on which the organisation
+
+and its employees are to contribute towards Provident Fund. The Company will
+
+evaluate its position and act, as clarity emerges.
+
+Managing Director
+
+Director
+
+Firm's registration no:
+
+101248W/W-100022
+
+Yezdi Nagporewalla
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+Partner
+
+CFO
+
+Company Secretary
+
+Membership No: 049265
+
+Mumbai, April 16, 2020:
+
+Managing Director
+
+Director
+
+V Ramakrishnan
+
+Rajendra Moholkar
+
+CFO
+
+Company Secretary
+
+Mumbai, April 16, 2020:
+

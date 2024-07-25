@@ -1,0 +1,738 @@
+MANAGING DIRECTOR
+
+Brandon Munro
+
+CHIEF FINANCIAL OFFICER & COMPANY SECRETARY
+
+Stephen Herlihy
+
+NON-EXECUTIVE DIRECTORS
+
+Ian Burvill
+
+Clive Jones
+
+Mike Leech
+
+Alison Terry
+
+PRINCIPAL & REGISTERED OFFICE
+
+Suite 7, 245 Churchill Avenue
+
+SUBIACO WA 6008
+
+Australia
+
+Telephone: +61 (8) 9381 1436
+
+AUDITORS
+
+Ernst & Young
+
+11 Mounts Bay Road
+
+PERTH WA 6000
+
+Telephone: +61 (8) 9429 2222
+
+Facsimile: +61 (8) 9429 2432
+
+SHARE REGISTRAR
+
+Computershare (Australia)
+
+Level 17
+
+221 St George’s Terrace
+
+PERTH WA 6000
+
+Telephone from within Australia:
+
+1300 850 505
+
+Telephone from outside Australia:
+
++61 (3) 9415 4000
+
+Facsimile:
+
++61 (8) 9323 2033
+
+STOCK EXCHANGE LISTINGS
+
+Australian Securities Exchange (ASX Code: BMN)
+
+Namibian Stock Exchange (NSX Code: BMN)
+
+OTC Markets (OTCQX Code: BNNLF):
+
+Letter to Shareholders ............................................................................................................................ 1
+
+Board of Directors and Executives ............................................................................................................................. 3
+
+Directors’ Report ...................................................................................................................................................... 7
+
+Auditor’s Independence Declaration ....................................................................................................................... 16
+
+Remuneration Report (audited) .............................................................................................................................. 17
+
+Consolidated Statement of Comprehensive Income ................................................................................................ 29
+
+Consolidated Statement of Financial Position .......................................................................................................... 30
+
+Consolidated Cash Flow Statement ......................................................................................................................... 31
+
+Consolidated Statement of Changes in Equity ......................................................................................................... 32
+
+Notes to the Financial Statements ........................................................................................................................... 33
+
+Directors’ Declaration ............................................................................................................................................. 65
+
+Independent Auditor’s report to the members of Bannerman Energy ltd ................................................................. 66
+
+Additional Shareholder Information ........................................................................................................................ 71
+
+ABOUT BANNERMAN ENERGY
+
+About Bannerman - Bannerman Energy Ltd is a uranium development company listed on the Australian and
+
+Namibian stock exchanges and traded on the OTCQX Market in the US. Its flagship asset is the 95% owned Etango
+
+Uranium Project located in the Erongo Region of Namibia. On 15 August 2022, Bannerman completed the
+
+acquisition of a 41.8% shareholding in Namibia Critical Metals Inc., the developer of the fully permitted Lofdal Heavy
+
+Rare Earths Project, one of the very few development projects outside China that offers substantial future
+
+production of dysprosium and terbium.
+
+Etango has benefited from extensive exploration and feasibility activity since 2006 and boasts a globally large-scale
+
+uranium mineral resource1. A 20Mtpa development at Etango was the subject of a Definitive Feasibility Study (DFS)
+
+completed in 2012 and a DFS Optimisation Study completed in 2015. Bannerman constructed and operated a Heap
+
+Leach Demonstration Plant at Etango, which comprehensively de-risked the acid heap leach process to be utilised on
+
+the Etango ore.
+
+Namibia is a premier uranium investment jurisdiction with a 45-year history of uranium production and export,
+
+excellent infrastructure, and support for uranium mining from both government and community. As the world’s fourth
+
+largest producer of uranium, Namibia is an ideal development jurisdiction boasting political stability, security, a strong
+
+rule of law and an assertive development agenda.
+
+Etango has environmental approvals for the proposed mine and external mine infrastructure, based on a 12-year
+
+environmental baseline. Bannerman has long established itself as an Environmental, Social and Governance (ESG)
+
+leader in the uranium and nuclear energy sector.
+
+In August 2021, a Pre-Feasibility Study (PFS) was completed on Etango-82. The PFS confirmed that this accelerated,
+
+streamlined project is strongly amenable to development – both technically and economically.
+
+In December 2022, the Etango-8 Definitive Feasibility Study was completed confirming the strong technical and
+
+economic viability of conventional open pit mining and heap leach processing of the world-class Etango deposit at
+
+8Mtpa throughput3.
+
+More information is available on Bannerman’s website at www.bannermanenergy.com.
+
+1 Refer to Section 3 of Bannerman’s ASX release dated 2 August 2021, Etango-8 Project Pre-Feasibility Study. Bannerman confirms that it is not
+
+aware of any new information or data that materially affects the information included in that release. All material assumptions and technical
+
+parameters underpinning the estimates in that ASX release continue to apply and have not materially changed.
+
+2 Refer to Bannerman’s ASX release dated 11 November 2015, Outstanding DFS Optimisation Study Results.
+
+3 Refer Bannerman’s ASX release dated 6 December 2022, Etango-8 Definitive Feasibility Study.:
+
+LETTER TO SHAREHOLDERS
+
+Dear Fellow Shareholder,
+
+I am pleased to report that the financial year 2023 has seen your Company safely achieve many important milestones
+
+towards constructing our Etango Uranium Project.
+
+Accomplishments this year have included the receipt of all outstanding Environmental Clearance Certificates, and
+
+National Heritage consents with the Project now fully permitted in this regard, the lodgement of our application to
+
+the Namibian Ministry of Mines and Energy for the granting of the Etango Mining Licence in August 2022, and
+
+completion of the Etango-8 Definitive Feasibility Study in December 2022.
+
+In February 2023, Bannerman won the African Mining Indaba’s ESG Forum Award for Community Engagement in
+
+recognition of its Early Learner Assistance Program (ELA Program) in Namibia. Mining Indaba, in its 29th year, is the
+
+largest African Mining conference, ranking its ESG Forum Award as one of the most important Environment Social
+
+Governance (ESG) awards in the world.
+
+Progress on the Front-End Engineering and Design (FEED) and selected early works projects has continued to schedule,
+
+with additional metallurgical test work confirming the metallurgical parameters for the design work and completion
+
+of the detailed mine design enabling the finalisation of contract mining requests-for-quotation.
+
+Parallel uranium marketing and project finance workstreams have also progressed.
+
+We announced three strategic appointments during the year to support the Company's next development phase.
+
+In October 2022, Ms Alison Terry was appointed non-executive director of the Company. Alison is also Chair of the
+
+Sustainability Committee and a member of the Remuneration, Nominations, and Corporate Governance Committee.
+
+Alison brings considerable senior executive experience, with a deep understanding of sustainability, ESG dynamics,
+
+legal and corporate affairs, and the complexities of significant operations.
+
+Mr Gavin Chamberlain joined the Bannerman team as the Chief Operating Officer (COO) in February 2023. With over
+
+30 years of leadership experience in the global mining industry, he has a proven track record in construction,
+
+engineering, and project management, especially in the southern African mining industry. Before joining Bannerman,
+
+Gavin served as the COO of Kore Potash Limited, where he played a crucial role in advancing large-scale potash projects
+
+in the Sintoukola district of the Republic of Congo. He oversaw all internal and external project teams and maintained
+
+key relationships with lenders and equity investors. Before that, he worked as the Regional Director of Mining and
+
+Minerals Africa at AMEC Foster Wheeler (now Wood plc) and was the Project Director for developing the US$2 billion
+
+Husab Uranium Project in Namibia, which is now one of the world's largest operating uranium mines.
+
+In June 2023, we announced that Ms. Olga Skorlyakova was appointed Vice President of Market Strategy, responsible
+
+for the Company's nuclear industry marketing strategy and uranium sales. Olga is a highly accomplished nuclear
+
+industry executive with deep professional experience ranging from business development in the nuclear fuel sector
+
+to selling enrichment services. She brings a breadth of sector understanding and an extensive network of relationships
+
+formulated over her 15 years working within the nuclear and uranium industries.
+
+This year saw growing positive public sentiment amidst a raft of global policy announcements favouring more
+
+significant deployment of nuclear energy due to the deepening global energy crisis and the broader effects of the war
+
+in Ukraine. Supply disruptions, the increase in demand for electrification, and the economic and human cost of soaring
+
+energy prices have focused on the crucial requirement for energy to be secure, reliable, affordable, and clean.
+
+With increasing awareness that nuclear is the only energy source that can continuously supply emission-free electricity
+
+at a consistently high level, the demand side is gaining momentum. This year saw most nuclear power nations,
+
+including China, India, Japan, Great Britain, France, and the USA, restarting, extending the operating life, in many cases
+
+by more than 60 years (USA 80 years), or commencing the building of new nuclear reactors.
+
+Today, there are approximately 437 operable nuclear reactors worldwide, 60 reactors under construction, and 100
+
+units in an advanced planning stage. China represents the lion’s share of new construction and is already well down
+
+the path of successfully building ten new reactors yearly for the next 15 years. This growth in activity is compounded
+
+by nearly 30 other emerging nuclear energy countries across Europe, the Middle East, Africa, Central and South
+
+America, Asia, and Oceania, which have begun the process of planning, proposing, or constructing their first reactors.:
+
+LETTER TO SHAREHOLDERS (CONTINUED)
+
+BANNERMAN ENERGY LTD
+
+2
+
+2023 ANNUAL REPORT
+
+Although the present focus is on large nuclear reactors, soon it will be the emerging ‘Small Modular Reactors,' or
+
+SMRs, which can be assembled in factories, transported, and installed at almost any desired location and will further
+
+propel the demand for uranium.
+
+While the uranium sector still has some additional production capacity, it will take many new mines to meet what the
+
+World Nuclear Association expects will be an extra 3% to 4% per year increase in demand over the next twenty years.
+
+It is also important to note that new uranium mines take at least ten years from the discovery of a deposit through
+
+permitting and construction to the start of production.
+
+This increasing supply deficit, the growing impact of sanctions applied to Russia (which enriches about 45% of global
+
+uranium production), and the more recent geopolitical instability in major uranium producer Niger is seeing several
+
+US and non-US utilities manage supply risk by exercising favourable ‘flex options’ within their existing contracts –
+
+slowly adding inventory and progressing off-market discussions with alternative potential suppliers.
+
+This year, we also undertook two key strategic capital market initiatives to optimally position the Company for future
+
+project funding during the year.
+
+The first was in July 2022, when shareholders approved the proposed consolidation of Bannerman’s issued capital
+
+through the conversion of every ten (10) existing shares into one (1) share (Consolidation). The Consolidation was to
+
+reduce Bannerman's capital structure (share count) to a level that better reflects the advanced stage of its Etango
+
+Uranium Project and to potentially make the Company’s shares more attractive to certain investors, including
+
+institutional and retail investors in North America.
+
+The second was in September 2022 when Bannerman shares commenced trading on the OTCQX® Best Market, having
+
+been upgraded to OTCQX from the OTCQB® Venture Market, enabling the Company to build visibility among North
+
+American investors.
+
+On 15 August 2022, Bannerman completed the previously announced acquisition of a 41.8% shareholding in TSX
+
+Venture Exchange-listed Namibia Critical Metals Inc. (TSX-V: NMI) (NMI). This shareholding gives us a significant
+
+indirect stake in NMI’s flagship asset, the 95%-owned, advanced, and fully permitted Lofdal Heavy Rare Earths Project
+
+in Namibia.
+
+The Lofdal Project, being the subject of an earn-in agreement with leading global resource strategic partner, Japan Oil,
+
+Gas and Metals National Corporation (JOGMEC), is a globally significant development for potential future Heavy Rare
+
+Earth Elements (HREE) supply, in particular the crucial need for dysprosium and terbium in the production of
+
+permanent magnets.
+
+On 3 October 2022, NMI announced the results of its Preliminary Economic Assessment (PEA) for the significantly
+
+expanded Lofdal HREE Project “2B-4”. On the conservative assumption that Lofdal would be 100% equity financed,
+
+highlights from the PEA included a US$391 million after-tax NPV and 28% IRR over a 16-year mine life.
+
+With your Company continuing to maintain its unwavering focus on cost control, project timeliness, and responsible
+
+sustainability, our balance sheet has remained strong, with a cash balance on 30 June 2023 of $42.6M and zero debt.
+
+We remain well-positioned to complete FEED, early works, progress project funding, uranium marketing, and sales
+
+activities.
+
+I want to take this opportunity to thank Brandon Munro and all our loyal team at Bannerman, together with our
+
+consulting partners, for their hard work and application during the year.
+
+Finally, I would like to thank you, our shareholders, for your ongoing support of our people, assets, and strategy – it
+
+is greatly appreciated.
+
+Yours sincerely,
+
+Ronnie Beevor
+
+Chairman:
+
+Managing Director
+
+Term of Office:
+
+CEO and: Managing
+
+Managing Director of Rössing
+
+Uranium Ltd, past president of the Namibian Chamber of
+
+Mines and past Chairman of the Namibian Uranium
+
+Association. His career with Rio Tinto started in 1982
+
+when he joined Rössing as an accountant and included a
+
+posting
+
+as
+
+Administration
+
+Director
+
+of
+
+Anglesey
+
+Aluminium before returning to Rössing in 1997 as Chief
+
+Financial Officer. Mike was: Managing Director of Rössing,
+
+then the largest open pit uranium mine in the world, for
+
+six years until he retired in 2011. Since retirement Mike
+
+has consulted to the uranium sector and served as a non-
+
+executive director of ASX-listed Kunene Resources Ltd, a
+
+base metals explorer that discovered the Opuwo Cobalt
+
+Project in Namibia.
+
+Mike’s commitment to corporate social responsibility in
+
+Namibia is well known, including as a former Trustee of
+
+Save the Rhino Trust Namibia and the Rössing
+
+Foundation.
+
+Mike was named an honorary life member of the
+
+Namibian Uranium Association in recognition of his
+
+singular service to the uranium industry.
+
+Special Responsibilities
+
+Managing Director, Bannerman Mining Resources
+
+(Namibia) (Pty) Ltd
+
+Term of Office
+
+Since 24 June 2010
+
+Skills, experience, and expertise
+
+Werner joined Bannerman in June 2010 as the Etango
+
+Project Coordinator and is now the: Managing
+
+Managing Director
+
+Full
+
+Other Executive Personnel
+
+Gavin Chamberlain
+
+Chief Operating Officer
+
+3 February 2023 – present
+
+Werner Ewald: Managing
+
+director's fees in the form of either share rights
+
+or share options. The directors consider that the issue of share rights or share options to non-executive directors as
+
+part of their remuneration package is reasonable and appropriate given:
+
+(a)
+
+it is a cost effective and efficient reward for service. The issue of share rights or share options in lieu of cash
+
+payments preserves the Company’s cash resources and reduces on-going costs which is a significant aspect
+
+while the Company remains in a development phase; and
+
+(b)
+
+in part, it aligns remuneration with the future growth and prospects of the Company and the interests of
+
+shareholders by encouraging non-executive director share ownership.
+
+NEDSIP securities vest subject to an ongoing employment obligation of 1 year.
+
+Refer to Table 7 in Section 4 for details of the number and value of share options and share rights issued to non-
+
+executive directors during the year. The securities do not carry any voting or dividend rights and can be exercised
+
+once the vesting conditions have been met until their expiry date.
+
+As part of the Company’s Securities Trading Policy, the Company prohibits directors from entering into arrangements
+
+to protect the value of unvested incentive awards. This includes entering into contracts to hedge exposure to share
+
+options, share rights or shares granted as part of their remuneration packages.
+
+The Board assesses the appropriateness, nature and amount of remuneration paid to non-executive directors on a
+
+periodic basis, including the granting of equity-based payments, and considers it appropriate to grant share options
+
+or share rights to non-executive directors with the overall objective of retaining a high-quality Board whilst preserving
+
+cash reserves.
+
+Executive remuneration policy and structure
+
+Bannerman’s executive remuneration policy is designed to reward the CEO and other senior executives. The main
+
+principles underlying Bannerman’s executive remuneration policy are to:
+
+
+
+provide competitive rewards to attract, retain and motivate executives;
+
+
+
+set levels of performance which are clearly linked to an executive’s remuneration;
+
+
+
+structure remuneration at a level which reflects the executive’s duties and accountabilities;
+
+
+
+set a competitive level of remuneration that is sufficient and reasonable;
+
+
+
+align executive incentive rewards with the creation of value for shareholders; and
+
+
+
+comply with applicable legal requirements and appropriate standards of governance.
+
+Executive remuneration structure
+
+Bannerman’s remuneration structure for the CEO and senior executives for the year ended 30 June 2023 was divided
+
+into two principal components:
+
+
+
+base pay and benefits, including superannuation; and
+
+
+
+variable annual reward, or “at risk” component, by way of the issue of long-term share-based incentives.
+
+Performance reviews for all senior executives are conducted on an annual basis. The performance of each senior
+
+executive is measured against pre-determined key performance indicators. The most recent performance reviews
+
+were completed in July 2023.
+
+Base pay
+
+The base pay component of executive remuneration comprises base salary, statutory superannuation contributions
+
+and other allowances where applicable. It is determined by the scope of each executive’s role, working location, level
+
+of knowledge, skill, and experience along with the executive’s individual performance. There is no guarantee of base
+
+pay increases included in any executive’s contract.
+
+Bannerman benchmarks this component of executive remuneration against appropriate market comparisons using
+
+information from similar companies and, where applicable, advice from external consultants.:
+
+letter of appointment. The: letter summarises the Board policies and terms, including compensation.
+
+Remuneration and other terms of employment for the CEO and the other executives are also formalised in service
+
+agreements. Major provisions of the agreements relating to remuneration are summarised below.
+
+Remuneration of the Chief Executive Officer
+
+Mr Munro was appointed on 9 March 2016 as CEO and Managing
+
+Managing Director
+
+Bannerman
+
+Energy Ltd
+
+No fixed
+
+term
+
+3 months
+
+3 months
+
+6 months base salary and
+
+accrued leave entitlements if
+
+terminated by the Company.
+
+Gavin Chamberlain – COO
+
+Bannerman
+
+Energy Ltd
+
+No fixed
+
+term
+
+3 months
+
+3 months
+
+6 months base salary if
+
+terminated by the Company.
+
+Stephen Herlihy – CFO &
+
+Company Secretary
+
+Bannerman
+
+Energy Ltd
+
+No fixed
+
+term
+
+3 months
+
+3 months
+
+6 months base salary if
+
+terminated by the Company.
+
+Werner Ewald – Managing
+
+Director Namibia
+
+Bannerman
+
+Mining
+
+Resources
+
+(Namibia)
+
+(Pty) Ltd
+
+No fixed
+
+term
+
+3 months
+
+3 months
+
+6 months base salary and
+
+accrued leave entitlements if
+
+terminated by the Company.
+
+Olga Skorlyakova– Vice
+
+President, Market Strategy
+
+Bannerman
+
+Energy
+
+(UK)
+
+Limited
+
+No fixed
+
+term
+
+3 months
+
+3 months
+
+6 months base salary and
+
+accrued leave entitlements if
+
+terminated by the Company.:
+
+Managing Director
+
+Perth, 22 September 2023:
+
+letter to BMRN evidencing the parent’s intent to meet the financial obligations of BMRN for
+
+the period 1 July 2022 to 30 June 2023.
+
+c.
+
+Details of any contractual commitments by the parent entity for the acquisition of property, plant, or
+
+equipment
+
+There are no contractual commitments by the parent entity for the acquisition of property, plant, and
+
+equipment as at reporting date.
+
+26. MATERIAL PARTLY-OWNED SUBSIDIARIES
+
+Financial information of subsidiaries that have material non-controlling interests are provided below:
+
+Proportion of equity interest held by non-controlling interests:
+
+Name
+
+Country of
+
+incorporation
+
+2023
+
+2022
+
+Bannerman Mining Resources (Namibia) (Pty) Ltd
+
+Namibia
+
+5%
+
+5%
+
+Accumulated balances of material non-controlling interest:
+
+$’000
+
+$’000
+
+Bannerman Mining Resources (Namibia) (Pty) Ltd
+
+(387)
+
+(57)
+
+Loss allocated to material non-controlling interest:
+
+Bannerman Mining Resources (Namibia) (Pty) Ltd
+
+(110)
+
+(30)
+
+In March 2017, the Company entered into a Subscription Agreement with the One Economy Foundation to
+
+become a 5% loan-carried shareholder in the Etango Project. As part of the Subscription Agreement,
+
+Bannerman Mining Resources (Namibia) (Pty) Ltd (BMRN) issued 5% of its ordinary share capital to the One
+
+Economy Foundation for par (nominal) value. The One Economy Foundation will be free carried for all future
+
+project expenditure including pre-construction and development expenditure, with the loan capital and
+
+accrued interest repayable from future dividends.:
+
+Managing Director & CEO
+
+Perth 22 September 2023:
+

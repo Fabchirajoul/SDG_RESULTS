@@ -1,0 +1,448 @@
+MANAGING DIRECTOR
+
+Brandon Munro
+
+CHIEF FINANCIAL OFFICER & COMPANY SECRETARY
+
+Stephen Herlihy
+
+NON-EXECUTIVE DIRECTORS
+
+Ian Burvill
+
+Clive Jones
+
+Mike Leech
+
+PRINCIPAL & REGISTERED OFFICE
+
+Suite 7, 245 Churchill Avenue
+
+SUBIACO WA 6008
+
+Australia
+
+Telephone: +61 (8) 9381 1436
+
+AUDITORS
+
+Ernst & Young
+
+11 Mounts Bay Road
+
+PERTH WA 6000
+
+Telephone: +61 (8) 9429 2222
+
+Facsimile: +61 (8) 9429 2432
+
+SHARE REGISTRAR
+
+Computershare (Australia)
+
+Level 11
+
+172 St George’s Terrace
+
+PERTH WA 6000
+
+Telephone from within Australia:
+
+1300 850 505
+
+Telephone from outside Australia:
+
++61 (3) 9415 4000
+
+Facsimile:
+
++61 (8) 9323 2033
+
+STOCK EXCHANGE LISTINGS
+
+Australian Securities Exchange (ASX Code: BMN)
+
+Namibian Stock Exchange (NSX Code: BMN)
+
+OTC Markets (OTCQX Code: BNNLF):
+
+Letter to Shareholders .......................................................................................................... 1
+
+Board of Directors and Executives ........................................................................................................... 3
+
+Directors’ Report ...................................................................................................................................... 6
+
+Remuneration Report .............................................................................................................................16
+
+Financial Statements ..............................................................................................................................27
+
+Directors’ Declaration ............................................................................................................................62
+
+Independent Auditor’s Report to the Members ....................................................................................63
+
+Additional ASX Information ....................................................................................................................68
+
+ABOUT BANNERMAN ENERGY LTD
+
+About Bannerman - Bannerman Energy Ltd is a uranium development company listed on the Australian and Namibian
+
+stock exchanges and traded on the OTCQX Market in the US. Its flagship asset is the 95% owned Etango Uranium
+
+Project located in the Erongo Region of Namibia. Subsequent to balance date, Bannerman completed the acquisition
+
+of a 41.8% shareholding in Namibia Critical Metals Inc, the developer of the fully permitted Lofdal Heavy Rare Earths
+
+Project, one of the very few development projects outside China that offer substantial future production of
+
+dysprosium and terbium.
+
+Etango has benefited from extensive exploration and feasibility activity since 2006 and boasts a globally large-scale
+
+uranium mineral resource1. A 20Mtpa development at Etango was the subject of a Definitive Feasibility Study (DFS)
+
+completed in 2012 and a DFS Optimisation Study completed in 2015. Bannerman constructed and operated a Heap
+
+Leach Demonstration Plant at Etango, which comprehensively de-risked the acid heap leach process to be utilised on
+
+the Etango ore.
+
+Namibia is a premier uranium investment jurisdiction, with a 45-year history of uranium production and export,
+
+excellent infrastructure and support for uranium mining from both government and community. As the world’s fourth
+
+largest producer of uranium, Namibia is an ideal development jurisdiction boasting political stability, security, a strong
+
+rule of law and an assertive development agenda.
+
+Etango has environmental approvals for the proposed mine and external mine infrastructure, based on a 12-year
+
+environmental baseline. Bannerman has long established itself as an Environmental, Social and Governance (ESG)
+
+leader in the uranium and nuclear energy sector.
+
+In August 2021, a Pre-Feasibility Study (PFS) was completed on Etango-82. The PFS confirmed that this accelerated,
+
+streamlined project is strongly amenable to development – both technically and economically. A DFS on Etango-8 is
+
+well advanced with expected completion in Q4 CY2022
+
+More information is available on Bannerman’s website at www.bannermanenergy.com.
+
+1 Refer to Section 3 of Bannerman’s ASX release dated 2 August 2021, Etango-8 Project Pre-Feasibility Study. Bannerman confirms that it is not
+
+aware of any new information or data that materially affects the information included in that release. All material assumptions and technical
+
+parameters underpinning the estimates in that ASX release continue to apply and have not materially changed.
+
+2 Refer to Bannerman’s ASX release dated 11 November 2015, Outstanding DFS Optimisation Study Results.:
+
+LETTER TO SHAREHOLDERS
+
+BANNERMAN ENERGY LTD
+
+2022 ANNUAL REPORT
+
+1
+
+Dear Fellow Shareholder
+
+I write to you at a time when both your Company and the uranium market are strongly positioned in front of a
+
+remarkable transformation in the prospects of nuclear power.
+
+Over the course of this year, the nuclear fuel sector has undergone enormous geopolitical disruption. The tragic
+
+invasion of Ukraine has had an immediate effect on nuclear fuel markets and is likely to profoundly influence the
+
+nuclear fuel sector into the long term.
+
+The Ukraine war has reminded government, policy makers and industry of the vital role of energy security, a
+
+consideration that was relegated in importance for more than a decade. The superior energy security attributes of
+
+nuclear power, both commercial and geopolitical, have come into sharp contrast with the anti-nuclear ideology in
+
+Germany and other parts of Europe that have curtailed the continent’s options in responding to the energy crisis.
+
+The increased emphasis on geopolitical security and power price resilience enhances the superior climate attributes
+
+of nuclear power, as emphasised by various governmental and multi-lateral organisations following COP26 in 2021.
+
+Indeed, numerous multi-lateral net-zero scenarios call for a dramatic increase in nuclear power by 2050.
+
+As a result of both decarbonisation and energy security imperatives, several governments made bold and pragmatic
+
+policy announcements in favour of nuclear power, most notably in France, United Kingdom, United States, Japan and
+
+South Korea. Numerous other markets have announced plans to construct conventional nuclear power stations and
+
+to deploy Small Modular Reactors (SMRs) and advanced reactor technology. Reactor extensions have become the
+
+norm in most markets, with influential closure reversals in the United States, Belgium, South Korea and, potentially,
+
+Germany.
+
+Over the year, financial markets have become increasingly attuned to the consequently attractive dynamics in the
+
+uranium sector, with Sprott Physical Uranium Trust continuing to sequester uranium into the long-term, via acquisition
+
+on the spot market in competition with end-users. Together with other financial investors such as Yellow Cake plc
+
+and ANU Energy, the Sprott Physical Uranium Trust has neutralised the uranium inventory overhang that distorted
+
+the functioning of the uranium market in recent years. As a result of these factors, uranium spot prices have recovered
+
+significantly, trading during the year at decade highs.
+
+Our flagship Etango Uranium Project has evolved to meet this market opportunity. In August 2021, completion of
+
+the Etango-8 Pre-Feasibility Study (Etango-8 PFS) confirmed the strong technical and economic viability of
+
+conventional open pit mining and heap leach processing of our world-class Etango deposit at 8Mtpa throughput, for
+
+3.5 million pounds per annum U3O8 over a 15-year mine life.1 Bannerman immediately commenced the Etango-8
+
+Definitive Feasibility Study (Etango-8 DFS), which is at an advanced stage and will be completed in the December
+
+quarter 2022.
+
+The Etango-8 PFS also confirmed once the mine is operational, there is realistic potential for expanding production,
+
+extending mine life or both, given the scale of Etango’s total mineral resource and that the mineralisation continues
+
+beneath the currently modelled resources. Given the attractive prospects for the uranium sector noted above, this
+
+flexibility and scalability is an invaluable attribute for the Etango-8 development pathway.
+
+Your Company’s balance sheet has never been stronger. In March 2022, we capitalised on then-buoyant equity
+
+market conditions to complete a single tranche placement of approximately 185 million new fully paid ordinary
+
+shares to new and existing institutional and sophisticated investors, to raise approximately $40.7 million. The
+
+placement was strongly supported by several specialist uranium investment funds and a broad array of high-quality
+
+Australian and international institutional investors. A Share Purchase Plan (SPP), also announced in March and
+
+completed in April, was strongly supported by eligible shareholders, raising an additional A$15 million.
+
+In total approximately $56 million was raised before costs, which together with the existing cash on hand, gives us
+
+the cash balance to complete the Etango-8 DFS and equity-fund Front-End Engineering and Design (FEED). We have
+
+the financial credibility to commence product marketing, project financing activities, detailed design and engage
+
+with new opportunities.
+
+With the benefit of this financial strength, in May 2022, Bannerman agreed to acquire a 41.8% shareholding in
+
+Namibia Critical Metals (TSX-V:NMI) (NMI), providing us with a significant stake in NMI’s flagship asset, the 95%-:
+
+LETTER TO SHAREHOLDERS
+
+BANNERMAN ENERGY LTD
+
+2022 ANNUAL REPORT
+
+2
+
+owned, advanced and fully permitted Lofdal Heavy Rare Earths Project in Namibia. The Lofdal Project is the subject
+
+of an earn-in agreement with leading global resource strategic partner, Japan Oil, Gas and Metals National
+
+Corporation (JOGMEC). The Lofdal Project is globally significant to potential future Heavy Rare Earth Elements
+
+(HREE) supply, in particular the crucial need for dysprosium and terbium in the production of permanent magnets.
+
+This is a function of both its large scale and simple xenotime mineralogy.
+
+The NMI investment provides underlying asset exposure that is highly complementary to Bannerman’s Etango
+
+Uranium Project in terms of both domicile and the role of heavy rare earths in enabling decarbonisation. The NMI
+
+Acquisition is also consistent with Bannerman’s mission.
+
+We have continued to build the profile and liquidity of Bannerman’s investment case with a broader audience. To
+
+better reflect the advanced stage of the Company’s development of its Etango Uranium Project and make your
+
+Company’s shares more attractive to certain investors, including institutional and retail investors in North America,
+
+Bannerman completed a one for ten share consolidation on 28 July 2022 (Consolidation). In September 2022, the
+
+Company was pleased to announce its shares had commenced trading on the OTCQX® Best Market, having been
+
+upgraded to OTCQX from the OTCQB® Venture Market. Graduating to the OTCQX marks an important milestone for
+
+your Company, enabling Bannerman to build on its liquidity and visibility among North American investors.
+
+Your Company has a long tradition of authentic corporate citizenship and has distinguished itself as a leader in
+
+community engagement, social development and environmental stewardship – which in recent times became
+
+known as ESG. As a shareholder, you can feel re-assured that we have earned our social licence and justifiably enjoy
+
+environmental permitting for the proposed Etango mine. To date 3,300 Namibian schoolchildren have benefitted
+
+from our Early Learner Assistance Program, a decade-long program that seeks to ensure young learners do not drop
+
+out of school, a plight that ensures entrapment in the poverty cycle. We were recently recognised for our
+
+outstanding partnership with the Namibian tourism industry, which was first formalised in 2010. To demonstrate our
+
+commitment to the health and safety of our employees, Bannerman is approaching its 13th consecutive year without
+
+a lost time injury, having delivered full support to our employees and their families during the tremendous
+
+challenges of COVID.
+
+Bannerman’s success in advancing the Etango-8 Uranium Project and several well-executed corporate activities
+
+reflects well on the effectiveness and dedication of the Bannerman team in Namibia and Australia. On behalf of the
+
+Board and our shareholders, I thank and recognise our team and all Bannerman stakeholders, including the
+
+Namibian government, our host community and the One Economy Foundation (which holds a 5% ownership of the
+
+Etango Project) for their tangible support of our mission: social leadership in the supply of raw materials for
+
+emissions free power.
+
+I am delighted to say that your Company enters the new financial year in the strongest position in its 15-year history
+
+at a time when the uranium sector has the most attractive prospects in decades.
+
+Yours sincerely,
+
+Ronnie Beevor
+
+Chairman
+
+1. Bannerman advised of the completion of a Pre-Feasibility Study for an 8Mtpa development of its flagship Etango Uranium Project in Namibia
+
+(Etango-8 Project) in an ASX announcement 2 August 2021. Bannerman is not aware of any new information or data that materially affects the
+
+information included in this ASX release, and Bannerman confirms that, to the best of its knowledge, all material assumptions and technical
+
+parameters underpinning the estimates in this release continue to apply and have not materially changed.:
+
+Managing Director
+
+Term of Office:
+
+CEO and: Managing
+
+Managing Director of Rössing
+
+Uranium Ltd, past president of the Namibian Chamber of
+
+Mines and past Chairman of the Namibian Uranium
+
+Association. His career with Rio Tinto started in 1982
+
+when he joined Rössing as an accountant and included a
+
+posting
+
+as
+
+Administration
+
+Director
+
+of
+
+Anglesey
+
+Aluminium before returning to Rössing in 1997 as Chief
+
+Financial Officer. Mike was: Managing Director of Rössing,
+
+then the largest open pit uranium mine in the world, for
+
+6 years until he retired in 2011. Since retirement Mike
+
+has consulted to the uranium sector and served as a non-
+
+executive director of ASX-listed Kunene Resources Ltd, a
+
+base metals explorer that discovered the Opuwo Cobalt
+
+Project in Namibia.
+
+Mike’s commitment to corporate social responsibility in
+
+Namibia is well known, including as a former Trustee of
+
+Save the Rhino Trust Namibia and the Rössing
+
+Foundation.
+
+Mike was named an honorary life member of the
+
+Namibian Uranium Association in recognition of his
+
+singular service to the uranium industry.
+
+Special Responsibilities
+
+Managing Director, Bannerman Mining Resources
+
+(Namibia) (Pty) Ltd
+
+Term of Office
+
+Since 24 June 2010
+
+Skills, experience and expertise
+
+Werner joined Bannerman in June 2010 as the Etango
+
+Project Coordinator and is now the: Managing
+
+Managing Director
+
+Full
+
+Other Executive Personnel
+
+Werner Ewald: Managing
+
+director's fees in the form of either share rights
+
+or share options. The directors consider that the issue of share rights or share options to non-executive directors as
+
+part of their remuneration package is reasonable and appropriate given::
+
+letter of appointment. The: letter summarises the Board policies and terms, including compensation.
+
+Remuneration and other terms of employment for the CEO and the other executives are also formalised in service
+
+agreements. Major provisions of the agreements relating to remuneration are summarised below.
+
+Remuneration of the Chief Executive Officer
+
+Mr Munro was appointed on 9 March 2016 as CEO and Managing
+
+Managing Director
+
+Perth, 23 September 2022:
+
+letter to BMRN evidencing the parent’s intent to meet the financial obligations of BMRN for the period
+
+1 July 2021 to 30 June 2022.
+
+c.
+
+Details of any contractual commitments by the parent entity for the acquisition of property, plant, or
+
+equipment
+
+There are no contractual commitments by the parent entity for the acquisition of property, plant and equipment
+
+as at reporting date.:
+
+Managing Director & CEO
+
+Perth 23 September 2022:
+

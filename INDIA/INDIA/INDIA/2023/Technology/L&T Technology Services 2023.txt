@@ -1,0 +1,3686 @@
+letter dated June 12, 2023, informing about the 11th Annual
+
+General Meeting (AGM) of the Company, which is scheduled to be held on Tuesday, July 18,
+
+2023 at 3:45 p.m. (IST) through Video Conferencing (“VC”) / Other Audio-Visual Means
+
+(“OAVM”).
+
+Pursuant to Regulation 34(1) of the SEBI (Listing Obligation and Disclosure Requirement)
+
+Regulations, 2015, we enclose herewith a copy of the Annual Report for financial year 2022-
+
+23, along with the Notice of 11th Annual General Meeting (AGM) for your records. The said
+
+Annual Report is being sent from today to the Members through electronic mode, whose
+
+email ids are registered with the Company/Depositories.
+
+The
+
+same
+
+is
+
+also
+
+made
+
+available
+
+on
+
+the
+
+Company’s
+
+website
+
+at
+
+https://www.ltts.com/investors/financial-information.
+
+We request you to take the above information on records.
+
+Thanking you,
+
+Yours sincerely,
+
+For L&T Technology Services Limited
+
+Prajakta Powle
+
+Company Secretary & Compliance Officer
+
+(M. No. A20135)
+
+Prajakta
+
+Ashish Powle
+
+Digitally signed by
+
+Prajakta Ashish Powle
+
+Date: 2023.06.23
+
+21:44:45 +05'30':
+
+Managing Director’s
+
+12
+
+Message
+
+Board of Directors
+
+16
+
+Big Bets Updates
+
+22
+
+The SWC Acquisition
+
+29
+
+Success Stories
+
+30
+
+Performance Highlights
+
+33
+
+Global Presence
+
+34
+
+Employee Initiatives
+
+35
+
+Community Initiatives
+
+36
+
+Awards and Recognition
+
+37
+
+Corporate Information
+
+38
+
+Notice
+
+39
+
+Board’s Report
+
+53
+
+Management Discussion
+
+and Analysis
+
+113
+
+Business Responsibility and
+
+135
+
+Sustainability Report
+
+Standalone Financial
+
+176
+
+Statements
+
+Consolidated Financial
+
+244
+
+Statements
+
+Glossary
+
+318
+
+Scan the code to read the report on your
+
+hand-held device.
+
+Log on to www.LTTS.com to read
+
+this report online.
+
+Corporate
+
+Overview
+
+1.
+
+02-38:
+
+Dear Shareholders,
+
+During the year, L&T Technology Services crossed
+
+the $ 1 billion revenue run rate for the first time.
+
+The achievement is even more salient when seen
+
+against the backdrop of macroeconomic volatility,
+
+supply chain disruptions and simmering geopolitical
+
+tensions. The success in achieving our revenue targets
+
+reaffirms our credentials as India’s largest pure-play
+
+technology services provider. It also paves the way for
+
+us to consolidate our presence and build further on our
+
+successes. I thank you for your faith and trust in the
+
+leadership team.
+
+The road ahead holds greater promise. As the global
+
+economic scenario improves, and organizations
+
+look to leverage emerging technologies across
+
+the communications, energy, sustainability, and
+
+cybersecurity domains, your Company is well poised
+
+to scale and deliver unmatched value to its customers.
+
+Technology-driven initiatives will continue to be
+
+the driving force for sustained growth and inclusive
+
+development worldwide.
+
+Smart World and Communication: Unlocking
+
+New Value Paradigms
+
+Early in Q4, as part of its strategic objective to expand
+
+capabilities and deepen competencies across key technology
+
+domains, your Company completed the acquisition of L&T’s
+
+business of Smart World and Communication (SWC). This entity
+
+possesses significant talent and extensive experience of
+
+working with marquee telecom and OEM companies. As an
+
+innovation-led business, SWC’s track record includes the
+
+development of Fusion – a state-of-the-art software platform
+
+for data analytics, and gEdge – a green Data Center that can be
+
+used at the Edge to contribute to savings in Capex and Opex.
+
+Its engineers have also implemented extensive communication
+
+projects of complexity and scale across India, underscoring their
+
+capabilities in network orchestration and smart city systems.
+
+I am confident that the acquisition of SWC will unlock new
+
+synergies for your Company, help scale its offerings around
+
+5G and next-gen communications, and drive growth across
+
+geographies. The acquisition closed at the start of the current
+
+fiscal, and subsequent performance provides reassurance of
+
+future outcomes.
+
+Leveraging Global Opportunities: An ER&D
+
+Perspective
+
+We are witnessing an exponential rise in global demand
+
+for a range of emerging technologies, including vehicle
+
+electrification, next-gen connectivity, digital products and
+
+solutions, smart manufacturing practices, cutting-edge
+
+healthcare delivery, and a more sustainable approach to
+
+business operations. These key trends are reshaping the
+
+global ER&D landscape, driving new investment decisions,
+
+and defining business growth plans. Recent market research
+
+also indicates that most business leaders are looking to
+
+enhance their ER&D spends despite an uncertain economic
+
+outlook, with a major focus on digital engineering services
+
+and solutions. As a result, we are looking at a scenario where
+
+digital engineering activities are set to account for over 53%
+
+of all global engineering spends, growing 1.7x by 2025.
+
+| Annual Report 2022-23
+
+10:
+
+Managing Director’s Message: Dear Shareholders,
+
+This was a landmark year at LTTS. We achieved the
+
+milestone of a billion dollars in revenue run rate,
+
+surpassed ` 1,000 crore in annual profits, crossed 1,000
+
+patent filings, and closed our largest acquisition to
+
+date. What makes our achievements even more special
+
+is that these were attained in a year that continued to
+
+be defined by geo-political uncertainties and supply
+
+chain challenges across geographies and industries.
+
+I take this opportunity to thank our customers,
+
+shareholders, employees, and all key stakeholders for
+
+their continued trust and faith in Team LTTS as we
+
+continue to engineer sustainable growth journeys.
+
+The accomplishments during the year reaffirm our
+
+position as the industry bellwether, and bear witness
+
+to LTTS’ continued commitment toward expanding and
+
+deepening our offerings and capabilities across the
+
+global technology landscape.
+
+The record-setting performance during the year can be
+
+attributed to the combination of our robust innovation
+
+capabilities with a core Engineering DNA – a major
+
+differentiator and enabler in a rapidly evolving global
+
+landscape. This belief in a technology-defined future is driven
+
+by our 6 Big Bets: Electric Autonomous and Connected
+
+Vehicles, Nex-Gen Comms, AI & Digital Products, Digital
+
+Manufacturing, MedTech, and Sustainability. Our focus on
+
+each of these strategic areas has not only helped us deliver
+
+industry-leading performance across each of our five verticals,
+
+but also strengthened our commitment towards delivering a
+
+profitable, sustainable, and inclusive growth paradigm.
+
+Celebrating Performance and Consistency:
+
+Our Industry Defining Moment
+
+During the year, we continued to redefine the performance
+
+paradigms for the pure-play ER&D industry. Our revenues for
+
+the year were at $ 990 million, a growth of 16% in constant
+
+currency, led by broad-based double digit performance
+
+across each of the key geographies - North America, Europe,
+
+India, and Rest of the World (RoW). In terms of vertical-wise
+
+growth, the Transportation segment led the trajectory,
+
+followed by Plant Engineering, Industrial Products, Medical
+
+Devices, and Telecom & Hi-tech.
+
+Annual EBIT margin for the fiscal was the highest ever
+
+at 18.5%, driven by our focus on building a robust and
+
+sustainable operating model. The strong revenue growth
+
+and operational performance led to a 22% rise in PAT to
+
+` 1,170 crore. Over the last 5 years, our PAT has continued
+
+to grow at a stellar 18% CAGR through a combination of
+
+steady expansions and rising operating margins. We further
+
+improved ROE to 26% for the year – again on the back of
+
+consistent PAT growth.
+
+The confidence of customers in your Company’s capabilities
+
+and offerings was further reflected in the number and size of
+
+| Annual Report 2022-23
+
+12
+
+Managing Director’s Message:
+
+Managing Director
+
+Corporate Overview
+
+3
+
+2
+
+1
+
+Beyond the Billion |
+
+15
+
+CEO and: Managing
+
+Managing Director of Larsen &
+
+Toubro. In addition, he is Vice Chairman on
+
+the Board of L&T Infotech Limited (LTI) and
+
+Non-Executive Chairman of L&T Metro Rail
+
+(Hyderabad) Limited.
+
+Mr. Subrahmanyan, or SNS as he is
+
+known in industry circles, took over the
+
+reins in July 2017 having previously,
+
+as Deputy: Managing Director and
+
+President, L&T, headed the construction
+
+business of the Group.
+
+At the helm, SNS leads the varied
+
+businesses of L&T to chart a new growth
+
+trajectory, leveraging the potential of
+
+digitalization, big data and predictive
+
+analytics that he drives internally with
+
+consistency and meticulous planning.
+
+With a degree in civil engineering and
+
+post-graduation in business management,
+
+SNS commenced his professional journey
+
+with L&T in 1984 as a project planning
+
+engineer. He was largely responsible for
+
+establishing L&T as a significant EPC player
+
+in the Middle East, Africa, and ASEAN.
+
+SNS holds positions of pre-eminence
+
+on various industry bodies, construction
+
+institutions and councils. Recognized as
+
+the ‘Contractor CEO of the Year’ at the
+
+Qatar Contractors Forum & Awards
+
+function in 2014 in Doha, SNS was ranked
+
+36th in the ‘2014 Construction Week
+
+Power 100’ and accorded the Leading
+
+Engineering Personality Award in the event
+
+‘Glimpses of Engineering Personalities’
+
+by the Institution of Engineers (India).
+
+The Construction Week magazine honored
+
+him as the ‘Infrastructure Person of
+
+the Year – 2012’.
+
+SNS has been conferred the Emergent
+
+CEO Award at the CEO Awards 2019 for
+
+his exemplary leadership and delivering
+
+seamless growth for L&T and recognized
+
+as the CEO of the Year by leading Indian
+
+news channel, CNBC-Awaaz in 2020.
+
+Mr. S. N.
+
+Subrahmanyan
+
+Vice-
+
+Managing Director of LTTS,
+
+responsible for providing business
+
+and technology leadership, market
+
+direction and strategic vision to drive the
+
+Company’s performance. Mr. Chadha
+
+was previously Deputy CEO & Whole
+
+Time Director, running the gamut of
+
+business operations, delivery, and sales
+
+and marketing at LTTS, and preparing the
+
+technology roadmap for the Company’s
+
+future. Mr. Chadha is the sole ER&D
+
+sector leader in the elite NASSCOM
+
+Executive Council (IT/ITeS), guiding
+
+NASSCOM’s industry charter, helping
+
+foster out-of-the-box innovation, and
+
+promoting Intellectual Property creation in
+
+India’s tech industry. He has always been
+
+passionate about helping global R&D
+
+customers and Fortune 500 companies
+
+leverage LTTS’ digital engineering
+
+offerings for their strategic differentiation
+
+and product development. Mr. Chadha
+
+joined LTTS in 2009 as the Business
+
+Head of Americas. Over the years, he
+
+has progressively taken on increased
+
+responsibility for the Company’s business
+
+worldwide, and helped in its growth,
+
+both organically and via acquisitions.
+
+As a core member of the LTTS leadership
+
+team, Mr. Chadha was instrumental
+
+in driving the Company through a
+
+high-profile Initial Public Offering (IPO)
+
+in India and successfully listing it on
+
+the National Stock Exchange and the
+
+Bombay Stock Exchange. Mr. Chadha’s
+
+career, which spans over two decades
+
+in core engineering and information
+
+technology outsourcing, is marked
+
+with significant achievements. He has
+
+managed P&L for multiple business units,
+
+spearheaded organization-wide strategic
+
+initiatives, and led business development
+
+and relationship management activities
+
+worldwide. Mr. Chadha is an Electrical
+
+and Electronics Engineer from BIT
+
+Mesra and has done his Global Business
+
+Leadership Executive Program with
+
+Harvard Business School Publishing.
+
+He also has an Advanced Management
+
+Program in Business Leadership from
+
+INSEAD, France. Mr. Chadha is currently
+
+based in Washington DC. Mr. Chadha
+
+was conferred with the Distinguished
+
+Alumni Award for the year 2022 for
+
+Leadership in Corporate World, Industry,
+
+Academia, and Research Institutions by
+
+his alma mater, BIT Mesra.
+
+Mr. Abhishek Sinha
+
+Chief Operating Officer and
+
+Whole-Time Director
+
+Mr. Amit Chadha
+
+Chief Executive Officer &: Managing
+
+Managing Director
+
+of LTTS. Dr Panda has over 31 years of
+
+global industry experience in research,
+
+conceptualizing, creating, operationalizing
+
+and turning around complex technology
+
+and engineering services businesses.
+
+During his stint as the CEO of LTTS,
+
+Dr. Panda has won numerous accolades,
+
+including being recognized as CEO of the
+
+Year by leading news channel CNBC Awaaz
+
+as a result of his distinguished contributions
+
+to the engineering and technology sectors
+
+over the past 3 decades. He was conferred
+
+with the title of CEO of the Year by ET
+
+NOW as well as the Business Leader of the
+
+Year Awards Committee.
+
+Dr. Panda joined the L&T Group as Chief
+
+Executive of L&T IES in 2009. After L&T
+
+IES was rechristened as L&T Technology
+
+Services in 2012, Dr. Panda was appointed
+
+as the Chief Executive; Dr. Panda was later
+
+appointed as the Chief Executive Officer
+
+and: Managing
+
+Managing Director
+
+Mr. Abhishek Sinha
+
+COO and Whole-Time Director
+
+Mr. Alind Saxena
+
+President, Sales and Whole-Time Director
+
+Dr. Keshab Panda
+
+Non-Executive Director
+
+Mr. Narayanan Kumar
+
+Independent Director
+
+Mr. Sudip Banerjee
+
+Independent Director
+
+Ms. Apurva Purohit
+
+Independent Director
+
+Mr. R. Chandrasekaran
+
+Independent Director
+
+Mr. Luis Miranda
+
+Independent Director
+
+Ms. Aruna Sundararajan
+
+Independent Director
+
+Chief Financial Officer
+
+Mr. Rajeev Gupta
+
+Company Secretary
+
+Ms. Prajakta Powle
+
+Registered Office
+
+L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001
+
+Corporate Office
+
+West Block-II, L&T Knowledge City (IT/ITES) SEZ,
+
+N.H. No. 8, Ajwa Waghodia Crossing,
+
+Vadodara - 390 019
+
+CIN No.
+
+L72900MH2012PLC232169
+
+Website
+
+www.LTTS.com
+
+Auditors
+
+M/s. MSKA & Associates
+
+Registrar & Share Transfer Agent
+
+KFin Technologies Limited (www.kfintech.com)
+
+| Annual Report 2022-23
+
+38:
+
+letter, authorizing their representative to attend and
+
+vote. The said resolution/authorisation shall be sent by
+
+an e-mail to Scrutinizer at alwyn.co@gmail.com with a
+
+copy marked to evoting@nsdl.co.in and the Company at
+
+investor@ltts.com.
+
+4)
+
+The Company has engaged the services of National
+
+Depository Services Limited, as the authorized agency
+
+for conducting the AGM and providing remote e-Voting
+
+and e-Voting facility during the AGM. The instructions
+
+for participation are given in the subsequent notes.
+
+5)
+
+If the final dividend, as recommended by the Board of
+
+Directors, is approved at the AGM, payment of such
+
+dividend is subject to deduction of tax at source and will
+
+be made on or after July 22, 2023, as under:
+
+i.
+
+To all Beneficial Owners in respect of shares held in
+
+dematerialized form as per the data made available
+
+by the National Securities Depository Limited
+
+(“NSDL”) and the Central Depository Services (India)
+
+Limited (“CDSL”), collectively “Depositories”, as on
+
+Friday, July 7, 2023;
+
+ii.
+
+To all Members in respect of shares held in physical
+
+form after giving effect to valid transmission or
+
+transposition requests lodged with the Company as
+
+on Friday, July 7, 2023.
+
+Final Dividend, if approved by the Members, will be directly
+
+credited to the bank accounts of the shareholders holding
+
+shares as on the Record Date i.e., Friday, July 7, 2023,
+
+as per the details available with the Company. In case of
+
+shareholders who have not updated their bank account
+
+details, demand drafts will be sent to them in due course.
+
+To avoid delay in receiving dividend, Members are
+
+requested to update their KYC with their depositories
+
+(where shares are held in demat mode) and with the
+
+Company’s Registrar & Share Transfer Agents (“RTA”)
+
+(where shares are held in physical mode) to receive
+
+dividend directly into their bank account.
+
+6)
+
+In terms of SEBI circular SEBI/HO/MIRSD/MIRSD-PoD-
+
+1/P/CIR/2023/37 dated March 16, 2023, it is mandatory
+
+for members holding shares in physical form to furnish
+
+PAN, nomination, contact details, bank A/c details
+
+and specimen signature for their corresponding folio
+
+numbers to the RTA before October 1, 2023, failing
+
+which, such folios will be frozen by the RTA. Accordingly,
+
+| Annual Report 2022-23
+
+40:
+
+letter of appointment of
+
+Ms. Aruna Sundararajan as an Independent Director setting
+
+out the terms and conditions will be available for electronic
+
+inspection without any fees by the members.
+
+Details of Ms. Aruna Sundararajan as required under the SEBI
+
+Listing Regulations and SS-2 are provided as annexure of this
+
+Notice.
+
+| Annual Report 2022-23
+
+48:
+
+letter of confirmation
+
+will be issued, which needs to be submitted to
+
+Depository Participant to get credit of these securities
+
+in dematerialized form. Shareholders desirous of using
+
+these services are requested to contact RTA of the
+
+company, the contact details of RTA are available on the
+
+website of the Company at www.LTTS.com.
+
+Further in adherence to SEBI’s circular to enhance the
+
+due diligence for dematerialization of the physical
+
+shares, the Company has provided the static database
+
+of the shareholders holding shares in physical form to
+
+the depositories which would augment the integrity of its
+
+existing systems and enable the depositories to validate
+
+any dematerialization request.
+
+10. CONSERVATION OF ENERGY, TECHNOLOGY
+
+ABSORPTION, FOREIGN EXCHANGE EARNINGS
+
+AND OUTGO
+
+Information as required to be given under Section 134(3)(m)
+
+of the Act read with Rule 8(3) of the Companies
+
+| Annual Report 2022-23
+
+56:
+
+Managing Director
+
+Vice Chairman
+
+(DIN: 07076149)
+
+(DIN: 02255382)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+| Annual Report 2022-23
+
+62:
+
+Managing Director)
+
+Sudip Banerjee
+
+(Chairman CSR Committee)
+
+| Annual Report 2022-23
+
+72:
+
+Managing Director and the Executive Directors, and
+
+Part B is for members of Board and senior management.
+
+In addition, the Company has adopted a Code of Conduct
+
+for its Non-Executive Directors and Independent Directors,
+
+suitably incorporating and laying down the duties of
+
+independent directors as laid down in the Companies
+
+Act, 2013 (“the Act”).
+
+Good corporate governance, therefore, is a cornerstone
+
+of the entire management process at LTTS, the emphasis
+
+being on professional management with a decision-
+
+Annexure D
+
+CORPORATE GOVERNANCE REPORT
+
+making model driven by empowerment and meritocracy.
+
+Together, the management and the Board ensure that
+
+LTTS remains a Company of uncompromised integrity
+
+and excellence.
+
+B.
+
+Corporate Governance Guidelines
+
+LTTS leadership has adopted global best practices and
+
+timely disclosure of accurate information pertaining to
+
+financials and performance in accordance with good
+
+governance standards. As a good corporate citizen, the
+
+Company is committed to sound corporate practices for
+
+enhancing and retaining the confidence of its stakeholders,
+
+paving the way for long-term business success.
+
+In order to strengthen the corporate governance culture
+
+within the Company, training and awareness programs on
+
+Corporate Governance and related policies for employees
+
+have been active since 2017-18. We continue to build
+
+on our robust legacy of fair, transparent, and ethical
+
+governance – driving future proof value-creation and
+
+accelerating excellence through ethical, transparent and
+
+agile corporate governance practices. These, in turn, help
+
+ensure stakeholder ownership, trust and integrity.
+
+2. BOARD OF DIRECTORS
+
+A. Composition of the Board:
+
+The Board of Directors along with its committees
+
+possesses varied skills and expertise. Combined their
+
+diverse background, this enables them to provide
+
+requisite leadership and guidance to the Company’s
+
+senior management team and direct, supervise and closely
+
+monitor the performance of the Company.
+
+The Company’s policy is to have an appropriate mix of
+
+Executive, Non-Executive & Independent Directors. As on
+
+March 31, 2023, the Board comprised of 10 Directors,
+
+of which, 2 are Executive Directors, 3 are Non-Executive
+
+Directors and 5 are Independent Directors. The Board is
+
+chaired by Mr. A. M. Naik, Non-Executive Chairman. The
+
+composition of the Board is in line with the provisions
+
+of the Act and Regulation 17 of the Securities and
+
+Exchange Board of India (Listing Obligations and
+
+Disclosure Requirements) Regulations, 2015 (“SEBI Listing
+
+Regulations”).
+
+Board’s Report
+
+Beyond the Billion |
+
+73
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director and Chief
+
+Operating Officer & Whole-Time Director of the Company.
+
+Senior Management Personnel are invited, as and when
+
+required to the meetings to provide additional inputs
+
+for the items being discussed by the Board of Directors.
+
+The respective Chairperson of the Board committees
+
+apprises the Board Members of the important issues and
+
+discussions that transpired in the committee meetings.
+
+In case of urgent matters, resolutions are also passed
+
+by circulation, for such matters as permitted by law and
+
+taken on record in the immediately upcoming meeting.
+
+The proceedings of the meetings of the Board of Directors
+
+are noted, and the draft minutes are circulated amongst
+
+the Members of the Board for their perusal. Comments,
+
+if any, received from the Directors are also incorporated
+
+in the Minutes, in consultation with the Chairman. The
+
+minutes are approved and entered in the minutes book
+
+within 30 days of the Board meeting. Thereafter the
+
+minutes are signed and dated by the Chairman of the
+
+Board at the next meeting.
+
+The Board of Directors take note of the minutes of the
+
+committee meetings held in the previous quarter, at
+
+its meetings. The Board also takes note of the gist of
+
+discussions/decisions taken by its subsidiary companies.
+
+Details of composition of the Board of Directors,
+
+attendance of Directors at the Board meetings and at
+
+the last Annual General Meeting (“AGM”) held during
+
+FY 2022-23, number of other Directorships, Membership/
+
+Chairpersonship in committees held by them as on March
+
+31, 2023, are as follows:
+
+Name of
+
+Director
+
+Category
+
+Attendance at
+
+Board Meeting
+
+(Attended/Held)
+
+Attendance
+
+at last AGM
+
+Number of
+
+Directorships
+
+in other
+
+Companies
+
+Number of Committee
+
+positions held in other
+
+Public Companies
+
+Chairperson Member
+
+Mr. A. M. Naik
+
+Non-Executive
+
+Chairman
+
+6/6
+
+Yes
+
+4
+
+0
+
+0
+
+Mr. S. N.
+
+Subrahmanyan
+
+Non-Executive
+
+Vice-Chairman
+
+5/6
+
+Yes
+
+5
+
+0
+
+0
+
+Mr. Amit
+
+Chadha
+
+Chief Executive Officer
+
+&: Managing
+
+Managing Director,
+
+COO & Whole-Time Director and CFO of the Company
+
+are permanent invitees to the Meetings of Audit
+
+Committee. Statutory and Internal Auditors or their
+
+representatives are permanent invitees to the meetings
+
+of the Committee. Further, Senior Management
+
+Personnel are invited, as and when necessary, to the
+
+meetings to provide additional inputs for the items
+
+being discussed by the Audit Committee. The Company
+
+Secretary is the Secretary to the Committee. The
+
+Chairman of the Audit Committee also has discussions
+
+with Statutory and Internal Auditors without presence
+
+of the management.
+
+The Chairman of the Audit Committee was present at the
+
+previous AGM of the Company held on July 15, 2022.
+
+Board’s Report
+
+Beyond the Billion |
+
+79
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director$
+
+43.75
+
+-
+
+-
+
+14.39
+
+15.26
+
+73.40
+
+Mr. Abhishek Sinha, Chief
+
+Operating Officer and
+
+Whole-Time Director
+
+13.04
+
+0.07
+
+20.82
+
+-
+
+3.02
+
+36.94
+
+* Represents the perquisite value related to ESOPs exercised during the year in respect of stock options granted over the past several years
+
+by the Company and includes tax on ESOPs borne by the Company wherever applicable.
+
+$ Mr. Amit Chadha has been paid remuneration in USD. Accordingly, the figures mentioned in INR are equivalent to USD.
+
+The above amount does not include gratuity and leave encashment.
+
+Notice period for termination of appointment of: Managing Director and other Whole-Time Directors is three months on
+
+either side. No severance pay is payable on termination of appointment.
+
+Details of Options granted under Employee Stock Option Schemes are provided on the website of the Company
+
+https://www.ltts.com/investors/exchange-announcements
+
+(b) Independent Directors/Non-Executive Directors:
+
+The details of remuneration paid/payable to the Independent Director/Non-Executive Directors is as follows:
+
+(` Million)
+
+Name of Director
+
+Category
+
+Sitting fees
+
+for Board
+
+Meetings
+
+Sitting fees
+
+for Committee
+
+Meetings
+
+Commission
+
+Total
+
+Mr. A. M. Naik
+
+Non-Executive
+
+Managing Director, Chief
+
+Financial Officer and Company Secretary. Pursuant to
+
+Regulation 40 (1) of SEBI Listing Regulations requests for
+
+effecting transfer of securities shall be processed only if
+
+the securities are held in the dematerialized form and
+
+hence the Share Transfer Committee had not approved
+
+any request for transfer of shares in physical form during
+
+the year under review.
+
+Board’s Report
+
+Beyond the Billion |
+
+83
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director and Mr. Rajeev Gupta, Chief
+
+Financial Officer as its members. The majority of members
+
+including the Chairman of the Committee are Board
+
+members. During the year the Risk Management Committee
+
+met 2 (Two) times on April 20, 2022 and October 17, 2022.
+
+The requisite quorum was present for all the meetings.
+
+The composition of the Committee along with the details
+
+of the meetings held and attended during the aforesaid
+
+period is detailed below:
+
+Name
+
+Category
+
+Position
+
+in the
+
+Committee
+
+No. of Meetings
+
+Held
+
+Attended
+
+Mr. R.
+
+Chandrasekaran
+
+Independent
+
+Director
+
+Chairman
+
+2
+
+2
+
+Mr. Amit Chadha Chief
+
+Executive
+
+Officer and
+
+Managing
+
+Director
+
+Member
+
+2
+
+2
+
+Mr. Rajeev
+
+Gupta
+
+Chief
+
+Financial
+
+Officer
+
+Member
+
+2
+
+2
+
+The Chairman of the CSR Committee was present at the
+
+previous AGM of the Company held on July 15, 2022.
+
+•
+
+Directors’ Familiarization Program:
+
+All directors are aware and are also updated as and when
+
+required of their responsibilities, roles, and liabilities.
+
+The internal newsletters of the Company are circulated to
+
+all the directors and the press releases, etc., are uploaded
+
+on website of the Company so that our directors are
+
+updated about the operations of the Company.
+
+The website of the Company is regularly updated with
+
+regard to all the business developments, so that they are
+
+updated about the operations of the Company.
+
+The Board of Directors have complete access to
+
+the information within the Company. Minutes of
+
+all committees and summary of the minutes of the
+
+subsidiaries are being included as a part of the Agenda
+
+to the Board. Systems, procedures, and resources are
+
+in place to ensure that every Director is provided, with
+
+precise and timely information which enables them to
+
+exercise their duties effectively.
+
+Presentations are made regularly to the Board /
+
+Audit Committee/Corporate Social Responsibility
+
+Committee/Risk Management Committee and
+
+Stakeholders’ Relationship Committee where Directors
+
+get an opportunity to interact with senior managers.
+
+Presentations, inter alia, cover business strategies,
+
+management structure, HR policy, succession planning,
+
+quarterly and annual results, budgets, review of
+
+Internal Audit, Corporate Social Responsibility and risk
+
+management framework etc.
+
+Independent Directors, through their interactions
+
+and deliberations, give suggestions for improving the
+
+overall effectiveness of the Board and its Committees.
+
+Independent Directors have the freedom to interact with
+
+the Company’s management.
+
+As part of the appointment: letter issued to Independent
+
+Directors, the Company has stated that it will
+
+facilitate attending seminars/programs/conferences
+
+designed to train directors to enhance their role as an
+
+Independent Director.
+
+This information is also available on the website of the Company
+
+at https://www.ltts.com/investors/corporate-governance
+
+•
+
+Risk Management Framework:
+
+Please refer Board’s report.
+
+•
+
+Vigil Mechanism/Whistle Blower Policy:
+
+The Company has a Whistle Blower Policy in place since
+
+October 2014 to encourage and facilitate employees
+
+to report concerns about unethical behavior, actual/
+
+suspected frauds, and violation of Company’s Code of
+
+Conduct. The Policy provides for adequate safeguards
+
+against victimization of persons who avail the same and
+
+provides for direct access to the
+
+Managing Director is given below:
+
+TO THE SHAREHOLDERS OF L&T
+
+TECHNOLOGY SERVICES LIMITED
+
+Sub: Compliance with Code of Conduct
+
+I hereby declare that all the Board Members and Senior
+
+Management Personnel have affirmed compliance
+
+with the Code of Conduct as adopted by the Board of
+
+Directors and Senior Management Personnel.
+
+Amit Chadha
+
+CEO &: Managing
+
+letter of confirmation, which needs to be
+
+submitted to Depository Participant to get credit of these
+
+securities in dematerialized form.
+
+Stock Performance - Graph
+
+SENSEX Close Price
+
+LTTS BSE Close Price
+
+Apr-22
+
+31,000.00
+
+36,000.00
+
+41,000.00
+
+46,000.00
+
+51,000.00
+
+56,000.00
+
+61,000.00
+
+66,000.00
+
+5,750.00
+
+5,000.00
+
+4,250.00
+
+3,500.00
+
+2,750.00
+
+2,000.00
+
+May-22
+
+Jun-22
+
+Jul-22
+
+Aug-22
+
+Sep-22
+
+Oct-22
+
+Nov-22
+
+Dec-22
+
+Jan-23
+
+Feb-23
+
+Mar-23
+
+As per SEBI circular dated March 16, 2023, the Company
+
+has sent notice to all holders of physical securities asking
+
+them to furnish their PAN, details of Nomination, Contact
+
+details (viz. address, mobile and E-mail), Bank Account
+
+details and specimen signature (“KYC information”)
+
+to KFin Technologies Limited on or before September
+
+30, 2023. In case the shareholders fail to update KYC
+
+Information on or before September 30, 2023, their folios
+
+shall be frozen by the RTA as per above SEBI Circular and
+
+such shareholders will be eligible for payment of dividend
+
+or lodging any grievance or availing any service request
+
+from the RTA only after furnishing the KYC information
+
+as specified above.
+
+G. Distribution of Shareholding as of March 31, 2023:
+
+No. of shares
+
+Shareholders
+
+Shareholding
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+Up to 500
+
+3,04,512
+
+99.32
+
+72,41,025
+
+6.86
+
+501-1,000
+
+1,097
+
+0.36
+
+7,96,637
+
+0.75
+
+1,001-2,000
+
+475
+
+0.15
+
+6,81,522
+
+0.65
+
+2,001-3,000
+
+130
+
+0.04
+
+3,21,903
+
+0.30
+
+3,001-4,000
+
+66
+
+0.02
+
+2,31,474
+
+0.22
+
+4,001-5,000
+
+41
+
+0.01
+
+1,85,435
+
+0.18
+
+5,001-10,000
+
+99
+
+0.03
+
+7,01,039
+
+0.66
+
+10,001 & above
+
+192
+
+0.06
+
+9,54,49,107
+
+90.38
+
+Total
+
+3,06,612
+
+100.00
+
+10,56,08,142
+
+100.00
+
+Board’s Report
+
+Beyond the Billion |
+
+91
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director
+
+are separate.
+
+E.
+
+Reporting of internal auditor
+
+The internal auditors of the Company report to the
+
+Audit Committee and make detailed presentation at
+
+quarterly meetings.
+
+10. UNCLAIMED SHARES
+
+During the year under review none of the shareholders
+
+had approached for transfer of shares out of the said
+
+shares lying in the escrow account. As on March 31, 2023,
+
+the Company has 16 unclaimed shares lying with it from
+
+its public issue.
+
+The Voting rights on these shares shall remain frozen till
+
+the rightful owner claims the shares.
+
+11. SECURITIES DEALING CODE
+
+Pursuant to Securities and Exchange Board of India
+
+(Prohibition of Insider Trading) Regulations, 2015 (SEBI
+
+Insider Trading Regulations) the Company has adopted
+
+its Securities Dealing Code (‘Code’) for prevention of
+
+insider trading. The objective of the Code is to prevent
+
+dealing in the shares of the Company by an Insider while
+
+in possession of information known only to him/her, and
+
+not yet made publicly available by the Company, which,
+
+when made publicly available, can materially impact the
+
+price of the Company’s securities.
+
+The Code lays down stringent guidelines for the
+
+Designated Persons and creates the necessary framework
+
+for transacting in the Company’s securities, after seeking
+
+prior clearance for transactions wherever necessary, and a
+
+mechanism for periodical reporting of transactions.
+
+The objective of the Code is to prevent the purchase and/
+
+or sale of shares of the Company by an Insider on the basis
+
+of unpublished price sensitive information. Under this
+
+Code, Designated Persons (Directors, Advisors, Officers,
+
+and other concerned employees/persons) are prevented
+
+from dealing in the Company’s shares during the closure
+
+of the Trading Window. To deal in securities beyond
+
+specified limits, permission of the Compliance Officer is
+
+also required.
+
+All the employees falling in the Designated Persons
+
+category are also required to disclose related
+
+information periodically as defined in the Code.
+
+Directors and Designated Persons who buy and sell
+
+shares of the Company are prohibited from entering
+
+into a contra transaction i.e., an opposite transaction
+
+i.e., sell or buy any shares of the Company during
+
+the next six months following the prior transactions.
+
+Pursuant to the enactment of the SEBI (Prohibition of
+
+Insider Trading) (Amendment) Regulations, 2018, the
+
+Company has suitably modified the provisions of the
+
+Code which are effective from 1st April 2019. Further,
+
+the Company modifies the Code as and when there are
+
+amendments in the SEBI (Prohibition of Insider Trading)
+
+Regulations, 2015.
+
+Ms. Prajakta Powle, Company Secretary, has been
+
+designated as the Compliance Officer. Mr. Rajeev Gupta
+
+is the Chief Investor Relations Officer of the Company.
+
+The Company has also formulated the Code of Practices
+
+and Procedures for Fair Disclosure of Unpublished Price
+
+Sensitive Information which is available on the Company’s
+
+website at www.LTTS.com.
+
+12. AWARENESS SESSIONS/WORKSHOPS ON
+
+GOVERNANCE PRACTICES
+
+Employees across the Company are being sensitized
+
+about the various policies and governance practices of the
+
+Company. The Company has in-house training workshops
+
+on Corporate Governance with the help of an external
+
+faculty covering basics of Corporate Governance as well as
+
+internal policies and compliances under Code of Conduct,
+
+Whistle Blower Policy, Sexual Harassment of Women at
+
+Workplace (Prevention, Prohibition & Redressal) Act,
+
+2013, SEBI Insider Trading Regulations, etc.
+
+Board’s Report
+
+Beyond the Billion |
+
+95
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+CEO/CFO CERTIFICATE
+
+To the Board of Directors of L&T Technology Services Limited
+
+Board’s Report
+
+Beyond the Billion |
+
+97
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director
+
+01/02/2015
+
+4
+
+Abhishek Sinha
+
+07596644
+
+Whole Time Director
+
+18/10/2019
+
+5
+
+Keshab Panda
+
+05296942
+
+Director
+
+01/04/2021
+
+6
+
+Narayanan Kumar
+
+00007848
+
+Director
+
+15/07/2016
+
+7
+
+Sudip Banerjee
+
+05245757
+
+Director
+
+21/01/2016
+
+8
+
+Apurva Purohit
+
+00190097
+
+Director
+
+11/12/2019
+
+9
+
+Chandrasekaran Ramakrishnan
+
+00580842
+
+Director
+
+19/10/2020
+
+10
+
+Luis Miranda
+
+01055493
+
+Director
+
+19/10/2021
+
+Ensuring the eligibility for the appointment/continuity of every Director on the Board is the responsibility of the management of
+
+the Company. Our responsibility is to express an opinion on these based on our verification. This certificate is neither an assurance
+
+as to the future viability of the Company nor of the efficiency or effectiveness with which the management has conducted the
+
+affairs of the Company.
+
+ALWYN JAY & Co.
+
+Company Secretaries
+
+Jay D’Souza
+
+Partner
+
+FCS 3058
+
+Place: Mumbai
+
+Certificate of Practice No. 6915
+
+Date: April 26, 2023
+
+[UDIN: F003058E000202114]
+
+CERTIFICATE OF NON-DISQUALIFICATION OF DIRECTORS
+
+[Pursuant to Regulation 34(3) read with sub-clause (10)(i) of Clause C of Schedule V of the
+
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015]
+
+Board’s Report
+
+Beyond the Billion | 101
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director
+
+82.64
+
+-63.4%
+
+Mr. Abhishek Sinha1
+
+Chief Operating Officer and Whole-Time Director
+
+41.60
+
+101.6%
+
+Dr. Keshab Panda2
+
+Non-Executive Director
+
+6.27
+
+-97.9%
+
+Mr. Narayanan Kumar
+
+Independent Director
+
+2.96
+
+-8.7%
+
+Mr. Sudip Banerjee
+
+Independent Director
+
+2.56
+
+-12.5%
+
+Ms. Apurva Purohit
+
+Independent Director
+
+3.10
+
+22.2%
+
+Mr. R Chandrasekaran
+
+Independent Director
+
+1.97
+
+-6.7%
+
+Mr. Luis Miranda3
+
+Independent Director
+
+3.18
+
+N.A.
+
+Mr. Rajeev Gupta
+
+Chief Financial Officer
+
+-
+
+13.7%
+
+Ms. Prajakta Powle3
+
+Company Secretary
+
+-
+
+N.A.
+
+1 Re-Appointed as Chief Operating Officer and Whole-Time Director w.e.f. October 18, 2022. The exercise of vested stock options during FY2023
+
+has also been considered, hence there is percentage increase in remuneration during FY2023.
+
+2 The remuneration of Dr. Keshab Panda and Mr. Amit Chadha was paid in US Dollars. However, the figure mentioned above is INR equivalent of
+
+US Dollar. The exercise of vested stock options during FY2022 has also been considered, hence there is percentage decrease in remuneration
+
+during FY2023.
+
+3 Percentage increase for Mr. Luis Miranda and Ms. Prajakta Powle will not be comparable with the previous year as their appointments were
+
+made on October 19, 2021 and March 17, 2022 respectively and thus they were in receipt of remuneration for part of FY 2022.
+
+B) Percentage increase in the median remuneration of all employees in the financial year 2022-23
+
+The median remuneration of employees of the Company during the financial year was ` 8,88,162. In the financial year,
+
+there was an increase of 1.40 % in the median remuneration of employees.
+
+C) Number of permanent employees on the rolls of Company as on March 31, 2023
+
+There were 19,773 permanent employees on the rolls of Company as on March 31, 2023.
+
+D) Average percentile increase already made in the salaries of the employees other than the managerial
+
+personnel in the last financial year and its comparison with the percentile increase in the managerial
+
+remuneration and justification thereof and point out if there are any exceptional circumstances for
+
+increase in managerial remuneration
+
+The Average Annual increase was around 8.8% in India and around 3.4% outside India. The average decrease in managerial
+
+remuneration was 68%, taking into consideration exercise of stock options by the Executive Directors in FY 2022 and FY 2023.
+
+E)
+
+Affirmation that the remuneration is as per the remuneration policy of the company
+
+It is hereby affirmed that the remuneration paid is as per the remuneration policy for Directors, Key Managerial Personnel
+
+and other employees.
+
+102 | Annual Report 2022-23:
+
+Managing Director, if any and
+
+Whole-Time Directors.
+
+2.5. Key Managerial Personnel (“KMP”) means
+
+•
+
+Chief Executive Officer or the Managing
+
+Director or the Manager;
+
+•
+
+Whole-time director;
+
+•
+
+Chief Financial Officer;
+
+•
+
+Company Secretary;
+
+•
+
+Senior Management Personnel designated as
+
+such by the Board and
+
+•
+
+Such other officer as may be prescribed.
+
+2.6. “Senior Management” shall mean the officers
+
+and personnel of the listed entity who are members
+
+of its core management team, excluding the
+
+Board of Directors, and shall also comprise all the
+
+members of the management one level below the
+
+Chief Executive Officer or: Managing
+
+Managing Director/Whole-
+
+time Directors draws or receives, directly
+
+or indirectly by way of remuneration any
+
+such sums in excess of the limits prescribed
+
+under the Act or without approval, he/she
+
+shall refund such sums to the Company and
+
+until such sum is refunded, hold it in trust
+
+for the Company. The Company shall not
+
+waive recovery of such sum refundable to
+
+it unless approved by the shareholders of
+
+the Company by passing a special resolution
+
+within 2 years from the date of sum become
+
+refundable.
+
+d)
+
+Stock Options in Subsidiary Companies:
+
+Executive Directors may be granted stock
+
+options in subsidiary companies as per their
+
+Schemes and after taking necessary approvals.
+
+Perquisites may be added to the remuneration
+
+of concerned directors and considered in the
+
+limits applicable to the Company.
+
+3.3.3. Remuneration to Non- Executive/Independent
+
+Director:
+
+a)
+
+Remuneration/Commission:
+
+The remuneration/commission shall be fixed as
+
+per the limits and conditions mentioned in the
+
+Articles of Association of the Company and
+
+the Act.
+
+b)
+
+Sitting Fees:
+
+The Non-Executive/Independent Director may
+
+receive remuneration by way of fees for attending
+
+meetings of Board or Committee thereof.
+
+Provided that the amount of such fees shall not
+
+exceed Rupees One Lac per meeting of the Board
+
+or Committee.
+
+c)
+
+Commission:
+
+Commission may be paid within the monetary
+
+limit approved by shareholders, subject to the
+
+limit not exceeding 1% of the profits of the
+
+Company computed as per the applicable
+
+provisions of the Act. If, in any financial year,
+
+the Company has no profits or its profits
+
+are inadequate, the Company shall pay
+
+remuneration/commission to its Independent
+
+Director and Non-Executive Directors in
+
+accordance with the provisions of Schedule
+
+V of the Act, as amended from time to time
+
+of the Act. The Board of Directors will fix the
+
+Commission payable to Directors on the basis
+
+of number of Board/Committee meetings
+
+attended during the year and Chairmanships
+
+of Committees.
+
+d)
+
+Stock Options:
+
+An Independent Director shall not be
+
+entitled to any stock option of the Company.
+
+Non-Executive Directors are eligible for
+
+Stock options in accordance with Schemes
+
+formulated by the Company. Nominee
+
+Directors are not entitled to stock options
+
+as per their respective nomination letters
+
+received by the Company.
+
+4. MEMBERSHIP
+
+4.1 The Committee shall consist of three or more
+
+non-executive directors, half of them shall be
+
+independent directors.
+
+4.2 Minimum two (2) members or one-third of the
+
+members whichever is greater including atleast one
+
+Independent Director shall constitute a quorum for
+
+the Committee meeting.
+
+4.3 Membership of the Committee shall be disclosed in
+
+the Annual Report.
+
+4.4 Term of the Committee shall be continued unless
+
+terminated by the Board of Directors.
+
+5. CHAIRPERSON
+
+5.1 Chairperson of the Committee shall be an
+
+Independent Director.
+
+106 | Annual Report 2022-23:
+
+letter of
+
+appointment in accordance with the Guidelines
+
+provided under the Act;
+
+10.2 Determining the appropriate size, diversity and
+
+composition of the Board;
+
+10.3 Setting a formal and transparent procedure for
+
+selecting new Directors for appointment to the
+
+Board;
+
+10.4 Developing a succession plan for the Board and
+
+Senior Management and regularly reviewing the
+
+plan;
+
+10.5 Evaluating the performance of the Board members and
+
+Senior Management in the context of the Company’s
+
+performance from business and compliance perspective;
+
+10.6 Making recommendations to the Board concerning
+
+any matters relating to the continuation in office of
+
+any Director at any time including the suspension or
+
+termination of service of an Executive Director as an
+
+employee of the Company subject to the provision
+
+of the law and their service contract;
+
+10.7 Delegating any of its powers to one or more of its
+
+members or the Secretary of the Committee;
+
+10.8 Recommend any necessary changes to the Board;
+
+and
+
+10.9 Considering any other matters, as may be requested
+
+by the Board.
+
+11. REMUNERATION DUTIES
+
+The duties of the Committee in relation to remuneration
+
+matters include:
+
+11.1 To consider and determine the Remuneration Policy,
+
+based on the performance and also bearing in mind
+
+that the remuneration is reasonable and sufficient
+
+to attract retain and motivate members of the Board
+
+and such other factors as the Committee shall deem
+
+appropriate all elements of the remuneration of the
+
+members of the Board.
+
+11.2 To ensure the remuneration maintains a balance
+
+between fixed and incentive pay reflecting short
+
+and long-term performance objectives appropriate
+
+to the working of the Company.
+
+11.3 To delegate any of its powers to one or more of its
+
+members or the Secretary of the Committee.
+
+11.4 To consider any other matters as may be requested
+
+by the Board.
+
+Board’s Report
+
+Beyond the Billion | 107
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+letter of even date
+
+which is annexed as Annexure A and forms an integral part
+
+of this report.
+
+110 | Annual Report 2022-23:
+
+letter.
+
+1.
+
+The compliance of provisions of all laws, rules, regulations, standards applicable to L&T Technology Services Limited
+
+(hereinafter called ‘the Company’) is the responsibility of the management of the Company. Our examination was limited
+
+to the verification of records and procedures on test check basis for the purpose of issue of the Secretarial Audit Report.
+
+2.
+
+Maintenance of secretarial and other records of applicable laws is the responsibility of the management of the Company.
+
+Our responsibility is to issue Secretarial Audit Report, based on the audit of the relevant records maintained and furnished
+
+to us by the Company, along with explanations where so required.
+
+3.
+
+We have followed the audit practices and processes as were appropriate to obtain reasonable assurance about the
+
+correctness of the contents of the secretarial and other legal records, legal compliance mechanism and corporate conduct.
+
+We believe that the processes and practices we followed, provides a reasonable basis for our opinion for the purpose of
+
+issue of the Secretarial Audit Report.
+
+4.
+
+We have not verified the correctness and appropriateness of financial records and Books of Accounts of the Company.
+
+5.
+
+Wherever required, we have obtained the management representation about list of applicable laws, compliance of laws,
+
+rules and regulations and major events during the audit period.
+
+6.
+
+The Secretarial Audit Report is neither an assurance as to the future viability of the Company nor of the efficacy or
+
+effectiveness with which the management has conducted the affairs of the Company.
+
+ALWYN JAY & Co.
+
+Company Secretaries
+
+Jay D’Souza
+
+Partner
+
+FCS 3058
+
+Place: Mumbai
+
+Certificate of Practice No. 6915
+
+Date: April 26, 2023
+
+[UDIN: F003058E000202114]
+
+Board’s Report
+
+Beyond the Billion | 111
+
+3
+
+2
+
+1
+
+Statutory Reports:
+
+Managing Director
+
+Vice Chairman
+
+(DIN: 07076149)
+
+(DIN: 02255382)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+112 | Annual Report 2022-23:
+
+Managing Director, LTTS
+
+142 | Annual Report 2022-23:
+
+Managing Director
+
+9.
+
+Does the entity have a specified Committee of the Board/ Director responsible for decision making on
+
+sustainability related issues? (Yes / No). If yes, provide details.
+
+Yes, The company’s CSR committee is responsible for sustainability related issues.
+
+10. Details of Review of NGRBCs by the Company
+
+Subject for Review
+
+Indicate whether review was
+
+undertaken by Director / Committee of
+
+the Board/ Any other Committee
+
+Frequency (Annually/ Half yearly/
+
+Quarterly/ Any other – please specify)
+
+P 1 P 2 P 3 P 4 P 5 P 6 P 7 P 8 P 9 P 1 P 2 P 3 P 4 P 5 P 6 P 7 P 8
+
+P 9
+
+Performance against above
+
+policies and follow up action
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Annually
+
+Compliance with statutory
+
+requirements of relevance
+
+to the principles, and,
+
+rectification of any non-
+
+compliances
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Annually
+
+11. Has the entity carried out independent assessment/ evaluation of the working of its policies by an external
+
+agency? (Yes/No). If yes, provide name of the agency.
+
+Disclosure Question
+
+P 1 P 2 P 3 P 4 P 5 P 6 P 7 P 8 P 9
+
+Has the entity carried out independent assessment/ evaluation of the
+
+working of its policies by an external agency? (Yes/No). If yes, provide
+
+name of the agency.
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+N
+
+Y
+
+Y
+
+Following are the external agencies involved in assessment of policies related to respective certifications:
+
+- ISO 27001: Bureau Veritas
+
+- SA 8000: DNV
+
+- ISO 45001: Lloyd’s Register
+
+- ISO 14001: Lloyd’s Register
+
+- ISO 50001: Lloyd’s Register
+
+Beyond the Billion | 143
+
+3
+
+2
+
+1
+
+Statutory Reports
+
+Business Responsibility and Sustainability Report:
+
+letter
+
+communications and verbal communications directly to the project management teams. The project management teams
+
+acknowledge, analyze incidents and develop an action plan to resolve the same to ensure customer satisfaction.
+
+2.
+
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information
+
+about:
+
+LTTS is an Engineering R&D services company and there are no generic products of the company.
+
+As a percentage to total turnover
+
+Environmental and social parameters relevant to the product
+
+NA
+
+Safe and responsible usage
+
+NA
+
+Recycling and/or safe disposal
+
+NA
+
+3.
+
+Number of consumer complaints in respect of the following:
+
+FY 22-23
+
+Remarks
+
+FY 21-22
+
+Remarks
+
+Received
+
+during
+
+the year
+
+Pending
+
+resolution at
+
+end of year
+
+Received
+
+during
+
+the year
+
+Pending
+
+resolution at
+
+end of year
+
+Data privacy
+
+0
+
+0
+
+-
+
+0
+
+0
+
+-
+
+Advertising
+
+0
+
+0
+
+-
+
+0
+
+0
+
+-
+
+Cyber-security
+
+0
+
+0
+
+-
+
+0
+
+0
+
+-
+
+Delivery of essential services
+
+0
+
+0
+
+-
+
+0
+
+0
+
+-
+
+Restrictive Trade Practices
+
+0
+
+0
+
+-
+
+0
+
+0
+
+-
+
+Unfair Trade Practices
+
+0
+
+0
+
+-
+
+0
+
+0
+
+-
+
+Other
+
+0
+
+0
+
+-
+
+0
+
+0
+
+-
+
+4.
+
+Details of instances of product recalls on account of safety issues:
+
+Number
+
+Reasons for recall
+
+Voluntary recalls
+
+Forced recalls
+
+Not applicable
+
+168 | Annual Report 2022-23:
+
+Letter. However, it does not affect our conclusions regarding BRSR
+
+Assurance undertaken for this assessment.
+
+Uncertainty
+
+The reliability of assurance is subject to uncertainty (ies) that are inherent in the assurance process.
+
+Uncertainties stem from limitations in quantification models used, assumptions or data conversion
+
+factors used or may be present in the estimation of data used to arrive at results. The conclusions in
+
+respect of this assurance are naturally subject to any inherent uncertainty (ies) involved in the
+
+assurance process.
+
+Statement of independence, impartiality, and competence
+
+Bureau Veritas is an independent professional services company that specializes in Quality, Health,
+
+Safety, Social and Environmental management with almost 190 years of history in providing
+
+independent assurance services.
+
+Bureau Veritas has implemented a Code of Ethics across the business to maintain high ethical
+
+standards among staff in their day-to-day business activities. We are particularly vigilant in the
+
+prevention of conflicts of interest.
+
+No member of the assurance team has a business relationship with “LTTS”, its Directors, Managers, or
+
+officials beyond that required of this assignment. We have conducted this verification independently
+
+and there has been no conflict of interest.:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+188 | Annual Report 2022-23:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Standalone Statement of Profit and Loss
+
+for the year ended March 31, 2023
+
+(` million)
+
+Note No.
+
+Year ended
+
+March 31, 2023
+
+Year ended
+
+March 31, 2022
+
+Income:
+
+I.
+
+Revenue from operations
+
+25
+
+71,081
+
+58,737
+
+II.
+
+Other income (net)
+
+26
+
+2,057
+
+1,537
+
+III.
+
+Total income
+
+73,138
+
+60,274
+
+IV.
+
+Expenses:
+
+(a)
+
+Employee benefit expenses
+
+27
+
+39,516
+
+31,927
+
+(b)
+
+Other expenses
+
+28
+
+15,631
+
+13,619
+
+(c)
+
+Depreciation and amortisation expenses
+
+2,024
+
+1,826
+
+(d)
+
+Finance costs
+
+29
+
+392
+
+394
+
+Total expenses
+
+57,563
+
+47,766
+
+V.
+
+Profit before tax (III - IV)
+
+15,575
+
+12,508
+
+VI.
+
+Tax expense:
+
+(a)
+
+Current tax
+
+4,328
+
+3,311
+
+(b)
+
+Deferred tax
+
+143
+
+12
+
+Total tax expense
+
+30
+
+4,471
+
+3,323
+
+VII.
+
+Profit for the year (V - VI)
+
+11,104
+
+9,185
+
+VIII. Other comprehensive income
+
+(A)
+
+(i)
+
+Items that will not be reclassified to the statement of
+
+profit and loss
+
+(a) Remeasurements of the defined benefit plans
+
+(119)
+
+88
+
+(b) Income tax on remeasurements of the defined benefit plans
+
+30
+
+(22)
+
+(B)
+
+(i)
+
+Items that will be reclassifed subsequently to the statement
+
+of profit and loss
+
+(a) Effective portion of gains and losses on hedging instruments
+
+in a cash flow hedge
+
+(2,137)
+
+989
+
+(b) Income tax on effective portion of gains and losses on hedging
+
+instruments in a cash flow hedge
+
+538
+
+(249)
+
+Total other comprehensive income (net of tax)
+
+(1,688)
+
+806
+
+IX.
+
+Total comprehensive income for the year
+
+9,416
+
+9,991
+
+X.
+
+Earnings per equity share
+
+31
+
+Equity share of face value of ` 2 each
+
+- Basic (`)
+
+105.18
+
+87.26
+
+- Diluted (`)
+
+104.87
+
+87.08
+
+XI.
+
+Notes forming part of the financial statements
+
+1-54
+
+Standalone
+
+Beyond the Billion | 189
+
+Financial Statements
+
+3
+
+2
+
+1:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Standalone
+
+Beyond the Billion | 191
+
+Financial Statements
+
+3
+
+2
+
+1:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+192 | Annual Report 2022-23:
+
+Managing Director
+
+Mr. Abhishek Sinha
+
+Chief Operating Officer & Whole Time Director
+
+Mr. Rajeev Gupta
+
+Chief Financial Officer
+
+Ms. Prajakta Powle
+
+Company Secretary w.e.f. March 17, 2022
+
+Mr. Kapil Bhalla
+
+Company Secretary up to October 29, 2021
+
+Non-executive directors
+
+Mr. Anilkumar Manibhai Naik
+
+Mr. Sekharipuram Narayanan Subrahmanyan
+
+Dr. Keshab Panda
+
+Independent directors
+
+Mr. Sudip Banerjee
+
+Mr. Narayanan Kumar
+
+Ms. Apurva Purohit
+
+Mr. Chandrasekaran Ramakrishnan
+
+Mr. Luis Miranda
+
+Mr. Samir Desai (Independent Director up to August 26, 2021)
+
+45 (1) (iv) List of related parties with whom there were transactions during the year
+
+Name
+
+Relationship
+
+Larsen & Toubro Limited
+
+Holding company
+
+LTIMindtree Limited**
+
+Fellow subsidiary
+
+LTIMindtree Canada Limited
+
+Fellow subsidiary
+
+LTIMindtree GMBH
+
+Fellow subsidiary
+
+LTIMindtree Financial Services Technologies Inc.
+
+Fellow subsidiary
+
+Larsen & Toubro Arabia LLC
+
+Fellow subsidiary
+
+Larsen & Toubro Saudi Arabia LLC
+
+Fellow subsidiary
+
+Larsen & Toubro (East Asia) SDN. BHD.
+
+Fellow subsidiary
+
+L&T Realty Developers Limited
+
+Fellow subsidiary
+
+L&T Finance Limited
+
+Fellow subsidiary
+
+L&T-Sargent & Lundy Limited
+
+Joint Venture
+
+L&T Technology Services LLC
+
+Subsidiary
+
+L&T Thales Technology Services Private Limited
+
+Subsidiary:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+256 | Annual Report 2022-23:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Beyond the Billion | 257
+
+Consolidated
+
+Financial Statements
+
+3
+
+2
+
+1:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Beyond the Billion | 259
+
+Consolidated
+
+Financial Statements
+
+3
+
+2
+
+1:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+260 | Annual Report 2022-23:
+
+Managing Director
+
+Mr. Abhishek Sinha
+
+Chief Operating Officer & Whole Time Director
+
+Mr. Rajeev Gupta
+
+Chief Financial Officer
+
+Ms. Prajakta Powle
+
+Company Secretary w.e.f. Mar 17, 2022
+
+Mr. Kapil Bhalla
+
+Company Secretary up to Oct 29, 2021
+
+Non-executive directors
+
+Mr. Anilkumar Manibhai Naik
+
+Mr. Sekharipuram Narayanan Subrahmanyan
+
+Dr. Keshab Panda
+
+Independent directors
+
+Mr. Sudip Banerjee
+
+Mr. Narayanan Kumar
+
+Ms. Apurva Purohit
+
+Mr. Chandrasekaran Ramakrishnan
+
+Mr. Luis Miranda
+
+Mr. Samir Desai (Independent Director up to Aug 26, 2021)
+
+308 | Annual Report 2022-23:
+
+Managing Director
+
+(DIN: 07076149)
+
+Chief Operating Officer &
+
+Whole-Time Director
+
+(DIN: 07596644)
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Place: Mumbai
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+Date: April 26, 2023
+
+316 | Annual Report 2022-23:
+
